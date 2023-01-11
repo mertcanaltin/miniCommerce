@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import Image from 'next/image';
 
 export function getProducts() {
   return fetch('/api/getProducts')
@@ -29,11 +30,14 @@ export default function list() {
           {products.map((product) => (
             <div key={product.id} className="group relative">
               <div className="min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-md bg-gray-200 group-hover:opacity-75 lg:aspect-none lg:h-80">
-                <img
-                  src={product.productimage_set[0].image}
-                  alt={product.imageAlt}
-                  className="h-full w-full object-cover object-center lg:h-full lg:w-full"
-                />
+              <Image
+      className="h-full w-full object-cover object-center lg:h-full lg:w-full"
+      src={product.productimage_set[0].image}
+      alt="Picture of the author"
+      width={500}
+      height={500}
+    />
+                
               </div>
               <div className="mt-4 flex justify-between">
                 <div>
