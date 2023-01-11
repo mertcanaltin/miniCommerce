@@ -6,7 +6,7 @@ export function getProducts() {
     .then(function (data) { return data.json(); });
 }
 
-export default function list() {
+export default function List() {
 
   const [products, setProducts] = useState([]);
 
