@@ -1,9 +1,9 @@
 import React from 'react'
 import Image from 'next/image';
 
-export default function ProductItem({ productId, productImage, productPrice, productName, productHref }) {
+export default function ProductItem({ productId, productImage, productPrice, productName, productHref, key }) {
   return (
-    <div key={productId} className="group relative">
+    <div key={key} productId={productId} className="group relative">
       <div className="min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-md bg-gray-200 group-hover:opacity-75 lg:aspect-none lg:h-80">
         <Image
           className="h-full w-full object-cover object-center lg:h-full lg:w-full"
