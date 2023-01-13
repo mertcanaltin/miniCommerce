@@ -1,4 +1,5 @@
 import Image from "next/image"
+import Link from "next/link"
 export default function Home() {
   return (
     <>
@@ -95,13 +96,10 @@ export default function Home() {
                       </div>
                     </div>
                   </div>
-
-                  <a
-                    href="/list"
-                    className="inline-block rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-center font-medium text-white hover:bg-indigo-700"
-                  >
+                  
+                  <Link href="/list" className="inline-block rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-center font-medium text-white hover:bg-indigo-700">
                     Get Started
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
