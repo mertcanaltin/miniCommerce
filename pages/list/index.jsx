@@ -1,24 +1,19 @@
 import React, { useState, useEffect } from 'react'
+import { fetchProducts } from '../lib/api';
 import ProductItem from '../../components/product';
-
-
-export function getProducts() {
-  return fetch('/api/getProducts')
-    .then(function (data) { return data.json(); });
-}
 
 export default function List() {
 
   const [products, setProducts] = useState([]);
 
-  const fetchProducts = async () => {
-    getProducts().then(response => {
+  const getProducts = async () => {
+    fetchProducts().then(response => {
       setProducts(response.products);
     });
   };
 
   useEffect(() => {
-    fetchProducts();
+    getProducts();
   },[])
 
 

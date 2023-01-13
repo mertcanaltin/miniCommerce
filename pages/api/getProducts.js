@@ -183,7 +183,7 @@ export default function handler(req, res) {
         "currency_type": "try",
         "retail_price": "349.90",
         "unit_type": "qty",
-        "absolute_url": "/ingenio-cam-kapak-22-cm-2100127839/",
+        "absolute_url": "ingenio-cam-kapak-22-cm-2100127839",
         "productvideo_set": [
 
         ],
