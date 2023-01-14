@@ -1,10 +1,12 @@
-import { configureStore } from '@reduxjs/toolkit'
-import iconslice from './icon-slice'
+import { configureStore } from '@reduxjs/toolkit';
+import { cartReducer } from './cart.slice';
 
-const store= configureStore({
-    reducer: {
-        icon: iconslice.reducer
-    }
-})
+const reducer = {
+  cart: cartReducer,
+};
 
-export default store
+const store = configureStore({
+  reducer,
+});
+
+export default store;
