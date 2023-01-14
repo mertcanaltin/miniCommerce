@@ -1,11 +1,12 @@
-import store from "../store/index";
+import store from "../store/store";
 import { Provider } from "react-redux";
 import '../styles/globals.css'
-import MiniBasket from "../components/mini-basket";
+import Navbar from "../components/navbar";
+
 export default function App({ Component, pageProps }) {
   return <Provider store={store}>
+    <Navbar />
     <Component {...pageProps} />
-    <MiniBasket />
   </Provider>
 
 }
