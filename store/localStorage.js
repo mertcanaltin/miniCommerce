@@ -4,7 +4,7 @@ export const loadState = () => {
     if (serializedState === null) {
       return undefined;
     }
-    return JSON.parse(serializedState);
+    return JSON.parse(serializedState).cart;
   } catch (err) {
     return undefined;
   }

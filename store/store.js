@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit';
-import { cartReducer } from './cart-slice';
+import { cartReducer,hydrate } from './cart-slice';
 import { loadState, saveState } from './localStorage';
 import throttle from 'lodash/throttle';
 
@@ -14,9 +14,12 @@ const store = configureStore({
   persistedState
 });
 
-store.subscribe(() => {
-  saveState({
-    cart: store.getState().cart
-  });
-});
+if(persistedState){
+  store.dispatch(hydrate(persistedState))
+}
+
+store.subscribe(throttle(() => {
+  saveState(store.getState())
+}, 1000))
+
 export default store;

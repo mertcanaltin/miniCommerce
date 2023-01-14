@@ -9,7 +9,7 @@ export default function Navbar() {
   const [open, setOpen] = useState(false)
 
   const cart = useSelector((state) => state.cart);
-  console.log(cart)
+
 
   const getItemsCount = () => {
     return cart.reduce((accumulator, item) => accumulator + item.quantity, 0);
