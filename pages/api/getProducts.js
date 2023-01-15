@@ -4,6 +4,20426 @@ export default function handler(req, res) {
   res.status(200).json({
     products: [
       {
+        "pk": 5689,
+        "name": "DV90BB9445GMAH, Kurutma Makinesi, 9 kg",
+        "sku": "DV90BB9445GMAH",
+        "base_code": "434937",
+        "attributes": {
+          "integration_categoryenglishnamepath": "Home Appliances|Washers and Dryers|Dryers",
+          "erp_gradecolor": "#00a651",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb9445gmah-energylabel.pdf",
+          "integration_product_type_code": "PT_CD_WASHING_MACHINE",
+          "integration_usptext": "A+++ Enerji Verimliliği\nYapay Zeka ile Kurutma\nQuickDrive™ Teknolojisi",
+          "erp_performans_enerjiverimliliksinifi": "A+++",
+          "erp_product_type_name": "Washing Machine",
+          "erp_devir_utukurulugu": "Evet",
+          "erp_color": "Mavi",
+          "erp_color_code": "#7ab7dc",
+          "erp_devir_hassasgiysiler": "Evet",
+          "erp_ozellik_smartthings": "Evet",
+          "integration_ozellik_kurutmaseviyesi": "4 Seviye",
+          "erp_performans_kurutucutipi": "Isı Pompası",
+          "integration_color_code": "#7ab7dc",
+          "erp_performans_enerjituketimiyillik": "182",
+          "integration_color": "Mavi",
+          "product_badge_app": "https://samsung-akinon.b-cdn.net/cms/2022/11/09/3133140d-3a0e-426b-a09c-2603eed4b122.png",
+          "integration_category_code_path": "08000000|08010000|08010300",
+          "erp_fizikselozellikler_kazanmalzemesi": "Paslanmaz",
+          "erp_smart_dahiliwifi": "Evet",
+          "erp_category_code": "08010300",
+          "erp_category_name_path": "Ev Aletleri|Giysi Temizliği|Kurutma Makineleri",
+          "erp_ozellik_kirisiklikonleyici": "Evet",
+          "erp_ozellik_quickdrive": "Evet",
+          "erp_ozellik_motor": "DIT",
+          "erp_devir_sogukhava": "Evet",
+          "erp_ean": "8806094656572",
+          "erp_devir_seceneklistesi": "QuickDrive, Kırışık Önleyici, Kurutma Seviyesi, Kurutma Süresi, Nem Alarmı, Akıllı Kontrol, Kazan Işığı, Çocuk Kilidi, Ses Kapalı, Kalibrasyon",
+          "integration_fizikselozellikler_brutagirlik": "54 kg",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb9445gmah-productfiche.pdf",
+          "purchase_limit_per_basket": "1",
+          "erp_devir_aidry": "Evet",
+          "erp_grade": "A+++",
+          "integration_fizikselozellikler_brutboyutgxyxd": "670 x 895 x 695 mm",
+          "integration_ozellik_kazantipi": "Elmas",
+          "erp_product_type_code": "PT_CD_WASHING_MACHINE",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb9445gmah-energylabel.pdf",
+          "erp_devir_dismekan": "Evet",
+          "integration_fizikselozellikler_netagirlik": "52 kg",
+          "erp_devir_havlular": "Evet",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "integration_grade": "A+++",
+          "erp_performans_programsuresidk": "215 min",
+          "erp_devir_gomlekler": "Evet",
+          "erp_ozellik_aidry": "Evet",
+          "integration_category_code": "08010300",
+          "erp_devir_yun": "Evet",
+          "erp_ozellik_karisikgiysizilinemalarmi": "Evet",
+          "erp_devir_sessizkurutma": "Evet",
+          "b2b_product_badge": "ikilialim2000para",
+          "integration_product_type_name": "Washing Machine",
+          "integration_ean": "8806094656572",
+          "erp_performans_yogusmaverimliligisinifi": "B",
+          "erp_devir_pamuklu": "Evet",
+          "integration_devir_pamuklu": "Evet",
+          "erp_ozellik_yapayzekakontrolu": "Evet",
+          "product_badge_app_enddate": "2023-01-31T20:59:00.000Z",
+          "erp_performans_sogutucudoldurmakg": "0.149",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb9445gmah-productfiche.pdf",
+          "erp_fizikselozellikler_netagirlik": "52 kg",
+          "erp_categoryenglishnamepath": "Home Appliances|Washers and Dryers|Dryers",
+          "integration_devir_hassasgiysiler": "Evet",
+          "erp_tasarim_kapak": "Kırılmaz Cam Kapak",
+          "integration_smart_dahiliwifi": "Evet",
+          "erp_devir_hizlikurutma35dk": "Evet",
+          "marketing-name": "BESPOKE",
+          "erp_fizikselozellikler_brutagirlik": "54 kg",
+          "integration_gradecolor": "#00a651",
+          "erp_ozellik_idealkurutmasistemi": "Evet",
+          "erp_devir_selftubdry": "Evet",
+          "erp_ozellik_kurutmarafi": "Evet",
+          "integration_fizikselozellikler_netboyutgxyxd": "600 x 850 x 600 mm",
+          "erp_devir_superhiz": "Evet",
+          "erp_ozellik_kurutmaseviyesi": "4 Seviye",
+          "integration_category_name_path": "Ev Aletleri|Giysi Temizliği|Kurutma Makineleri",
+          "drk_name": "Samsung DV90BB9445GMAH, Kurutma Makinesi, 9 kg",
+          "erp_performans_sogutucutipi": "R290",
+          "erp_model_name": "DV90BB9445GH",
+          "erp_ozellik_kompresor": "Inverter",
+          "erp_tasarim_panelekrani": "Yapay Zeka Kontrolü",
+          "erp_category_code_path": "08000000|08010000|08010300",
+          "erp_devir_airrefresh": "Evet",
+          "integration_ozellik_akillikontrol": "Evet",
+          "erp_fizikselozellikler_brutboyutgxyxd": "670 x 895 x 695 mm",
+          "erp_usptext": "A+++ Enerji Verimliliği\nYapay Zeka ile Kurutma\nQuickDrive™ Teknolojisi",
+          "erp_ozellik_kazantipi": "Elmas",
+          "product_badge_app_startdate": "2011-12-31T23:00:00.000Z",
+          "erp_ozellik_kurutmasuresisecici": "Evet",
+          "integration_ozellik_cocukkilidi": "Evet",
+          "integration_product_subtype_name": "Dryer",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_devir_kurutmasuresi": "Evet",
+          "erp_devir_sicakhava": "Evet",
+          "integration_ozellik_quickdrive": "Evet",
+          "erp_devir_sentetikler": "Evet",
+          "garanti_icon": "motor",
+          "erp_tasarim_govderengi": "Siyah",
+          "integration_product_subtype_code": "PT_CD_WASHING_MACHINE_05",
+          "integration_model_name": "DV90BB9445GH",
+          "integration_ozellik_motor": "DIT",
+          "erp_kurutmakapasitesi_kurutmakapasitesi": "9.0 kg",
+          "erp_devir_nevresim": "Evet",
+          "integration_devir_sentetikler": "Evet",
+          "erp_product_subtype_code": "PT_CD_WASHING_MACHINE_05",
+          "integration_devir_seceneklistesi": "QuickDrive, Kırışık Önleyici, Kurutma Seviyesi, Kurutma Süresi, Nem Alarmı, Akıllı Kontrol, Kazan Işığı, Çocuk Kilidi, Ses Kapalı, Kalibrasyon",
+          "erp_ozellik_cocukkilidi": "Evet",
+          "erp_product_subtype_name": "Dryer",
+          "integration_devir_nevresim": "Evet",
+          "erp_ozellik_yonudegistirilebilirkapi": "Evet",
+          "product_badge": "ikilialim",
+          "erp_performans_gurultuseviyesikurutma": "62 dB",
+          "erp_ozellik_ickazanisigi": "Evet",
+          "integration_ozellik_ickazanisigi": "Evet",
+          "erp_fizikselozellikler_netboyutgxyxd": "600 x 850 x 600 mm",
+          "integration_tasarim_govderengi": "Siyah",
+          "erp_ozellik_akillikontrol": "Evet"
+        },
+        "attribute_set": 166,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Mavi",
+            "data_type": "dropdown",
+            "label": "Mavi"
+          },
+          "integration_devir_sentetikler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_nevresim": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_quickdrive": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_cocukkilidi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_hassasgiysiler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_smart_dahiliwifi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_pamuklu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_ickazanisigi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_akillikontrol": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29822,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/a2eb5dec-aa01-40cc-a68f-9b7e304db3e0.jpg",
+            "order": 1,
+            "created_date": "2022-11-03T05:59:26.465361Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29824,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/311f26be-60e9-45ee-8113-9d2cc8e5a6a0.jpg",
+            "order": 2,
+            "created_date": "2022-11-03T05:59:26.539102Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29825,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/d288d4d1-6329-4ecc-aaf9-82f3178cda91.jpg",
+            "order": 3,
+            "created_date": "2022-11-03T05:59:26.576182Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29826,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/ef3d4d44-fb5c-4dd6-82d7-5eb5feadf9e4.jpg",
+            "order": 4,
+            "created_date": "2022-11-03T05:59:26.609242Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29827,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/4c9b8bb3-7b8a-4a95-aed0-54e4c8ba47d6.jpg",
+            "order": 5,
+            "created_date": "2022-11-03T05:59:26.651793Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29828,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/fb92b9d0-158f-40e1-b86f-0488fc73bb53.jpg",
+            "order": 6,
+            "created_date": "2022-11-03T05:59:26.692218Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29829,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/05b7182d-d590-4b92-86ef-0039557208ae.jpg",
+            "order": 7,
+            "created_date": "2022-11-03T05:59:26.734951Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29830,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/b4933c55-b75f-4ad7-b538-3a0fbf8e09d1.jpg",
+            "order": 8,
+            "created_date": "2022-11-03T05:59:26.775742Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29831,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/835a7b9a-cd3d-408e-b240-191e8589e089.jpg",
+            "order": 9,
+            "created_date": "2022-11-03T05:59:26.803070Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29823,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/5f3475cf-eae9-4b58-a315-23490d9c4bd6.jpg",
+            "order": 10,
+            "created_date": "2022-11-03T05:59:26.502538Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29821,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/03/15578/b94721e8-b423-49ad-887a-7321bdc08d0e.jpg",
+            "order": 11,
+            "created_date": "2022-11-03T05:59:26.401632Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "21299",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "24299",
+        "unit_type": "qty",
+        "absolute_url": "/tr/dv90bb9445gmah-kurutma-makinesi-9-kg/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": true,
+        "stock": 1,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            
+          ]
+        }
+      },
+      {
+        "pk": 5676,
+        "name": "24” R35 Çerçevesiz IPS 75Hz Freesync HDMI Full HD Gaming Monitör",
+        "sku": "LS24R35AFHUXUF",
+        "base_code": "440659",
+        "attributes": {
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls24r35afhuxuf-energylabel.pdf",
+          "integration_product_type_code": "PT_CD_MONITOR",
+          "erp_agirlik_stantlabirliktesetagirligi": "3,4 kg",
+          "erp_guc_guctuketimikapalimodu": "0.30 W’tan az",
+          "integration_grade": "F",
+          "erp_guc_tipi": "Harici Adaptör",
+          "erp_ekran_statikkontrastorani": "1000:1 (normal)",
+          "mp_hdmi": "Var",
+          "erp_guc_guctuketimitip": "22.00 W",
+          "integration_ekran_yanitsuresi": "5 (GTG) ms",
+          "mp_ekran_teknolojisi": "Full HD",
+          "erp_ekran_ekranboyutuinc": "23.8",
+          "mp_ekran_boyutu": "24 inç",
+          "integration_genelozellikler_freesync": "Evet",
+          "erp_ekran_parlakliktipik": "250 cd/㎡",
+          "integration_category_code_path": "07000000|07010000|07010500",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "539,7 x 321,3 x 49,9 mm",
+          "integration_arabirim_kablosuzekran": "Hayır",
+          "mp_panel_tipi": "Mekanik",
+          "erp_arabirim_kulaklikcikisi": "Hayır",
+          "integration_arabirim_hdmi": "1 EA",
+          "mp_hdcp": "Yok",
+          "erp_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "mp_kargo": "yurtici",
+          "erp_grade": "F",
+          "integration_calismakosullari_sicaklik": "10 ~ 40 ℃",
+          "erp_product_type_code": "PT_CD_MONITOR",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls24r35afhuxuf-energylabel.pdf",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_aksesuar_hdmikablosu": "Evet",
+          "mp_dvi": "Yok",
+          "integration_agirlik_ambalajagirligi": "4,8 kg",
+          "erp_tasarim_stanttipi": "SADE",
+          "erp_arabirim_sesgirisi": "Hayır",
+          "integration_ekran_paneltipi": "IPS",
+          "integration_aksesuar_guckablosuuzunlugu": "1,5 m",
+          "erp_ses_usbsescubuguhazir": "Hayır",
+          "mp_coz_standart": "Full HD (FHD)",
+          "erp_tasarim_egme": "-2˚ (±2˚) ~ 22˚ (±2˚)",
+          "erp_ses_hoparlor": "Hayır",
+          "erp_aksesuar_guckablosuuzunlugu": "1,5 m",
+          "integration_ekran_parlaklikmin": "200 cd/㎡",
+          "erp_boyutlar_stantlabirliktesetboyutugxyxd": "539,7 x 425,4 x 236,4 mm",
+          "integration_ekran_yenilemehizi": "75 Hz",
+          "mp_dahili_hoparlor": "Yok",
+          "erp_color": "Koyu Mavi̇ Gri̇",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "539,7 x 321,3 x 49,9 mm",
+          "erp_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "integration_arabirim_dvi": "Hayır",
+          "mp_ekran_yenileme_hizi": "60 Hz",
+          "integration_guc_guctuketimiyillik": "32.00 kWh / Yıl",
+          "erp_ekran_enboyorani": "16:9",
+          "mp_trendyol_kargo": "3",
+          "integration_arabirim_usbbaglantinoktalari": "Hayır",
+          "erp_boyutlar_ambalajboyutugxyxd": "610,0 x 150,0 x 390,0 mm",
+          "erp_tasarim_renk": "Koyu Mavi̇ Gri̇",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "mp_sync": "FreeSync",
+          "integration_arabirim_ekranbaglantinoktasicikisversiyonu": "Hayır",
+          "integration_genelozellikler_oyunmodu": "Evet",
+          "erp_aksesuar_miniekrancinsi": "Hayır",
+          "integration_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_calismakosullari_sicaklik": "10 ~ 40 ℃",
+          "mp_tepki_suresi": "4 ms",
+          "erp_genelozellikler_windowssertifikasi": "Windows 10",
+          "integration_genelozellikler_samsungmagicbright": "Evet",
+          "erp_category_code_path": "07000000|07010000|07010500",
+          "integration_tasarim_renk": "Koyu Mavi̇ Gri̇",
+          "integration_ekran_ekranboyutuinc": "23.8",
+          "erp_guc_guckaynagi": "AC 100 ~ 240 V",
+          "integration_guc_guctuketimidpms": "0.30 W’tan az",
+          "integration_arabirim_usbmerkeziversiyonu": "Hayır",
+          "mp_3d": "Yok",
+          "integration_ekran_ekranboyutucm": "60.4",
+          "integration_product_subtype_name": "LED Monitor",
+          "integration_ekran_statikkontrastorani": "1000:1 (normal)",
+          "integration_guc_guctuketimimaks": "25.00 W",
+          "integration_guc_guckaynagi": "AC 100 ~ 240 V",
+          "integration_guc_guctuketimitip": "22.00 W",
+          "product_desi": "25",
+          "integration_model_name": "S24R35AFHU",
+          "erp_ekran_parlaklikmin": "200 cd/㎡",
+          "integration_ekran_renkgamintsc1976": "72 %",
+          "erp_arabirim_ekranbaglantinoktasicikisversiyonu": "Hayır",
+          "erp_eko_geridonusturulmusplastik": "Hayır",
+          "erp_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_arabirim_usbmerkeziversiyonu": "Hayır",
+          "integration_ses_hoparlor": "Hayır",
+          "erp_product_subtype_name": "LED Monitor",
+          "integration_ekran_renkdestegi": "Maksimum 16.7 M",
+          "inc_monitor": "20-24",
+          "erp_agirlik_ambalajagirligi": "4,8 kg",
+          "mp_kullanim_amaci": "Ofis - İş",
+          "erp_arabirim_usbc": "Hayır",
+          "erp_ekran_yenilemehizi": "75 Hz",
+          "integration_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_gradecolor": "#f37021",
+          "integration_ekran_parlakliktipik": "250 cd/㎡",
+          "erp_ekran_renkdestegi": "Maksimum 16.7 M",
+          "integration_usptext": "Bakış Açınızı Genişletin\nGecikmesiz Tam Aksiyon\nDaha Fazla Oyun Gücü",
+          "erp_genelozellikler_oyunmodu": "Evet",
+          "integration_aksesuar_hdmikablosu": "Evet",
+          "integration_arabirim_ekranbaglantinoktasiversiyonu": "Hayır",
+          "erp_arabirim_hdmiversiyonu": "1.4",
+          "erp_product_type_name": "Monitor",
+          "erp_tasarim_duvaramonteedilebilir": "75 x 75",
+          "erp_ekran_dinamikkontrastorani": "Mega",
+          "erp_arabirim_ekranbaglantinoktasiversiyonu": "Hayır",
+          "integration_arabirim_sesgirisi": "Hayır",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3",
+          "erp_guc_guctuketimiyillik": "32.00 kWh / Yıl",
+          "integration_color": "Koyu Mavi̇ Gri̇",
+          "mp_cozunurluk": "1920 x 1080",
+          "erp_arabirim_usbbaglantinoktalari": "Hayır",
+          "erp_category_name_path": "Display|Monitör|Düz",
+          "erp_genelozellikler_resimboyutu": "Evet",
+          "erp_ekran_renkgamintsc1976": "72 %",
+          "integration_boyutlar_ambalajboyutugxyxd": "610,0 x 150,0 x 390,0 mm",
+          "erp_guc_guctuketimidpms": "0.30 W’tan az",
+          "erp_ean": "8806094573336",
+          "integration_category_code": "07010500",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "integration_categoryenglishnamepath": "Display|Monitors|Flat",
+          "erp_ekran_ekranboyutusinif": "24",
+          "erp_ekran_ekranboyutucm": "60.4",
+          "integration_genelozellikler_resimboyutu": "Evet",
+          "erp_agirlik_stantsizsetagirligi": "2,8 kg",
+          "integration_aksesuar_miniekrancinsi": "Hayır",
+          "mp_kontrast": "1000:1",
+          "mp_goruntu_teknolojisi": "IPS",
+          "erp_ekran_paneltipi": "IPS",
+          "erp_arabirim_kablosuzekran": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasi": "Hayır",
+          "mp_n11_pivot": "Hayır",
+          "integration_product_type_name": "Monitor",
+          "integration_agirlik_stantlabirliktesetagirligi": "3,4 kg",
+          "integration_ekran_ekranboyutusinif": "24",
+          "mp_mini_displayport": "Yok",
+          "integration_ekran_enboyorani": "16:9",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls24r35afhuxuf-productfiche.pdf",
+          "integration_genelozellikler_titresimsiz": "Evet",
+          "integration_tasarim_duvaramonteedilebilir": "75 x 75",
+          "b2b_purchase_limit_per_basket": "2",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls24r35afhuxuf-productfiche.pdf",
+          "erp_categoryenglishnamepath": "Display|Monitors|Flat",
+          "erp_color_code": "#000000",
+          "erp_category_code": "07010500",
+          "erp_ekran_duzkavisli": "Düz",
+          "erp_eko_enerjiverimliliksinifi": "F",
+          "integration_gradecolor": "#f37021",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_calismakosullari_nem": "10 ~ 80, Donmayan",
+          "integration_category_name_path": "Display|Monitör|Düz",
+          "drk_name": "Samsung 24” R350 Çerçevesiz IPS 75Hz Freesync HDMI Full HD Gaming Monitör",
+          "erp_genelozellikler_samsungmagicbright": "Evet",
+          "integration_tasarim_stanttipi": "SADE",
+          "mp_display_port": "Yok",
+          "integration_arabirim_kulaklikcikisi": "Hayır",
+          "erp_ekran_izlemeacisiyd": "178° (Y) / 178° (D)",
+          "erp_guc_guctuketimimaks": "25.00 W",
+          "erp_ekran_yanitsuresi": "5 (GTG) ms",
+          "mp_vga": "Var",
+          "erp_usptext": "Bakış Açınızı Genişletin\nGecikmesiz Tam Aksiyon\nDaha Fazla Oyun Gücü",
+          "integration_ean": "8806094573336",
+          "integration_guc_guctuketimikapalimodu": "0.30 W’tan az",
+          "erp_arabirim_usbcsarjgucu": "Hayır",
+          "mp_vesa_uyumlulugu": "Var",
+          "integration_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_genelozellikler_windowssertifikasi": "Windows 10",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_arabirim_hdmiversiyonu": "1.4",
+          "integration_genelozellikler_ecosavingplus": "Evet",
+          "erp_arabirim_dsub": "1 EA",
+          "erp_genelozellikler_ecosavingplus": "Evet",
+          "integration_arabirim_usbc": "Hayır",
+          "integration_calismakosullari_nem": "10 ~ 80, Donmayan",
+          "integration_arabirim_ekranbaglantinoktasi": "Hayır",
+          "integration_arabirim_dsub": "1 EA",
+          "integration_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_genelozellikler_titresimsiz": "Evet",
+          "integration_ekran_dinamikkontrastorani": "Mega",
+          "erp_model_name": "S24R35AFHU",
+          "integration_boyutlar_stantlabirliktesetboyutugxyxd": "539,7 x 425,4 x 236,4 mm",
+          "mp_hb_kargo": "3",
+          "integration_ekran_etkinekranboyutuyxdmm": "527.04 (Y) x 296.46 (D)",
+          "integration_ekran_cozunurluk": "1,920 x 1,080",
+          "erp_arabirim_hdmi": "1 EA",
+          "erp_genelozellikler_gozkoruyucumodu": "Evet",
+          "erp_ekran_enyuksekparlakliktipik": "N/A",
+          "integration_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "integration_ekran_izlemeacisiyd": "178° (Y) / 178° (D)",
+          "integration_ekran_duzkavisli": "Düz",
+          "integration_agirlik_stantsizsetagirligi": "2,8 kg",
+          "integration_guc_tipi": "Harici Adaptör",
+          "erp_arabirim_dvi": "Hayır",
+          "erp_ekran_etkinekranboyutuyxdmm": "527.04 (Y) x 296.46 (D)",
+          "integration_ses_usbsescubuguhazir": "Hayır",
+          "erp_ekran_cozunurluk": "1.920 x 1.080",
+          "erp_genelozellikler_freesync": "Evet"
+        },
+        "attribute_set": 11,
+        "attributes_kwargs": {
+          "integration_arabirim_ciftbaglantilidvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdmi": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "mp_sync": {
+            "value": "FreeSync",
+            "data_type": "dropdown",
+            "label": "FreeSync"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikisversiyonu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_oyunmodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_dvi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikis": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_boyutu": {
+            "value": "24 inç",
+            "data_type": "dropdown",
+            "label": "24 inç"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_tepki_suresi": {
+            "value": "4 ms",
+            "data_type": "dropdown",
+            "label": "4 ms"
+          },
+          "mp_ekran_teknolojisi": {
+            "value": "Full HD",
+            "data_type": "dropdown",
+            "label": "Full HD"
+          },
+          "mp_display_port": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "Koyu Mavi̇ Gri̇",
+            "data_type": "dropdown",
+            "label": "Koyu Mavi̇ Gri̇"
+          },
+          "integration_genelozellikler_samsungmagicbright": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_cozunurluk": {
+            "value": "1920 x 1080",
+            "data_type": "dropdown",
+            "label": "1920 x 1080"
+          },
+          "mp_vga": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_arabirim_kablosuzekran": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdcp": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_3d": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_usbc": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_vesa_uyumlulugu": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_genelozellikler_gozkoruyucumodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_hdmikablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_ecosavingplus": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ses_usbsescubuguhazir": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_freesync": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "integration_genelozellikler_resimboyutu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_titresimsiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_miniekrancinsi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kontrast": {
+            "value": "1000:1",
+            "data_type": "dropdown",
+            "label": "1000:1"
+          },
+          "mp_goruntu_teknolojisi": {
+            "value": "IPS",
+            "data_type": "dropdown",
+            "label": "IPS"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "1,920 x 1,080",
+            "data_type": "dropdown",
+            "label": "1,920 x 1,080"
+          },
+          "mp_coz_standart": {
+            "value": "Full HD (FHD)",
+            "data_type": "dropdown",
+            "label": "Full HD (FHD)"
+          },
+          "mp_n11_pivot": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_dahili_hoparlor": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "inc_monitor": {
+            "value": "20-24",
+            "data_type": "dropdown",
+            "label": "20-24"
+          },
+          "integration_ekran_ekranboyutusinif": {
+            "value": "24",
+            "data_type": "dropdown",
+            "label": "24\""
+          },
+          "mp_mini_displayport": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_kullanim_amaci": {
+            "value": "Ofis - İş",
+            "data_type": "dropdown",
+            "label": "Ofis - İş"
+          },
+          "integration_arabirim_dvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_yenileme_hizi": {
+            "value": "60 Hz",
+            "data_type": "dropdown",
+            "label": "60 Hz"
+          },
+          "mp_panel_tipi": {
+            "value": "Mekanik",
+            "data_type": "dropdown",
+            "label": "Mekanik"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29786,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/07f0dd4b-2415-4fc6-95b2-b69a7bc41428.jpg",
+            "order": 1,
+            "created_date": "2022-11-01T14:37:00.920643Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29787,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/6206710e-929c-4a3e-9adc-4b16a6b7d1df.jpg",
+            "order": 2,
+            "created_date": "2022-11-01T14:37:01.088352Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29788,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/3018f590-1b50-4a1c-aff8-670bcb72c428.jpg",
+            "order": 3,
+            "created_date": "2022-11-01T14:37:01.137403Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29791,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/1592106b-78e2-451f-ada6-602b137bf63c.jpg",
+            "order": 4,
+            "created_date": "2022-11-01T14:37:01.343151Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29792,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15567/a7d4d8cb-7a67-4f4a-810a-0fcba57b586b.jpg",
+            "order": 5,
+            "created_date": "2022-11-01T14:37:01.386113Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29794,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/44248565-9a4c-444d-a417-8fc3480c1645.jpg",
+            "order": 6,
+            "created_date": "2022-11-01T14:37:01.490427Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29793,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/5decdeab-50c1-439c-bcbf-4605b13f48c9.jpg",
+            "order": 7,
+            "created_date": "2022-11-01T14:37:01.432270Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "2299",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "2299",
+        "unit_type": "qty",
+        "absolute_url": "/tr/24-r35-cercevesiz-ips-75hz-freesync-hdmi-full-hd-gaming-monitor/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutusinif",
+              "options": [
+                {
+                  "product": {
+                    "name": "24” R35 Çerçevesiz IPS 75Hz Freesync HDMI Full HD Gaming Monitör",
+                    "absolute_url": "/tr/24-r35-cercevesiz-ips-75hz-freesync-hdmi-full-hd-gaming-monitor/",
+                    "price": "2299",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_ekran_ekranboyutusinif": "24",
+                      "integration_color": "Koyu Mavi̇ Gri̇"
+                    },
+                    "pk": 5676,
+                    "retail_price": "2299",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/07f0dd4b-2415-4fc6-95b2-b69a7bc41428.jpg",
+                        "created_date": "2022-11-01T14:37:00.920643Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29786,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/6206710e-929c-4a3e-9adc-4b16a6b7d1df.jpg",
+                        "created_date": "2022-11-01T14:37:01.088352Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29787,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/3018f590-1b50-4a1c-aff8-670bcb72c428.jpg",
+                        "created_date": "2022-11-01T14:37:01.137403Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29788,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/1592106b-78e2-451f-ada6-602b137bf63c.jpg",
+                        "created_date": "2022-11-01T14:37:01.343151Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29791,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15567/a7d4d8cb-7a67-4f4a-810a-0fcba57b586b.jpg",
+                        "created_date": "2022-11-01T14:37:01.386113Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29792,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/44248565-9a4c-444d-a417-8fc3480c1645.jpg",
+                        "created_date": "2022-11-01T14:37:01.490427Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29794,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15565/5decdeab-50c1-439c-bcbf-4605b13f48c9.jpg",
+                        "created_date": "2022-11-01T14:37:01.432270Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29793,
+                        "order": 7
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "24\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5675,
+        "name": "2022 98 inç Neo QLED 4K QN100B TV",
+        "sku": "QE98QN100BTXTK",
+        "base_code": "439450",
+        "attributes": {
+          "integration_boyutlar_stanttemelgxd": "420.0 x 363.3 mm",
+          "erp_oyunozellikleri_otomatikoyunmoduallm": "Evet",
+          "erp_baglantilar_earc": "Evet (HDMI 3)",
+          "erp_gucvetasarrufcozumleri_autopowersaving": "Evet",
+          "integration_ses_bashoparloru": "Yes",
+          "erp_baglantilar_usbccameraonly": "1",
+          "erp_baglantilar_anynethdmicec": "Evet",
+          "erp_tasarim_incetip": "Ultra İnce",
+          "integration_category_code_path": "04000000|04010000|04010100",
+          "integration_baglantilar_anynethdmicec": "Yes",
+          "erp_akilliozellikler_buluthizmeti": "Microsoft 365",
+          "integration_boyutlar_stantlisetboyutugxyxd": "2176.3 x 1313.5 x 363.3 mm",
+          "erp_ses_dualaudiosupportbluetooth": "Evet",
+          "integration_baglantilar_hdmihizlianahtar": "Yes",
+          "erp_grade": "G",
+          "erp_video_filmmodu": "Evet",
+          "erp_akilliozellikler_tvinitiatemirroring": "Evet",
+          "erp_akilliozellikler_mobilkameradestegi": "Evet",
+          "erp_product_type_code": "PT_CD_TV",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe98qn100btxtk-energylabel.pdf",
+          "erp_boyutlar_vesaspec": "600 x 400 mm",
+          "integration_ses_sescikisirms": "120W",
+          "integration_ekran_cozunurluk": "3,840 x 2,160",
+          "integration_agirlik_ambalajagirligi": "107.9 kg",
+          "erp_tasarim_stanttipi": "BAĞLANTILI AYAK",
+          "erp_tuneryayin_dijitalyayin": "DVB-T2CS2 x 2",
+          "erp_akilliozellikler_bluetoothdusukpilgostergesi": "Evet",
+          "erp_akilliozellikler_cokluekran": "en fazla 4 video",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "2176.3 x 1244.3 x 19.9 mm",
+          "erp_akillihizmet_isletimsistemi": "Tizen™",
+          "erp_aksesuar_vesaduvarmontedestegi": "Evet",
+          "erp_gucvetasarrufcozumleri_otomatikkapanma": "Evet",
+          "integration_tasarim_onrenk": "SPACE CARBON",
+          "integration_ses_dolbydigitalplus": "MS12 5.1ch",
+          "integration_aksesuar_guckablosu": "Yes",
+          "erp_aksesuar_uzaktankumandamodeli": "TM2280E",
+          "erp_aksesuar_tekgorunmezbaglantikablosu": "Evet",
+          "integration_tuneryayin_ciortakarayuz": "CI+(1.4)",
+          "erp_boyutlar_paketboyutugxyxd": "2379 x 1431 x 350 mm",
+          "erp_video_yonetmenmodufmm": "Evet",
+          "erp_category_code_path": "04000000|04010000|04010100",
+          "erp_tasarim_stantrengi": "UZAY KARBONU",
+          "erp_akilliozellikler_goruntulugorusme": "Google Meet",
+          "erp_tuneryayin_veriyayinlama": "HbbTV 2.0.3 (TR)",
+          "integration_product_subtype_name": "QLED",
+          "erp_aksesuar_ekilavuz": "Evet",
+          "integration_akillihizmet_smartthings": "Yes",
+          "integration_baglantilar_hdmiakanaldesteginedon": "Yes",
+          "integration_video_kontrast": "Quantum MatrixTechnology",
+          "erp_tasarim_cercevetipi": "4 Çerçevesiz",
+          "integration_ekozellik_otomatikkanalarama": "Yes",
+          "erp_erisilebilirlik_erisilebilirliktvkumandasiniogrenmemenuekraniniogrenme": "TR: İngiliz İngilizcesi, Fransızca, İspanyolca, Rusça / IL: İngiliz İngilizcesi, Almanca, Fransızca, İspanyolca, Rusça",
+          "erp_video_parlaklikrenktespiti": "Parlaklık/Renk Algılama",
+          "erp_video_renk": "Quantum Dot ile %100 Renk Hacmi",
+          "integration_baglantilar_usb": "3",
+          "integration_video_kontrastartirici": "Real Depth Enhancer",
+          "integration_video_izlemeacisi": "Wide Viewing Angle",
+          "erp_agirlik_ambalajagirligi": "107,9 kg",
+          "erp_gucvetasarrufcozumleri_ecosensor": "Evet",
+          "erp_oyunozellikleri_cevreselses": "Evet",
+          "erp_akilliozellikler_ambiyansmodu": "Ambiyans Modu+",
+          "erp_gucvetasarrufcozumleri_enerjiverimliliksinifi": "G",
+          "erp_video_aigoruntuyukseltme": "Evet",
+          "integration_aksesuar_kullanicikilavuzu": "Yes",
+          "erp_gucvetasarrufcozumleri_yillikenerjituketimiabstandardi": "277 kWh",
+          "erp_gradecolor": "#ed1c24",
+          "erp_video_hdr10": "Onaylı (HDR10+ ve HDR10+ GAMING)",
+          "integration_usptext": "Quantum Matrix Technology\nTheatermax Screen\nInfinity-all-metal Design",
+          "integration_video_hlghibritloggamma": "Yes",
+          "integration_aksesuar_uzaktankumandamodeli": "TM2280E",
+          "erp_ekozellik_osddili": "Yerel Diller",
+          "erp_akillihizmet_smartthingsuygulamadestegi": "Evet",
+          "erp_ekozellik_mbrdestegi": "Evet",
+          "integration_akillihizmet_bixby": "US English, UK English, India English, Korean, French, German, Italian, Spanish, BR Portuguese (features vary by language)",
+          "is_hidden": false,
+          "erp_ekran_ekranboyutu": "98\"",
+          "integration_color": "Black",
+          "integration_baglantilar_hdmi": "4",
+          "erp_category_code": "04010100",
+          "integration_ekozellik_connectsharetmusb20": "Yes",
+          "erp_baglantilar_dijitalsescikisioptik": "1",
+          "erp_oyunozellikleri_freesync": "FreeSync Premium Pro",
+          "erp_aksesuar_webcamdestegi": "Evet",
+          "erp_ean": "8806094532548",
+          "erp_boyutlar_stantlisetboyutugxyxd": "2176,3 x 1313,5 x 363,3 mm",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe98qn100btxtk-productfiche.pdf",
+          "purchase_limit_per_basket": "1",
+          "erp_product_subtype_code": "PT_CD_TV_09",
+          "integration_ekozellik_usbhiddestegi": "Yes",
+          "integration_categoryenglishnamepath": "Television|TVs|QLED TV",
+          "integration_baglantilar_dijitalsescikisioptik": "1",
+          "erp_video_mikrokarartma": "Üstün UHD Karartma Programı",
+          "erp_agirlik_stantsizsetagirligi": "68,6 kg",
+          "erp_series": "1",
+          "erp_ekozellik_altbaslikaltyazi": "Evet",
+          "integration_akillihizmet_uzakalansesetkilesimi": "Yes",
+          "erp_akillihizmet_bixby": "ABD İngilizcesi, İngiliz İngilizcesi, Hindistan İngilizcesi, Korece, Fransızca, Almanca, İtalyanca, İspanyolca, Brezilya Portekizcesi (özellikler dile göre farklılık gösterir)",
+          "erp_akilliozellikler_tasinabilircihazdantvyegoruntuaktarmadlna": "Evet",
+          "erp_tuneryayin_tvsifresi": "Evet",
+          "integration_tuneryayin_tvsifresi": "Yes",
+          "erp_baglantilar_hdmihighframerate": "4K 120Hz (HDMI 1/2/3/4 için)",
+          "integration_baglantilar_wifi": "Yes (WiFi5)",
+          "erp_baglantilar_hdmi": "4",
+          "erp_akilliozellikler_kablosuzdex": "Evet",
+          "erp_categoryenglishnamepath": "Television|TVs|QLED TV",
+          "erp_color_code": "#000000",
+          "erp_video_birmilyarrenk": "Evet",
+          "erp_akillihizmet_mediahome": "Evet",
+          "integration_tuneryayin_2frekansayarlayici": "Yes",
+          "integration_gradecolor": "#ed1c24",
+          "erp_baglantilar_ethernetlan": "Evet",
+          "integration_category_name_path": "TV/AV|TV'ler|QLED TV",
+          "erp_gucvetasarrufcozumleri_guctuketimimaks": "535 W",
+          "erp_baglantilar_hdmiakanaldesteginedon": "Evet",
+          "erp_akillihizmet_samsungakillitv": "Smart",
+          "integration_akillihizmet_webtarayicisi": "Yes",
+          "integration_aksesuar_ekilavuz": "Yes",
+          "erp_akilliozellikler_kolaykurulum": "Evet",
+          "integration_ean": "8806094532548",
+          "integration_urun": "QLED",
+          "erp_ses_bashoparloru": "Evet",
+          "erp_ses_sescikisirms": "120 W",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_baglantilar_wifi": "Evet (WiFi5)",
+          "erp_video_kontrastartirici": "Gerçek Derinlik Artırıcı",
+          "erp_video_hdryuksekdinamikaralik": "Quantum HDR 80X",
+          "integration_ekozellik_ipv6destegi": "Yes",
+          "integration_product_subtype_code": "PT_CD_TV_09",
+          "erp_ekozellik_resimicinderesim": "Evet",
+          "integration_ekozellik_dahilibthid": "Yes",
+          "erp_serisi": "1",
+          "integration_agirlik_stantsizsetagirligi": "68.6 kg",
+          "integration_akillihizmet_smartthingsuygulamadestegi": "Yes",
+          "erp_aksesuar_samsungakillikontroldahil": "Evet",
+          "integration_aksesuar_samsungakillikontroldahil": "Yes",
+          "integration_video_renk": "100% Colour Volume with Quantum Dot",
+          "erp_boyutlar_stanttemelgxd": "420,0 x 363,3 mm",
+          "erp_ekran_cozunurluk": "3.840 x 2.160",
+          "erp_ses_dolbyatmos": "Evet",
+          "integration_baglantilar_earc": "Yes (HDMI 3)",
+          "erp_ses_bluetoothsessistemi": "Evet",
+          "erp_akilliozellikler_wifidirect": "Evet",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe98qn100btxtk-energylabel.pdf",
+          "integration_product_type_code": "PT_CD_TV",
+          "erp_aksesuar_kullanicikilavuzu": "Evet",
+          "integration_ekozellik_connectsharetmhdd": "Yes",
+          "erp_video_uzmankalibrasyon": "Evet",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "2176,3 x 1244,3 x 19,9 mm",
+          "erp_oyunozellikleri_hgig": "Evet",
+          "integration_ekozellik_resimicinderesim": "Yes",
+          "erp_video_hlghibritloggamma": "Evet",
+          "erp_ekozellik_teletextttx": "Evet",
+          "erp_tuneryayin_2frekansayarlayici": "Evet",
+          "integration_tuneryayin_dijitalyayin": "DVB-T2CS2 x 2",
+          "erp_urun": "QLED",
+          "erp_video_akillikalibrasyon": "Temel/Profesyonel",
+          "erp_akilliozellikler_tvdentasinabilircihazagoruntuaktarma": "Evet",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_akillihizmet_webtarayicisi": "Evet",
+          "integration_tasarim_tasarim": "Infinity One",
+          "integration_video_resimmotoru": "Neural Quantum Processor 4K",
+          "erp_video_clearmotion": "LED Clear Motion",
+          "erp_akilliozellikler_uygulamayayini": "Evet",
+          "integration_model_name": "QE98QN100BT",
+          "integration_video_automotionplus": "Yes",
+          "erp_baglantilar_ciyuvasi": "1",
+          "erp_ses_nesnetakipsistemlises": "OTS Pro",
+          "integration_ekozellik_mbrdestegi": "Yes",
+          "erp_ekozellik_connectsharetmhdd": "Evet",
+          "erp_video_izlemeacisi": "Geniş İzleme Açısı",
+          "integration_ses_qsymphony": "Yes",
+          "integration_akillihizmet_samsungakillitv": "Smart",
+          "erp_oyunozellikleri_superultragenisacilioyungorunumu": "Evet",
+          "erp_oyunozellikleri_gamemotionplus": "Evet",
+          "erp_gucvetasarrufcozumleri_enerjituketimibekleme": "0,50 W",
+          "erp_tuneryayin_ciortakarayuz": "CI+(1.4)",
+          "erp_baglantilar_usb": "3",
+          "erp_ekozellik_genisletilmispvr": "Evet (yalnızca IL)",
+          "integration_baglantilar_ethernetlan": "Yes",
+          "erp_erisilebilirlik_erisilebilirlikdigerleri": "Büyütme / Yüksek Kontrast / Çoklu Ses Çıkışı / SeeColors / Renkleri Ters Çevirme / Gri Tonlama / İşaret Dili Yakınlaştırma / Yavaş Tekrar Düğmesi / Grafik Yakınlaştırma / Kapalı Ekran",
+          "erp_ekozellik_epg": "Evet",
+          "integration_akillihizmet_isletimsistemi": "Tizen™",
+          "integration_aksesuar_vesaduvarmontedestegi": "Yes",
+          "erp_video_kontrast": "Quantum Matrix Teknolojisi",
+          "integration_video_hdryuksekdinamikaralik": "Quantum HDR 80x",
+          "erp_usptext": "Quantum Matrix Teknolojisi \nTheatermax Ekran\nInfinity-all-metal Tasarım",
+          "erp_ekozellik_usbhiddestegi": "Evet",
+          "erp_product_subtype_name": "QLED",
+          "erp_erisilebilirlik_erisilebilirliksesliyonlendirme": "TÜRKİYE : İngiltere İngilizcesi, Fransa Fransızca, Rusça, Türkçe, İspanya İspanyolca, Korece / İSRAİL : İngiltere İngilizcesi, Fransa Fransızca, Rusça, Türkçe, İspanya İspanyolca, Korece, Almanca",
+          "integration_ses_hoparlorturu": "6.4.4CH",
+          "integration_ekozellik_teletextttx": "Yes",
+          "erp_ekozellik_zamangecisi": "Evet (yalnızca IL)",
+          "integration_tuneryayin_analogfrekansayarlayici": "Yes",
+          "erp_ekran_yenilemehizi": "100Hz",
+          "erp_agirlik_stantlabirliktesetagirligi": "83,6 kg",
+          "erp_ekozellik_connectsharetmusb20": "Evet",
+          "erp_product_type_name": "TV",
+          "erp_color": "Siyah",
+          "erp_video_noisereduction": "Evet",
+          "erp_tasarim_onrenk": "UZAY KARBONU",
+          "integration_ekozellik_osddili": "Local Languages",
+          "erp_akilliozellikler_360kameradestegi": "Evet",
+          "integration_color_code": "#000000",
+          "erp_ses_cokodalibaglanti": "Evet",
+          "erp_ses_qsymphony": "Evet",
+          "erp_category_name_path": "TV/AV|TV'ler|QLED TV",
+          "erp_video_motiontechnology": "Motion Xcelerator Turbo+",
+          "erp_ekozellik_oneconnectbox": "One Connect (Y22 4K)",
+          "integration_ekozellik_epg": "Yes",
+          "integration_category_code": "04010100",
+          "erp_ekozellik_dahilibthid": "Evet",
+          "erp_oyunozellikleri_minimapzoom": "Evet",
+          "integration_video_mikrokarartma": "Ultimate UHD Dimming Pro",
+          "erp_video_automotionplus": "Evet",
+          "integration_video_filmmodu": "Yes",
+          "erp_baglantilar_bluetooth": "Evet (BT5.2)",
+          "erp_baglantilar_rfinkarasalkablouydugirisleri": "1/1(Karasal Yayın için Ortak Kullanım)/2",
+          "integration_ekozellik_altbaslikaltyazi": "Yes",
+          "erp_oyunozellikleri_dinamiksiyaheq": "Evet",
+          "erp_ses_aktifsesyukseltici": "Evet",
+          "integration_tasarim_incetip": "Ultra Slim",
+          "integration_product_type_name": "TV",
+          "integration_agirlik_stantlabirliktesetagirligi": "83.6 kg",
+          "erp_akillihizmet_smartthings": "Evet",
+          "erp_akilliozellikler_dokunveizle": "Evet",
+          "erp_aksesuar_slimfitduvaramontajdestegi": "Dahil",
+          "erp_akilliozellikler_sesyansitma": "Evet",
+          "erp_baglantilar_hdmihizlianahtar": "Evet",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe98qn100btxtk-productfiche.pdf",
+          "erp_video_resimmotoru": "Nöral Quantum işlemci 4K",
+          "integration_tasarim_stantrengi": "SPACE CARBON",
+          "erp_aksesuar_guckablosu": "Evet",
+          "integration_baglantilar_ciyuvasi": "1",
+          "drk_name": "Samsung 2022 98 inç Neo QLED 4K QN100B TV",
+          "integration_boyutlar_paketboyutugxyxd": "2379 x 1431 x 350 mm",
+          "integration_tasarim_stanttipi": "CONNECTED STAND",
+          "erp_model_name": "QE98QN100BT",
+          "integration_grade": "G",
+          "integration_ses_bluetoothsessistemi": "Yes",
+          "erp_ekozellik_ipv6destegi": "Evet",
+          "integration_video_hdr10": "Certified(HDR10+ & HDR10+ GAMING)",
+          "erp_tasarim_tasarim": "Infinity One",
+          "erp_ekozellik_otomatikkanalarama": "Evet",
+          "integration_ses_cokodalibaglanti": "Yes",
+          "integration_baglantilar_bluetooth": "Yes (BT5.2)",
+          "erp_ses_hoparlorturu": "6.4.4 CH",
+          "erp_akilliozellikler_360videooynatici": "Evet",
+          "erp_ses_uyumsaglayanses": "Uyum Sağlayan Ses+",
+          "erp_akilliozellikler_tvsesinimobilcihazaaktarma": "Evet",
+          "erp_akillihizmet_uzakalansesetkilesimi": "Evet",
+          "erp_akilliozellikler_smartthingshub": "Evet",
+          "erp_ekran_antireflectionyansimaonleyici": "Evet",
+          "integration_tasarim_cercevetipi": "4 Bezel-less",
+          "erp_ses_dolbydigitalplus": "MS12 5.1ch",
+          "erp_akilliozellikler_sesduvari": "Evet",
+          "erp_gucvetasarrufcozumleri_enerjituketiminormal": "200 W",
+          "erp_gucvetasarrufcozumleri_guckaynagi": "AC220-240V 50/60Hz",
+          "integration_ekran_ekranboyutu": "98\"",
+          "integration_tuneryayin_veriyayinlama": "HbbTV 2.0.3 (TR)",
+          "integration_baglantilar_rfinkarasalkablouydugirisleri": "1/1(Common Use for Terrestrial)/2",
+          "erp_tuneryayin_analogfrekansayarlayici": "Evet"
+        },
+        "attribute_set": 5,
+        "attributes_kwargs": {
+          "integration_ses_dolbydigitalplus": {
+            "value": "MS12 5.1ch",
+            "data_type": "dropdown",
+            "label": "MS12 5.1ch"
+          },
+          "integration_aksesuar_guckablosu": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_akillihizmet_smartthingsuygulamadestegi": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekozellik_connectsharetmhdd": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_aksesuar_ekilavuz": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ses_bashoparloru": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ses_qsymphony": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekran_ekranboyutu": {
+            "value": "98\"",
+            "data_type": "dropdown",
+            "label": "98\""
+          },
+          "integration_color": {
+            "value": "Black",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "integration_ekozellik_connectsharetmusb20": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_baglantilar_anynethdmicec": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ses_bluetoothsessistemi": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekozellik_resimicinderesim": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_akillihizmet_webtarayicisi": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_video_hdr10": {
+            "value": "Certified(HDR10+ & HDR10+ GAMING)",
+            "data_type": "dropdown",
+            "label": "Certified(HDR10+ & HDR10+ GAMING)"
+          },
+          "integration_baglantilar_ethernetlan": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekozellik_epg": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ses_cokodalibaglanti": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_baglantilar_bluetooth": {
+            "value": "Yes (BT5.2)",
+            "data_type": "dropdown",
+            "label": "Yes (BT5.2)"
+          },
+          "integration_akillihizmet_smartthings": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_baglantilar_hdmiakanaldesteginedon": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekozellik_otomatikkanalarama": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekozellik_usbhiddestegi": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_video_filmmodu": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekozellik_ipv6destegi": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_aksesuar_vesaduvarmontedestegi": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_tuneryayin_analogfrekansayarlayici": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekozellik_altbaslikaltyazi": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "3,840 x 2,160",
+            "data_type": "dropdown",
+            "label": "3,840 x 2,160"
+          },
+          "integration_akillihizmet_uzakalansesetkilesimi": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekozellik_dahilibthid": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_video_hlghibritloggamma": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_video_kontrastartirici": {
+            "value": "Real Depth Enhancer",
+            "data_type": "dropdown",
+            "label": "Real Depth Enhancer"
+          },
+          "integration_ekozellik_mbrdestegi": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_tuneryayin_2frekansayarlayici": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_ekozellik_teletextttx": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_tuneryayin_tvsifresi": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_aksesuar_samsungakillikontroldahil": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_baglantilar_hdmihizlianahtar": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_aksesuar_kullanicikilavuzu": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          },
+          "integration_baglantilar_earc": {
+            "value": "Yes (HDMI 3)",
+            "data_type": "dropdown",
+            "label": "Yes (HDMI 3)"
+          },
+          "integration_video_automotionplus": {
+            "value": "Yes",
+            "data_type": "dropdown",
+            "label": "Yes"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29800,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/03261408-12be-4123-a962-48bfd4c24d7f.jpg",
+            "order": 1,
+            "created_date": "2022-11-01T14:37:01.780923Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29802,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/be86944b-373c-4992-9bf3-2174eb8a5e72.jpg",
+            "order": 2,
+            "created_date": "2022-11-01T14:37:02.037126Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29803,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/5d4532a8-bb35-41d0-9c54-e6f02eff3e55.jpg",
+            "order": 3,
+            "created_date": "2022-11-01T14:37:02.085948Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29804,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/c790c7ef-ae94-4173-a5c8-e6a04f58fb5f.jpg",
+            "order": 4,
+            "created_date": "2022-11-01T14:37:02.142907Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29805,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/d4847879-0de3-4ad5-adae-e47456789ee9.jpg",
+            "order": 5,
+            "created_date": "2022-11-01T14:37:02.181966Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29806,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/a53ed78b-5a98-4fa5-b6d7-0c3b762b36d3.jpg",
+            "order": 6,
+            "created_date": "2022-11-01T14:37:02.224076Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29807,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/c8ca1729-285e-48d5-96f5-678ee9f39d24.jpg",
+            "order": 7,
+            "created_date": "2022-11-01T14:37:02.271283Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29808,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/4ca65577-8d60-4327-a501-1c46fdf61622.jpg",
+            "order": 8,
+            "created_date": "2022-11-01T14:37:02.323813Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29809,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/55d6994f-9345-493a-abf2-cae41a0a5c87.jpg",
+            "order": 9,
+            "created_date": "2022-11-01T14:37:02.375392Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29801,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/54a7e694-c3ea-43e1-a770-303a7663d3b7.jpg",
+            "order": 10,
+            "created_date": "2022-11-01T14:37:01.951073Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "324999",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "324999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/2022-98-inc-neo-qled-4k-qn100b-tv/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 1,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutu",
+              "options": [
+                {
+                  "product": {
+                    "name": "2022 98 inç Neo QLED 4K QN100B TV",
+                    "absolute_url": "/tr/2022-98-inc-neo-qled-4k-qn100b-tv/",
+                    "price": "324999",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_ekran_ekranboyutu": "98\"",
+                      "integration_color": "Black"
+                    },
+                    "pk": 5675,
+                    "retail_price": "324999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/03261408-12be-4123-a962-48bfd4c24d7f.jpg",
+                        "created_date": "2022-11-01T14:37:01.780923Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29800,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/be86944b-373c-4992-9bf3-2174eb8a5e72.jpg",
+                        "created_date": "2022-11-01T14:37:02.037126Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29802,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/5d4532a8-bb35-41d0-9c54-e6f02eff3e55.jpg",
+                        "created_date": "2022-11-01T14:37:02.085948Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29803,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/c790c7ef-ae94-4173-a5c8-e6a04f58fb5f.jpg",
+                        "created_date": "2022-11-01T14:37:02.142907Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29804,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/d4847879-0de3-4ad5-adae-e47456789ee9.jpg",
+                        "created_date": "2022-11-01T14:37:02.181966Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29805,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/a53ed78b-5a98-4fa5-b6d7-0c3b762b36d3.jpg",
+                        "created_date": "2022-11-01T14:37:02.224076Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29806,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/c8ca1729-285e-48d5-96f5-678ee9f39d24.jpg",
+                        "created_date": "2022-11-01T14:37:02.271283Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29807,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/4ca65577-8d60-4327-a501-1c46fdf61622.jpg",
+                        "created_date": "2022-11-01T14:37:02.323813Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29808,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/55d6994f-9345-493a-abf2-cae41a0a5c87.jpg",
+                        "created_date": "2022-11-01T14:37:02.375392Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29809,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/01/15564/54a7e694-c3ea-43e1-a770-303a7663d3b7.jpg",
+                        "created_date": "2022-11-01T14:37:01.951073Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29801,
+                        "order": 10
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "98\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5649,
+        "name": "M5 Serisi 32” FHD Akıllı Monitör",
+        "sku": "LS32BM500EUXUF",
+        "base_code": "416958",
+        "attributes": {
+          "erp_akillihizmet_evrenselkilavuz": "Evet (GB, FR, DE, IT, ES)",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bm500euxuf-energylabel.pdf",
+          "integration_product_type_code": "PT_CD_MONITOR",
+          "integration_arabirim_ciftbaglantilidvi": "Hayır",
+          "integration_grade": "F",
+          "erp_guc_tipi": "Dahili Güç",
+          "erp_ekran_statikkontrastorani": "3.000:1(Normal)",
+          "mp_hdmi": "Var",
+          "erp_guc_guctuketimitip": "27.0 W",
+          "integration_ekran_yanitsuresi": "4ms(GTG)",
+          "mp_ekran_teknolojisi": "Full HD",
+          "erp_ekran_parlakliktipik": "250 cd/㎡",
+          "integration_category_code_path": "07000000|07010000|07010500",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "716.1 x 424.5 x 41.8 mm",
+          "integration_arabirim_kablosuzekran": "Evet",
+          "mp_panel_tipi": "Mekanik",
+          "erp_arabirim_kulaklikcikisi": "Hayır",
+          "erp_akillihizmet_smarttype": "Smart",
+          "integration_arabirim_hdmi": "2 EA",
+          "erp_akillihizmet_tasinabilircihazdanekranagoruntuaktarmadlna": "Evet",
+          "mp_hdcp": "Yok",
+          "erp_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "erp_akillihizmet_dokunveizle": "Evet",
+          "mp_kargo": "yurtici",
+          "erp_grade": "F",
+          "integration_calismakosullari_sicaklik": "10 ~ 40 ℃",
+          "erp_product_type_code": "PT_CD_MONITOR",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bm500euxuf-energylabel.pdf",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_aksesuar_hdmikablosu": "Evet",
+          "erp_aksesuar_uzaktankumanda": "Evet",
+          "mp_dvi": "Yok",
+          "integration_agirlik_ambalajagirligi": "8.1 kg",
+          "erp_tasarim_stanttipi": "SADE",
+          "erp_arabirim_sesgirisi": "Hayır",
+          "integration_ekran_paneltipi": "VA",
+          "integration_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "mp_coz_standart": "Full HD (FHD)",
+          "erp_tasarim_egme": "-2.0°（±2.0°）~+22.0°（±2.0°）",
+          "erp_ses_hoparlor": "Evet",
+          "erp_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "integration_ekran_parlaklikmin": "200 cd/㎡",
+          "erp_boyutlar_stantlabirliktesetboyutugxyxd": "716.1 x 517.0 x 193.5 mm",
+          "integration_ekran_yenilemehizi": "Maks. 60Hz",
+          "mp_dahili_hoparlor": "Yok",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "716.1 x 424.5 x 41.8 mm",
+          "erp_akillihizmet_isletimsistemi": "Tizen™",
+          "erp_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "integration_model_name": "S32BM500EU",
+          "mp_ekran_yenileme_hizi": "60 Hz",
+          "integration_guc_guctuketimiyillik": "49 kWh/yıl",
+          "erp_ekran_enboyorani": "16:9",
+          "mp_trendyol_kargo": "3",
+          "erp_boyutlar_ambalajboyutugxyxd": "842.0 x 133.0 x 487.0 mm",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "mp_sync": "FreeSync",
+          "integration_genelozellikler_oyunmodu": "Evet",
+          "erp_aksesuar_miniekrancinsi": "Hayır",
+          "integration_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_calismakosullari_sicaklik": "10 ~ 40 ℃",
+          "mp_tepki_suresi": "4 ms",
+          "mp_uydu_alici": "Yok",
+          "erp_genelozellikler_windowssertifikasi": "Windows 10",
+          "erp_category_code_path": "07000000|07010000|07010500",
+          "erp_akillihizmet_uzaktanerisim": "Evet",
+          "erp_guc_guckaynagi": "AC 100 ~ 240V",
+          "integration_guc_guctuketimidpms": "0.50 W",
+          "erp_akillihizmet_sesyansitma": "Evet",
+          "mp_3d": "Yok",
+          "erp_arabirim_bluetooth": "Evet (BT4.2)",
+          "integration_product_subtype_name": "LED Monitor",
+          "integration_ekran_statikkontrastorani": "3.000:1(Normal)",
+          "integration_guc_guctuketimimaks": "50 W",
+          "integration_guc_guckaynagi": "AC 100 ~ 240V",
+          "integration_guc_guctuketimitip": "27.0 W",
+          "product_desi": "25",
+          "integration_arabirim_dvi": "Hayır",
+          "erp_agirlik_ambalajagirligi": "8.1 kg",
+          "erp_ekran_parlaklikmin": "200 cd/㎡",
+          "erp_product_subtype_code": "PT_CD_MONITOR_01",
+          "integration_ses_hoparlor": "Evet",
+          "erp_product_subtype_name": "LED Monitor",
+          "erp_arabirim_dvi": "Hayır",
+          "integration_ekran_renkdestegi": "Maks. 1B",
+          "inc_monitor": "27 ve üzeri",
+          "erp_eko_enerjiverimliliksinifi": "F",
+          "integration_guc_tipi": "Dahili Güç",
+          "erp_ekran_hdryuksekdinamikaralik": "HDR10",
+          "mp_kullanim_amaci": "Ev - Okul",
+          "erp_arabirim_microhdmi": "Hayır",
+          "erp_genelozellikler_uyumsaglayangoruntu": "Evet",
+          "erp_ekran_yenilemehizi": "Maks. 60Hz",
+          "erp_agirlik_stantlabirliktesetagirligi": "6.2 kg",
+          "erp_gradecolor": "#f37021",
+          "integration_ekran_parlakliktipik": "250 cd/㎡",
+          "erp_ekran_renkdestegi": "Maks. 1B",
+          "integration_usptext": "Dahili smart uygulamalar\nKablosuz olarak bilgisayardaki dosyalarınıza erişin\nYalnızca bir monitörle ev içi IoT cihazlarını kolayca kontrol edin",
+          "erp_genelozellikler_oyunmodu": "Evet",
+          "integration_aksesuar_hdmikablosu": "Evet",
+          "integration_arabirim_ekranbaglantinoktasiversiyonu": "Hayır",
+          "erp_arabirim_hdmiversiyonu": "1.4",
+          "erp_product_type_name": "Monitor",
+          "erp_tasarim_duvaramonteedilebilir": "100 x 100",
+          "erp_color": "SİYAH",
+          "erp_arabirim_ekranbaglantinoktasiversiyonu": "Hayır",
+          "erp_genelozellikler_gamebar20": "Evet",
+          "erp_tasarim_onrenk": "SİYAH",
+          "erp_tasarim_arkarenk": "SİYAH",
+          "integration_arabirim_sesgirisi": "Hayır",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3",
+          "erp_guc_guctuketimiyillik": "49 kWh/yıl",
+          "integration_color": "SİYAH",
+          "mp_cozunurluk": "1920 x 1080",
+          "erp_arabirim_usbmerkezi": "2",
+          "erp_category_name_path": "Display|Monitör|Düz",
+          "integration_boyutlar_ambalajboyutugxyxd": "842.0 x 133.0 x 487.0 mm",
+          "erp_guc_guctuketimidpms": "0.50 W",
+          "erp_ean": "8806094253887",
+          "integration_category_code": "07010500",
+          "erp_arabirim_dahilikamera": "Hayır",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "integration_categoryenglishnamepath": "Display|Monitors|Flat",
+          "erp_ekran_ekranboyutusinif": "32",
+          "mp_curved": "Yok",
+          "erp_agirlik_stantsizsetagirligi": "5.1 kg",
+          "integration_aksesuar_miniekrancinsi": "Hayır",
+          "mp_kontrast": "1000:1",
+          "mp_goruntu_teknolojisi": "LED",
+          "erp_ekran_paneltipi": "VA",
+          "erp_arabirim_kablosuzekran": "Evet",
+          "erp_arabirim_ekranbaglantinoktasi": "Hayır",
+          "erp_akillihizmet_smartthingsuygulamasinidestekler": "Evet",
+          "erp_genelozellikler_autosourceswitch": "Evet",
+          "mp_ekran_boyutu": "32 inç",
+          "integration_product_type_name": "Monitor",
+          "integration_agirlik_stantlabirliktesetagirligi": "6.2 kg",
+          "erp_akillihizmet_smartthings": "Evet",
+          "integration_ekran_ekranboyutusinif": "32",
+          "integration_ekran_enboyorani": "16:9",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bm500euxuf-productfiche.pdf",
+          "integration_genelozellikler_titresimsiz": "Evet",
+          "integration_tasarim_duvaramonteedilebilir": "100 x 100",
+          "b2b_purchase_limit_per_basket": "2",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bm500euxuf-productfiche.pdf",
+          "erp_categoryenglishnamepath": "Display|Monitors|Flat",
+          "erp_color_code": "#000000",
+          "erp_category_code": "07010500",
+          "erp_ekran_duzkavisli": "Düz",
+          "erp_akillihizmet_tvplus": "Evet (GB, FR, DE, IT, ES, CH, AT, NL, SE, NO, DK, FI, PT, IE, BE, LU)",
+          "integration_gradecolor": "#f37021",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_genelozellikler_ultragenisoyungoruntusu": "Evet",
+          "erp_calismakosullari_nem": "10 ~ 80(donmayan)",
+          "integration_category_name_path": "Display|Monitör|Düz",
+          "drk_name": "Samsung M5 Serisi 32” FHD Akıllı Monitör Siyah",
+          "integration_tasarim_stanttipi": "SADE",
+          "mp_display_port": "Yok",
+          "integration_arabirim_kulaklikcikisi": "Hayır",
+          "erp_ekran_izlemeacisiyd": "178°(Y)/178°(D)",
+          "erp_guc_guctuketimimaks": "50 W",
+          "erp_ekran_yanitsuresi": "4ms(GTG)",
+          "mp_vga": "Var",
+          "erp_akillihizmet_connectsharetmusb20": "Evet",
+          "erp_usptext": "Dahili smart uygulamalar\nKablosuz olarak bilgisayardaki dosyalarınıza erişin\nYalnızca bir monitörle ev içi IoT cihazlarını kolayca kontrol edin",
+          "integration_ean": "8806094253887",
+          "erp_arabirim_wifi": "Evet (WiFi5)",
+          "mp_vesa_uyumlulugu": "Var",
+          "integration_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_genelozellikler_windowssertifikasi": "Windows 10",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_arabirim_hdmiversiyonu": "1.4",
+          "erp_arabirim_dsub": "Hayır",
+          "integration_arabirim_usbc": "Hayır",
+          "integration_calismakosullari_nem": "10 ~ 80(donmayan)",
+          "integration_arabirim_ekranbaglantinoktasi": "Hayır",
+          "integration_arabirim_dsub": "Hayır",
+          "integration_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_genelozellikler_titresimsiz": "Evet",
+          "erp_model_name": "S32BM500EU",
+          "integration_boyutlar_stantlabirliktesetboyutugxyxd": "716.1 x 517.0 x 193.5 mm",
+          "mp_hb_kargo": "3",
+          "integration_ekran_hdryuksekdinamikaralik": "HDR10",
+          "integration_ekran_etkinekranboyutuyxdmm": "698.4 (H) x 392.85 (V)",
+          "integration_ekran_cozunurluk": "1,920 x 1,080",
+          "erp_arabirim_hdmi": "2 EA",
+          "erp_arabirim_usbc": "Hayır",
+          "erp_genelozellikler_gozkoruyucumodu": "Evet",
+          "erp_akillihizmet_goruntuluiletisim": "Google Duo",
+          "integration_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "integration_ekran_izlemeacisiyd": "178°(Y)/178°(D)",
+          "integration_ekran_duzkavisli": "Düz",
+          "integration_agirlik_stantsizsetagirligi": "5.1 kg",
+          "erp_genelozellikler_hdmicec": "Evet",
+          "erp_akillihizmet_webservice": "Microsoft 365",
+          "integration_arabirim_usbmerkezi": "2",
+          "erp_tasarim_stantrengi": "SİYAH",
+          "erp_ekran_etkinekranboyutuyxdmm": "698.4 (H) x 392.85 (V)",
+          "erp_ekran_cozunurluk": "1,920 x 1,080"
+        },
+        "attribute_set": 11,
+        "attributes_kwargs": {
+          "integration_arabirim_ciftbaglantilidvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdmi": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_ekran_hdryuksekdinamikaralik": {
+            "value": "HDR10",
+            "data_type": "dropdown",
+            "label": "HDR10"
+          },
+          "mp_sync": {
+            "value": "FreeSync",
+            "data_type": "dropdown",
+            "label": "FreeSync"
+          },
+          "integration_genelozellikler_oyunmodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_dvi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikis": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_boyutu": {
+            "value": "32 inç",
+            "data_type": "dropdown",
+            "label": "32 inç"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_tepki_suresi": {
+            "value": "4 ms",
+            "data_type": "dropdown",
+            "label": "4 ms"
+          },
+          "mp_ekran_teknolojisi": {
+            "value": "Full HD",
+            "data_type": "dropdown",
+            "label": "Full HD"
+          },
+          "mp_uydu_alici": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_display_port": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "SİYAH",
+            "data_type": "dropdown",
+            "label": "SİYAH"
+          },
+          "mp_cozunurluk": {
+            "value": "1920 x 1080",
+            "data_type": "dropdown",
+            "label": "1920 x 1080"
+          },
+          "mp_vga": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_arabirim_usbmerkezi": {
+            "value": "2",
+            "data_type": "dropdown",
+            "label": "2"
+          },
+          "integration_arabirim_kablosuzekran": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_hdcp": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_3d": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_usbc": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_vesa_uyumlulugu": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_genelozellikler_gozkoruyucumodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_hdmikablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "mp_curved": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_titresimsiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_miniekrancinsi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kontrast": {
+            "value": "1000:1",
+            "data_type": "dropdown",
+            "label": "1000:1"
+          },
+          "mp_goruntu_teknolojisi": {
+            "value": "LED",
+            "data_type": "dropdown",
+            "label": "LED"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "1,920 x 1,080",
+            "data_type": "dropdown",
+            "label": "1,920 x 1,080"
+          },
+          "mp_coz_standart": {
+            "value": "Full HD (FHD)",
+            "data_type": "dropdown",
+            "label": "Full HD (FHD)"
+          },
+          "mp_dahili_hoparlor": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "inc_monitor": {
+            "value": "27 ve üzeri",
+            "data_type": "dropdown",
+            "label": "27 ve üzeri"
+          },
+          "integration_ekran_ekranboyutusinif": {
+            "value": "32",
+            "data_type": "dropdown",
+            "label": "32\""
+          },
+          "mp_kullanim_amaci": {
+            "value": "Ev - Okul",
+            "data_type": "dropdown",
+            "label": "Ev - Okul"
+          },
+          "integration_arabirim_dvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_yenileme_hizi": {
+            "value": "60 Hz",
+            "data_type": "dropdown",
+            "label": "60 Hz"
+          },
+          "mp_panel_tipi": {
+            "value": "Mekanik",
+            "data_type": "dropdown",
+            "label": "Mekanik"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29743,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/2a8275aa-4a3a-4873-85e7-93c7e76230fe.jpg",
+            "order": 1,
+            "created_date": "2022-10-31T11:17:32.435239Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29744,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/ea21bdf8-ba6c-4f93-a576-516f522e252f.jpg",
+            "order": 2,
+            "created_date": "2022-10-31T11:17:32.575701Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29745,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/51a004d4-7e8f-49ca-b3fb-2681a25d3c20.jpg",
+            "order": 3,
+            "created_date": "2022-10-31T11:17:32.612067Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29746,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/77a8f709-ab7f-4e91-8c9f-5e5ff0eb87ab.jpg",
+            "order": 4,
+            "created_date": "2022-10-31T11:17:32.657745Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29747,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/308040c8-7b4e-4cc0-aa72-341334756409.jpg",
+            "order": 5,
+            "created_date": "2022-10-31T11:17:32.702133Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29748,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/0470381d-9364-4a68-9718-d07e763cf054.jpg",
+            "order": 6,
+            "created_date": "2022-10-31T11:17:32.738579Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29750,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/b8ff2433-c12b-4009-af09-20aee6038943.jpg",
+            "order": 7,
+            "created_date": "2022-10-31T11:17:32.924856Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "5199",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "7400",
+        "unit_type": "qty",
+        "absolute_url": "/tr/m5-serisi-32-fhd-akilli-monitor-3/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 31,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutusinif",
+              "options": [
+                {
+                  "product": {
+                    "name": "M5 Serisi 32” FHD Akıllı Monitör",
+                    "absolute_url": "/tr/m5-serisi-32-fhd-akilli-monitor-3/",
+                    "price": "5199",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_ekran_ekranboyutusinif": "32",
+                      "integration_color": "SİYAH"
+                    },
+                    "pk": 5649,
+                    "retail_price": "7400",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/2a8275aa-4a3a-4873-85e7-93c7e76230fe.jpg",
+                        "created_date": "2022-10-31T11:17:32.435239Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29743,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/ea21bdf8-ba6c-4f93-a576-516f522e252f.jpg",
+                        "created_date": "2022-10-31T11:17:32.575701Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29744,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/51a004d4-7e8f-49ca-b3fb-2681a25d3c20.jpg",
+                        "created_date": "2022-10-31T11:17:32.612067Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29745,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/77a8f709-ab7f-4e91-8c9f-5e5ff0eb87ab.jpg",
+                        "created_date": "2022-10-31T11:17:32.657745Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29746,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/308040c8-7b4e-4cc0-aa72-341334756409.jpg",
+                        "created_date": "2022-10-31T11:17:32.702133Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29747,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/0470381d-9364-4a68-9718-d07e763cf054.jpg",
+                        "created_date": "2022-10-31T11:17:32.738579Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29748,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/31/15511/b8ff2433-c12b-4009-af09-20aee6038943.jpg",
+                        "created_date": "2022-10-31T11:17:32.924856Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29750,
+                        "order": 7
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "32\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5611,
+        "name": "Galaxy Watch5 Rugged Spor Tarzı Kayış (M/L)",
+        "sku": "ET-SXR91LBEGWW",
+        "base_code": "430950",
+        "attributes": {
+          "integration_usptext": "Hareketli yaşam tarzınıza uyan bir tercih\nHer harekette bileğiniz daha da rahat",
+          "erp_color_code": "#3d3c3f",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050300",
+          "mp_kargo": "yurtici",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy Watch4, Galaxy Watch4 Classic, Galaxy Watch5, Galaxy Watch5 Pro",
+          "erp_color": "Siyah",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "28.8 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "drk_name": "Samsung Galaxy Watch 4 & Watch 5 Rugged Sport Band (20mm, M/L) - Siyah",
+          "integration_color_code": "#3d3c3f",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "01000000|01050000|01050300",
+          "erp_category_code_path": "01000000|01050000|01050300",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_usptext": "Hareketli yaşam tarzınıza uyan bir tercih\nHer harekette bileğiniz daha da rahat",
+          "integration_ean": "8806094624687",
+          "erp_ean": "8806094624687",
+          "integration_category_code": "01050300",
+          "mp_diger_markalar": "Samsung",
+          "akilli_saat_urun_sinifi": "Galaxy Watch",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "3",
+          "erp_fizikselozellikler_boyutlartokalibileklikgxyxd": "29.4x86.0x16.3 mm",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "integration_Boyut_mnl": "M/L",
+          "erp_model_name": "ET-SXR91",
+          "integration_product_subtype_name": "Strap",
+          "erp_tipi": "Fluoroelastomer Watch Strap",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "erp_renk": "Siyah",
+          "erp_product_subtype_name": "Strap",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_genelozellikler_ambalajicerigi": "Strap",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_fizikselozellikler_malzeme": "Fluoroelastomer",
+          "integration_model_name": "ET-SXR91",
+          "purchase_limit_per_basket": "1",
+          "erp_fizikselozellikler_boyutlaryekparebileklikgxyxd": "24.2x131.0x16.6 mm"
+        },
+        "attribute_set": 265,
+        "attributes_kwargs": {
+          "integration_Boyut_mnl": {
+            "value": "M/L",
+            "data_type": "dropdown",
+            "label": "M/L"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "akilli_saat_urun_sinifi": {
+            "value": "Galaxy Watch",
+            "data_type": "dropdown",
+            "label": "Galaxy Watch"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29600,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15356/06fc571b-42f5-473e-9e12-4d7c014fe893.jpg",
+            "order": 1,
+            "created_date": "2022-10-19T14:43:28.520126Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29621,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15356/3d70cb33-2e0f-4335-b488-441e4b4fad0f.jpg",
+            "order": 2,
+            "created_date": "2022-10-19T14:43:30.201980Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29638,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15356/000be096-5ce1-4ead-942b-115d0cfaea44.jpg",
+            "order": 3,
+            "created_date": "2022-10-19T14:43:31.682778Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "999",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-watch5-rugged-spor-tarzi-kayis-m-l/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Rugged Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/galaxy-watch5-rugged-spor-tarzi-kayis-m-l/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#3d3c3f",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5611,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15356/06fc571b-42f5-473e-9e12-4d7c014fe893.jpg",
+                        "created_date": "2022-10-19T14:43:28.520126Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29600,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15356/3d70cb33-2e0f-4335-b488-441e4b4fad0f.jpg",
+                        "created_date": "2022-10-19T14:43:30.201980Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29621,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15356/000be096-5ce1-4ead-942b-115d0cfaea44.jpg",
+                        "created_date": "2022-10-19T14:43:31.682778Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29638,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Rugged Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/product/5614/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#50554f",
+                      "integration_color": "Haki"
+                    },
+                    "pk": 5614,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15375/0f15fee3-9db1-4ba4-ab5b-932998a15ba0.jpg",
+                        "created_date": "2022-10-19T14:43:31.833607Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29641,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15359/b27ebee9-69ad-4d89-acc3-4d5636de194f.jpg",
+                        "created_date": "2022-10-19T14:43:28.749033Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29602,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15359/29b9346f-0a28-4aff-be4d-6aee5ea61fb0.jpg",
+                        "created_date": "2022-10-19T14:43:29.235754Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29609,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Haki"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Rugged Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/galaxy-watch5-rugged-spor-tarzi-kayis-m-l-1/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#c8caca",
+                      "integration_color": "Kum Rengi"
+                    },
+                    "pk": 5613,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15358/63e6e7a0-0bf7-44fd-ad97-72c38453efe2.jpg",
+                        "created_date": "2022-10-19T14:43:28.635110Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29601,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15358/1100100f-c731-4401-950b-c3584c729977.jpg",
+                        "created_date": "2022-10-19T14:43:31.740237Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29639,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15358/20fdd2f6-b116-42cb-8c42-181efb7d9735.jpg",
+                        "created_date": "2022-10-19T14:43:31.794923Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29640,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Kum Rengi"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Rugged Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/product/5612/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#867e74",
+                      "integration_color": "Gri"
+                    },
+                    "pk": 5612,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15357/af6f1b1c-7143-44ce-8aad-1e3225a7f996.jpg",
+                        "created_date": "2022-10-19T14:43:30.287989Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29622,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15357/2e2184ba-d28b-4606-87b2-a28e0f568b9b.jpg",
+                        "created_date": "2022-10-19T14:43:30.740785Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29626,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15357/399d56e4-1a54-4bf0-8ba5-41dcfe665389.jpg",
+                        "created_date": "2022-10-19T14:43:30.811682Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29627,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Gri"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5607,
+        "name": "Galaxy Watch5 Rugged Spor Tarzı Kayış (S/M)",
+        "sku": "ET-SXR90SBEGWW",
+        "base_code": "430651",
+        "attributes": {
+          "integration_usptext": "Hareketli yaşam tarzınıza uyan bir tercih\nHer harekette bileğiniz daha da rahat",
+          "erp_color_code": "#3d3c3f",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050300",
+          "mp_kargo": "yurtici",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy Watch4, Galaxy Watch4 Classic, Galaxy Watch5, Galaxy Watch5 Pro",
+          "erp_color": "Siyah",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "27.8 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "drk_name": "Samsung Galaxy Watch 4 & Watch 5 Rugged Sport Band (20mm, S/M) - Siyah",
+          "integration_color_code": "#3d3c3f",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "01000000|01050000|01050300",
+          "erp_category_code_path": "01000000|01050000|01050300",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_usptext": "Hareketli yaşam tarzınıza uyan bir tercih\nHer harekette bileğiniz daha da rahat",
+          "integration_ean": "8806094624724",
+          "erp_ean": "8806094624724",
+          "integration_category_code": "01050300",
+          "mp_diger_markalar": "Samsung",
+          "akilli_saat_urun_sinifi": "Galaxy Watch",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "3",
+          "erp_fizikselozellikler_boyutlartokalibileklikgxyxd": "29.4x86.0x16.3 mm",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "integration_Boyut_mnl": "S/M",
+          "erp_model_name": "ET-SXR90",
+          "integration_product_subtype_name": "Strap",
+          "erp_tipi": "Fluoroelastomer Watch Strap",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "erp_renk": "Siyah",
+          "erp_product_subtype_name": "Strap",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_genelozellikler_ambalajicerigi": "Strap",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_fizikselozellikler_malzeme": "Fluoroelastomer",
+          "integration_model_name": "ET-SXR90",
+          "purchase_limit_per_basket": "1",
+          "erp_fizikselozellikler_boyutlaryekparebileklikgxyxd": "24.2x120.6x16.6 mm"
+        },
+        "attribute_set": 265,
+        "attributes_kwargs": {
+          "integration_Boyut_mnl": {
+            "value": "S/M",
+            "data_type": "dropdown",
+            "label": "S/M"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "akilli_saat_urun_sinifi": {
+            "value": "Galaxy Watch",
+            "data_type": "dropdown",
+            "label": "Galaxy Watch"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29625,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15352/8d234b85-9a7d-445b-84d4-747bf2c9650b.jpg",
+            "order": 1,
+            "created_date": "2022-10-19T14:43:30.666066Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29598,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15352/5d823bf9-1fe2-4f2b-9eb1-e0725f056238.jpg",
+            "order": 2,
+            "created_date": "2022-10-19T14:43:28.290500Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29619,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15352/f9688770-a6ba-451c-ae85-b0ab08ae3efa.jpg",
+            "order": 3,
+            "created_date": "2022-10-19T14:43:29.910028Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "999",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-watch5-rugged-spor-tarzi-kayis-s-m/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Rugged Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/galaxy-watch5-rugged-spor-tarzi-kayis-s-m/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#3d3c3f",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5607,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15352/8d234b85-9a7d-445b-84d4-747bf2c9650b.jpg",
+                        "created_date": "2022-10-19T14:43:30.666066Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29625,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15352/5d823bf9-1fe2-4f2b-9eb1-e0725f056238.jpg",
+                        "created_date": "2022-10-19T14:43:28.290500Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29598,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15352/f9688770-a6ba-451c-ae85-b0ab08ae3efa.jpg",
+                        "created_date": "2022-10-19T14:43:29.910028Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29619,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Rugged Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/galaxy-watch5-rugged-spor-tarzi-kayis-s-m-1/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#50554f",
+                      "integration_color": "Haki"
+                    },
+                    "pk": 5610,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15369/c1b7d6b0-1be4-41a0-87f1-bcfd20ba9f0e.jpg",
+                        "created_date": "2022-10-19T14:43:30.961852Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29629,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15355/5feb4984-d401-4d5c-a1a8-422b232dd33e.jpg",
+                        "created_date": "2022-10-19T14:43:31.542685Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29636,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15355/feb6fab9-e24c-49b3-895c-51bdb460b0f8.jpg",
+                        "created_date": "2022-10-19T14:43:27.869685Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29593,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Haki"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Rugged Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/product/5609/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#c8caca",
+                      "integration_color": "Kum Rengi"
+                    },
+                    "pk": 5609,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15354/f84afbc0-76bb-474e-afdd-5bc02372ace0.jpg",
+                        "created_date": "2022-10-19T14:43:31.413027Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29635,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15354/1b272220-8108-4079-8fec-b676ce142681.jpg",
+                        "created_date": "2022-10-19T14:43:29.666375Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29617,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15354/27dc4853-9112-40eb-9bd3-70cc1fccd642.jpg",
+                        "created_date": "2022-10-19T14:43:31.208665Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29632,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Kum Rengi"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Rugged Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/product/5608/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#867e74",
+                      "integration_color": "Gri"
+                    },
+                    "pk": 5608,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15353/016da9e3-ff40-4f4f-9432-2e4342d8e6d9.jpg",
+                        "created_date": "2022-10-19T14:43:30.016777Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29620,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15353/f0cdb218-d7f2-45b8-82bb-fb23dd51fbc4.jpg",
+                        "created_date": "2022-10-19T14:43:31.354390Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29634,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15353/b8fc7f77-e25a-4445-93b5-58361e4636db.jpg",
+                        "created_date": "2022-10-19T14:43:31.313196Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29633,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Gri"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5604,
+        "name": "Galaxy Watch5 İki Tonlu Spor Tarzı Kayış (M/L)",
+        "sku": "ET-STR91LJEGWW",
+        "base_code": "430654",
+        "attributes": {
+          "integration_usptext": "Spor tarzı bir kayışta iki ayrı ton\nBileğinizdeki kusursuz konfor",
+          "erp_color_code": "#c8caca",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050300",
+          "mp_kargo": "yurtici",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy Watch4, Galaxy Watch4 Classic, Galaxy Watch5, Galaxy Watch5 Pro",
+          "erp_color": "Kum Rengi",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "22.9 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "drk_name": "Samsung Galaxy Watch 4 & Watch 5 Two-tone Sport Band (20mm, M/L) - Kum Grisi",
+          "integration_color_code": "#c8caca",
+          "integration_color": "Kum Rengi",
+          "integration_category_code_path": "01000000|01050000|01050300",
+          "erp_category_code_path": "01000000|01050000|01050300",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_usptext": "Spor tarzı bir kayışta iki ayrı ton\nBileğinizdeki kusursuz konfor",
+          "integration_ean": "8806094527971",
+          "erp_ean": "8806094527971",
+          "integration_category_code": "01050300",
+          "mp_diger_markalar": "Samsung",
+          "akilli_saat_urun_sinifi": "Galaxy Watch",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "3",
+          "erp_fizikselozellikler_boyutlartokalibileklikgxyxd": "26.8x86.4x11.8 mm",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "integration_Boyut_mnl": "M/L",
+          "erp_model_name": "ET-STR91",
+          "integration_product_subtype_name": "Strap",
+          "erp_tipi": "Fluoroelastomer Watch Strap",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "erp_renk": "Kum Rengi",
+          "erp_product_subtype_name": "Strap",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_genelozellikler_ambalajicerigi": "Strap",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_fizikselozellikler_malzeme": "Fluoroelastomer",
+          "integration_model_name": "ET-STR91",
+          "purchase_limit_per_basket": "1",
+          "erp_fizikselozellikler_boyutlaryekparebileklikgxyxd": "23.2x131.1x11.8 mm"
+        },
+        "attribute_set": 265,
+        "attributes_kwargs": {
+          "integration_Boyut_mnl": {
+            "value": "M/L",
+            "data_type": "dropdown",
+            "label": "M/L"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "integration_color": {
+            "value": "Kum Rengi",
+            "data_type": "dropdown",
+            "label": "Kum Rengi"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "akilli_saat_urun_sinifi": {
+            "value": "Galaxy Watch",
+            "data_type": "dropdown",
+            "label": "Galaxy Watch"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29614,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15349/bcf426cb-ec7f-49b5-9711-140da98bc68a.jpg",
+            "order": 1,
+            "created_date": "2022-10-19T14:43:29.460644Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29616,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15349/2b1bb5cb-cd87-4234-80ee-1f156d6c833e.jpg",
+            "order": 2,
+            "created_date": "2022-10-19T14:43:29.625665Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29615,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15349/825a0ecd-212a-4b2a-9c00-30046782dcc7.jpg",
+            "order": 3,
+            "created_date": "2022-10-19T14:43:29.584980Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "999",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-watch5-iki-tonlu-spor-tarzi-kayis-m-l/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 İki Tonlu Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/galaxy-watch5-iki-tonlu-spor-tarzi-kayis-m-l-1/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#cd5953",
+                      "integration_color": "Kırmızı"
+                    },
+                    "pk": 5606,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15351/f4a09dc3-e025-428e-9cdc-e9336f5a9744.jpg",
+                        "created_date": "2022-10-19T14:43:27.497278Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29590,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15374/e01bc23e-7b2f-495f-a71d-35cd4f0a6e69.jpg",
+                        "created_date": "2022-10-19T14:43:31.041866Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29630,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15351/257d7ffb-0135-4c86-ba28-411a4e268a25.jpg",
+                        "created_date": "2022-10-19T14:43:27.982777Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29594,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Kırmızı"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 İki Tonlu Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/galaxy-watch5-iki-tonlu-spor-tarzi-kayis-m-l/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#c8caca",
+                      "integration_color": "Kum Rengi"
+                    },
+                    "pk": 5604,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15349/bcf426cb-ec7f-49b5-9711-140da98bc68a.jpg",
+                        "created_date": "2022-10-19T14:43:29.460644Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29614,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15349/2b1bb5cb-cd87-4234-80ee-1f156d6c833e.jpg",
+                        "created_date": "2022-10-19T14:43:29.625665Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29616,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15349/825a0ecd-212a-4b2a-9c00-30046782dcc7.jpg",
+                        "created_date": "2022-10-19T14:43:29.584980Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29615,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Kum Rengi"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 İki Tonlu Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/product/5605/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#353e52",
+                      "integration_color": "Lacivert"
+                    },
+                    "pk": 5605,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15350/336763da-a71f-4777-a567-2837a3173311.jpg",
+                        "created_date": "2022-10-19T14:43:30.434387Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29623,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15350/f054be7f-940b-4b68-a22f-58d099bdb143.jpg",
+                        "created_date": "2022-10-19T14:43:30.880336Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29628,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15350/c944cdfc-39b8-42f4-b6b3-ce80a0b7316f.jpg",
+                        "created_date": "2022-10-19T14:43:30.573346Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29624,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Lacivert"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5601,
+        "name": "Galaxy Watch5 İki Tonlu Spor Tarzı Kayış (S/M)",
+        "sku": "ET-STR90SJEGWW",
+        "base_code": "430655",
+        "attributes": {
+          "integration_usptext": "Spor tarzı bir kayışta iki ayrı ton\nBileğinizdeki kusursuz konfor",
+          "erp_color_code": "#c8caca",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050300",
+          "mp_kargo": "yurtici",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy Watch4, Galaxy Watch4 Classic, Galaxy Watch5, Galaxy Watch5 Pro",
+          "erp_color": "Kum Rengi",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "21.8 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "drk_name": "Samsung Galaxy Watch 4 & Watch 5 Two-tone Sport Band (20mm, S/M) - Kum Grisi",
+          "integration_color_code": "#c8caca",
+          "integration_color": "Kum Rengi",
+          "integration_category_code_path": "01000000|01050000|01050300",
+          "erp_category_code_path": "01000000|01050000|01050300",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_usptext": "Spor tarzı bir kayışta iki ayrı ton\nBileğinizdeki kusursuz konfor",
+          "integration_ean": "8806094528152",
+          "erp_ean": "8806094528152",
+          "integration_category_code": "01050300",
+          "mp_diger_markalar": "Samsung",
+          "akilli_saat_urun_sinifi": "Galaxy Watch",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "3",
+          "erp_fizikselozellikler_boyutlartokalibileklikgxyxd": "26.8x86.4x11.8 mm",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "integration_Boyut_mnl": "S/M",
+          "erp_model_name": "ET-STR90",
+          "integration_product_subtype_name": "Strap",
+          "erp_tipi": "Fluoroelastomer Watch Strap",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "erp_renk": "Kum Rengi",
+          "erp_product_subtype_name": "Strap",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_genelozellikler_ambalajicerigi": "Strap",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_fizikselozellikler_malzeme": "Fluoroelastomer",
+          "integration_model_name": "ET-STR90",
+          "purchase_limit_per_basket": "1",
+          "erp_fizikselozellikler_boyutlaryekparebileklikgxyxd": "23.2x116.1x11.8 mm"
+        },
+        "attribute_set": 265,
+        "attributes_kwargs": {
+          "integration_Boyut_mnl": {
+            "value": "S/M",
+            "data_type": "dropdown",
+            "label": "S/M"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "integration_color": {
+            "value": "Kum Rengi",
+            "data_type": "dropdown",
+            "label": "Kum Rengi"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "akilli_saat_urun_sinifi": {
+            "value": "Galaxy Watch",
+            "data_type": "dropdown",
+            "label": "Galaxy Watch"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29596,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15346/bce195d0-6164-4fc3-a868-1e142b90477c.jpg",
+            "order": 1,
+            "created_date": "2022-10-19T14:43:28.140535Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29606,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15346/cc90960e-e755-472c-aadc-da5b9414baff.jpg",
+            "order": 2,
+            "created_date": "2022-10-19T14:43:29.130907Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29591,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15346/b60086bc-0012-4172-ba45-d5a8fa8363f4.jpg",
+            "order": 3,
+            "created_date": "2022-10-19T14:43:27.656842Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "999",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-watch5-iki-tonlu-spor-tarzi-kayis-s-m/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 İki Tonlu Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/product/5603/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#cd5953",
+                      "integration_color": "Kırmızı"
+                    },
+                    "pk": 5603,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15348/f6dad725-3adf-4801-8d9d-895875fcd0eb.jpg",
+                        "created_date": "2022-10-19T14:43:29.365411Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29612,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15348/af18d8ca-68aa-4d4f-aae9-f51916f67cda.jpg",
+                        "created_date": "2022-10-19T14:43:28.862923Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29603,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15348/3c2fcc20-77e9-4cdd-abbd-fc8b9d8a13da.jpg",
+                        "created_date": "2022-10-19T14:43:29.092048Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29605,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Kırmızı"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 İki Tonlu Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/galaxy-watch5-iki-tonlu-spor-tarzi-kayis-s-m/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#c8caca",
+                      "integration_color": "Kum Rengi"
+                    },
+                    "pk": 5601,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15346/bce195d0-6164-4fc3-a868-1e142b90477c.jpg",
+                        "created_date": "2022-10-19T14:43:28.140535Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29596,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15346/cc90960e-e755-472c-aadc-da5b9414baff.jpg",
+                        "created_date": "2022-10-19T14:43:29.130907Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29606,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15346/b60086bc-0012-4172-ba45-d5a8fa8363f4.jpg",
+                        "created_date": "2022-10-19T14:43:27.656842Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29591,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Kum Rengi"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 İki Tonlu Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/product/5602/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#353e52",
+                      "integration_color": "Lacivert"
+                    },
+                    "pk": 5602,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15347/18c7a48f-25de-4f18-aca9-96ab1a5ddc95.jpg",
+                        "created_date": "2022-10-19T14:43:29.162356Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29607,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15347/43af2eb6-7777-421e-8a97-4aa5336abf4a.jpg",
+                        "created_date": "2022-10-19T14:43:28.418943Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29599,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15347/a3cbab00-4463-469d-a98f-16ff7959cca3.jpg",
+                        "created_date": "2022-10-19T14:43:29.284522Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29610,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Lacivert"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5587,
+        "name": "Galaxy Watch5 D Tokalı Spor Tarzı Kayış (M/L)",
+        "sku": "ET-SFR92LJEGWW",
+        "base_code": "430649",
+        "attributes": {
+          "integration_usptext": "Saatiniz için zamanın ötesinde bir tasarım\nBileğinizdeki kusursuz konfor",
+          "erp_color_code": "#867e74",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050300",
+          "mp_kargo": "yurtici",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy Watch4, Galaxy Watch4 Classic, Galaxy Watch5, Galaxy Watch5 Pro",
+          "erp_color": "Gri",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "28.4 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "drk_name": "Samsung Galaxy Watch 4 & Watch 5 D-Buckle Sport Band - Gri",
+          "integration_color_code": "#867e74",
+          "integration_color": "Gri",
+          "integration_category_code_path": "01000000|01050000|01050300",
+          "erp_category_code_path": "01000000|01050000|01050300",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_usptext": "Saatiniz için zamanın ötesinde bir tasarım\nBileğinizdeki kusursuz konfor",
+          "integration_ean": "8806094527858",
+          "erp_ean": "8806094527858",
+          "integration_category_code": "01050300",
+          "mp_diger_markalar": "Samsung",
+          "akilli_saat_urun_sinifi": "Galaxy Watch",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "3",
+          "erp_fizikselozellikler_boyutlartokalibileklikgxyxd": "24.2x87.2x17.6 mm",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "integration_Boyut_mnl": "M/L",
+          "erp_model_name": "ET-SFR92",
+          "integration_product_subtype_name": "Strap",
+          "erp_tipi": "Fluoroelastomer Watch Strap",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "erp_renk": "Gri",
+          "erp_product_subtype_name": "Strap",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_genelozellikler_ambalajicerigi": "Strap",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_fizikselozellikler_malzeme": "Fluoroelastomer and Titanium",
+          "integration_model_name": "ET-SFR92",
+          "purchase_limit_per_basket": "1",
+          "erp_fizikselozellikler_boyutlaryekparebileklikgxyxd": "24.2x128.0x24.0 mm"
+        },
+        "attribute_set": 265,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Gri",
+            "data_type": "dropdown",
+            "label": "Gri"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "integration_Boyut_mnl": {
+            "value": "M/L",
+            "data_type": "dropdown",
+            "label": "M/L"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "akilli_saat_urun_sinifi": {
+            "value": "Galaxy Watch",
+            "data_type": "dropdown",
+            "label": "Galaxy Watch"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29582,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14988/7a7d3544-6786-4391-8807-8e789e455594.jpg",
+            "order": 1,
+            "created_date": "2022-10-19T14:01:10.913178Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29581,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14988/15bc6678-89c8-4a87-b6dc-63b749a07a54.jpg",
+            "order": 2,
+            "created_date": "2022-10-19T14:01:10.792876Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29585,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14988/65da6831-ad6b-4380-8ebf-e2cd7dd0e02c.jpg",
+            "order": 3,
+            "created_date": "2022-10-19T14:01:11.164567Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1999",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "1999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-watch5-d-tokali-spor-tarzi-kayis-m-l/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 14,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 D Tokalı Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/galaxy-watch5-d-tokali-spor-tarzi-kayis-m-l-1/",
+                    "price": "1999",
+                    "attributes": {
+                      "integration_color_code": "#3c3c3e",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5596,
+                    "retail_price": "1999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14985/14271cc3-16c8-4fac-97e7-395564284e30.jpg",
+                        "created_date": "2022-10-19T14:01:10.962742Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29583,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15248/aaaabb10-4455-4ffb-91c3-58ac395ec6ba.jpg",
+                        "created_date": "2022-10-19T14:01:11.206837Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29586,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14985/2fa1c4d6-f97d-4898-8669-d635e4cc9a5e.jpg",
+                        "created_date": "2022-10-19T14:01:11.242386Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29587,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 D Tokalı Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/galaxy-watch5-d-tokali-spor-tarzi-kayis-m-l/",
+                    "price": "1999",
+                    "attributes": {
+                      "integration_color_code": "#867e74",
+                      "integration_color": "Gri"
+                    },
+                    "pk": 5587,
+                    "retail_price": "1999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14988/7a7d3544-6786-4391-8807-8e789e455594.jpg",
+                        "created_date": "2022-10-19T14:01:10.913178Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29582,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14988/15bc6678-89c8-4a87-b6dc-63b749a07a54.jpg",
+                        "created_date": "2022-10-19T14:01:10.792876Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29581,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14988/65da6831-ad6b-4380-8ebf-e2cd7dd0e02c.jpg",
+                        "created_date": "2022-10-19T14:01:11.164567Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29585,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Gri"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5585,
+        "name": "Galaxy Watch5 Spor Tarzı Kayış (S/M)",
+        "sku": "ET-SFR90SJEGWW",
+        "base_code": "430653",
+        "attributes": {
+          "integration_usptext": "Bileğinizi saran sportif bir tarz\nBileğinizdeki kusursuz konfor",
+          "erp_color_code": "#4a4a4d",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050300",
+          "mp_kargo": "yurtici",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy Watch4, Galaxy Watch4 Classic, Galaxy Watch5, Galaxy Watch5 Pro",
+          "erp_color": "Graphite",
+          "kampanya_kosullari": "/tr/watch5-serisi-samsung-week-kosullari/",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "19.1 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "drk_name": "Samsung Galaxy Watch 4 & Watch 5 Spor Kordon (20mm, S/M) - Grafit",
+          "integration_color_code": "#4a4a4d",
+          "integration_color": "Graphite",
+          "integration_category_code_path": "01000000|01050000|01050300",
+          "erp_category_code_path": "01000000|01050000|01050300",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_usptext": "Bileğinizi saran sportif bir tarz\nBileğinizdeki kusursuz konfor",
+          "integration_ean": "8806094527940",
+          "erp_ean": "8806094527940",
+          "integration_category_code": "01050300",
+          "mp_diger_markalar": "Samsung",
+          "akilli_saat_urun_sinifi": "Galaxy Watch",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "3",
+          "erp_fizikselozellikler_boyutlartokalibileklikgxyxd": "26.8x86.4x11.7 mm",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "integration_Boyut_mnl": "S/M",
+          "erp_model_name": "ET-SFR90",
+          "integration_product_subtype_name": "Strap",
+          "erp_tipi": "Fluoroelastomer Watch Strap",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "erp_renk": "Graphite",
+          "erp_product_subtype_name": "Strap",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_genelozellikler_ambalajicerigi": "Strap",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_fizikselozellikler_malzeme": "Fluoroelastomer",
+          "integration_model_name": "ET-SFR90",
+          "purchase_limit_per_basket": "1",
+          "erp_fizikselozellikler_boyutlaryekparebileklikgxyxd": "22.9x116.1x11.7 mm"
+        },
+        "attribute_set": 265,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Graphite",
+            "data_type": "dropdown",
+            "label": "Graphite"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "integration_Boyut_mnl": {
+            "value": "S/M",
+            "data_type": "dropdown",
+            "label": "S/M"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "akilli_saat_urun_sinifi": {
+            "value": "Galaxy Watch",
+            "data_type": "dropdown",
+            "label": "Galaxy Watch"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29545,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14987/c6144822-7b44-4579-84a9-e31ffbdcf478.jpg",
+            "order": 1,
+            "created_date": "2022-10-19T14:01:08.431085Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29546,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14987/2315e0fc-dde3-4fa5-aa3a-7d96bac27c94.jpg",
+            "order": 2,
+            "created_date": "2022-10-19T14:01:08.553236Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29547,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14987/2112c7d0-21b2-4e66-9f7e-b2a44d79053f.jpg",
+            "order": 3,
+            "created_date": "2022-10-19T14:01:08.594152Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "699",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "699",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-watch5-spor-tarzi-kayis-s-m/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 3,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/galaxy-watch5-spor-tarzi-kayis-s-m-1/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#b2a1ce",
+                      "integration_color": "Mor"
+                    },
+                    "pk": 5595,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14984/8ed03a70-4305-4101-9221-139e734b940b.jpg",
+                        "created_date": "2022-10-19T14:01:09.423694Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29559,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14984/e8ab2fee-6301-4391-b986-86efa4b10dca.jpg",
+                        "created_date": "2022-10-19T14:01:09.307242Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29558,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14984/1140c46e-de10-4676-8651-f9132b2e3a2b.jpg",
+                        "created_date": "2022-10-19T14:01:09.577581Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29561,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Mor"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/product/5590/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#f5f7f6",
+                      "integration_color": "Beyaz"
+                    },
+                    "pk": 5590,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14991/3c5f3782-c471-49e3-9940-bacd2ea8b580.jpg",
+                        "created_date": "2022-10-19T14:01:08.645849Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29548,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14991/2da606bf-af0f-4fe1-b882-32528c838edb.jpg",
+                        "created_date": "2022-10-19T14:01:08.851487Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29550,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14991/9d7f7de6-e67a-454b-8caa-e18a4a1b3e93.jpg",
+                        "created_date": "2022-10-19T14:01:08.889667Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29551,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Beyaz"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/galaxy-watch5-spor-tarzi-kayis-s-m/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#4a4a4d",
+                      "integration_color": "Graphite"
+                    },
+                    "pk": 5585,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14987/c6144822-7b44-4579-84a9-e31ffbdcf478.jpg",
+                        "created_date": "2022-10-19T14:01:08.431085Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29545,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14987/2315e0fc-dde3-4fa5-aa3a-7d96bac27c94.jpg",
+                        "created_date": "2022-10-19T14:01:08.553236Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29546,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14987/2112c7d0-21b2-4e66-9f7e-b2a44d79053f.jpg",
+                        "created_date": "2022-10-19T14:01:08.594152Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29547,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Graphite"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/product/5591/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#6b7d98",
+                      "integration_color": "Safir"
+                    },
+                    "pk": 5591,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14992/1003c568-424c-47f0-a03e-332c1ec19087.jpg",
+                        "created_date": "2022-10-19T14:01:08.925752Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29552,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14992/7b66a0ac-1550-4899-88b1-35fa2c6a9cb7.jpg",
+                        "created_date": "2022-10-19T14:01:08.965689Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29553,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14992/3db91d71-c81d-438e-b290-3564dab509d0.jpg",
+                        "created_date": "2022-10-19T14:01:08.746596Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29549,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Safir"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Spor Tarzı Kayış (S/M)",
+                    "absolute_url": "/tr/product/5593/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#f1cfc4",
+                      "integration_color": "Pembe Altın"
+                    },
+                    "pk": 5593,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14994/8a578599-d7e9-442c-9fd5-c56c69aef258.jpg",
+                        "created_date": "2022-10-19T14:01:09.005214Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29554,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14994/36cb8608-20d3-4aa5-a601-ce8dd117b8a8.jpg",
+                        "created_date": "2022-10-19T14:01:09.118483Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29555,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14994/53700e8f-976b-41ea-b6ff-22986ba53d45.jpg",
+                        "created_date": "2022-10-19T14:01:09.153100Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29556,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Pembe Altın"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5583,
+        "name": "Galaxy Watch5 Spor Tarzı Kayış (M/L)",
+        "sku": "ET-SFR91LJEGWW",
+        "base_code": "430652",
+        "attributes": {
+          "integration_usptext": "Bileğinizi saran sportif bir tarz\nBileğinizdeki kusursuz konfor",
+          "erp_color_code": "#4a4a4d",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050300",
+          "mp_kargo": "yurtici",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy Watch4, Galaxy Watch4 Classic, Galaxy Watch5, Galaxy Watch5 Pro",
+          "erp_color": "Graphite",
+          "kampanya_kosullari": "/tr/watch5-serisi-samsung-week-kosullari/",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "20.6 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "drk_name": "Samsung Galaxy Watch 4 & Watch 5 Spor Kordon (20mm, M/L) - Grafit",
+          "integration_color_code": "#4a4a4d",
+          "integration_color": "Graphite",
+          "integration_category_code_path": "01000000|01050000|01050300",
+          "erp_category_code_path": "01000000|01050000|01050300",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_usptext": "Bileğinizi saran sportif bir tarz\nBileğinizdeki kusursuz konfor",
+          "integration_ean": "8806094527902",
+          "erp_ean": "8806094527902",
+          "integration_category_code": "01050300",
+          "mp_diger_markalar": "Samsung",
+          "akilli_saat_urun_sinifi": "Galaxy Watch",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "3",
+          "erp_fizikselozellikler_boyutlartokalibileklikgxyxd": "26.8x86.4x11.7 mm",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "integration_Boyut_mnl": "M/L",
+          "erp_model_name": "ET-SFR91",
+          "integration_product_subtype_name": "Strap",
+          "erp_tipi": "Fluoroelastomer Watch Strap",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_31",
+          "erp_renk": "Graphite",
+          "erp_product_subtype_name": "Strap",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_genelozellikler_ambalajicerigi": "Strap",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_fizikselozellikler_malzeme": "Fluoroelastomer",
+          "integration_model_name": "ET-SFR91",
+          "purchase_limit_per_basket": "1",
+          "erp_fizikselozellikler_boyutlaryekparebileklikgxyxd": "22.9x131.1x11.7 mm"
+        },
+        "attribute_set": 265,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Graphite",
+            "data_type": "dropdown",
+            "label": "Graphite"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "integration_Boyut_mnl": {
+            "value": "M/L",
+            "data_type": "dropdown",
+            "label": "M/L"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "akilli_saat_urun_sinifi": {
+            "value": "Galaxy Watch",
+            "data_type": "dropdown",
+            "label": "Galaxy Watch"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29566,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14986/f99fec87-bd3e-4830-adf4-025a04a247d5.jpg",
+            "order": 1,
+            "created_date": "2022-10-19T14:01:09.942971Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29565,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14986/d73d7cd0-5c6d-4c06-9825-8dfa3948e22c.jpg",
+            "order": 2,
+            "created_date": "2022-10-19T14:01:09.819177Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29567,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14986/a98e49db-b906-4007-bda0-a479d994f948.jpg",
+            "order": 3,
+            "created_date": "2022-10-19T14:01:09.985833Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "699",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "699",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-watch5-spor-tarzi-kayis-m-l-2/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 10,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/product/5592/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#f5f7f6",
+                      "integration_color": "Beyaz"
+                    },
+                    "pk": 5592,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14993/012bb063-c36d-4382-a040-3dcae7b056f8.jpg",
+                        "created_date": "2022-10-19T14:01:09.653550Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29563,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14993/59c846ad-7202-480c-9be6-cf2ed606c52a.jpg",
+                        "created_date": "2022-10-19T14:01:10.023657Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29568,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14993/78f12b14-59f7-4183-998b-44ecdcdb2d4f.jpg",
+                        "created_date": "2022-10-19T14:01:10.075157Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29569,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Beyaz"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/galaxy-watch5-spor-tarzi-kayis-m-l-2/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#4a4a4d",
+                      "integration_color": "Graphite"
+                    },
+                    "pk": 5583,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14986/f99fec87-bd3e-4830-adf4-025a04a247d5.jpg",
+                        "created_date": "2022-10-19T14:01:09.942971Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29566,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14986/d73d7cd0-5c6d-4c06-9825-8dfa3948e22c.jpg",
+                        "created_date": "2022-10-19T14:01:09.819177Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29565,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14986/a98e49db-b906-4007-bda0-a479d994f948.jpg",
+                        "created_date": "2022-10-19T14:01:09.985833Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29567,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Graphite"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/galaxy-watch5-spor-tarzi-kayis-m-l/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#f1cfc4",
+                      "integration_color": "Pembe Altın"
+                    },
+                    "pk": 5588,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14989/ff13314a-4519-4f9c-b3e9-1fa976eca790.jpg",
+                        "created_date": "2022-10-19T14:01:10.447942Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29574,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14989/1b81d8c6-c25f-4882-a541-e712a098576d.jpg",
+                        "created_date": "2022-10-19T14:01:10.602126Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29576,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14989/cadc1e2a-e5b8-4f10-90f6-f486524d887e.jpg",
+                        "created_date": "2022-10-19T14:01:09.189993Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29557,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Pembe Altın"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/galaxy-watch5-spor-tarzi-kayis-m-l-1/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#6b7d98",
+                      "integration_color": "Safir"
+                    },
+                    "pk": 5594,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14983/0ef3a5eb-f96d-4102-a133-cb8ecab996a9.jpg",
+                        "created_date": "2022-10-19T14:01:10.235687Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29571,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14983/10ec4083-b001-486e-ac57-39f558111021.jpg",
+                        "created_date": "2022-10-19T14:01:10.347508Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29572,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14983/4fbec479-5d7f-46ac-936e-61408ed822f5.jpg",
+                        "created_date": "2022-10-19T14:01:10.394697Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29573,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Safir"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Watch5 Spor Tarzı Kayış (M/L)",
+                    "absolute_url": "/tr/product/5589/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#b2a1ce",
+                      "integration_color": "Mor"
+                    },
+                    "pk": 5589,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/14990/049a8bb8-2ad6-4868-8875-1bafed4d45ab.jpg",
+                        "created_date": "2022-10-19T14:01:10.125722Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29570,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/19/15246/ddcc1010-ee68-440e-8bf9-367ad89177b4.jpg",
+                        "created_date": "2022-10-19T14:01:10.677642Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29578,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Mor"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5555,
+        "name": "WW11BB534DABAH, Çamaşır Makinesi, 11 kg",
+        "sku": "WW11BB534DABAH",
+        "base_code": "437777",
+        "attributes": {
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ww11bb534dabah-energylabel.pdf",
+          "erp_star_grade": "5",
+          "integration_product_type_code": "PT_CD_WASHING_MACHINE",
+          "integration_yikamakapasitesi_yikamakapasitesikg": "11 KG",
+          "erp_devir_hassasgiysiler": "Evet",
+          "integration_ozellik_ecobubbletmkopukleyikamateknolojisi": "Evet",
+          "erp_ozellik_benimprogramim": "Evet",
+          "erp_ozellik_temizkazan": "Evet",
+          "integration_category_code_path": "08000000|08010000|08010100",
+          "erp_devir_kot": "Evet",
+          "erp_smart_dahiliwifi": "Evet",
+          "erp_performans_gurultuemisyonsinifi": "A",
+          "mp_hacim": "Belirtilmemiş",
+          "erp_ozellik_motor": "DIT",
+          "erp_ozellik_kopuktebekletme": "Evet",
+          "erp_ozellik_onyikama": "Evet",
+          "integration_fizikselozellikler_brutagirlik": "74 kg",
+          "erp_grade": "A",
+          "integration_fizikselozellikler_brutboyutgxyxd": "670 x 890 x 688 mm",
+          "integration_ozellik_kazantipi": "Kristal",
+          "erp_product_type_code": "PT_CD_WASHING_MACHINE",
+          "erp_performans_enerjituketimi100dongu": "53 kWh",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ww11bb534dabah-energylabel.pdf",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_devir_sessizyikama": "Evet",
+          "erp_devir_gomlekler": "Evet",
+          "b2b_product_badge": "ikilialim2000para",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_devir_pamuklu": "Evet",
+          "erp_ozellik_dilayarlari": "Evet",
+          "integration_devir_durulamasikma": "Evet",
+          "erp_devir_temizlemebuhari": "Evet",
+          "integration_devir_pamuklu": "Evet",
+          "erp_ozellik_yapayzekakontrolu": "Evet",
+          "product_badge_app_enddate": "2023-01-31T20:59:00.000Z",
+          "erp_fizikselozellikler_netagirlik": "72 kg",
+          "mp_trendyol_kargo": "3",
+          "integration_devir_hassasgiysiler": "Evet",
+          "erp_devir_karisikgiysiler": "Evet",
+          "integration_smart_dahiliwifi": "Evet",
+          "erp_fizikselozellikler_brutagirlik": "74 kg",
+          "integration_fizikselozellikler_netboyutgxyxd": "600 x 850 x 600 mm",
+          "erp_performans_sutuketimidongu": "54 L",
+          "erp_tasarim_panelekrani": "Yapay Zeka Kontrolü",
+          "erp_category_code_path": "08000000|08010000|08010100",
+          "erp_fizikselozellikler_brutboyutgxyxd": "670 x 890 x 688 mm",
+          "erp_devir_bebekkiyafetleri": "Evet",
+          "integration_product_subtype_name": "Front loading Washer",
+          "erp_devir_15dakhizliyikama": "Evet",
+          "mp_kurutma_teknolojisi": "Hibrid",
+          "erp_devir_bulutlugun": "Evet",
+          "erp_ozellik_yogun": "Evet",
+          "erp_devir_durulamasikma": "Evet",
+          "erp_yikamakapasitesi_yikamakapasitesi": "11.0 kg",
+          "product_desi": "50",
+          "erp_tasarim_govderengi": "Siyah",
+          "integration_model_name": "WW11BB534DAB",
+          "integration_ozellik_motor": "DIT",
+          "product_badge": "ikilialim",
+          "erp_devir_nevresim": "Evet",
+          "erp_product_subtype_code": "PT_CD_WASHING_MACHINE_02",
+          "erp_ozellik_cocukkilidi": "Evet",
+          "erp_product_subtype_name": "Front loading Washer",
+          "integration_star_grade": "5",
+          "erp_ozellik_sikmahizi": "1400 devir",
+          "erp_devir_temizkazan": "Evet",
+          "erp_performans_gurultuseviyesisikma": "72 dB",
+          "erp_fizikselozellikler_netboyutgxyxd": "600 x 850 x 600 mm",
+          "integration_tasarim_govderengi": "Siyah",
+          "erp_gradecolor": "#00a651",
+          "erp_devir_eco4060": "Evet",
+          "erp_performans_enerjiverimliliksinifi": "A",
+          "mp_kargo": "horoz",
+          "erp_product_type_name": "Washing Machine",
+          "erp_color": "Siyah",
+          "mp_beyaz_kapasite": "14 kg ve üzeri",
+          "erp_ozellik_smartthings": "Evet",
+          "integration_devir_15dakhizliyikama": "Evet",
+          "integration_color_code": "#000000",
+          "integration_color": "Siyah",
+          "product_badge_app": "https://samsung-akinon.b-cdn.net/cms/2022/11/09/3133140d-3a0e-426b-a09c-2603eed4b122.png",
+          "erp_category_name_path": "Ev Aletleri|Giysi Temizliği|Çamaşır Makineleri",
+          "mp_kurulum": "Evet",
+          "erp_ozellik_ecobubbletmkopukleyikamateknolojisi": "Evet",
+          "erp_performans_sikmaverimliligi": "B",
+          "erp_ean": "8806094615814",
+          "integration_category_code": "08010100",
+          "integration_ozellik_hizliyikama": "Evet",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "erp_tasarim_kapak": "Oyma Kapı (Siyah)",
+          "marketing-name": "BESPOKE",
+          "erp_usptext": "EcoBubble™ Köpükle Yıkama Teknolojisi\nSpaceMax™ Teknolojisi\nAI (Yapay Zeka) Kontrol",
+          "erp_devir_dismekan": "Evet",
+          "integration_fizikselozellikler_netagirlik": "72 kg",
+          "erp_devir_havlular": "Evet",
+          "integration_grade": "A",
+          "erp_devir_yun": "Evet",
+          "erp_devir_renkliler": "Evet",
+          "integration_product_type_name": "Washing Machine",
+          "integration_devir_temizlemebuhari": "Evet",
+          "integration_ozellik_sikmahizi": "1400 devir",
+          "mp_ucretsizkurulum": "Var",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ww11bb534dabah-productfiche.pdf",
+          "integration_devir_nevresim": "Evet",
+          "erp_ozellik_hizliyikama": "Evet",
+          "b2b_purchase_limit_per_basket": "2",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ww11bb534dabah-productfiche.pdf",
+          "erp_categoryenglishnamepath": "Home Appliances|Washers and Dryers|Washing Machines",
+          "erp_color_code": "#000000",
+          "erp_category_code": "08010100",
+          "erp_devir_activewear": "Evet",
+          "integration_gradecolor": "#00a651",
+          "mp_garanti_suresi": "3 Yıl",
+          "integration_category_name_path": "Ev Aletleri|Giysi Temizliği|Çamaşır Makineleri",
+          "drk_name": "Samsung WW11BB534DABAH, Çamaşır Makinesi, 11 kg",
+          "garanti_icon": "motor",
+          "erp_model_name": "WW11BB534DAB",
+          "integration_devir_sentetikler": "Evet",
+          "erp_devir_yogunsoguk": "Evet",
+          "integration_usptext": "EcoBubble™ Köpükle Yıkama Teknolojisi\nSpaceMax™ Teknolojisi\nAI (Yapay Zeka) Kontrol",
+          "integration_categoryenglishnamepath": "Home Appliances|Washers and Dryers|Washing Machines",
+          "product_badge_app_startdate": "2011-12-31T23:00:00.000Z",
+          "integration_ean": "8806094615814",
+          "integration_ozellik_cocukkilidi": "Evet",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_ozellik_kazantipi": "Kristal",
+          "mp_enerji_sinifi": "A",
+          "erp_devir_sentetikler": "Evet",
+          "integration_product_subtype_code": "PT_CD_WASHING_MACHINE_02",
+          "erp_ozellik_gecikmelibitir": "Evet",
+          "erp_ozellik_buhariletemizleme": "Evet",
+          "erp_devir_tahliyesikma": "Evet",
+          "erp_performans_eco4060suresisdd": "4:00"
+        },
+        "attribute_set": 7,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_devir_hassasgiysiler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_enerji_sinifi": {
+            "value": "A",
+            "data_type": "dropdown",
+            "label": "A"
+          },
+          "integration_devir_sentetikler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "integration_ozellik_ecobubbletmkopukleyikamateknolojisi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_hizliyikama": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_smart_dahiliwifi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_kargo": {
+            "value": "horoz",
+            "data_type": "dropdown",
+            "label": "horoz"
+          },
+          "mp_kurulum": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_hacim": {
+            "value": "Belirtilmemiş",
+            "data_type": "dropdown",
+            "label": "Belirtilmemiş"
+          },
+          "integration_ozellik_cocukkilidi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_beyaz_kapasite": {
+            "value": "14 kg ve üzeri",
+            "data_type": "dropdown",
+            "label": "14 kg ve üzeri"
+          },
+          "mp_garanti_suresi": {
+            "value": "3 Yıl",
+            "data_type": "dropdown",
+            "label": "3 Yıl"
+          },
+          "integration_devir_15dakhizliyikama": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_nevresim": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_pamuklu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_durulamasikma": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_yikamakapasitesi_yikamakapasitesikg": {
+            "value": "11 KG",
+            "data_type": "dropdown",
+            "label": "11 KG"
+          },
+          "integration_devir_temizlemebuhari": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_kurutma_teknolojisi": {
+            "value": "Hibrid",
+            "data_type": "dropdown",
+            "label": "Hibrid"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29510,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/ed780981-1873-42da-b1bc-2a8eae1468de.jpg",
+            "order": 1,
+            "created_date": "2022-10-13T11:44:19.910605Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29514,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/e9f3b701-e081-4a77-8bdd-b526617e6205.jpg",
+            "order": 2,
+            "created_date": "2022-10-13T11:44:20.291442Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29515,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/0dbe4201-44c6-421d-80d9-33ae76483d4d.jpg",
+            "order": 3,
+            "created_date": "2022-10-13T11:44:20.334490Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29517,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/99c70465-6012-452b-ae0c-048df7bee2af.jpg",
+            "order": 4,
+            "created_date": "2022-10-13T11:44:20.430825Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29519,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/ea723fae-4c63-4a06-a276-ec715921804f.jpg",
+            "order": 5,
+            "created_date": "2022-10-13T11:44:20.511912Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29520,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/648297b8-e2ec-49ca-9023-55cd01408a0b.jpg",
+            "order": 6,
+            "created_date": "2022-10-13T11:44:20.558953Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29516,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/041466d2-917e-4149-b5b9-1c832e6ca04a.jpg",
+            "order": 7,
+            "created_date": "2022-10-13T11:44:20.384998Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29521,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/ca092b13-03e4-4944-8d2a-21de780beb2c.jpg",
+            "order": 8,
+            "created_date": "2022-10-13T11:44:20.601856Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29522,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/7a17d69c-b861-4137-aabe-0bc50ca51460.jpg",
+            "order": 9,
+            "created_date": "2022-10-13T11:44:20.649719Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29511,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/dab82e42-895c-4e39-b4ee-c2666077f963.jpg",
+            "order": 10,
+            "created_date": "2022-10-13T11:44:20.069095Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29513,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/f5252ac4-2883-4e07-a990-78ab551d85b6.jpg",
+            "order": 11,
+            "created_date": "2022-10-13T11:44:20.254121Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "15799",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "18999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/ww11bb534dabah-camasir-makinesi-11-kg/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "WW11BB534DABAH, Çamaşır Makinesi, 11 kg",
+                    "absolute_url": "/tr/ww11bb534dabah-camasir-makinesi-11-kg/",
+                    "price": "15799",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_yikamakapasitesi_yikamakapasitesikg": "11 KG",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5555,
+                    "retail_price": "18999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/ed780981-1873-42da-b1bc-2a8eae1468de.jpg",
+                        "created_date": "2022-10-13T11:44:19.910605Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29510,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/e9f3b701-e081-4a77-8bdd-b526617e6205.jpg",
+                        "created_date": "2022-10-13T11:44:20.291442Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29514,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/0dbe4201-44c6-421d-80d9-33ae76483d4d.jpg",
+                        "created_date": "2022-10-13T11:44:20.334490Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29515,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/99c70465-6012-452b-ae0c-048df7bee2af.jpg",
+                        "created_date": "2022-10-13T11:44:20.430825Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29517,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/ea723fae-4c63-4a06-a276-ec715921804f.jpg",
+                        "created_date": "2022-10-13T11:44:20.511912Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29519,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/648297b8-e2ec-49ca-9023-55cd01408a0b.jpg",
+                        "created_date": "2022-10-13T11:44:20.558953Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29520,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/041466d2-917e-4149-b5b9-1c832e6ca04a.jpg",
+                        "created_date": "2022-10-13T11:44:20.384998Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29516,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/ca092b13-03e4-4944-8d2a-21de780beb2c.jpg",
+                        "created_date": "2022-10-13T11:44:20.601856Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29521,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/7a17d69c-b861-4137-aabe-0bc50ca51460.jpg",
+                        "created_date": "2022-10-13T11:44:20.649719Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29522,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/dab82e42-895c-4e39-b4ee-c2666077f963.jpg",
+                        "created_date": "2022-10-13T11:44:20.069095Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29511,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/f5252ac4-2883-4e07-a990-78ab551d85b6.jpg",
+                        "created_date": "2022-10-13T11:44:20.254121Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29513,
+                        "order": 11
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                },
+                {
+                  "product": {
+                    "name": "WW11BB534DAEAH, Çamaşır Makinesi, 11 kg",
+                    "absolute_url": "/tr/ww11bb534daeah-camasir-makinesi-11-kg/",
+                    "price": "14799",
+                    "attributes": {
+                      "integration_color_code": "#ffffff",
+                      "integration_yikamakapasitesi_yikamakapasitesikg": "11 KG",
+                      "integration_color": "Beyaz"
+                    },
+                    "pk": 5554,
+                    "retail_price": "18199",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/948046aa-98c4-408f-90ec-c7b3e7021ed3.jpg",
+                        "created_date": "2022-10-13T11:44:19.189979Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29499,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/e6e0b215-cae5-4fd3-bec8-7355ed2d4d9b.jpg",
+                        "created_date": "2022-10-13T11:44:19.472981Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29503,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/adf911e6-829b-4dd0-88ef-4e897d32136e.jpg",
+                        "created_date": "2022-10-13T11:44:19.428293Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29502,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/c03b58c2-0bfe-4743-8ea6-9e7f0c3f5e54.jpg",
+                        "created_date": "2022-10-13T11:44:19.670587Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29505,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/cb94d17b-4fc9-4952-8658-a97eb235ba06.jpg",
+                        "created_date": "2022-10-13T11:44:19.528662Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29504,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/1ebe7447-a086-46cb-a7fc-3b0e571137f7.jpg",
+                        "created_date": "2022-10-13T11:44:19.772107Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29507,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/6c413eb5-b9a6-44d5-aecd-5bd62169a023.jpg",
+                        "created_date": "2022-10-13T11:44:19.729829Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29506,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/6aace61e-7fc5-464e-8d6c-cbabb86e3055.jpg",
+                        "created_date": "2022-10-13T11:44:19.857960Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29509,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/5d07d565-72a5-41d2-8cd2-b979b7c670bf.jpg",
+                        "created_date": "2022-10-13T11:44:19.815934Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29508,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/a6d65c99-b7d4-46ea-85df-0c0d6125c42c.jpg",
+                        "created_date": "2022-10-13T11:44:19.326811Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29500,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/7a0fdb29-2efd-4f4b-ade2-d5a8e711c149.jpg",
+                        "created_date": "2022-10-13T11:44:19.379023Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29501,
+                        "order": 11
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Beyaz"
+                }
+              ]
+            },
+            {
+              "attribute_key": "integration_yikamakapasitesi_yikamakapasitesikg",
+              "options": [
+                {
+                  "product": {
+                    "name": "WW11BB534DABAH, Çamaşır Makinesi, 11 kg",
+                    "absolute_url": "/tr/ww11bb534dabah-camasir-makinesi-11-kg/",
+                    "price": "15799",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_yikamakapasitesi_yikamakapasitesikg": "11 KG",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5555,
+                    "retail_price": "18999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/ed780981-1873-42da-b1bc-2a8eae1468de.jpg",
+                        "created_date": "2022-10-13T11:44:19.910605Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29510,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/e9f3b701-e081-4a77-8bdd-b526617e6205.jpg",
+                        "created_date": "2022-10-13T11:44:20.291442Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29514,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/0dbe4201-44c6-421d-80d9-33ae76483d4d.jpg",
+                        "created_date": "2022-10-13T11:44:20.334490Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29515,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/99c70465-6012-452b-ae0c-048df7bee2af.jpg",
+                        "created_date": "2022-10-13T11:44:20.430825Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29517,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/ea723fae-4c63-4a06-a276-ec715921804f.jpg",
+                        "created_date": "2022-10-13T11:44:20.511912Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29519,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/648297b8-e2ec-49ca-9023-55cd01408a0b.jpg",
+                        "created_date": "2022-10-13T11:44:20.558953Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29520,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/041466d2-917e-4149-b5b9-1c832e6ca04a.jpg",
+                        "created_date": "2022-10-13T11:44:20.384998Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29516,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/ca092b13-03e4-4944-8d2a-21de780beb2c.jpg",
+                        "created_date": "2022-10-13T11:44:20.601856Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29521,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/7a17d69c-b861-4137-aabe-0bc50ca51460.jpg",
+                        "created_date": "2022-10-13T11:44:20.649719Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29522,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/dab82e42-895c-4e39-b4ee-c2666077f963.jpg",
+                        "created_date": "2022-10-13T11:44:20.069095Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29511,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15251/f5252ac4-2883-4e07-a990-78ab551d85b6.jpg",
+                        "created_date": "2022-10-13T11:44:20.254121Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29513,
+                        "order": 11
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "11 KG"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5534,
+        "name": "Galaxy Tab S8 Ultra Book Cover Keyboard",
+        "sku": "EF-DX900BBEGTR",
+        "base_code": "413031",
+        "attributes": {
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_color_code": "#000000",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050100",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_color": "Black",
+          "kampanya_kosullari": "/tr/klavyeli-kilif-yuzde-50-kampanyasi-kosullari/",
+          "mp_garanti_suresi": "2 Yıl",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "drk_name": "Samsung Galaxy Tab S8 Ultra Türkçe Klavyeli Kılıf - Siyah",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Black",
+          "integration_category_code_path": "01000000|01050000|01050100",
+          "erp_category_code_path": "01000000|01050000|01050100",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "mp_kurulum": "Hayır",
+          "integration_ean": "8806094109597",
+          "erp_ean": "8806094109597",
+          "integration_category_code": "01050100",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_model_name": "EF-DX900",
+          "integration_product_subtype_name": "Case",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_product_subtype_name": "Case",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "EF-DX900"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Black",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29416,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/04/12647/6aaef24b-491d-46db-ba54-c2d7674a357d.jpg",
+            "order": 0,
+            "created_date": "2022-10-04T12:27:29.229428Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29415,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/04/12647/5bb21865-02c8-4950-8f90-4126c7b15796.jpg",
+            "order": 1,
+            "created_date": "2022-10-04T12:26:57.596194Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29417,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/04/12647/3a4c3d4c-7eea-422c-b76e-b5b7493e6ed0.jpg",
+            "order": 2,
+            "created_date": "2022-10-04T12:28:02.965359Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "6999",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "6999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-tab-s8-ultra-book-cover-keyboard/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy Tab S8 Ultra Book Cover Keyboard",
+                    "absolute_url": "/tr/galaxy-tab-s8-ultra-book-cover-keyboard/",
+                    "price": "6999",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_color": "Black"
+                    },
+                    "pk": 5534,
+                    "retail_price": "6999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/04/12647/6aaef24b-491d-46db-ba54-c2d7674a357d.jpg",
+                        "created_date": "2022-10-04T12:27:29.229428Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29416,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/04/12647/5bb21865-02c8-4950-8f90-4126c7b15796.jpg",
+                        "created_date": "2022-10-04T12:26:57.596194Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29415,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/04/12647/3a4c3d4c-7eea-422c-b76e-b5b7493e6ed0.jpg",
+                        "created_date": "2022-10-04T12:28:02.965359Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29417,
+                        "order": 2
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5532,
+        "name": "Odyssey Neo G8 32\" 1ms 240Hz UHD Quantum Mini-LED HDR2000 1000R Pivot Gaming Monitör",
+        "sku": "LS32BG850NUXUF",
+        "base_code": "424878",
+        "attributes": {
+          "erp_akillihizmet_evrenselkilavuz": "Yok",
+          "erp_arabirim_ekranbaglantinoktasi": "1 EA",
+          "erp_smartservice_mobiletoscreenmirroringdlna": "Yok",
+          "erp_genelozellikler_gsync": "Yok",
+          "erp_ekran_statikkontrastorani": "1.000.000:1",
+          "erp_guc_guctuketimitip": "40.8 W",
+          "erp_ekran_adobergbkapsami": "Yok",
+          "integration_genelozellikler_freesync": "FreeSync Premium Pro",
+          "erp_ekran_parlakliktipik": "350 cd/㎡",
+          "integration_category_code_path": "07000000|07010000|07010200",
+          "integration_ekran_renkgamidcikapsami": "%95 (Hayırrmal)",
+          "erp_akillihizmet_smarttype": "Yok",
+          "erp_akillihizmet_tasinabilircihazdanekranagoruntuaktarmadlna": "Yok",
+          "erp_arabirim_ethernetlan": "Yok",
+          "erp_genelozellikler_resimyanindaresim": "Yok",
+          "integration_genelozellikler_superarenagamingux": "Evet",
+          "erp_arabirim_windowshellosertifikasi": "Yok",
+          "erp_smartservice_webservice": "Yok",
+          "erp_grade": "G",
+          "integration_calismakosullari_sicaklik": "10~40 ℃",
+          "erp_product_type_code": "PT_CD_MONITOR",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bg850nuxuf-energylabel.pdf",
+          "integration_kalibrasyon_renkmodu": "Özel/FPS/RTS/RPG/Spor/sRGB/Sinema/Dinamik Kontrast",
+          "erp_aksesuar_hdmikablosu": "Hayır",
+          "erp_aksesuar_uzaktankumanda": "Hayır",
+          "integration_ekran_cozunurluk": "3.840 x 2.160",
+          "integration_agirlik_ambalajagirligi": "12.2 kg",
+          "erp_tasarim_stanttipi": "PİVOT ÖZELLİĞİ VAR",
+          "integration_ekran_paneltipi": "VA",
+          "erp_smartservice_alexabuiltin": "Yok",
+          "erp_tasarim_egme": "-9,0º(± 2°) ~ 13,0º(± 2°)",
+          "erp_ses_hoparlor": "Hayır",
+          "erp_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "erp_boyutlar_stantlabirliktesetboyutugxyxd": "713.0 x 606.4 x 311.1 mm",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "integration_kalibrasyon_fabrikaayari": "Evet",
+          "erp_arabirim_thunderbolt3": "Yok",
+          "erp_akillihizmet_isletimsistemi": "Yok",
+          "erp_arabirim_ciftbaglantilidvi": "Hayır",
+          "integration_arabirim_dvi": "Hayır",
+          "erp_ekran_parlaklikmin": "300 cd/㎡",
+          "erp_akillihizmet_webservice": "Yok",
+          "erp_boyutlar_ambalajboyutugxyxd": "827.0 x 236.0 x 530.0 mm",
+          "erp_aksesuar_miniekrancinsi": "Hayır",
+          "erp_smartservice_bixby": "Yok",
+          "erp_aksesuar_kurulumcd": "Hayır",
+          "erp_category_code_path": "07000000|07010000|07010200",
+          "erp_akillihizmet_uzaktanerisim": "Yok",
+          "erp_genelozellikler_yenilemeoranioptimizeedici": "Evet",
+          "integration_arabirim_usbmerkeziversiyonu": "3",
+          "erp_akillihizmet_sesyansitma": "Yok",
+          "erp_tasarim_standcolor": "Siyah",
+          "erp_guc_guctuketimikapalimodu": "0.30 W",
+          "integration_product_subtype_name": "LED Monitor",
+          "erp_tasarim_pivot": "-92,0º(± 2°) ~ 92,0º(± 2°)",
+          "erp_smartservice_workswithalexa": "Yok",
+          "erp_aksesuar_kamera": "Hayır",
+          "erp_smartservice_smartthings": "Yok",
+          "erp_arabirim_ekranbaglantinoktasicikisversiyonu": "Yok",
+          "erp_aksesuar_usb20cable": "Hayır",
+          "erp_smartservice_isletimsistemi": "Yok",
+          "erp_product_subtype_code": "PT_CD_MONITOR_01",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_ekran_renkdestegi": "Maksimum 1B",
+          "erp_agirlik_ambalajagirligi": "12.2 kg",
+          "integration_arabirim_sesgirisi": "Hayır",
+          "erp_akillihizmet_workswithgoogleassistant": "Yok",
+          "erp_akillihizmet_alexayidestekler": "Yok",
+          "erp_genelozellikler_uyumsaglayangoruntu": "Evet",
+          "erp_gradecolor": "#ed1c24",
+          "integration_ekran_parlakliktipik": "350 cd/㎡",
+          "erp_smartservice_tvplus": "Yok",
+          "integration_usptext": "Quantum Matrix Teknolojisi, HDR 2000 ve UHD çözünürlük, kristal netliğinde bir görüntü için bir araya geliyor.\nSorunsuz oyun deneyimi için 240Hz yenileme hızı ve 1ms tepki süresi\nOyun deneyimi için desteklenen mat ekran",
+          "erp_genelozellikler_oyunmodu": "Yok",
+          "integration_aksesuar_hdmikablosu": "Hayır",
+          "integration_arabirim_ekranbaglantinoktasiversiyonu": "1,4",
+          "erp_arabirim_hdmiversiyonu": "2,1",
+          "erp_ekran_dinamikkontrastorani": "Mega DCR",
+          "erp_genelozellikler_gamebar20": "Yok",
+          "erp_ekran_renkgamidcikapsami": "%95 (Hayırrmal)",
+          "erp_ekran_ekrankivrimi": "1000R",
+          "integration_genelozellikler_dusukgirdiligecikmemodu": "Evet",
+          "integration_genelozellikler_kuantumnoktalirenk": "Evet",
+          "erp_guc_guctuketimiyillik": "60 kWh/year",
+          "integration_color": "Beyaz",
+          "erp_aksesuar_thunderbolt3kablosu": "Hayır",
+          "integration_aksesuar_dpkablosu": "Evet",
+          "erp_aksesuar_seskablosu": "Hayır",
+          "erp_ekran_renkgamintsc1976": "Yok",
+          "erp_genelozellikler_ultrawidegameview": "Evet",
+          "erp_guc_guctuketimidpms": "0.50 W",
+          "erp_ean": "8806094402704",
+          "erp_smartservice_farfieldvoiceinteraction": "Yok",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bg850nuxuf-productfiche.pdf",
+          "purchase_limit_per_basket": "1",
+          "integration_categoryenglishnamepath": "Display|Monitors|Gaming",
+          "erp_kalibrasyon_gridengesi": "Yok",
+          "integration_ekran_srgbkapsami": "Yok",
+          "erp_genelozellikler_ecohareketsensoru": "Yok",
+          "integration_genelozellikler_resimboyutu": "Yok",
+          "erp_genelozellikler_coresync": "Evet",
+          "erp_agirlik_stantsizsetagirligi": "7.0 kg",
+          "integration_aksesuar_miniekrancinsi": "Hayır",
+          "integration_grade": "G",
+          "erp_akillihizmet_bixby": "Yok",
+          "erp_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "erp_genelozellikler_autosourceswitch": "Evet",
+          "erp_genelozellikler_siyahdengeleyici": "Evet",
+          "integration_ekran_ekranboyutusinif": "32",
+          "integration_ekran_enboyorani": "16:9",
+          "erp_genelozellikler_usbsupersarj": "Yok",
+          "erp_genelozellikler_sanalaimnoktasi": "Evet",
+          "erp_categoryenglishnamepath": "Display|Monitors|Gaming",
+          "erp_color_code": "#ffffff",
+          "erp_category_code": "07010200",
+          "integration_ekran_ekrankivrimi": "1000R",
+          "erp_ekran_duzkavisli": "Kavisli",
+          "erp_akillihizmet_tvplus": "Yok",
+          "integration_gradecolor": "#ed1c24",
+          "integration_genelozellikler_resimicinderesim": "Evet",
+          "integration_genelozellikler_gsync": "Yok",
+          "erp_genelozellikler_ultragenisoyungoruntusu": "Evet",
+          "integration_category_name_path": "Display|Monitör|Oyun",
+          "erp_genelozellikler_superarenagamingux": "Evet",
+          "integration_arabirim_ekranbaglantinoktasi": "1 EA",
+          "erp_ekran_izlemeacisiyd": "178° (Y)/178° (D)",
+          "erp_guc_guctuketimimaks": "Yok",
+          "erp_aksesuar_dvikablosu": "Hayır",
+          "erp_aksesuar_hdmitomicrohdmikablosu": "Hayır",
+          "erp_akillihizmet_connectsharetmusb20": "Yok",
+          "integration_ean": "8806094402704",
+          "integration_ekran_etkinekranboyutuyxdmm": "697,306 (D) x 392,234 (Y) mm",
+          "erp_genelozellikler_usbcpowerboost": "Yok",
+          "integration_arabirim_hdmiversiyonu": "2,1",
+          "erp_arabirim_dsub": "Hayır",
+          "erp_smartservice_smarttype": "Yok",
+          "erp_smartservice_smartthingsuygulamasinidestekler": "Yok",
+          "erp_ses_adaptivesound": "Yok",
+          "erp_aksesuar_hdmidvikablosu": "Hayır",
+          "erp_arabirim_usbc": "Hayır",
+          "erp_arabirim_thunderbolt3sarjgucuyuva2": "Yok",
+          "erp_arabirim_thunderbolt3sarjgucuyuva1": "Yok",
+          "integration_ekran_hdryuksekdinamikaralik": "Quantum HDR 2000",
+          "erp_arabirim_hdmi": "2 EA",
+          "erp_smartservice_evrenselkilavuz": "Yok",
+          "integration_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "integration_ekran_duzkavisli": "Kavisli",
+          "integration_agirlik_stantsizsetagirligi": "7.0 kg",
+          "erp_genelozellikler_hdmicec": "Yok",
+          "integration_aksesuar_dvikablosu": "Hayır",
+          "erp_arabirim_dvi": "Hayır",
+          "erp_smartservice_remoteaccess": "Yok",
+          "erp_ekran_yanitsuresi": "1 ms (GTG)",
+          "erp_ekran_cozunurluk": "3.840 x 2.160",
+          "erp_kalibrasyon_fabrikaayari": "Evet",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bg850nuxuf-energylabel.pdf",
+          "erp_tasarim_donme": "-15,0º ~ 15,0º",
+          "integration_product_type_code": "PT_CD_MONITOR",
+          "integration_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_eko_energystar": "Yok",
+          "erp_guc_tipi": "Harici Adaptör",
+          "integration_aksesuar_dsubkablosu": "Hayır",
+          "integration_ekran_yanitsuresi": "1 ms (GTG)",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "713.0 x 434.8 x 173.0 mm",
+          "erp_arabirim_kulaklikcikisi": "Evet",
+          "integration_arabirim_hdmi": "2 EA",
+          "erp_akillihizmet_dokunveizle": "Yok",
+          "erp_akillihizmet_alexabuiltin": "Yok",
+          "erp_aksesuar_hdmitomicrohdmicable": "Hayır",
+          "erp_ekran_hdr10": "Evet",
+          "integration_aksesuar_kurulumcd": "Hayır",
+          "erp_smartservice_connectsharetmusb20": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_arabirim_sesgirisi": "Hayır",
+          "integration_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "erp_arabirim_builtincamera": "Yok",
+          "integration_ekran_parlaklikmin": "300 cd/㎡",
+          "erp_smartservice_tapview": "Yok",
+          "integration_ekran_yenilemehizi": "Maks. 240Hz",
+          "erp_genelozellikler_000wkapalimodu": "Yok",
+          "erp_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_genelozellikler_papatyazinciri": "Yok",
+          "integration_model_name": "S32BG850NU",
+          "erp_arabirim_microhdmiversion": "Hayır",
+          "erp_ekran_enboyorani": "16:9",
+          "erp_ekran_miniledlocaldimming": "Evet (1.196 bölge)",
+          "erp_genelozellikler_akillitelefonkablosuzsarj": "Yok",
+          "erp_tasarim_rearcolor": "BEYAZ",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "integration_arabirim_ekranbaglantinoktasicikisversiyonu": "Yok",
+          "integration_genelozellikler_oyunmodu": "Yok",
+          "integration_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_calismakosullari_sicaklik": "10~40 ℃",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "713.0 x 434.8 x 173.0 mm",
+          "erp_genelozellikler_gaminghub": "Yok",
+          "erp_genelozellikler_windowssertifikasi": "Windows 10",
+          "ykbkredilisatis": "Evet",
+          "erp_kalibrasyon_homojenlikduzeltmesi": "Yok",
+          "integration_genelozellikler_yenilemeoranioptimizeedici": "Evet",
+          "erp_tasarim_arkarenk": "BEYAZ",
+          "erp_guc_guckaynagi": "AC 100~240 V",
+          "erp_akillihizmet_farfieldvoiceinteraction": "Yok",
+          "erp_aksesuar_usb30kablosu": "Hayır",
+          "erp_aksesuar_dpkablosu": "Evet",
+          "integration_guc_guctuketimidpms": "0.50 W",
+          "erp_arabirim_windowshellocertification": "Yok",
+          "erp_arabirim_bluetooth": "Yok",
+          "integration_ekran_statikkontrastorani": "1.000.000:1",
+          "erp_ses_uyumsaglayanses": "Yok",
+          "integration_guc_guctuketimimaks": "Yok",
+          "erp_akillihizmet_googleassistantbuiltin": "Yok",
+          "integration_guc_guckaynagi": "AC 100~240 V",
+          "integration_guc_guctuketimitip": "40.8 W",
+          "erp_genelozellikler_dusukgirdiligecikmemodu": "Evet",
+          "erp_arabirim_hdcpversionhdmi": "2,2",
+          "erp_kalibrasyon_renkmodu": "Özel/FPS/RTS/RPG/Spor/sRGB/Sinema/Dinamik Kontrast",
+          "integration_ekran_renkgamintsc1976": "Yok",
+          "integration_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_eko_geridonusturulmusplastik": "Yok",
+          "erp_usptext": "Quantum Matrix Teknolojisi, HDR 2000 ve UHD çözünürlük, kristal netliğinde bir görüntü için bir araya geliyor.\nSorunsuz oyun deneyimi için 240Hz yenileme hızı ve 1ms tepki süresi\nOyun deneyimi için desteklenen mat ekran",
+          "erp_arabirim_usbmerkeziversiyonu": "3",
+          "integration_ses_hoparlor": "Hayır",
+          "erp_aksesuar_dsubkablosu": "Hayır",
+          "erp_product_subtype_name": "LED Monitor",
+          "erp_genelozellikler_adaptivepicture": "Evet",
+          "erp_eko_enerjiverimliliksinifi": "G",
+          "erp_ekran_hdryuksekdinamikaralik": "Quantum HDR 2000",
+          "erp_arabirim_microhdmi": "Hayır",
+          "erp_kalibrasyon_cmsrenkyonetimyazilimi": "Yok",
+          "integration_tasarim_hasyuksekligiayarlanabilirayak": "120,0 ±5,0",
+          "erp_ekran_yenilemehizi": "Maks. 240Hz",
+          "erp_agirlik_stantlabirliktesetagirligi": "8.9 kg",
+          "erp_ekran_renkdestegi": "Maksimum 1B",
+          "erp_product_type_name": "Monitor",
+          "erp_tasarim_duvaramonteedilebilir": "100 x 100",
+          "erp_color": "Beyaz",
+          "erp_arabirim_ekranbaglantinoktasiversiyonu": "1,4",
+          "erp_tasarim_onrenk": "SİYAH",
+          "integration_aksesuar_usb30kablosu": "Hayır",
+          "integration_color_code": "#ffffff",
+          "erp_arabirim_usbmerkezi": "2",
+          "erp_category_name_path": "Display|Monitör|Oyun",
+          "erp_genelozellikler_resimboyutu": "Yok",
+          "integration_boyutlar_ambalajboyutugxyxd": "827.0 x 236.0 x 530.0 mm",
+          "integration_category_code": "07010200",
+          "erp_ekran_srgbkapsami": "Yok",
+          "erp_arabirim_dahilikamera": "Yok",
+          "erp_genelozellikler_ecolightsensor": "Evet",
+          "erp_ekran_enyuksekparlakliktipik": "1000 cd/㎡",
+          "erp_ekran_ekranboyutusinif": "32",
+          "erp_tasarim_hasyuksekligiayarlanabilirayak": "120,0 ±5,0",
+          "erp_yasalsorumluluksiniri_yasalsorumluluksiniri": "Yok",
+          "erp_ekran_paneltipi": "VA",
+          "integration_ekran_adobergbkapsami": "Yok",
+          "erp_arabirim_kablosuzekran": "Hayır",
+          "erp_akillihizmet_smartthingsuygulamasinidestekler": "Yok",
+          "integration_genelozellikler_siyahdengeleyici": "Evet",
+          "integration_product_type_name": "Monitor",
+          "integration_agirlik_stantlabirliktesetagirligi": "8.9 kg",
+          "erp_akillihizmet_smartthings": "Yok",
+          "integration_genelozellikler_titresimsiz": "Evet",
+          "erp_arabirim_hdcpversionmicrohdmi": "Hayır",
+          "integration_tasarim_duvaramonteedilebilir": "100 x 100",
+          "erp_smartservice_googleassistantbuiltin": "Yok",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bg850nuxuf-productfiche.pdf",
+          "erp_aksesuar_camera": "Hayır",
+          "integration_ekran_dinamikkontrastorani": "Mega DCR",
+          "integration_guc_tipi": "Harici Adaptör",
+          "erp_genelozellikler_ecosavingplus": "Yok",
+          "integration_genelozellikler_resimyanindaresim": "Yok",
+          "erp_calismakosullari_nem": "10~80, donmayan",
+          "erp_genelozellikler_kuantumnoktalirenk": "Evet",
+          "drk_name": "Samsung Odyssey Neo G8 32\" 1ms 240Hz UHD Quantum Mini-LED HDR2000 1000R Pivot Gaming Monitör",
+          "integration_tasarim_stanttipi": "PİVOT ÖZELLİĞİ VAR",
+          "integration_arabirim_kulaklikcikisi": "Evet",
+          "erp_model_name": "S32BG850NU",
+          "erp_aksesuar_usb20kablosu": "Hayır",
+          "erp_smartservice_videocommunication": "Yok",
+          "erp_genelozellikler_freesync": "FreeSync Premium Pro",
+          "erp_aksesuar_usbtipckablosu": "Hayır",
+          "integration_arabirim_kablosuzekran": "Hayır",
+          "erp_kalibrasyon_dahilikalibrasyonsistemi": "Yok",
+          "erp_arabirim_wifi": "Yok",
+          "integration_guc_guctuketimikapalimodu": "0.30 W",
+          "erp_arabirim_usbcsarjgucu": "Hayır",
+          "erp_smartservice_sesyansitma": "Yok",
+          "integration_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_genelozellikler_windowssertifikasi": "Windows 10",
+          "integration_guc_guctuketimiyillik": "60 kWh/year",
+          "erp_kalibrasyon_luttaramalitablobitderinligi": "Yok",
+          "integration_genelozellikler_ecosavingplus": "Yok",
+          "erp_genelozellikler_resimicinderesim": "Evet",
+          "integration_arabirim_usbc": "Hayır",
+          "integration_calismakosullari_nem": "10~80, donmayan",
+          "erp_genelozellikler_samsungmagicrotationauto": "Yok",
+          "integration_arabirim_dsub": "Hayır",
+          "erp_ekran_hdr10gaming": "Evet",
+          "erp_genelozellikler_titresimsiz": "Evet",
+          "integration_boyutlar_stantlabirliktesetboyutugxyxd": "713.0 x 606.4 x 311.1 mm",
+          "erp_genelozellikler_gozkoruyucumodu": "Evet",
+          "erp_akillihizmet_goruntuluiletisim": "Yok",
+          "integration_ekran_izlemeacisiyd": "178° (Y)/178° (D)",
+          "erp_genelozellikler_ecomotionsensor": "Yok",
+          "integration_arabirim_usbmerkezi": "2",
+          "erp_genelozellikler_kapamazamanlayici": "Evet",
+          "erp_tasarim_stantrengi": "Siyah",
+          "erp_ekran_etkinekranboyutuyxdmm": "697,306 (D) x 392,234 (Y) mm",
+          "integration_genelozellikler_usbsupersarj": "Yok",
+          "erp_kalibrasyon_fabrikakalibrasyonraporu": "Yok",
+          "erp_smartservice_workswithgoogleassistant": "Yok"
+        },
+        "attribute_set": 11,
+        "attributes_kwargs": {
+          "integration_arabirim_ciftbaglantilidvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikisversiyonu": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_oyunmodu": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikis": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_resimicinderesim": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_resimyanindaresim": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_gsync": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_aksesuar_usb30kablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_dusukgirdiligecikmemodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_kuantumnoktalirenk": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_freesync": {
+            "value": "FreeSync Premium Pro",
+            "data_type": "dropdown",
+            "label": "FreeSync Premium Pro"
+          },
+          "integration_color": {
+            "value": "Beyaz",
+            "data_type": "dropdown",
+            "label": "Beyaz"
+          },
+          "integration_aksesuar_dpkablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_arabirim_kablosuzekran": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_gozkoruyucumodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_hdmikablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_superarenagamingux": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_ecosavingplus": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_arabirim_usbc": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_aksesuar_kurulumcd": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_resimboyutu": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_dvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_aksesuar_miniekrancinsi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "3.840 x 2.160",
+            "data_type": "dropdown",
+            "label": "3840 x 2160"
+          },
+          "integration_ekran_hdryuksekdinamikaralik": {
+            "value": "Quantum HDR 2000",
+            "data_type": "dropdown",
+            "label": "Quantum HDR 2000"
+          },
+          "integration_genelozellikler_siyahdengeleyici": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_arabirim_usbmerkezi": {
+            "value": "2",
+            "data_type": "dropdown",
+            "label": "2"
+          },
+          "integration_aksesuar_dvikablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_kalibrasyon_fabrikaayari": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_yenilemeoranioptimizeedici": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekran_ekranboyutusinif": {
+            "value": "32",
+            "data_type": "dropdown",
+            "label": "32\""
+          },
+          "integration_aksesuar_dsubkablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_usbsupersarj": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_titresimsiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29412,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15085/12286f30-ae6f-4038-8494-c92cf1a0c7ac.jpg",
+            "order": 0,
+            "created_date": "2022-10-03T11:46:08.371186Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29414,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15085/ee6887c9-e523-4b35-95ce-dd57b5dfbe19.jpg",
+            "order": 1,
+            "created_date": "2022-10-03T11:46:08.605948Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29413,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15085/32a3f918-0ae3-41dc-85f0-a4716cf7321d.jpg",
+            "order": 2,
+            "created_date": "2022-10-03T11:46:08.556790Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "26999",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "26999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/odyssey-neo-g8-32-1ms-240hz-uhd-quantum-mini-led-hdr2000-1000r-pivot-gaming-monitor/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 5,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutusinif",
+              "options": [
+                {
+                  "product": {
+                    "name": "Odyssey Neo G8 32\" 1ms 240Hz UHD Quantum Mini-LED HDR2000 1000R Pivot Gaming Monitör",
+                    "absolute_url": "/tr/odyssey-neo-g8-32-1ms-240hz-uhd-quantum-mini-led-hdr2000-1000r-pivot-gaming-monitor/",
+                    "price": "26999",
+                    "attributes": {
+                      "integration_color_code": "#ffffff",
+                      "integration_ekran_ekranboyutusinif": "32",
+                      "integration_color": "Beyaz"
+                    },
+                    "pk": 5532,
+                    "retail_price": "26999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15085/12286f30-ae6f-4038-8494-c92cf1a0c7ac.jpg",
+                        "created_date": "2022-10-03T11:46:08.371186Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29412,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15085/ee6887c9-e523-4b35-95ce-dd57b5dfbe19.jpg",
+                        "created_date": "2022-10-03T11:46:08.605948Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29414,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15085/32a3f918-0ae3-41dc-85f0-a4716cf7321d.jpg",
+                        "created_date": "2022-10-03T11:46:08.556790Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29413,
+                        "order": 2
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "32\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5530,
+        "name": "Odyssey Neo G7 32\" 1ms 165Hz UHD Quantum Mini-LED HDR2000 1000R Pivot Gaming Monitör",
+        "sku": "LS32BG750NUXUF",
+        "base_code": "424880",
+        "attributes": {
+          "erp_kalibrasyon_fabrikaayari": "EVET",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bg750nuxuf-energylabel.pdf",
+          "erp_star_grade": "5",
+          "integration_product_type_code": "PT_CD_MONITOR",
+          "erp_agirlik_stantlabirliktesetagirligi": "8,6 kg",
+          "integration_grade": "G",
+          "erp_guc_tipi": "Harici Adaptör",
+          "erp_ekran_statikkontrastorani": "1.000.000:1",
+          "mp_hdmi": "Var",
+          "erp_guc_guctuketimitip": "40,8 W",
+          "integration_ekran_yanitsuresi": "1 ms (GTG)",
+          "erp_tasarim_donme": "-15,0º ~ 15,0º",
+          "integration_genelozellikler_freesync": "FreeSync Premium Pro",
+          "erp_ekran_parlakliktipik": "350 cd/㎡",
+          "integration_category_code_path": "07000000|07010000|07010200",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "713,0 x 440,3 x 185,0 mm",
+          "mp_panel_tipi": "Mekanik",
+          "erp_arabirim_kulaklikcikisi": "Evet",
+          "integration_arabirim_hdmi": "2 EA",
+          "mp_hdcp": "Yok",
+          "erp_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "mp_kargo": "yurtici",
+          "integration_genelozellikler_superarenagamingux": "Evet",
+          "erp_grade": "G",
+          "integration_calismakosullari_sicaklik": "10~40 ℃",
+          "erp_aksesuar_hdmitomicrohdmicable": "Hayır",
+          "erp_ekran_hdr10": "Evet",
+          "erp_product_type_code": "PT_CD_MONITOR",
+          "integration_aksesuar_kurulumcd": "Hayır",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bg750nuxuf-energylabel.pdf",
+          "integration_kalibrasyon_renkmodu": "Özel/FPS/RTS/RPG/Spor/sRGB/Sinema/Dinamik Kontrast",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_aksesuar_hdmikablosu": "Hayır",
+          "erp_aksesuar_uzaktankumanda": "Hayır",
+          "mp_dvi": "Yok",
+          "integration_agirlik_ambalajagirligi": "12,0 kg",
+          "erp_tasarim_stanttipi": "PİVOT ÖZELLİĞİ VAR",
+          "erp_arabirim_sesgirisi": "Hayır",
+          "integration_ekran_paneltipi": "VA",
+          "integration_aksesuar_guckablosuuzunlugu": "1,5 m",
+          "mp_coz_standart": "Ultra HD 4K (UHD)",
+          "erp_arabirim_builtincamera": "Hayır",
+          "erp_ses_hoparlor": "Hayır",
+          "erp_aksesuar_guckablosuuzunlugu": "1,5 m",
+          "integration_ekran_parlaklikmin": "300 cd/㎡",
+          "erp_boyutlar_stantlabirliktesetboyutugxyxd": "713,0 x 606,2 x 311,1 mm",
+          "integration_ekran_yenilemehizi": "Maks. 165 Hz",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_dahili_hoparlor": "Yok",
+          "integration_kalibrasyon_fabrikaayari": "EVET",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "713,0 x 440,3 x 185,0 mm",
+          "integration_genelozellikler_yenilemeoranioptimizeedici": "Evet",
+          "erp_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "integration_model_name": "S32BG750NU",
+          "erp_ekran_parlaklikmin": "300 cd/㎡",
+          "integration_guc_guctuketimiyillik": "60 kWh/year",
+          "erp_arabirim_microhdmiversion": "Hayır",
+          "erp_ekran_enboyorani": "16:9",
+          "mp_trendyol_kargo": "3",
+          "erp_ekran_miniledlocaldimming": "Evet (1.196 bölge)",
+          "erp_boyutlar_ambalajboyutugxyxd": "827,0 x 231,0 x 499,0 mm",
+          "erp_tasarim_rearcolor": "SİYAH",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "mp_sync": "FreeSync",
+          "erp_aksesuar_miniekrancinsi": "Hayır",
+          "integration_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "mp_ekran_teknolojisi": "4K Ultra HD",
+          "mp_tepki_suresi": "1 ms",
+          "erp_aksesuar_kurulumcd": "Hayır",
+          "mp_uydu_alici": "Yok",
+          "erp_genelozellikler_windowssertifikasi": "Windows 10",
+          "erp_genelozellikler_resimicinderesim": "Evet",
+          "integration_ekran_cozunurluk": "3.840 x 2.160",
+          "integration_aksesuar_dvikablosu": "Hayır",
+          "erp_tasarim_arkarenk": "SİYAH",
+          "erp_category_code_path": "07000000|07010000|07010200",
+          "erp_tasarim_stantrengi": "SİYAH",
+          "erp_guc_guckaynagi": "AC 100~240 V",
+          "erp_aksesuar_usb30kablosu": "Hayır",
+          "erp_aksesuar_dpkablosu": "Evet",
+          "integration_guc_guctuketimidpms": "0,50 W",
+          "integration_arabirim_usbmerkeziversiyonu": "3",
+          "integration_ekran_renkgamidcikapsami": "%95 (Hayırrmal)",
+          "erp_ekran_ekrankivrimi": "1000R",
+          "erp_tasarim_standcolor": "SİYAH",
+          "mp_3d": "Yok",
+          "erp_guc_guctuketimikapalimodu": "0,30 W",
+          "integration_product_subtype_name": "LED Monitor",
+          "integration_ekran_statikkontrastorani": "1.000.000:1",
+          "erp_tasarim_pivot": "-92,0º(± 2°) ~ 92,0º(± 2°)",
+          "integration_guc_guckaynagi": "AC 100~240 V",
+          "integration_guc_guctuketimitip": "40,8 W",
+          "product_desi": "25",
+          "erp_genelozellikler_dusukgirdiligecikmemodu": "Evet",
+          "erp_arabirim_hdcpversionhdmi": "2,2",
+          "erp_kalibrasyon_renkmodu": "Özel/FPS/RTS/RPG/Spor/sRGB/Sinema/Dinamik Kontrast",
+          "mp_ekran_yenileme_hizi": "165 Hz",
+          "erp_aksesuar_usb20cable": "Hayır",
+          "integration_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_arabirim_usbmerkeziversiyonu": "3",
+          "integration_ses_hoparlor": "Hayır",
+          "erp_aksesuar_dsubkablosu": "Hayır",
+          "erp_product_subtype_name": "LED Monitor",
+          "integration_star_grade": "5",
+          "integration_ekran_renkdestegi": "Maksimum 1B",
+          "inc_monitor": "27 ve üzeri",
+          "erp_agirlik_ambalajagirligi": "12,0 kg",
+          "integration_guc_tipi": "Harici Adaptör",
+          "erp_ekran_hdryuksekdinamikaralik": "Quantum HDR 2000",
+          "integration_arabirim_sesgirisi": "Hayır",
+          "mp_kullanim_amaci": "Oyun",
+          "erp_arabirim_microhdmi": "Hayır",
+          "erp_genelozellikler_uyumsaglayangoruntu": "Evet",
+          "integration_tasarim_hasyuksekligiayarlanabilirayak": "120,0 ±5,0",
+          "erp_arabirim_usbmerkezi": "2",
+          "erp_ekran_yenilemehizi": "Maks. 165 Hz",
+          "integration_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_gradecolor": "#ed1c24",
+          "integration_ekran_parlakliktipik": "350 cd/㎡",
+          "erp_ekran_renkdestegi": "Maksimum 1B",
+          "integration_usptext": "Quantum Matrix Teknolojisi, HDR 2000 ve UHD çözünürlük, kristal netliğinde bir görüntü için bir araya geliyor.\nG-sync uyumlu monitör, sorunsuz oyun deneyimi için 240 Hz yenileme hızına ve 1 ms yanıt süresine sahiptir.\nDaha rahat görüş ve oyun deneyimi için 1000R kavisli tasarım",
+          "integration_aksesuar_hdmikablosu": "Hayır",
+          "integration_arabirim_ekranbaglantinoktasiversiyonu": "1,4",
+          "erp_arabirim_hdmiversiyonu": "2,1",
+          "erp_product_type_name": "Monitor",
+          "erp_tasarim_duvaramonteedilebilir": "100 x 100",
+          "erp_ekran_dinamikkontrastorani": "Mega DCR",
+          "erp_arabirim_ekranbaglantinoktasiversiyonu": "1,4",
+          "erp_aksesuar_thunderbolt3kablosu": "Hayır",
+          "erp_ekran_renkgamidcikapsami": "%95 (Hayırrmal)",
+          "erp_tasarim_onrenk": "SİYAH",
+          "integration_aksesuar_usb30kablosu": "Hayır",
+          "integration_genelozellikler_dusukgirdiligecikmemodu": "Evet",
+          "integration_genelozellikler_kuantumnoktalirenk": "Evet",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3",
+          "erp_guc_guctuketimiyillik": "60 kWh/year",
+          "integration_color": "Siyah",
+          "mp_cozunurluk": "3840 x 2160",
+          "integration_aksesuar_dpkablosu": "Evet",
+          "erp_category_name_path": "Display|Monitör|Oyun",
+          "erp_aksesuar_seskablosu": "Hayır",
+          "erp_aksesuar_kamera": "Hayır",
+          "integration_boyutlar_ambalajboyutugxyxd": "827,0 x 231,0 x 499,0 mm",
+          "erp_genelozellikler_ultrawidegameview": "Evet",
+          "erp_guc_guctuketimidpms": "0,50 W",
+          "erp_ean": "8806094402698",
+          "integration_category_code": "07010200",
+          "erp_arabirim_dahilikamera": "Hayır",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "erp_genelozellikler_ecolightsensor": "Evet",
+          "integration_categoryenglishnamepath": "Display|Monitors|Gaming",
+          "erp_ekran_ekranboyutusinif": "32",
+          "mp_curved": "Var",
+          "erp_tasarim_hasyuksekligiayarlanabilirayak": "120,0 ±5,0",
+          "erp_genelozellikler_coresync": "Evet",
+          "erp_agirlik_stantsizsetagirligi": "6,7 kg",
+          "integration_aksesuar_miniekrancinsi": "Hayır",
+          "mp_kontrast": "1000:1",
+          "mp_goruntu_teknolojisi": "LED",
+          "erp_ekran_paneltipi": "VA",
+          "integration_aksesuar_dsubkablosu": "Hayır",
+          "erp_arabirim_kablosuzekran": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasi": "1 EA",
+          "erp_genelozellikler_autosourceswitch": "Evet",
+          "erp_genelozellikler_siyahdengeleyici": "Evet",
+          "integration_genelozellikler_siyahdengeleyici": "Evet",
+          "mp_n11_pivot": "Evet",
+          "integration_product_type_name": "Monitor",
+          "integration_ekran_duzkavisli": "Kavisli",
+          "integration_agirlik_stantlabirliktesetagirligi": "8,6 kg",
+          "integration_ekran_ekranboyutusinif": "32",
+          "mp_mini_displayport": "Var",
+          "integration_ekran_enboyorani": "16:9",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bg750nuxuf-productfiche.pdf",
+          "integration_genelozellikler_titresimsiz": "Evet",
+          "erp_genelozellikler_sanalaimnoktasi": "Evet",
+          "erp_arabirim_hdcpversionmicrohdmi": "Hayır",
+          "integration_tasarim_duvaramonteedilebilir": "100 x 100",
+          "b2b_purchase_limit_per_basket": "2",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bg750nuxuf-productfiche.pdf",
+          "erp_aksesuar_camera": "Hayır",
+          "erp_categoryenglishnamepath": "Display|Monitors|Gaming",
+          "erp_color_code": "#000000",
+          "erp_usptext": "Quantum Matrix Teknolojisi, HDR 2000 ve UHD çözünürlük, kristal netliğinde bir görüntü için bir araya geliyor.\nG-sync uyumlu monitör, sorunsuz oyun deneyimi için 240 Hz yenileme hızına ve 1 ms yanıt süresine sahiptir.\nDaha rahat görüş ve oyun deneyimi için 1000R kavisli tasarım",
+          "erp_category_code": "07010200",
+          "erp_genelozellikler_adaptivepicture": "Evet",
+          "integration_ekran_ekrankivrimi": "1000R",
+          "erp_ekran_duzkavisli": "Kavisli",
+          "erp_eko_enerjiverimliliksinifi": "G",
+          "mp_ekran_boyutu": "32\" / 81 Ekran",
+          "integration_genelozellikler_resimicinderesim": "Evet",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_genelozellikler_ultragenisoyungoruntusu": "Evet",
+          "erp_calismakosullari_nem": "10~80, donmayan",
+          "erp_genelozellikler_kuantumnoktalirenk": "Evet",
+          "integration_category_name_path": "Display|Monitör|Oyun",
+          "drk_name": "Samsung Odyssey Neo G7 32\" 1ms 165Hz UHD Quantum Mini-LED HDR2000 1000R Pivot Gaming Monitör",
+          "integration_tasarim_stanttipi": "PİVOT ÖZELLİĞİ VAR",
+          "mp_display_port": "Yok",
+          "integration_arabirim_ekranbaglantinoktasi": "1 EA",
+          "erp_ekran_izlemeacisiyd": "178° (Y)/178° (D)",
+          "erp_aksesuar_usb20kablosu": "Hayır",
+          "integration_arabirim_dvi": "Hayır",
+          "erp_ekran_yanitsuresi": "1 ms (GTG)",
+          "mp_vga": "Yok",
+          "erp_aksesuar_hdmitomicrohdmikablosu": "Hayır",
+          "erp_aksesuar_usbtipckablosu": "Hayır",
+          "integration_gradecolor": "#ed1c24",
+          "integration_arabirim_kablosuzekran": "Hayır",
+          "integration_ean": "8806094402698",
+          "integration_guc_guctuketimikapalimodu": "0,30 W",
+          "erp_arabirim_usbcsarjgucu": "Hayır",
+          "mp_vesa_uyumlulugu": "Yok",
+          "integration_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_genelozellikler_windowssertifikasi": "Windows 10",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_arabirim_hdmiversiyonu": "2,1",
+          "erp_arabirim_dsub": "Hayır",
+          "erp_tasarim_egme": "-9,0º(± 2°) ~ 13,0º(± 2°)",
+          "erp_genelozellikler_superarenagamingux": "Evet",
+          "integration_arabirim_usbc": "Hayır",
+          "integration_calismakosullari_nem": "10~80, donmayan",
+          "integration_arabirim_kulaklikcikisi": "Evet",
+          "integration_arabirim_dsub": "Hayır",
+          "erp_aksesuar_hdmidvikablosu": "Hayır",
+          "erp_arabirim_usbc": "Hayır",
+          "integration_ekran_dinamikkontrastorani": "Mega DCR",
+          "erp_model_name": "S32BG750NU",
+          "integration_boyutlar_stantlabirliktesetboyutugxyxd": "713,0 x 606,2 x 311,1 mm",
+          "mp_hb_kargo": "3",
+          "erp_genelozellikler_yenilemeoranioptimizeedici": "Evet",
+          "integration_ekran_hdryuksekdinamikaralik": "Quantum HDR 2000",
+          "integration_ekran_etkinekranboyutuyxdmm": "697,306 (D) x 392,234 (Y) mm",
+          "ykbkredilisatis": "Evet",
+          "erp_arabirim_hdmi": "2 EA",
+          "erp_genelozellikler_gozkoruyucumodu": "Evet",
+          "erp_ekran_enyuksekparlakliktipik": "1000 cd/㎡",
+          "erp_genelozellikler_titresimsiz": "Evet",
+          "integration_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "integration_ekran_izlemeacisiyd": "178° (Y)/178° (D)",
+          "erp_ekran_hdr10gaming": "Evet",
+          "integration_agirlik_stantsizsetagirligi": "6,7 kg",
+          "integration_arabirim_usbmerkezi": "2",
+          "erp_calismakosullari_sicaklik": "10~40 ℃",
+          "erp_genelozellikler_kapamazamanlayici": "Evet",
+          "erp_arabirim_dvi": "Hayır",
+          "erp_ekran_etkinekranboyutuyxdmm": "697,306 (D) x 392,234 (Y) mm",
+          "erp_aksesuar_dvikablosu": "Hayır",
+          "erp_ekran_cozunurluk": "3.840 x 2.160",
+          "erp_color": "Siyah",
+          "erp_genelozellikler_freesync": "FreeSync Premium Pro"
+        },
+        "attribute_set": 11,
+        "attributes_kwargs": {
+          "integration_arabirim_ciftbaglantilidvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdmi": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_ekran_hdryuksekdinamikaralik": {
+            "value": "Quantum HDR 2000",
+            "data_type": "dropdown",
+            "label": "Quantum HDR 2000"
+          },
+          "mp_sync": {
+            "value": "FreeSync",
+            "data_type": "dropdown",
+            "label": "FreeSync"
+          },
+          "integration_aksesuar_dvikablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "mp_dvi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikis": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_boyutu": {
+            "value": "32\" / 81 Ekran",
+            "data_type": "dropdown",
+            "label": "32\" / 81 Ekran"
+          },
+          "integration_genelozellikler_resimicinderesim": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_tepki_suresi": {
+            "value": "1 ms",
+            "data_type": "dropdown",
+            "label": "1 ms"
+          },
+          "mp_ekran_teknolojisi": {
+            "value": "4K Ultra HD",
+            "data_type": "dropdown",
+            "label": "4K Ultra HD"
+          },
+          "integration_aksesuar_usb30kablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_dusukgirdiligecikmemodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_uydu_alici": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_display_port": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_cozunurluk": {
+            "value": "3840 x 2160",
+            "data_type": "dropdown",
+            "label": "3840 x 2160"
+          },
+          "integration_aksesuar_dpkablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_mini_displayport": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_genelozellikler_kuantumnoktalirenk": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_arabirim_usbmerkezi": {
+            "value": "2",
+            "data_type": "dropdown",
+            "label": "2"
+          },
+          "integration_arabirim_kablosuzekran": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdcp": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_3d": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_vesa_uyumlulugu": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_gozkoruyucumodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_hdmikablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_superarenagamingux": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_freesync": {
+            "value": "FreeSync Premium Pro",
+            "data_type": "dropdown",
+            "label": "FreeSync Premium Pro"
+          },
+          "integration_arabirim_usbc": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_curved": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_aksesuar_kurulumcd": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_vga": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_titresimsiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_miniekrancinsi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kontrast": {
+            "value": "1000:1",
+            "data_type": "dropdown",
+            "label": "1000:1"
+          },
+          "mp_goruntu_teknolojisi": {
+            "value": "LED",
+            "data_type": "dropdown",
+            "label": "LED"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "3.840 x 2.160",
+            "data_type": "dropdown",
+            "label": "3840 x 2160"
+          },
+          "mp_coz_standart": {
+            "value": "Ultra HD 4K (UHD)",
+            "data_type": "dropdown",
+            "label": "Ultra HD 4K (UHD)"
+          },
+          "integration_genelozellikler_siyahdengeleyici": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_n11_pivot": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_dahili_hoparlor": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "inc_monitor": {
+            "value": "27 ve üzeri",
+            "data_type": "dropdown",
+            "label": "27 ve üzeri"
+          },
+          "integration_kalibrasyon_fabrikaayari": {
+            "value": "EVET",
+            "data_type": "dropdown",
+            "label": "EVET"
+          },
+          "integration_genelozellikler_yenilemeoranioptimizeedici": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekran_ekranboyutusinif": {
+            "value": "32",
+            "data_type": "dropdown",
+            "label": "32\""
+          },
+          "integration_aksesuar_dsubkablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kullanim_amaci": {
+            "value": "Oyun",
+            "data_type": "dropdown",
+            "label": "Oyun"
+          },
+          "integration_arabirim_dvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_yenileme_hizi": {
+            "value": "165 Hz",
+            "data_type": "dropdown",
+            "label": "165 Hz"
+          },
+          "mp_panel_tipi": {
+            "value": "Mekanik",
+            "data_type": "dropdown",
+            "label": "Mekanik"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29409,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15084/f18b521b-cf33-40c3-8af9-506cabb06361.jpg",
+            "order": 0,
+            "created_date": "2022-10-03T11:45:36.396377Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29411,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15084/61745004-71f6-4bc2-a710-811f8f0d2d62.jpg",
+            "order": 1,
+            "created_date": "2022-10-03T11:45:36.585801Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29410,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15084/6ac8f4f9-46b5-4669-87d8-1e7a2a105909.jpg",
+            "order": 3,
+            "created_date": "2022-10-03T11:45:36.532385Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "24599",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "24975",
+        "unit_type": "qty",
+        "absolute_url": "/tr/odyssey-neo-g7-32-1ms-165hz-uhd-quantum-mini-led-hdr2000-1000r-pivot-gaming-monitor/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 7,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutusinif",
+              "options": [
+                {
+                  "product": {
+                    "name": "Odyssey Neo G7 32\" 1ms 165Hz UHD Quantum Mini-LED HDR2000 1000R Pivot Gaming Monitör",
+                    "absolute_url": "/tr/odyssey-neo-g7-32-1ms-165hz-uhd-quantum-mini-led-hdr2000-1000r-pivot-gaming-monitor/",
+                    "price": "24599",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_ekran_ekranboyutusinif": "32",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5530,
+                    "retail_price": "24975",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15084/f18b521b-cf33-40c3-8af9-506cabb06361.jpg",
+                        "created_date": "2022-10-03T11:45:36.396377Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29409,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15084/61745004-71f6-4bc2-a710-811f8f0d2d62.jpg",
+                        "created_date": "2022-10-03T11:45:36.585801Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29411,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15084/6ac8f4f9-46b5-4669-87d8-1e7a2a105909.jpg",
+                        "created_date": "2022-10-03T11:45:36.532385Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29410,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "32\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5528,
+        "name": "T450 27” Çerçevesiz IPS 75Hz Full HD HAS/PIVOT Profesyonel Monitör",
+        "sku": "LF27T450FQRXUF",
+        "base_code": "386772",
+        "attributes": {
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-lf27t450fqrxuf-energylabel.pdf",
+          "erp_tasarim_donme": "-45˚(±2.0˚) ~ 45˚(±2.0˚)",
+          "integration_product_type_code": "PT_CD_MONITOR",
+          "erp_agirlik_stantlabirliktesetagirligi": "4.6 kg",
+          "erp_eko_energystar": "Evet",
+          "integration_grade": "D",
+          "erp_guc_tipi": "Dahili Güç",
+          "erp_ekran_statikkontrastorani": "1000:1(Tip)",
+          "mp_hdmi": "Var",
+          "erp_guc_guctuketimitip": "17.0 W",
+          "integration_ekran_yanitsuresi": "5(GTG)",
+          "mp_ekran_teknolojisi": "Full HD",
+          "mp_ekran_boyutu": "27 inç",
+          "integration_genelozellikler_freesync": "Evet",
+          "erp_ekran_parlakliktipik": "250 cd/㎡",
+          "integration_category_code_path": "07000000|07010000|07010600",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "612.1 x 363.6 x 39.4 mm",
+          "integration_arabirim_kablosuzekran": "Hayır",
+          "mp_panel_tipi": "Mekanik",
+          "erp_arabirim_kulaklikcikisi": "Evet",
+          "integration_arabirim_hdmi": "2 EA",
+          "mp_hdcp": "Yok",
+          "erp_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "mp_kargo": "yurtici",
+          "erp_grade": "D",
+          "integration_calismakosullari_sicaklik": "10℃ ~ 40℃",
+          "erp_product_type_code": "PT_CD_MONITOR",
+          "integration_aksesuar_kurulumcd": "Evet",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-lf27t450fqrxuf-energylabel.pdf",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_aksesuar_hdmikablosu": "Evet",
+          "erp_aksesuar_uzaktankumanda": "Hayır",
+          "mp_dvi": "Yok",
+          "integration_agirlik_ambalajagirligi": "6.2 kg",
+          "erp_tasarim_stanttipi": "PİVOT ÖZELLİKLİ (100 MM’DEN FAZLA)",
+          "erp_arabirim_sesgirisi": "Hayır",
+          "integration_ekran_paneltipi": "IPS",
+          "integration_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "erp_ses_usbsescubuguhazir": "Hayır",
+          "mp_coz_standart": "Full HD (FHD)",
+          "erp_tasarim_egme": "-3.0˚(±2.0˚) ~ 25.0˚(±2.0˚)",
+          "erp_ses_hoparlor": "Hayır",
+          "erp_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "integration_ekran_parlaklikmin": "200 cd/㎡",
+          "erp_boyutlar_stantlabirliktesetboyutugxyxd": "612.1 x 391.6 x 224.0 mm",
+          "integration_ekran_yenilemehizi": "Maks. 75Hz",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_dahili_hoparlor": "Yok",
+          "erp_color": "SİYAH",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "612.1 x 363.6 x 39.4 mm",
+          "erp_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "integration_model_name": "F27T450FQR",
+          "mp_ekran_yenileme_hizi": "75 Hz",
+          "integration_guc_guctuketimiyillik": "25 kWh/yıl",
+          "integration_tasarim_hasyuksekligiayarlanabilirayak": "130.0mm(±2.0mm)",
+          "erp_ekran_enboyorani": "16:9",
+          "mp_trendyol_kargo": "3",
+          "integration_arabirim_usbbaglantinoktalari": "2",
+          "erp_boyutlar_ambalajboyutugxyxd": "693 x 147 x 428 mm",
+          "erp_tasarim_renk": "SİYAH",
+          "mp_sync": "FreeSync",
+          "integration_genelozellikler_oyunmodu": "Evet",
+          "erp_aksesuar_miniekrancinsi": "Hayır",
+          "integration_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_calismakosullari_sicaklik": "10℃ ~ 40℃",
+          "mp_tepki_suresi": "5 ms",
+          "erp_aksesuar_kurulumcd": "Evet",
+          "mp_uydu_alici": "Yok",
+          "erp_genelozellikler_windowssertifikasi": "Windows10",
+          "erp_category_code_path": "07000000|07010000|07010600",
+          "integration_tasarim_renk": "SİYAH",
+          "erp_guc_guckaynagi": "AC 100~240V",
+          "integration_guc_guctuketimidpms": "0.50 W",
+          "integration_arabirim_usbmerkeziversiyonu": "USB2.0x2",
+          "mp_3d": "Yok",
+          "erp_guc_guctuketimikapalimodu": "0.30 W",
+          "integration_product_subtype_name": "LED Monitor",
+          "integration_ekran_statikkontrastorani": "1000:1(Tip)",
+          "erp_tasarim_pivot": "Evet",
+          "integration_guc_guckaynagi": "AC 100~240V",
+          "integration_guc_guctuketimitip": "17.0 W",
+          "product_desi": "30",
+          "integration_arabirim_dvi": "Hayır",
+          "erp_ekran_parlaklikmin": "200 cd/㎡",
+          "integration_ekran_renkgamintsc1976": "%72 (CIE 1931)",
+          "erp_eko_geridonusturulmusplastik": "3’ün üzerinde",
+          "erp_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_arabirim_usbmerkeziversiyonu": "USB2.0x2",
+          "integration_ses_hoparlor": "Hayır",
+          "erp_product_subtype_name": "LED Monitor",
+          "integration_ekran_renkdestegi": "Maks. 16.7M",
+          "inc_monitor": "24-27",
+          "erp_agirlik_ambalajagirligi": "6.2 kg",
+          "mp_kullanim_amaci": "Profesyonel",
+          "erp_arabirim_usbc": "Hayır",
+          "erp_ekran_yenilemehizi": "Maks. 75Hz",
+          "integration_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_gradecolor": "#fff200",
+          "integration_ekran_parlakliktipik": "250 cd/㎡",
+          "erp_ekran_renkdestegi": "Maks. 16.7M",
+          "integration_usptext": "IPS panel ile her yönden 178˚ mükemmel renkler\nÇerçevesiz tasarımı ile kesintisiz ikili ekran kurulumu\n2 adet HDMI 1.4 bağlantı noktası ve bir adet ekran bağlantı noktası(display port) ile tam bağlantı",
+          "erp_genelozellikler_oyunmodu": "Evet",
+          "integration_aksesuar_hdmikablosu": "Evet",
+          "integration_arabirim_ekranbaglantinoktasiversiyonu": "1.2",
+          "erp_arabirim_hdmiversiyonu": "1.4",
+          "erp_product_type_name": "Monitor",
+          "erp_tasarim_duvaramonteedilebilir": "100 x 100",
+          "erp_ekran_dinamikkontrastorani": "Mega",
+          "erp_arabirim_ekranbaglantinoktasiversiyonu": "1.2",
+          "integration_arabirim_sesgirisi": "Hayır",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3",
+          "erp_guc_guctuketimiyillik": "25 kWh/yıl",
+          "integration_color": "SİYAH",
+          "mp_cozunurluk": "1920 x 1080",
+          "erp_arabirim_usbbaglantinoktalari": "2",
+          "erp_category_name_path": "Display|Monitör|Kurumsal",
+          "erp_genelozellikler_resimboyutu": "Evet",
+          "erp_ekran_renkgamintsc1976": "%72 (CIE 1931)",
+          "integration_boyutlar_ambalajboyutugxyxd": "693 x 147 x 428 mm",
+          "erp_guc_guctuketimidpms": "0.50 W",
+          "erp_ean": "8806094343335",
+          "integration_category_code": "07010600",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "integration_categoryenglishnamepath": "Display|Monitors|Business",
+          "erp_ekran_ekranboyutusinif": "27",
+          "mp_curved": "Yok",
+          "integration_genelozellikler_resimboyutu": "Evet",
+          "erp_tasarim_hasyuksekligiayarlanabilirayak": "130.0mm(±2.0mm)",
+          "erp_agirlik_stantsizsetagirligi": "3.2 kg",
+          "integration_aksesuar_miniekrancinsi": "Hayır",
+          "mp_kontrast": "1000:1",
+          "mp_goruntu_teknolojisi": "IPS",
+          "erp_ekran_paneltipi": "IPS",
+          "erp_arabirim_kablosuzekran": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasi": "1 EA",
+          "mp_n11_pivot": "Evet",
+          "integration_product_type_name": "Monitor",
+          "integration_agirlik_stantlabirliktesetagirligi": "4.6 kg",
+          "integration_ekran_ekranboyutusinif": "27",
+          "mp_mini_displayport": "Var",
+          "integration_ekran_enboyorani": "16:9",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-lf27t450fqrxuf-productfiche.pdf",
+          "integration_genelozellikler_titresimsiz": "Evet",
+          "integration_tasarim_duvaramonteedilebilir": "100 x 100",
+          "b2b_purchase_limit_per_basket": "2",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-lf27t450fqrxuf-productfiche.pdf",
+          "erp_categoryenglishnamepath": "Display|Monitors|Business",
+          "erp_color_code": "#000000",
+          "erp_category_code": "07010600",
+          "erp_ekran_duzkavisli": "Düz",
+          "erp_eko_enerjiverimliliksinifi": "D",
+          "integration_gradecolor": "#fff200",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_calismakosullari_nem": "%10 ~ %80, donmayan",
+          "integration_category_name_path": "Display|Monitör|Kurumsal",
+          "drk_name": "Samsung T450 27” Çerçevesiz IPS 75Hz Full HD HAS/PIVOT Profesyonel Monitör",
+          "integration_tasarim_stanttipi": "PİVOT ÖZELLİKLİ (100 MM’DEN FAZLA)",
+          "mp_display_port": "Yok",
+          "integration_arabirim_kulaklikcikisi": "Evet",
+          "erp_ekran_izlemeacisiyd": "178°/178°",
+          "erp_ekran_yanitsuresi": "5(GTG)",
+          "mp_vga": "Yok",
+          "erp_usptext": "IPS panel ile her yönden 178˚ mükemmel renkler\nÇerçevesiz tasarımı ile kesintisiz ikili ekran kurulumu\n2 adet HDMI 1.4 bağlantı noktası ve bir adet ekran bağlantı noktası(display port) ile tam bağlantı",
+          "integration_ean": "8806094343335",
+          "integration_guc_guctuketimikapalimodu": "0.30 W",
+          "erp_arabirim_usbcsarjgucu": "Hayır",
+          "mp_vesa_uyumlulugu": "Var",
+          "integration_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_genelozellikler_windowssertifikasi": "Windows10",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_arabirim_hdmiversiyonu": "1.4",
+          "integration_genelozellikler_ecosavingplus": "Evet",
+          "erp_arabirim_dsub": "Hayır",
+          "ykbkredilisatis": "Evet",
+          "erp_genelozellikler_ecosavingplus": "Evet",
+          "integration_arabirim_usbc": "Hayır",
+          "integration_calismakosullari_nem": "%10 ~ %80, donmayan",
+          "integration_arabirim_ekranbaglantinoktasi": "1 EA",
+          "integration_arabirim_dsub": "Hayır",
+          "integration_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_genelozellikler_titresimsiz": "Evet",
+          "integration_ekran_dinamikkontrastorani": "Mega",
+          "erp_model_name": "F27T450FQR",
+          "integration_boyutlar_stantlabirliktesetboyutugxyxd": "612.1 x 391.6 x 224.0 mm",
+          "mp_hb_kargo": "3",
+          "integration_ekran_etkinekranboyutuyxdmm": "597.888 × 336.312 mm",
+          "integration_ekran_cozunurluk": "1.920 x 1.080",
+          "erp_arabirim_hdmi": "2 EA",
+          "erp_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "integration_ekran_izlemeacisiyd": "178°/178°",
+          "integration_ekran_duzkavisli": "Düz",
+          "integration_agirlik_stantsizsetagirligi": "3.2 kg",
+          "erp_genelozellikler_hdmicec": "Hayır",
+          "integration_guc_tipi": "Dahili Güç",
+          "erp_genelozellikler_kapamazamanlayici": "Evet",
+          "erp_arabirim_dvi": "Hayır",
+          "erp_ekran_etkinekranboyutuyxdmm": "597.888 × 336.312 mm",
+          "integration_ses_usbsescubuguhazir": "Hayır",
+          "erp_ekran_cozunurluk": "1.920 x 1.080",
+          "erp_genelozellikler_freesync": "Evet"
+        },
+        "attribute_set": 11,
+        "attributes_kwargs": {
+          "integration_arabirim_ciftbaglantilidvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdmi": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "mp_sync": {
+            "value": "FreeSync",
+            "data_type": "dropdown",
+            "label": "FreeSync"
+          },
+          "integration_ses_usbsescubuguhazir": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "mp_dvi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikis": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_boyutu": {
+            "value": "27 inç",
+            "data_type": "dropdown",
+            "label": "27 inç"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_tepki_suresi": {
+            "value": "5 ms",
+            "data_type": "dropdown",
+            "label": "5 ms"
+          },
+          "mp_ekran_teknolojisi": {
+            "value": "Full HD",
+            "data_type": "dropdown",
+            "label": "Full HD"
+          },
+          "mp_uydu_alici": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_display_port": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "SİYAH",
+            "data_type": "dropdown",
+            "label": "SİYAH"
+          },
+          "mp_cozunurluk": {
+            "value": "1920 x 1080",
+            "data_type": "dropdown",
+            "label": "1920 x 1080"
+          },
+          "mp_vga": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_kablosuzekran": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdcp": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_3d": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_aksesuar_hdmikablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_gozkoruyucumodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_oyunmodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_ecosavingplus": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_freesync": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_arabirim_usbc": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_curved": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_aksesuar_kurulumcd": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_resimboyutu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_titresimsiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_miniekrancinsi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kontrast": {
+            "value": "1000:1",
+            "data_type": "dropdown",
+            "label": "1000:1"
+          },
+          "mp_goruntu_teknolojisi": {
+            "value": "IPS",
+            "data_type": "dropdown",
+            "label": "IPS"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "1.920 x 1.080",
+            "data_type": "dropdown",
+            "label": "1.920 x 1.080"
+          },
+          "mp_vesa_uyumlulugu": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "mp_coz_standart": {
+            "value": "Full HD (FHD)",
+            "data_type": "dropdown",
+            "label": "Full HD (FHD)"
+          },
+          "mp_n11_pivot": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_dahili_hoparlor": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "inc_monitor": {
+            "value": "24-27",
+            "data_type": "dropdown",
+            "label": "24-27"
+          },
+          "integration_ekran_ekranboyutusinif": {
+            "value": "27",
+            "data_type": "dropdown",
+            "label": "27\""
+          },
+          "mp_mini_displayport": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "mp_kullanim_amaci": {
+            "value": "Profesyonel",
+            "data_type": "dropdown",
+            "label": "Profesyonel"
+          },
+          "integration_arabirim_dvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_yenileme_hizi": {
+            "value": "75 Hz",
+            "data_type": "dropdown",
+            "label": "75 Hz"
+          },
+          "mp_panel_tipi": {
+            "value": "Mekanik",
+            "data_type": "dropdown",
+            "label": "Mekanik"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29408,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15083/1553c94b-9926-4c2a-a221-0662cbcc42db.jpg",
+            "order": 0,
+            "created_date": "2022-10-03T11:44:32.301523Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29406,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15083/64c9b4c1-39cd-4f0f-9bfa-3f1ab0a3f4a1.jpg",
+            "order": 1,
+            "created_date": "2022-10-03T11:44:31.895935Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29962,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/21/15083/372f48fc-924b-4e86-ab08-5e316b56c2e1.jpg",
+            "order": 2,
+            "created_date": "2022-11-21T05:46:49.757691Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "3499",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "4625",
+        "unit_type": "qty",
+        "absolute_url": "/tr/t450-27-cercevesiz-ips-75hz-full-hd-has-pivot-profesyonel-monitor/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 349,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutusinif",
+              "options": [
+                {
+                  "product": {
+                    "name": "T450 24” Çerçevesiz IPS 75Hz Full HD HAS/PIVOT Profesyonel Monitör",
+                    "absolute_url": "/tr/t450-24-cercevesiz-ips-75hz-full-hd-has-pivot-profesyonel-monitor/",
+                    "price": "3199",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_ekran_ekranboyutusinif": "24",
+                      "integration_color": "Black"
+                    },
+                    "pk": 4401,
+                    "retail_price": "4070",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2021/11/10/10925/90f3668f-b779-49b5-9b2a-4afcd0bb7ec2.jpg",
+                        "created_date": "2021-11-10T11:09:58.261601Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 25089,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2021/11/10/10925/1ef90396-3f7e-4196-b9a4-fd590a18a912.jpg",
+                        "created_date": "2021-11-10T11:09:58.408792Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 25090,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2021/11/10/10925/2a00ec1b-8575-4c91-812c-c91b6232a600.jpg",
+                        "created_date": "2021-11-10T11:09:58.457504Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 25091,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2021/11/10/10925/28af858f-419c-4011-9997-19da21dbd388.jpg",
+                        "created_date": "2021-11-10T11:09:58.508708Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 25092,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2021/11/10/10925/ed96a033-b5c9-49cb-a867-8a5ec51e824f.jpg",
+                        "created_date": "2021-11-10T11:09:58.704607Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 25094,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2021/11/10/10927/6ca12df0-e72a-43c9-bb09-28bfd78b02bb.jpg",
+                        "created_date": "2021-11-10T11:09:58.744079Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 25095,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2021/11/10/10925/7bab44ea-3f9d-43ba-ae79-0f244173b5f9.jpg",
+                        "created_date": "2021-11-10T11:09:58.838254Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 25097,
+                        "order": 7
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "24\""
+                },
+                {
+                  "product": {
+                    "name": "T450 27” Çerçevesiz IPS 75Hz Full HD HAS/PIVOT Profesyonel Monitör",
+                    "absolute_url": "/tr/t450-27-cercevesiz-ips-75hz-full-hd-has-pivot-profesyonel-monitor/",
+                    "price": "3499",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_ekran_ekranboyutusinif": "27",
+                      "integration_color": "SİYAH"
+                    },
+                    "pk": 5528,
+                    "retail_price": "4625",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15083/1553c94b-9926-4c2a-a221-0662cbcc42db.jpg",
+                        "created_date": "2022-10-03T11:44:32.301523Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29408,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15083/64c9b4c1-39cd-4f0f-9bfa-3f1ab0a3f4a1.jpg",
+                        "created_date": "2022-10-03T11:44:31.895935Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29406,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/21/15083/372f48fc-924b-4e86-ab08-5e316b56c2e1.jpg",
+                        "created_date": "2022-11-21T05:46:49.757691Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29962,
+                        "order": 2
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "27\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5527,
+        "name": "Odyssey G4 25\" 1ms 240Hz FHD HDR10 IPS G-Sync Gaming Monitör",
+        "sku": "LS25BG400EUXUF",
+        "base_code": "434871",
+        "attributes": {
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls25bg400euxuf-energylabel.pdf",
+          "erp_tasarim_donme": "'-15,0°(±2,0°) ~ +15,0°(±2,0°)",
+          "integration_product_type_code": "PT_CD_MONITOR",
+          "erp_agirlik_stantlabirliktesetagirligi": "4,5 kg",
+          "erp_guc_tipi": "Harici Adaptör",
+          "erp_ekran_statikkontrastorani": "1.000:1 (Normal)",
+          "erp_arabirim_ekranbaglantinoktasi": "1 EA",
+          "erp_guc_guctuketimitip": "18,0 W",
+          "integration_ekran_yanitsuresi": "1ms (GTG)",
+          "erp_star_grade": "5",
+          "integration_ekran_srgbkapsami": "%99",
+          "integration_genelozellikler_freesync": "FreeSync Premium",
+          "erp_ekran_parlakliktipik": "400 cd/㎡",
+          "integration_category_code_path": "07000000|07010000|07010200",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "558,5 x 341,1 x 85,4 mm",
+          "integration_arabirim_kablosuzekran": "Hayır",
+          "erp_arabirim_kulaklikcikisi": "Evet",
+          "integration_arabirim_hdmi": "2 EA",
+          "erp_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "integration_genelozellikler_superarenagamingux": "Evet",
+          "erp_grade": "E",
+          "integration_calismakosullari_sicaklik": "10~40 ℃",
+          "erp_product_type_code": "PT_CD_MONITOR",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls25bg400euxuf-energylabel.pdf",
+          "integration_kalibrasyon_renkmodu": "Özel/FPS/RTS/RPG/Spor/sRGB/Sinema/DinamikKontrast",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_aksesuar_hdmikablosu": "Evet",
+          "integration_ekran_cozunurluk": "1.920 x 1.080",
+          "integration_agirlik_ambalajagirligi": "6,0 kg",
+          "erp_tasarim_stanttipi": "PİVOT ÖZELLİĞİ VAR",
+          "erp_arabirim_sesgirisi": "Hayır",
+          "integration_ekran_paneltipi": "IPS",
+          "integration_aksesuar_guckablosuuzunlugu": "1,5 m",
+          "erp_tasarim_egme": "'-3,0°(±2,0°) ~ +22,0°(±2,0°)",
+          "erp_ses_hoparlor": "Hayır",
+          "erp_aksesuar_guckablosuuzunlugu": "1,5 m",
+          "integration_ekran_parlaklikmin": "320 cd/㎡",
+          "erp_boyutlar_stantlabirliktesetboyutugxyxd": "558,5 x 552,9 x 244,8 mm",
+          "integration_ekran_yenilemehizi": "Maks. 240 Hz",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_color": "Siyah",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "558,5 x 341,1 x 85,4 mm",
+          "integration_genelozellikler_yenilemeoranioptimizeedici": "Evet",
+          "erp_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "integration_arabirim_dvi": "Hayır",
+          "erp_ekran_parlaklikmin": "320 cd/㎡",
+          "integration_guc_guctuketimiyillik": "26 kWh/year",
+          "integration_tasarim_hasyuksekligiayarlanabilirayak": "120,0±5,0 mm",
+          "erp_ekran_enboyorani": "16:9",
+          "erp_boyutlar_ambalajboyutugxyxd": "628,0 x 163,0 x 429,0 mm",
+          "erp_tasarim_rearcolor": "SİYAH",
+          "erp_aksesuar_miniekrancinsi": "Hayır",
+          "integration_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_calismakosullari_sicaklik": "10~40 ℃",
+          "erp_genelozellikler_windowssertifikasi": "Windows 10",
+          "erp_tasarim_arkarenk": "SİYAH",
+          "erp_category_code_path": "07000000|07010000|07010200",
+          "erp_tasarim_stantrengi": "SİYAH",
+          "erp_guc_guckaynagi": "AC 100~240 V",
+          "erp_genelozellikler_yenilemeoranioptimizeedici": "Evet",
+          "integration_guc_guctuketimidpms": "0,50 W",
+          "erp_tasarim_standcolor": "SİYAH",
+          "erp_guc_guctuketimikapalimodu": "0,30 W",
+          "integration_product_subtype_name": "LED Monitor",
+          "integration_ekran_statikkontrastorani": "1.000:1 (Normal)",
+          "integration_guc_guctuketimimaks": "35 W",
+          "erp_tasarim_pivot": "'-92,0°(±2,0°) ~ +92,0°(±2,0°)",
+          "integration_guc_guckaynagi": "AC 100~240 V",
+          "integration_guc_guctuketimitip": "18,0 W",
+          "erp_genelozellikler_dusukgirdiligecikmemodu": "Evet",
+          "erp_arabirim_hdcpversionhdmi": "2,2",
+          "integration_model_name": "S25BG400EU",
+          "erp_product_subtype_code": "PT_CD_MONITOR_01",
+          "integration_ses_hoparlor": "Hayır",
+          "erp_product_subtype_name": "LED Monitor",
+          "integration_star_grade": "5",
+          "integration_genelozellikler_windowssertifikasi": "Windows 10",
+          "integration_ekran_renkdestegi": "Maks. 16,7 Milyon",
+          "erp_genelozellikler_adaptivepicture": "Evet",
+          "erp_agirlik_ambalajagirligi": "6,0 kg",
+          "erp_ekran_hdryuksekdinamikaralik": "HDR10",
+          "erp_arabirim_usbc": "Hayır",
+          "erp_genelozellikler_uyumsaglayangoruntu": "Evet",
+          "erp_ekran_yenilemehizi": "Maks. 240 Hz",
+          "integration_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_gradecolor": "#fdb913",
+          "integration_ekran_parlakliktipik": "400 cd/㎡",
+          "erp_ekran_renkdestegi": "Maks. 16,7 Milyon",
+          "integration_ekran_dinamikkontrastorani": "Mega ∞ DCR",
+          "integration_aksesuar_hdmikablosu": "Evet",
+          "integration_arabirim_ekranbaglantinoktasiversiyonu": "1,2",
+          "erp_arabirim_hdmiversiyonu": "2,0",
+          "erp_product_type_name": "Monitor",
+          "erp_tasarim_duvaramonteedilebilir": "100 x 100",
+          "erp_ekran_dinamikkontrastorani": "Mega ∞ DCR",
+          "erp_arabirim_ekranbaglantinoktasiversiyonu": "1,2",
+          "erp_tasarim_onrenk": "SİYAH",
+          "integration_genelozellikler_dusukgirdiligecikmemodu": "Evet",
+          "integration_arabirim_sesgirisi": "Hayır",
+          "integration_color_code": "#000000",
+          "erp_guc_guctuketimiyillik": "26 kWh/year",
+          "integration_color": "Siyah",
+          "erp_category_name_path": "Display|Monitör|Oyun",
+          "integration_boyutlar_ambalajboyutugxyxd": "628,0 x 163,0 x 429,0 mm",
+          "erp_genelozellikler_ultrawidegameview": "Evet",
+          "erp_guc_guctuketimidpms": "0,50 W",
+          "erp_ean": "8806094399363",
+          "integration_category_code": "07010200",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls25bg400euxuf-productfiche.pdf",
+          "purchase_limit_per_basket": "1",
+          "erp_genelozellikler_ecolightsensor": "Evet",
+          "integration_categoryenglishnamepath": "Display|Monitors|Gaming",
+          "erp_ekran_ekranboyutusinif": "25",
+          "erp_tasarim_hasyuksekligiayarlanabilirayak": "120,0±5,0 mm",
+          "erp_agirlik_stantsizsetagirligi": "2,8 kg",
+          "integration_aksesuar_miniekrancinsi": "Hayır",
+          "integration_grade": "E",
+          "erp_genelozellikler_gsync": "G-Sync Uyumlu",
+          "erp_ekran_paneltipi": "IPS",
+          "erp_arabirim_kablosuzekran": "Hayır",
+          "erp_genelozellikler_autosourceswitch": "Evet",
+          "erp_genelozellikler_siyahdengeleyici": "Evet",
+          "integration_genelozellikler_siyahdengeleyici": "Evet",
+          "integration_product_type_name": "Monitor",
+          "integration_agirlik_stantlabirliktesetagirligi": "4,5 kg",
+          "integration_ekran_ekranboyutusinif": "25",
+          "integration_ekran_enboyorani": "16:9",
+          "integration_genelozellikler_titresimsiz": "Evet",
+          "erp_genelozellikler_sanalaimnoktasi": "Evet",
+          "integration_tasarim_duvaramonteedilebilir": "100 x 100",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls25bg400euxuf-productfiche.pdf",
+          "erp_categoryenglishnamepath": "Display|Monitors|Gaming",
+          "erp_color_code": "#000000",
+          "erp_category_code": "07010200",
+          "erp_ekran_duzkavisli": "Düz",
+          "erp_eko_enerjiverimliliksinifi": "E",
+          "integration_gradecolor": "#fdb913",
+          "integration_genelozellikler_gsync": "G-Sync Uyumlu",
+          "erp_genelozellikler_ultragenisoyungoruntusu": "Evet",
+          "erp_calismakosullari_nem": "10~80, donmayan",
+          "integration_category_name_path": "Display|Monitör|Oyun",
+          "drk_name": "Samsung Odyssey G4 25\" 1ms 240Hz FHD HDR10 IPS G-Sync Gaming Monitör",
+          "integration_tasarim_stanttipi": "PİVOT ÖZELLİĞİ VAR",
+          "erp_genelozellikler_superarenagamingux": "Evet",
+          "integration_arabirim_ekranbaglantinoktasi": "1 EA",
+          "erp_ekran_izlemeacisiyd": "178° (Y)/178° (D)",
+          "erp_guc_guctuketimimaks": "35 W",
+          "erp_ekran_yanitsuresi": "1ms (GTG)",
+          "erp_genelozellikler_freesync": "FreeSync Premium",
+          "integration_usptext": "FHD çözünürlük ve IPS panel\n240 Hz yenileme hızı ve 1 ms tepki süresi\nNvidia G-Sync uyumlu",
+          "erp_usptext": "FHD çözünürlük ve IPS panel\n240 Hz yenileme hızı ve 1 ms tepki süresi\nNvidia G-Sync uyumlu",
+          "integration_ean": "8806094399363",
+          "integration_guc_guctuketimikapalimodu": "0,30 W",
+          "integration_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_ekran_etkinekranboyutuyxdmm": "543,744 x 302,616 mm",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_arabirim_hdmiversiyonu": "2,0",
+          "integration_genelozellikler_ecosavingplus": "Evet",
+          "erp_arabirim_dsub": "Hayır",
+          "ykbkredilisatis": "Evet",
+          "erp_genelozellikler_ecosavingplus": "Evet",
+          "integration_arabirim_usbc": "Hayır",
+          "integration_calismakosullari_nem": "10~80, donmayan",
+          "integration_arabirim_kulaklikcikisi": "Evet",
+          "integration_arabirim_dsub": "Hayır",
+          "integration_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_genelozellikler_titresimsiz": "Evet",
+          "erp_model_name": "S25BG400EU",
+          "integration_boyutlar_stantlabirliktesetboyutugxyxd": "558,5 x 552,9 x 244,8 mm",
+          "integration_ekran_hdryuksekdinamikaralik": "HDR10",
+          "erp_arabirim_hdmi": "2 EA",
+          "erp_genelozellikler_gozkoruyucumodu": "Evet",
+          "erp_ekran_srgbkapsami": "%99",
+          "integration_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "integration_ekran_izlemeacisiyd": "178° (Y)/178° (D)",
+          "integration_ekran_duzkavisli": "Düz",
+          "integration_agirlik_stantsizsetagirligi": "2,8 kg",
+          "integration_guc_tipi": "Harici Adaptör",
+          "erp_genelozellikler_kapamazamanlayici": "Evet",
+          "erp_arabirim_dvi": "Hayır",
+          "erp_ekran_etkinekranboyutuyxdmm": "543,744 x 302,616 mm",
+          "erp_ekran_cozunurluk": "1.920 x 1.080",
+          "erp_kalibrasyon_renkmodu": "Özel/FPS/RTS/RPG/Spor/sRGB/Sinema/DinamikKontrast"
+        },
+        "attribute_set": 11,
+        "attributes_kwargs": {
+          "integration_arabirim_ciftbaglantilidvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_ecosavingplus": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_siyahdengeleyici": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_freesync": {
+            "value": "FreeSync Premium",
+            "data_type": "dropdown",
+            "label": "FreeSync Premium"
+          },
+          "integration_arabirim_usbc": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_aksesuar_hdmikablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_arabirim_kablosuzekran": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikis": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_gozkoruyucumodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_titresimsiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekran_ekranboyutusinif": {
+            "value": "25",
+            "data_type": "dropdown",
+            "label": "25\""
+          },
+          "integration_genelozellikler_yenilemeoranioptimizeedici": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekran_hdryuksekdinamikaralik": {
+            "value": "HDR10",
+            "data_type": "dropdown",
+            "label": "HDR10"
+          },
+          "integration_genelozellikler_gsync": {
+            "value": "G-Sync Uyumlu",
+            "data_type": "dropdown",
+            "label": "G-Sync Uyumlu"
+          },
+          "integration_aksesuar_miniekrancinsi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "1.920 x 1.080",
+            "data_type": "dropdown",
+            "label": "1.920 x 1.080"
+          },
+          "integration_arabirim_dvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_genelozellikler_dusukgirdiligecikmemodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_superarenagamingux": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29403,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15082/9bb34202-d3be-4df2-99d8-f09106f9e12c.jpg",
+            "order": 0,
+            "created_date": "2022-10-03T11:43:26.491180Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29405,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15082/e1793f1e-af7a-4521-b9a6-1104258ed47e.jpg",
+            "order": 1,
+            "created_date": "2022-10-03T11:43:26.761195Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29404,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15082/8043989d-8471-4499-ae4a-a89be06805f1.jpg",
+            "order": 2,
+            "created_date": "2022-10-03T11:43:26.650770Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "7030",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "7030",
+        "unit_type": "qty",
+        "absolute_url": "/tr/odyssey-g4-25-1ms-240hz-fhd-hdr10-ips-g-sync-gaming-monitor/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 5,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutusinif",
+              "options": [
+                {
+                  "product": {
+                    "name": "Odyssey G4 25\" 1ms 240Hz FHD HDR10 IPS G-Sync Gaming Monitör",
+                    "absolute_url": "/tr/odyssey-g4-25-1ms-240hz-fhd-hdr10-ips-g-sync-gaming-monitor/",
+                    "price": "7030",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_ekran_ekranboyutusinif": "25",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5527,
+                    "retail_price": "7030",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15082/9bb34202-d3be-4df2-99d8-f09106f9e12c.jpg",
+                        "created_date": "2022-10-03T11:43:26.491180Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29403,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15082/e1793f1e-af7a-4521-b9a6-1104258ed47e.jpg",
+                        "created_date": "2022-10-03T11:43:26.761195Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29405,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15082/8043989d-8471-4499-ae4a-a89be06805f1.jpg",
+                        "created_date": "2022-10-03T11:43:26.650770Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29404,
+                        "order": 2
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "25\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5525,
+        "name": "55\" Odyssey Ark 1 ms 165 Hz UHD Quantum Mini-LED HDR2000 RGB 1000R Kavisli Oyuncu Monitörü",
+        "sku": "LS55BG970NUXUF",
+        "base_code": "434260",
+        "attributes": {
+          "erp_akillihizmet_evrenselkilavuz": "Evet (KR, US, CA, BR, GB, FR, DE, IT, ES)",
+          "erp_arabirim_ekranbaglantinoktasi": "Hayır",
+          "erp_smartservice_mobiletoscreenmirroringdlna": "Evet",
+          "erp_yasalsorumluluksiniri_yasalsorumluluksiniri": "Yok",
+          "erp_ekran_statikkontrastorani": "1.000,000:1 (Statik)",
+          "erp_guc_guctuketimitip": "84.0 W",
+          "erp_ekran_adobergbkapsami": "Yok",
+          "integration_genelozellikler_freesync": "FreeSync Premium Pro",
+          "erp_ekran_parlakliktipik": "600 cd/㎡",
+          "integration_category_code_path": "07000000|07010000|07010200",
+          "integration_ekran_renkgamidcikapsami": "%95 (Normal)",
+          "mp_panel_tipi": "Mekanik",
+          "erp_akillihizmet_smarttype": "Smart",
+          "erp_akillihizmet_tasinabilircihazdanekranagoruntuaktarmadlna": "Evet",
+          "erp_arabirim_ethernetlan": "1 EA",
+          "erp_genelozellikler_resimyanindaresim": "Yok",
+          "integration_genelozellikler_superarenagamingux": "Evet",
+          "erp_arabirim_windowshellosertifikasi": "Yok",
+          "erp_smartservice_webservice": "Microsoft 365",
+          "erp_grade": "G",
+          "integration_calismakosullari_sicaklik": "0℃~40℃",
+          "erp_product_type_code": "PT_CD_MONITOR",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls55bg970nuxuf-energylabel.pdf",
+          "integration_kalibrasyon_renkmodu": "Yok",
+          "erp_aksesuar_hdmikablosu": "Evet",
+          "erp_aksesuar_uzaktankumanda": "Evet",
+          "integration_ekran_cozunurluk": "3,840 x 2,160",
+          "integration_agirlik_ambalajagirligi": "53.8 kg",
+          "erp_tasarim_stanttipi": "HAS PIVOT",
+          "integration_ekran_paneltipi": "VA",
+          "erp_smartservice_alexabuiltin": "Yok",
+          "erp_tasarim_egme": "Manzara:  -10 ˚(±2 ˚)~10 ˚(±2 ˚), Portre: -13 ˚(±2 ˚)~10 ˚(±2 ˚)",
+          "erp_ses_hoparlor": "Evet",
+          "erp_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "erp_boyutlar_stantlabirliktesetboyutugxyxd": "1174.8 x 1102.0 x 379.0 mm",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "integration_kalibrasyon_fabrikaayari": "EVET",
+          "erp_arabirim_thunderbolt3": "Yok",
+          "erp_akillihizmet_isletimsistemi": "Tizen™",
+          "erp_arabirim_ciftbaglantilidvi": "Hayır",
+          "integration_arabirim_dvi": "Hayır",
+          "erp_ekran_parlaklikmin": "420 cd/㎡",
+          "erp_smartservice_smartthings": "Evet",
+          "erp_akillihizmet_webservice": "Microsoft 365",
+          "erp_boyutlar_ambalajboyutugxyxd": "1362.0 x 922.0 x 317.0 mm",
+          "erp_tasarim_renk": "SİYAH",
+          "erp_aksesuar_miniekrancinsi": "Hayır",
+          "erp_smartservice_bixby": "ABD İngilizcesi, İngiliz İngilizcesi, Hindistan İngilizcesi, Korece, Fransızca, Almanca, İtalyanca, İspanyolca, Brezilya Portekizcesi (özellikler dile göre farklılık gösterir)",
+          "erp_aksesuar_kurulumcd": "Yok",
+          "mp_uydu_alici": "Yok",
+          "erp_category_code_path": "07000000|07010000|07010200",
+          "integration_tasarim_renk": "SİYAH",
+          "erp_genelozellikler_yenilemeoranioptimizeedici": "Yok",
+          "integration_arabirim_usbmerkeziversiyonu": "2.0",
+          "erp_akillihizmet_sesyansitma": "Evet",
+          "erp_tasarim_standcolor": "SİYAH",
+          "mp_3d": "Yok",
+          "erp_guc_guctuketimikapalimodu": "Yok",
+          "integration_product_subtype_name": "LED Monitor",
+          "erp_akillihizmet_uzaktanerisim": "Evet",
+          "erp_tasarim_pivot": "-90˚(±2˚)~90˚(±2˚)",
+          "erp_smartservice_workswithalexa": "Yok",
+          "product_desi": "50",
+          "erp_aksesuar_kamera": "Yok",
+          "erp_eko_geridonusturulmusplastik": "Yok",
+          "erp_arabirim_ekranbaglantinoktasicikisversiyonu": "Yok",
+          "erp_aksesuar_usb20cable": "Yok",
+          "erp_smartservice_isletimsistemi": "Tizen™",
+          "erp_product_subtype_code": "PT_CD_MONITOR_01",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_ekran_renkdestegi": "Maksimum 1B",
+          "erp_agirlik_ambalajagirligi": "53.8 kg",
+          "integration_arabirim_sesgirisi": "Hayır",
+          "erp_akillihizmet_workswithgoogleassistant": "Yok",
+          "erp_akillihizmet_alexayidestekler": "Yok",
+          "erp_genelozellikler_uyumsaglayangoruntu": "Evet",
+          "erp_gradecolor": "#ed1c24",
+          "integration_ekran_parlakliktipik": "600 cd/㎡",
+          "erp_smartservice_tvplus": "Evet (GB, FR, DE, IT, ES, CH, AT, NL, SE, NO, DK, FI, PT, IE, BE, LU)",
+          "integration_usptext": "1000 R eğim, hayal edilemez bir gerçekçilik için insan gözünün şekline uyum sağlıyor\nQuantum Mini LED’li Quantum Matrix Teknolojisi, kristal berraklığında bir görüntü sunuyor\nYalnızca tek bir Ark Di dokunuşu ile birden fazla içerik kaynağının keyfini sürmek için ekran boyutunu ve oranını ayarlayın",
+          "erp_genelozellikler_oyunmodu": "Evet",
+          "integration_aksesuar_hdmikablosu": "Evet",
+          "integration_arabirim_ekranbaglantinoktasiversiyonu": "Hayır",
+          "erp_arabirim_hdmiversiyonu": "2.1",
+          "erp_ekran_dinamikkontrastorani": "Mega DCR",
+          "erp_genelozellikler_gamebar20": "Evet",
+          "erp_ekran_renkgamidcikapsami": "%95 (Normal)",
+          "erp_ekran_ekrankivrimi": "1000R",
+          "integration_genelozellikler_dusukgirdiligecikmemodu": "Yok",
+          "integration_genelozellikler_kuantumnoktalirenk": "Evet",
+          "erp_guc_guctuketimiyillik": "123 kWh/yıl&lrm;",
+          "integration_color": "SİYAH",
+          "erp_aksesuar_thunderbolt3kablosu": "Yok",
+          "integration_aksesuar_dpkablosu": "Yok",
+          "erp_aksesuar_seskablosu": "Yok",
+          "erp_ekran_renkgamintsc1976": "Yok",
+          "erp_genelozellikler_ultrawidegameview": "Yok",
+          "erp_guc_guctuketimidpms": "0.50 W",
+          "erp_ean": "8806094475197",
+          "erp_smartservice_farfieldvoiceinteraction": "Yok",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls55bg970nuxuf-productfiche.pdf",
+          "purchase_limit_per_basket": "1",
+          "integration_categoryenglishnamepath": "Display|Monitors|Gaming",
+          "erp_kalibrasyon_gridengesi": "Yok",
+          "integration_ekran_srgbkapsami": "Yok",
+          "erp_genelozellikler_ecohareketsensoru": "Yok",
+          "integration_genelozellikler_resimboyutu": "Evet",
+          "erp_genelozellikler_coresync": "Yok",
+          "erp_agirlik_stantsizsetagirligi": "21.1 kg",
+          "integration_aksesuar_miniekrancinsi": "Hayır",
+          "integration_grade": "G",
+          "mp_goruntu_teknolojisi": "LED",
+          "erp_akillihizmet_bixby": "ABD İngilizcesi, İngiliz İngilizcesi, Hindistan İngilizcesi, Korece, Fransızca, Almanca, İtalyanca, İspanyolca, Brezilya Portekizcesi (özellikler dile göre farklılık gösterir)",
+          "erp_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "erp_genelozellikler_autosourceswitch": "Evet",
+          "erp_genelozellikler_siyahdengeleyici": "Yok",
+          "mp_n11_pivot": "Evet",
+          "integration_ekran_ekranboyutusinif": "55",
+          "integration_ekran_enboyorani": "16:9",
+          "erp_genelozellikler_usbsupersarj": "Yok",
+          "erp_genelozellikler_sanalaimnoktasi": "Yok",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_categoryenglishnamepath": "Display|Monitors|Gaming",
+          "erp_color_code": "#000000",
+          "erp_category_code": "07010200",
+          "integration_ekran_ekrankivrimi": "1000R",
+          "erp_ekran_duzkavisli": "Kavisli",
+          "erp_akillihizmet_tvplus": "Evet (GB, FR, DE, IT, ES, CH, AT, NL, SE, NO, DK, FI, PT, IE, BE, LU)",
+          "integration_gradecolor": "#ed1c24",
+          "integration_genelozellikler_resimicinderesim": "Yok",
+          "integration_genelozellikler_gsync": "Yok",
+          "erp_genelozellikler_ultragenisoyungoruntusu": "Yok",
+          "integration_category_name_path": "Display|Monitör|Oyun",
+          "erp_genelozellikler_superarenagamingux": "Evet",
+          "integration_arabirim_ekranbaglantinoktasi": "Hayır",
+          "erp_ekran_izlemeacisiyd": "178° (Y)/178° (D)",
+          "erp_guc_guctuketimimaks": "Yok",
+          "erp_ekran_yanitsuresi": "1 ms (GTG)",
+          "erp_aksesuar_hdmitomicrohdmikablosu": "Yok",
+          "erp_akillihizmet_connectsharetmusb20": "Evet",
+          "integration_ean": "8806094475197",
+          "integration_ekran_etkinekranboyutuyxdmm": "1209.6 (H) x 680.4 (V)",
+          "erp_genelozellikler_usbcpowerboost": "Yok",
+          "integration_arabirim_hdmiversiyonu": "2.1",
+          "erp_arabirim_dsub": "Hayır",
+          "erp_smartservice_smarttype": "Smart",
+          "erp_smartservice_smartthingsuygulamasinidestekler": "Evet",
+          "erp_ses_adaptivesound": "Evet",
+          "erp_aksesuar_hdmidvikablosu": "Yok",
+          "erp_arabirim_usbc": "Hayır",
+          "erp_arabirim_thunderbolt3sarjgucuyuva2": "Yok",
+          "erp_arabirim_thunderbolt3sarjgucuyuva1": "Yok",
+          "integration_ekran_hdryuksekdinamikaralik": "Quantum HDR 2000",
+          "erp_arabirim_hdmi": "4 EA",
+          "erp_smartservice_evrenselkilavuz": "Evet (KR, US, CA, BR, GB, FR, DE, IT, ES)",
+          "integration_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "integration_ekran_duzkavisli": "Kavisli",
+          "integration_agirlik_stantsizsetagirligi": "21.1 kg",
+          "erp_genelozellikler_hdmicec": "Evet",
+          "integration_aksesuar_dvikablosu": "Yok",
+          "erp_arabirim_dvi": "Hayır",
+          "erp_smartservice_remoteaccess": "Evet",
+          "erp_aksesuar_dvikablosu": "Yok",
+          "erp_ekran_cozunurluk": "3,840 x 2,160",
+          "erp_genelozellikler_000wkapalimodu": "Yok",
+          "erp_genelozellikler_freesync": "FreeSync Premium Pro",
+          "erp_kalibrasyon_fabrikaayari": "EVET",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls55bg970nuxuf-energylabel.pdf",
+          "erp_tasarim_donme": "Yok",
+          "integration_product_type_code": "PT_CD_MONITOR",
+          "integration_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_eko_energystar": "Yok",
+          "erp_guc_tipi": "Dahili Güç",
+          "integration_aksesuar_dsubkablosu": "Yok",
+          "mp_hdmi": "Var",
+          "integration_ekran_yanitsuresi": "1 ms (GTG)",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "1174.8 x 704.8 x 251.8 mm",
+          "erp_arabirim_kulaklikcikisi": "Evet",
+          "integration_arabirim_hdmi": "4 EA",
+          "mp_hdcp": "Yok",
+          "erp_akillihizmet_dokunveizle": "Evet",
+          "erp_akillihizmet_alexabuiltin": "Yok",
+          "erp_aksesuar_hdmitomicrohdmicable": "Yok",
+          "erp_ekran_hdr10": "Evet",
+          "integration_aksesuar_kurulumcd": "Yok",
+          "erp_smartservice_connectsharetmusb20": "Evet",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "mp_dvi": "Yok",
+          "erp_arabirim_sesgirisi": "Hayır",
+          "integration_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "mp_coz_standart": "Ultra HD 4K (UHD)",
+          "erp_arabirim_builtincamera": "Hayır",
+          "integration_ekran_parlaklikmin": "420 cd/㎡",
+          "erp_smartservice_tapview": "Evet",
+          "integration_ekran_yenilemehizi": "Maks. 165 Hz",
+          "mp_dahili_hoparlor": "Var",
+          "mp_vesa_uyumlulugu": "Var",
+          "erp_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_genelozellikler_papatyazinciri": "Yok",
+          "integration_model_name": "S55BG970NU",
+          "mp_ekran_yenileme_hizi": "165 Hz",
+          "erp_arabirim_microhdmiversion": "Hayır",
+          "erp_ekran_enboyorani": "16:9",
+          "mp_trendyol_kargo": "3",
+          "erp_ekran_miniledlocaldimming": "Evet (1.056 bölge)",
+          "erp_genelozellikler_akillitelefonkablosuzsarj": "Yok",
+          "erp_tasarim_rearcolor": "SİYAH",
+          "mp_sync": "FreeSync 2",
+          "integration_arabirim_ekranbaglantinoktasicikisversiyonu": "Yok",
+          "integration_genelozellikler_oyunmodu": "Evet",
+          "integration_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_calismakosullari_sicaklik": "0℃~40℃",
+          "mp_tepki_suresi": "1 ms",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "1174.8 x 704.8 x 251.8 mm",
+          "erp_genelozellikler_gaminghub": "Evet (KR, US, CA, BR, GB, FR, DE, IT, ES)",
+          "erp_genelozellikler_windowssertifikasi": "Windows 10",
+          "ykbkredilisatis": "Evet",
+          "erp_kalibrasyon_homojenlikduzeltmesi": "Yok",
+          "integration_genelozellikler_yenilemeoranioptimizeedici": "Yok",
+          "erp_tasarim_arkarenk": "SİYAH",
+          "erp_guc_guckaynagi": "AC100-240V 50/60Hz",
+          "erp_akillihizmet_farfieldvoiceinteraction": "Yok",
+          "erp_aksesuar_usb30kablosu": "Yok",
+          "erp_aksesuar_dpkablosu": "Yok",
+          "integration_guc_guctuketimidpms": "0.50 W",
+          "erp_arabirim_windowshellocertification": "Yok",
+          "integration_arabirim_usbc": "Hayır",
+          "erp_arabirim_bluetooth": "Evet (BT5.2)",
+          "integration_ekran_statikkontrastorani": "1.000,000:1 (Statik)",
+          "erp_ses_uyumsaglayanses": "Evet",
+          "integration_guc_guctuketimimaks": "Yok",
+          "erp_akillihizmet_googleassistantbuiltin": "Yok",
+          "integration_guc_guckaynagi": "AC100-240V 50/60Hz",
+          "integration_guc_guctuketimitip": "84.0 W",
+          "erp_genelozellikler_dusukgirdiligecikmemodu": "Yok",
+          "erp_arabirim_hdcpversionhdmi": "2.2",
+          "erp_kalibrasyon_renkmodu": "Yok",
+          "integration_ekran_renkgamintsc1976": "Yok",
+          "integration_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_usptext": "1000 R eğim, hayal edilemez bir gerçekçilik için insan gözünün şekline uyum sağlıyor\nQuantum Mini LED’li Quantum Matrix Teknolojisi, kristal berraklığında bir görüntü sunuyor\nYalnızca tek bir Ark Di dokunuşu ile birden fazla içerik kaynağının keyfini sürmek için ekran boyutunu ve oranını ayarlayın",
+          "erp_arabirim_usbmerkeziversiyonu": "2.0",
+          "integration_ses_hoparlor": "Evet",
+          "erp_aksesuar_dsubkablosu": "Yok",
+          "erp_product_subtype_name": "LED Monitor",
+          "erp_genelozellikler_adaptivepicture": "Evet",
+          "erp_eko_enerjiverimliliksinifi": "G",
+          "erp_ekran_hdryuksekdinamikaralik": "Quantum HDR 2000",
+          "mp_kullanim_amaci": "Profesyonel",
+          "erp_arabirim_microhdmi": "Hayır",
+          "erp_kalibrasyon_cmsrenkyonetimyazilimi": "Yok",
+          "integration_tasarim_hasyuksekligiayarlanabilirayak": "Manzara: 0~270 mm (±5 mm), Portre: 0~30 mm (±5 mm)",
+          "erp_ekran_yenilemehizi": "Maks. 165 Hz",
+          "erp_agirlik_stantlabirliktesetagirligi": "41.5 kg",
+          "mp_hb_kargo": "3",
+          "erp_ekran_renkdestegi": "Maksimum 1B",
+          "mp_kargo": "horoz",
+          "erp_product_type_name": "Monitor",
+          "erp_tasarim_duvaramonteedilebilir": "Yok",
+          "erp_color": "SİYAH",
+          "erp_arabirim_ekranbaglantinoktasiversiyonu": "Hayır",
+          "erp_tasarim_onrenk": "SİYAH",
+          "integration_aksesuar_usb30kablosu": "Yok",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3",
+          "mp_cozunurluk": "3840 x 2160",
+          "erp_arabirim_usbmerkezi": "2",
+          "erp_category_name_path": "Display|Monitör|Oyun",
+          "erp_genelozellikler_resimboyutu": "Evet",
+          "integration_boyutlar_ambalajboyutugxyxd": "1362.0 x 922.0 x 317.0 mm",
+          "integration_category_code": "07010200",
+          "erp_ekran_srgbkapsami": "Yok",
+          "erp_arabirim_dahilikamera": "Hayır",
+          "mp_diger_markalar": "Samsung",
+          "erp_genelozellikler_ecolightsensor": "Evet",
+          "erp_ekran_ekranboyutusinif": "55",
+          "erp_tasarim_hasyuksekligiayarlanabilirayak": "Manzara: 0~270 mm (±5 mm), Portre: 0~30 mm (±5 mm)",
+          "mp_kontrast": "1.000.000:1",
+          "erp_genelozellikler_gsync": "Yok",
+          "erp_ekran_paneltipi": "VA",
+          "integration_ekran_adobergbkapsami": "Yok",
+          "erp_arabirim_kablosuzekran": "Evet",
+          "erp_akillihizmet_smartthingsuygulamasinidestekler": "Evet",
+          "integration_genelozellikler_siyahdengeleyici": "Yok",
+          "integration_product_type_name": "Monitor",
+          "integration_agirlik_stantlabirliktesetagirligi": "41.5 kg",
+          "erp_akillihizmet_smartthings": "Evet",
+          "mp_mini_displayport": "Yok",
+          "integration_genelozellikler_titresimsiz": "Evet",
+          "erp_arabirim_hdcpversionmicrohdmi": "Hayır",
+          "integration_tasarim_duvaramonteedilebilir": "Yok",
+          "b2b_purchase_limit_per_basket": "2",
+          "erp_smartservice_googleassistantbuiltin": "Yok",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls55bg970nuxuf-productfiche.pdf",
+          "erp_aksesuar_camera": "Yok",
+          "integration_ekran_dinamikkontrastorani": "Mega DCR",
+          "integration_guc_tipi": "Dahili Güç",
+          "erp_genelozellikler_ecosavingplus": "Yok",
+          "mp_ekran_boyutu": "55 inç",
+          "integration_genelozellikler_resimyanindaresim": "Yok",
+          "erp_calismakosullari_nem": "%10~80, Donmayan",
+          "erp_genelozellikler_kuantumnoktalirenk": "Evet",
+          "drk_name": "Samsung 55\" Odyssey Ark 1 ms 165 Hz UHD Quantum Mini-LED HDR2000 RGB 1000R Kavisli Oyuncu Monitörü",
+          "integration_tasarim_stanttipi": "HAS PIVOT",
+          "mp_display_port": "Yok",
+          "integration_arabirim_kulaklikcikisi": "Evet",
+          "erp_model_name": "S55BG970NU",
+          "erp_aksesuar_usb20kablosu": "Yok",
+          "erp_smartservice_videocommunication": "Evet",
+          "mp_vga": "Yok",
+          "erp_aksesuar_usbtipckablosu": "Yok",
+          "integration_arabirim_kablosuzekran": "Evet",
+          "erp_kalibrasyon_dahilikalibrasyonsistemi": "Yok",
+          "erp_arabirim_wifi": "Evet (WiFi5)",
+          "integration_guc_guctuketimikapalimodu": "Yok",
+          "erp_arabirim_usbcsarjgucu": "Yok",
+          "erp_smartservice_sesyansitma": "Evet",
+          "integration_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_genelozellikler_windowssertifikasi": "Windows 10",
+          "integration_guc_guctuketimiyillik": "123 kWh/yıl&lrm;",
+          "erp_kalibrasyon_luttaramalitablobitderinligi": "Yok",
+          "integration_genelozellikler_ecosavingplus": "Yok",
+          "erp_genelozellikler_resimicinderesim": "Yok",
+          "mp_curved": "Var",
+          "integration_calismakosullari_nem": "%10~80, Donmayan",
+          "erp_genelozellikler_samsungmagicrotationauto": "Evet",
+          "integration_arabirim_dsub": "Hayır",
+          "erp_ekran_hdr10gaming": "Evet",
+          "erp_genelozellikler_titresimsiz": "Evet",
+          "integration_boyutlar_stantlabirliktesetboyutugxyxd": "1174.8 x 1102.0 x 379.0 mm",
+          "erp_genelozellikler_gozkoruyucumodu": "Evet",
+          "erp_akillihizmet_goruntuluiletisim": "Evet",
+          "integration_ekran_izlemeacisiyd": "178° (Y)/178° (D)",
+          "erp_genelozellikler_ecomotionsensor": "Yok",
+          "integration_arabirim_usbmerkezi": "2",
+          "erp_genelozellikler_kapamazamanlayici": "Evet",
+          "erp_tasarim_stantrengi": "SİYAH",
+          "erp_ekran_etkinekranboyutuyxdmm": "1209.6 (H) x 680.4 (V)",
+          "integration_genelozellikler_usbsupersarj": "Yok",
+          "erp_kalibrasyon_fabrikakalibrasyonraporu": "Evet",
+          "erp_smartservice_workswithgoogleassistant": "Yok"
+        },
+        "attribute_set": 11,
+        "attributes_kwargs": {
+          "integration_arabirim_ciftbaglantilidvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdmi": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_ekran_hdryuksekdinamikaralik": {
+            "value": "Quantum HDR 2000",
+            "data_type": "dropdown",
+            "label": "Quantum HDR 2000"
+          },
+          "mp_sync": {
+            "value": "FreeSync 2",
+            "data_type": "dropdown",
+            "label": "FreeSync 2"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikisversiyonu": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_oyunmodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_dvi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikis": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_boyutu": {
+            "value": "55 inç",
+            "data_type": "dropdown",
+            "label": "55 inç"
+          },
+          "integration_genelozellikler_resimicinderesim": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_resimyanindaresim": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_tepki_suresi": {
+            "value": "1 ms",
+            "data_type": "dropdown",
+            "label": "1 ms"
+          },
+          "integration_aksesuar_usb30kablosu": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_dusukgirdiligecikmemodu": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_kuantumnoktalirenk": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_display_port": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "SİYAH",
+            "data_type": "dropdown",
+            "label": "SİYAH"
+          },
+          "mp_cozunurluk": {
+            "value": "3840 x 2160",
+            "data_type": "dropdown",
+            "label": "3840 x 2160"
+          },
+          "integration_aksesuar_dpkablosu": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_mini_displayport": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_uydu_alici": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_usbmerkezi": {
+            "value": "2",
+            "data_type": "dropdown",
+            "label": "2"
+          },
+          "integration_arabirim_kablosuzekran": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_hdcp": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_3d": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_usbc": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_vesa_uyumlulugu": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_genelozellikler_gozkoruyucumodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_hdmikablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_superarenagamingux": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_ecosavingplus": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_freesync": {
+            "value": "FreeSync Premium Pro",
+            "data_type": "dropdown",
+            "label": "FreeSync Premium Pro"
+          },
+          "mp_kargo": {
+            "value": "horoz",
+            "data_type": "dropdown",
+            "label": "horoz"
+          },
+          "mp_curved": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_aksesuar_kurulumcd": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_resimboyutu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_titresimsiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_miniekrancinsi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kontrast": {
+            "value": "1.000.000:1",
+            "data_type": "dropdown",
+            "label": "1.000.000 : 1"
+          },
+          "mp_goruntu_teknolojisi": {
+            "value": "LED",
+            "data_type": "dropdown",
+            "label": "LED"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "3,840 x 2,160",
+            "data_type": "dropdown",
+            "label": "3,840 x 2,160"
+          },
+          "mp_vga": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_coz_standart": {
+            "value": "Ultra HD 4K (UHD)",
+            "data_type": "dropdown",
+            "label": "Ultra HD 4K (UHD)"
+          },
+          "integration_genelozellikler_siyahdengeleyici": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_n11_pivot": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_dahili_hoparlor": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_aksesuar_dvikablosu": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_kalibrasyon_fabrikaayari": {
+            "value": "EVET",
+            "data_type": "dropdown",
+            "label": "EVET"
+          },
+          "integration_genelozellikler_yenilemeoranioptimizeedici": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_ekran_ekranboyutusinif": {
+            "value": "55",
+            "data_type": "dropdown",
+            "label": "55\""
+          },
+          "integration_aksesuar_dsubkablosu": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_usbsupersarj": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_kullanim_amaci": {
+            "value": "Profesyonel",
+            "data_type": "dropdown",
+            "label": "Profesyonel"
+          },
+          "integration_arabirim_dvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_yenileme_hizi": {
+            "value": "165 Hz",
+            "data_type": "dropdown",
+            "label": "165 Hz"
+          },
+          "mp_panel_tipi": {
+            "value": "Mekanik",
+            "data_type": "dropdown",
+            "label": "Mekanik"
+          },
+          "integration_genelozellikler_gsync": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29963,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/82c9e18a-f548-4c56-93cf-b2bc2d81f69e.jpg",
+            "order": 0,
+            "created_date": "2022-11-22T12:56:01.421150Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29399,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15049/157c4fc8-c36e-4f22-958a-04b49d661590.jpg",
+            "order": 1,
+            "created_date": "2022-10-03T11:42:53.532803Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29400,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15049/5311a354-735b-4d6d-a4b2-0b5954731942.jpg",
+            "order": 2,
+            "created_date": "2022-10-03T11:42:53.691731Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29401,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15049/6b4cc8e8-246d-4aa5-bab3-b48447cce33b.jpg",
+            "order": 3,
+            "created_date": "2022-10-03T11:42:53.799574Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29402,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15049/c0598c37-f8bd-44ee-b2b5-58f001ac641c.jpg",
+            "order": 4,
+            "created_date": "2022-10-03T11:42:53.866174Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29964,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/36237683-7002-4e0e-9eed-7a84b14ec431.jpg",
+            "order": 5,
+            "created_date": "2022-11-22T12:56:29.376520Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29965,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/c24838fe-a5c2-4e5b-b61f-b54e36302f21.jpg",
+            "order": 6,
+            "created_date": "2022-11-22T12:57:25.596997Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29966,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/d67697cd-e351-493d-8d04-51c2ea96a43f.jpg",
+            "order": 7,
+            "created_date": "2022-11-22T12:57:25.702545Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29967,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/55b24009-a9b5-4f9d-a2dd-7d7607d6d200.jpg",
+            "order": 8,
+            "created_date": "2022-11-22T12:57:25.760545Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29968,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/8bd6cc94-5b8e-4c24-b66e-a2c3625c58a5.jpg",
+            "order": 9,
+            "created_date": "2022-11-22T12:59:18.021185Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "54999",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "50875",
+        "unit_type": "qty",
+        "absolute_url": "/tr/55-odyssey-ark-1-ms-165-hz-uhd-quantum-mini-led-hdr2000-rgb-1000r-kavisli-oyuncu-monitoru/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 2,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutusinif",
+              "options": [
+                {
+                  "product": {
+                    "name": "55\" Odyssey Ark 1 ms 165 Hz UHD Quantum Mini-LED HDR2000 RGB 1000R Kavisli Oyuncu Monitörü",
+                    "absolute_url": "/tr/55-odyssey-ark-1-ms-165-hz-uhd-quantum-mini-led-hdr2000-rgb-1000r-kavisli-oyuncu-monitoru/",
+                    "price": "54999",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_ekran_ekranboyutusinif": "55",
+                      "integration_color": "SİYAH"
+                    },
+                    "pk": 5525,
+                    "retail_price": "50875",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/82c9e18a-f548-4c56-93cf-b2bc2d81f69e.jpg",
+                        "created_date": "2022-11-22T12:56:01.421150Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29963,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15049/157c4fc8-c36e-4f22-958a-04b49d661590.jpg",
+                        "created_date": "2022-10-03T11:42:53.532803Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29399,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15049/5311a354-735b-4d6d-a4b2-0b5954731942.jpg",
+                        "created_date": "2022-10-03T11:42:53.691731Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29400,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15049/6b4cc8e8-246d-4aa5-bab3-b48447cce33b.jpg",
+                        "created_date": "2022-10-03T11:42:53.799574Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29401,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/03/15049/c0598c37-f8bd-44ee-b2b5-58f001ac641c.jpg",
+                        "created_date": "2022-10-03T11:42:53.866174Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29402,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/36237683-7002-4e0e-9eed-7a84b14ec431.jpg",
+                        "created_date": "2022-11-22T12:56:29.376520Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29964,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/c24838fe-a5c2-4e5b-b61f-b54e36302f21.jpg",
+                        "created_date": "2022-11-22T12:57:25.596997Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29965,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/d67697cd-e351-493d-8d04-51c2ea96a43f.jpg",
+                        "created_date": "2022-11-22T12:57:25.702545Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29966,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/55b24009-a9b5-4f9d-a2dd-7d7607d6d200.jpg",
+                        "created_date": "2022-11-22T12:57:25.760545Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29967,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/22/15049/8bd6cc94-5b8e-4c24-b66e-a2c3625c58a5.jpg",
+                        "created_date": "2022-11-22T12:59:18.021185Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29968,
+                        "order": 9
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "55\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5489,
+        "name": "WW11BB944DGBAH, Çamaşır Makinesi, 11 kg",
+        "sku": "WW11BB944DGBAH",
+        "base_code": "434934",
+        "attributes": {
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ww11bb944dgbah-energylabel.pdf",
+          "erp_star_grade": "5",
+          "integration_product_type_code": "PT_CD_WASHING_MACHINE",
+          "integration_yikamakapasitesi_yikamakapasitesikg": "11 KG",
+          "erp_devir_hassasgiysiler": "Evet",
+          "integration_ozellik_ecobubbletmkopukleyikamateknolojisi": "Evet",
+          "erp_devir_aiwashakilliyikama": "Evet",
+          "erp_ozellik_benimprogramim": "Evet",
+          "erp_ozellik_temizkazan": "Evet",
+          "integration_category_code_path": "08000000|08010000|08010100",
+          "erp_devir_kot": "Evet",
+          "erp_smart_dahiliwifi": "Evet",
+          "erp_devir_eco4060": "Evet",
+          "erp_performans_gurultuemisyonsinifi": "A",
+          "erp_ozellik_quickdrive": "Evet",
+          "erp_ozellik_motor": "DIT",
+          "erp_ozellik_kopuktebekletme": "Evet",
+          "erp_ozellik_onyikama": "Evet",
+          "integration_fizikselozellikler_brutagirlik": "75 kg",
+          "erp_grade": "A",
+          "integration_fizikselozellikler_brutboyutgxyxd": "670 x 890 x 688 mm",
+          "integration_ozellik_kazantipi": "Kristal",
+          "erp_product_type_code": "PT_CD_WASHING_MACHINE",
+          "erp_performans_enerjituketimi100dongu": "53 kWh",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ww11bb944dgbah-energylabel.pdf",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_devir_sessizyikama": "Evet",
+          "erp_devir_gomlekler": "Evet",
+          "b2b_product_badge": "ikilialim2000para",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_devir_pamuklu": "Evet",
+          "erp_ozellik_dilayarlari": "Evet",
+          "integration_devir_durulamasikma": "Evet",
+          "erp_devir_temizlemebuhari": "Evet",
+          "integration_devir_pamuklu": "Evet",
+          "erp_ozellik_yapayzekakontrolu": "Evet",
+          "product_badge_app_enddate": "2023-01-31T20:59:00.000Z",
+          "erp_fizikselozellikler_netagirlik": "73 kg",
+          "integration_devir_hassasgiysiler": "Evet",
+          "integration_smart_dahiliwifi": "Evet",
+          "erp_fizikselozellikler_brutagirlik": "75 kg",
+          "integration_fizikselozellikler_netboyutgxyxd": "600 x 850 x 600 mm",
+          "erp_performans_sutuketimidongu": "54 L",
+          "erp_tasarim_panelekrani": "Yapay Zeka Kontrolü",
+          "erp_category_code_path": "08000000|08010000|08010100",
+          "erp_fizikselozellikler_brutboyutgxyxd": "670 x 890 x 688 mm",
+          "erp_devir_bebekkiyafetleri": "Evet",
+          "integration_product_subtype_name": "Front loading Washer",
+          "erp_ozellik_aiecobubble": "Evet",
+          "erp_devir_15dakhizliyikama": "Evet",
+          "erp_devir_bulutlugun": "Evet",
+          "erp_ozellik_yogun": "Evet",
+          "erp_devir_durulamasikma": "Evet",
+          "integration_ozellik_quickdrive": "Evet",
+          "erp_yikamakapasitesi_yikamakapasitesi": "11.0 kg",
+          "erp_tasarim_govderengi": "Siyah",
+          "integration_model_name": "WW11BB944DGB",
+          "integration_ozellik_motor": "DIT",
+          "product_badge": "ikilialim",
+          "erp_devir_nevresim": "Evet",
+          "erp_product_subtype_code": "PT_CD_WASHING_MACHINE_02",
+          "erp_ozellik_cocukkilidi": "Evet",
+          "erp_product_subtype_name": "Front loading Washer",
+          "integration_star_grade": "5",
+          "integration_devir_nevresim": "Evet",
+          "erp_devir_temizkazan": "Evet",
+          "erp_performans_gurultuseviyesisikma": "72 dB",
+          "erp_fizikselozellikler_netboyutgxyxd": "600 x 850 x 600 mm",
+          "integration_tasarim_govderengi": "Siyah",
+          "erp_gradecolor": "#00a651",
+          "erp_ozellik_superhiz": "Evet",
+          "erp_performans_enerjiverimliliksinifi": "A",
+          "erp_product_type_name": "Washing Machine",
+          "erp_color": "Siyah",
+          "erp_ozellik_smartthings": "Evet",
+          "integration_devir_15dakhizliyikama": "Evet",
+          "integration_color_code": "#000000",
+          "integration_color": "Siyah",
+          "product_badge_app": "https://samsung-akinon.b-cdn.net/cms/2022/11/09/3133140d-3a0e-426b-a09c-2603eed4b122.png",
+          "erp_category_name_path": "Ev Aletleri|Giysi Temizliği|Çamaşır Makineleri",
+          "erp_ozellik_ecobubbletmkopukleyikamateknolojisi": "Evet",
+          "erp_performans_sikmaverimliligi": "B",
+          "erp_ean": "8806094615821",
+          "integration_category_code": "08010100",
+          "integration_ozellik_hizliyikama": "Evet",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ww11bb944dgbah-productfiche.pdf",
+          "purchase_limit_per_basket": "1",
+          "erp_tasarim_kapak": "Kırılmaz Cam Kapak",
+          "marketing-name": "BESPOKE",
+          "integration_categoryenglishnamepath": "Home Appliances|Washers and Dryers|Washing Machines",
+          "erp_devir_dismekan": "Evet",
+          "integration_fizikselozellikler_netagirlik": "73 kg",
+          "erp_devir_havlular": "Evet",
+          "integration_grade": "A",
+          "erp_ozellik_aiwashakilliyikama": "Evet",
+          "erp_devir_yun": "Evet",
+          "erp_devir_renkliler": "Evet",
+          "integration_product_type_name": "Washing Machine",
+          "integration_devir_temizlemebuhari": "Evet",
+          "integration_ozellik_sikmahizi": "1400 devir",
+          "erp_ozellik_sikmahizi": "1400 devir",
+          "erp_ozellik_hizliyikama": "Evet",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ww11bb944dgbah-productfiche.pdf",
+          "erp_categoryenglishnamepath": "Home Appliances|Washers and Dryers|Washing Machines",
+          "erp_color_code": "#000000",
+          "erp_usptext": "QuickDrive™ Teknolojisi\nYapay Zeka Ecobubble™\nAI Wash (Yapay Zeka ile Yıkama)",
+          "erp_category_code": "08010100",
+          "erp_devir_activewear": "Evet",
+          "integration_gradecolor": "#00a651",
+          "integration_category_name_path": "Ev Aletleri|Giysi Temizliği|Çamaşır Makineleri",
+          "drk_name": "Samsung WW11BB944DGBAH, Çamaşır Makinesi, 11 kg",
+          "garanti_icon": "motor",
+          "erp_model_name": "WW11BB944DGB",
+          "erp_devir_superhiz": "Evet",
+          "erp_devir_yogunsoguk": "Evet",
+          "integration_usptext": "QuickDrive™ Teknolojisi\nYapay Zeka Ecobubble™\nAI Wash (Yapay Zeka ile Yıkama)",
+          "integration_ozellik_superhiz": "Evet",
+          "product_badge_app_startdate": "2011-12-31T23:00:00.000Z",
+          "integration_ean": "8806094615821",
+          "integration_ozellik_cocukkilidi": "Evet",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_ozellik_kazantipi": "Kristal",
+          "ykbkredilisatis": "Evet",
+          "erp_devir_sentetikler": "Evet",
+          "integration_product_subtype_code": "PT_CD_WASHING_MACHINE_02",
+          "erp_ozellik_gecikmelibitir": "Evet",
+          "integration_devir_sentetikler": "Evet",
+          "erp_ozellik_buhariletemizleme": "Evet",
+          "erp_devir_tahliyesikma": "Evet",
+          "erp_performans_eco4060suresisdd": "4:00"
+        },
+        "attribute_set": 7,
+        "attributes_kwargs": {
+          "integration_smart_dahiliwifi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_hassasgiysiler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_superhiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_yikamakapasitesi_yikamakapasitesikg": {
+            "value": "11 KG",
+            "label": "11 KG"
+          },
+          "integration_devir_temizlemebuhari": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_quickdrive": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_cocukkilidi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "integration_ozellik_ecobubbletmkopukleyikamateknolojisi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_15dakhizliyikama": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_nevresim": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_pamuklu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_durulamasikma": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_hizliyikama": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_sentetikler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29298,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/3107022e-f582-4a6d-b99f-f440e2d72df6.jpg",
+            "order": 1,
+            "created_date": "2022-09-21T15:18:49.813770Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29307,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/bb78119d-14df-4da9-a711-4fd8e20eca68.jpg",
+            "order": 2,
+            "created_date": "2022-09-21T15:18:50.348245Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29273,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/55b00a0e-b6ea-485e-9858-83c354ebacf0.jpg",
+            "order": 3,
+            "created_date": "2022-09-21T15:18:47.762137Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29308,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/29c53d03-39bf-43b9-8e18-1ef58a8c1397.jpg",
+            "order": 4,
+            "created_date": "2022-09-21T15:18:50.390109Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29311,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/9c878b08-aca8-4b0c-8e44-7053a82aeb9a.jpg",
+            "order": 5,
+            "created_date": "2022-09-21T15:18:50.582808Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29313,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/8b3924e4-1a74-432e-9ebc-d850e8697a3f.jpg",
+            "order": 6,
+            "created_date": "2022-09-21T15:18:50.680749Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29309,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/72ca9cf8-16de-445d-8701-7ab40428af9f.jpg",
+            "order": 7,
+            "created_date": "2022-09-21T15:18:50.429979Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29315,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/7da64d2c-7603-4d57-ba46-25db68d0f4cd.jpg",
+            "order": 8,
+            "created_date": "2022-09-21T15:18:50.800135Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29316,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/fb9fc259-2744-4c2e-99e7-8e0cccd291a3.jpg",
+            "order": 9,
+            "created_date": "2022-09-21T15:18:50.842301Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29288,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/38d11d87-60e8-4db5-be7e-5faade0ab9ef.jpg",
+            "order": 10,
+            "created_date": "2022-09-21T15:18:48.786754Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29303,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/9b36c61f-9d8f-451f-82a6-6b05aa03063d.jpg",
+            "order": 11,
+            "created_date": "2022-09-21T15:18:50.115905Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "16699",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "20099",
+        "unit_type": "qty",
+        "absolute_url": "/tr/ww11bb944dgbah-camasir-makinesi-11-kg/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "WW11BB944DGBAH, Çamaşır Makinesi, 11 kg",
+                    "absolute_url": "/tr/ww11bb944dgbah-camasir-makinesi-11-kg/",
+                    "price": "16699",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_yikamakapasitesi_yikamakapasitesikg": "11 KG",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5489,
+                    "retail_price": "20099",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/3107022e-f582-4a6d-b99f-f440e2d72df6.jpg",
+                        "created_date": "2022-09-21T15:18:49.813770Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29298,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/bb78119d-14df-4da9-a711-4fd8e20eca68.jpg",
+                        "created_date": "2022-09-21T15:18:50.348245Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29307,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/55b00a0e-b6ea-485e-9858-83c354ebacf0.jpg",
+                        "created_date": "2022-09-21T15:18:47.762137Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29273,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/29c53d03-39bf-43b9-8e18-1ef58a8c1397.jpg",
+                        "created_date": "2022-09-21T15:18:50.390109Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29308,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/9c878b08-aca8-4b0c-8e44-7053a82aeb9a.jpg",
+                        "created_date": "2022-09-21T15:18:50.582808Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29311,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/8b3924e4-1a74-432e-9ebc-d850e8697a3f.jpg",
+                        "created_date": "2022-09-21T15:18:50.680749Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29313,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/72ca9cf8-16de-445d-8701-7ab40428af9f.jpg",
+                        "created_date": "2022-09-21T15:18:50.429979Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29309,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/7da64d2c-7603-4d57-ba46-25db68d0f4cd.jpg",
+                        "created_date": "2022-09-21T15:18:50.800135Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29315,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/fb9fc259-2744-4c2e-99e7-8e0cccd291a3.jpg",
+                        "created_date": "2022-09-21T15:18:50.842301Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29316,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/38d11d87-60e8-4db5-be7e-5faade0ab9ef.jpg",
+                        "created_date": "2022-09-21T15:18:48.786754Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29288,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/9b36c61f-9d8f-451f-82a6-6b05aa03063d.jpg",
+                        "created_date": "2022-09-21T15:18:50.115905Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29303,
+                        "order": 11
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                },
+                {
+                  "product": {
+                    "name": "WW11BB944DGHAH, Çamaşır Makinesi, 11 kg",
+                    "absolute_url": "/tr/ww11bb944dghah-camasir-makinesi-11-kg/",
+                    "price": "16299",
+                    "attributes": {
+                      "integration_color_code": "#ffffff",
+                      "integration_yikamakapasitesi_yikamakapasitesikg": "11 KG",
+                      "integration_color": "Beyaz"
+                    },
+                    "pk": 5553,
+                    "retail_price": "19699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15249/beab86df-64e8-4f71-b6b8-7cf343c13ae8.jpg",
+                        "created_date": "2022-10-13T11:44:21.191101Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29532,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15249/89154dc6-36d9-4fad-b435-53ee2cd827a0.jpg",
+                        "created_date": "2022-10-13T11:44:21.572832Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29538,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15249/eb9bcdfc-3944-4440-979e-7d4635a5079f.jpg",
+                        "created_date": "2022-10-13T11:44:21.482412Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29536,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15250/7a0fdb29-2efd-4f4b-ade2-d5a8e711c149.jpg",
+                        "created_date": "2022-10-13T11:44:21.614588Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29539,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/14887/cbc9d49e-72fb-47c4-a333-52bde2749b9e.jpg",
+                        "created_date": "2022-10-13T11:44:21.520362Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29537,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15249/266aa5f7-c7e5-45f0-889d-1685703b2bc8.jpg",
+                        "created_date": "2022-10-13T11:44:21.653623Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29540,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15249/287d4dc5-4bc1-4c4c-90b1-8b7802d42bb6.jpg",
+                        "created_date": "2022-10-13T11:44:21.694711Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29541,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15249/1f99dc88-9054-4014-8cc7-2c7330dc2477.jpg",
+                        "created_date": "2022-10-13T11:44:21.335029Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29533,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15249/6fb28990-6104-4c50-b666-7d741a8df96a.jpg",
+                        "created_date": "2022-10-13T11:44:21.735051Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29542,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15249/2a7baa94-a3b7-421c-ad6b-8a3a665da912.jpg",
+                        "created_date": "2022-10-13T11:44:21.385339Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29534,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/10/13/15249/e329bba7-7393-49e2-817f-380b329a2013.jpg",
+                        "created_date": "2022-10-13T11:44:21.435337Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29535,
+                        "order": 11
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Beyaz"
+                }
+              ]
+            },
+            {
+              "attribute_key": "integration_yikamakapasitesi_yikamakapasitesikg",
+              "options": [
+                {
+                  "product": {
+                    "name": "WW11BB944DGBAH, Çamaşır Makinesi, 11 kg",
+                    "absolute_url": "/tr/ww11bb944dgbah-camasir-makinesi-11-kg/",
+                    "price": "16699",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_yikamakapasitesi_yikamakapasitesikg": "11 KG",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5489,
+                    "retail_price": "20099",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/3107022e-f582-4a6d-b99f-f440e2d72df6.jpg",
+                        "created_date": "2022-09-21T15:18:49.813770Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29298,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/bb78119d-14df-4da9-a711-4fd8e20eca68.jpg",
+                        "created_date": "2022-09-21T15:18:50.348245Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29307,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/55b00a0e-b6ea-485e-9858-83c354ebacf0.jpg",
+                        "created_date": "2022-09-21T15:18:47.762137Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29273,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/29c53d03-39bf-43b9-8e18-1ef58a8c1397.jpg",
+                        "created_date": "2022-09-21T15:18:50.390109Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29308,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/9c878b08-aca8-4b0c-8e44-7053a82aeb9a.jpg",
+                        "created_date": "2022-09-21T15:18:50.582808Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29311,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/8b3924e4-1a74-432e-9ebc-d850e8697a3f.jpg",
+                        "created_date": "2022-09-21T15:18:50.680749Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29313,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/72ca9cf8-16de-445d-8701-7ab40428af9f.jpg",
+                        "created_date": "2022-09-21T15:18:50.429979Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29309,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/7da64d2c-7603-4d57-ba46-25db68d0f4cd.jpg",
+                        "created_date": "2022-09-21T15:18:50.800135Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29315,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/fb9fc259-2744-4c2e-99e7-8e0cccd291a3.jpg",
+                        "created_date": "2022-09-21T15:18:50.842301Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29316,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/38d11d87-60e8-4db5-be7e-5faade0ab9ef.jpg",
+                        "created_date": "2022-09-21T15:18:48.786754Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29288,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14853/9b36c61f-9d8f-451f-82a6-6b05aa03063d.jpg",
+                        "created_date": "2022-09-21T15:18:50.115905Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29303,
+                        "order": 11
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "11 KG"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5487,
+        "name": "65\" OLED 4K S95B",
+        "sku": "QE65S95BATXTK",
+        "base_code": "433242",
+        "attributes": {
+          "erp_akilliozellikler_360kameradestegi": "Evet",
+          "erp_oyunozellikleri_otomatikoyunmoduallm": "Evet",
+          "erp_baglantilar_earc": "Evet (HDMI 3)",
+          "erp_gucvetasarrufcozumleri_autopowersaving": "Evet",
+          "integration_ses_bashoparloru": "Evet",
+          "erp_baglantilar_anynethdmicec": "Evet",
+          "erp_tasarim_incetip": "Top Slim",
+          "integration_category_code_path": "04000000|04010000|04011000",
+          "integration_baglantilar_anynethdmicec": "Evet",
+          "erp_akilliozellikler_buluthizmeti": "Microsoft 365",
+          "integration_boyutlar_stantlisetboyutugxyxd": "1444.3 x 897.6 x 288.2 mm",
+          "erp_ses_dualaudiosupportbluetooth": "Evet",
+          "integration_baglantilar_hdmihizlianahtar": "Evet",
+          "erp_grade": "G",
+          "erp_video_filmmodu": "Evet",
+          "erp_akilliozellikler_tvinitiatemirroring": "Evet",
+          "erp_akilliozellikler_mobilkameradestegi": "Evet",
+          "erp_product_type_code": "PT_CD_TV",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe65s95batxtk-energylabel.pdf",
+          "erp_boyutlar_vesaspec": "300 x 200 mm",
+          "integration_ses_sescikisirms": "60 W",
+          "integration_ekran_cozunurluk": "3,840 x 2,160",
+          "integration_agirlik_ambalajagirligi": "33.8 kg",
+          "erp_tasarim_stanttipi": "BLADE STANT",
+          "erp_tuneryayin_dijitalyayin": "DVB-T2CS2 x 2",
+          "erp_aksesuar_fullmotionslimwallmounty22": "Evet",
+          "erp_akilliozellikler_bluetoothdusukpilgostergesi": "Evet",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_akilliozellikler_cokluekran": "en fazla 2 video",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "1444.3 x 831.7 x 39.9 mm",
+          "erp_akillihizmet_isletimsistemi": "Tizen™",
+          "erp_aksesuar_vesaduvarmontedestegi": "Evet",
+          "erp_gucvetasarrufcozumleri_otomatikkapanma": "Evet",
+          "integration_tasarim_onrenk": "ECLIPSE GÜMÜŞ",
+          "integration_ses_dolbydigitalplus": "MS12 5.1ch",
+          "integration_aksesuar_guckablosu": "Evet",
+          "erp_aksesuar_uzaktankumandamodeli": "TM2280E",
+          "integration_tuneryayin_ciortakarayuz": "CI+(1.4)",
+          "erp_boyutlar_paketboyutugxyxd": "1650.0 x 950.0 x 170.0 mm",
+          "erp_video_yonetmenmodufmm": "Evet",
+          "erp_category_code_path": "04000000|04010000|04011000",
+          "erp_tasarim_stantrengi": "UZAY GÜMÜŞÜ",
+          "erp_akilliozellikler_goruntulugorusme": "Google Duo",
+          "erp_tuneryayin_veriyayinlama": "HbbTV 2.0.3 (TR)",
+          "integration_product_subtype_name": "OLED",
+          "erp_aksesuar_ekilavuz": "Evet",
+          "integration_akillihizmet_smartthings": "Evet",
+          "integration_baglantilar_hdmiakanaldesteginedon": "Evet",
+          "integration_video_kontrast": "Kendinden aydınlatmalı pikseller",
+          "erp_tasarim_cercevetipi": "4 Çerçevesiz",
+          "integration_ekozellik_otomatikkanalarama": "Evet",
+          "erp_erisilebilirlik_erisilebilirliktvkumandasiniogrenmemenuekraniniogrenme": "TR: İngiliz İngilizcesi, Fransızca, İspanyolca, Rusça / IL: İngiliz İngilizcesi, Almanca, Fransızca, İspanyolca, Rusça",
+          "erp_video_parlaklikrenktespiti": "Parlaklık/Renk Algılama",
+          "erp_video_renk": "Algısal Renk Eşleme",
+          "integration_baglantilar_usb": "2",
+          "integration_video_kontrastartirici": "Gerçek Derinlik Artırıcı",
+          "integration_video_izlemeacisi": "Ultra Geniş İzleme Açısı",
+          "erp_agirlik_ambalajagirligi": "33.8 kg",
+          "erp_gucvetasarrufcozumleri_ecosensor": "Evet",
+          "erp_oyunozellikleri_cevreselses": "Evet",
+          "erp_akilliozellikler_ambiyansmodu": "Ambiyans Modu+",
+          "erp_gucvetasarrufcozumleri_enerjiverimliliksinifi": "G",
+          "erp_video_aigoruntuyukseltme": "Evet",
+          "integration_aksesuar_kullanicikilavuzu": "Evet",
+          "erp_gucvetasarrufcozumleri_yillikenerjituketimiabstandardi": "183 kWh",
+          "erp_gradecolor": "#ed1c24",
+          "erp_video_hdr10": "Onaylı (HDR10+ Adaptive ve HDR10+ GAMING)",
+          "integration_usptext": "Güçünü Quantum Dot'dan alan OLED ile parlak ve gelişmiş renkler\n8,3 milyon kendinden aydıtlatmalı piksel ile zengin kontrast ve derin siyahlar\n20 adet yapay zeka ağı ile sevdiğiniz içerikleri 4K kalitesiyle oluşturan Nöral Quantum 4K işlemci",
+          "integration_video_hlghibritloggamma": "Evet",
+          "integration_aksesuar_uzaktankumandamodeli": "TM2280E",
+          "erp_ekozellik_osddili": "Yerel Diller",
+          "erp_akillihizmet_smartthingsuygulamadestegi": "Evet",
+          "erp_ekozellik_mbrdestegi": "Evet",
+          "integration_akillihizmet_bixby": "ABD İngilizcesi, İngiliz İngilizcesi, Hindistan İngilizcesi, Korece, Fransızca, Almanca, İtalyanca, İspanyolca, Brezilya Portekizcesi (özellikler dile göre farklılık gösterir)",
+          "erp_ekran_ekranboyutu": "65\"",
+          "integration_color": "Silver",
+          "product_badge": "para3500",
+          "integration_baglantilar_hdmi": "4",
+          "erp_akillihizmet_mediahome": "Evet",
+          "integration_ekozellik_connectsharetmusb20": "Evet",
+          "erp_baglantilar_dijitalsescikisioptik": "1",
+          "erp_oyunozellikleri_freesync": "FreeSync Premium",
+          "erp_aksesuar_webcamdestegi": "Evet",
+          "erp_ean": "8806094488180",
+          "erp_boyutlar_stantlisetboyutugxyxd": "1444.3 x 897.6 x 288.2 mm",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe65s95batxtk-productfiche.pdf",
+          "purchase_limit_per_basket": "1",
+          "erp_product_subtype_code": "PT_CD_TV_01",
+          "integration_ekozellik_usbhiddestegi": "Evet",
+          "integration_categoryenglishnamepath": "Television|TVs|OLED TV",
+          "integration_baglantilar_dijitalsescikisioptik": "1",
+          "erp_tasarim_isikefektideco": "N/A",
+          "erp_agirlik_stantsizsetagirligi": "21.2 kg",
+          "erp_series": "9",
+          "erp_ekozellik_altbaslikaltyazi": "Evet",
+          "integration_akillihizmet_uzakalansesetkilesimi": "Evet",
+          "erp_akillihizmet_bixby": "ABD İngilizcesi, İngiliz İngilizcesi, Hindistan İngilizcesi, Korece, Fransızca, Almanca, İtalyanca, İspanyolca, Brezilya Portekizcesi (özellikler dile göre farklılık gösterir)",
+          "erp_akilliozellikler_tasinabilircihazdantvyegoruntuaktarmadlna": "Evet",
+          "erp_tuneryayin_tvsifresi": "Evet",
+          "integration_tuneryayin_tvsifresi": "Evet",
+          "erp_baglantilar_hdmihighframerate": "4K 120Hz (HDMI 1/2/3/4 için)",
+          "integration_baglantilar_wifi": "Evet (WiFi5)",
+          "erp_baglantilar_hdmi": "4",
+          "erp_akilliozellikler_kablosuzdex": "Evet",
+          "erp_categoryenglishnamepath": "Television|TVs|OLED TV",
+          "erp_color_code": "#c0c0c0",
+          "erp_video_birmilyarrenk": "Evet",
+          "erp_category_code": "04011000",
+          "integration_tuneryayin_2frekansayarlayici": "Evet",
+          "integration_gradecolor": "#ed1c24",
+          "erp_baglantilar_ethernetlan": "Evet",
+          "integration_category_name_path": "TV/AV|TV'ler|OLED TV",
+          "integration_boyutlar_stanttemelgxd": "362.9 x 288.8 mm",
+          "erp_gucvetasarrufcozumleri_guctuketimimaks": "360 W",
+          "erp_baglantilar_hdmiakanaldesteginedon": "Evet",
+          "erp_akillihizmet_samsungakillitv": "Smart",
+          "integration_akillihizmet_webtarayicisi": "Evet",
+          "integration_aksesuar_ekilavuz": "Evet",
+          "erp_akilliozellikler_kolaykurulum": "Evet",
+          "product_badge_app_startdate": "2023-01-04T23:00:00.000Z",
+          "integration_ean": "8806094488180",
+          "integration_urun": "OLED",
+          "erp_ses_bashoparloru": "Evet",
+          "erp_ses_sescikisirms": "60 W",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_baglantilar_wifi": "Evet (WiFi5)",
+          "erp_ses_dolbydigitalplus": "MS12 5.1ch",
+          "erp_video_kontrastartirici": "Gerçek Derinlik Artırıcı",
+          "erp_video_hdryuksekdinamikaralik": "Quantum HDR OLED",
+          "integration_ekozellik_ipv6destegi": "Evet",
+          "integration_product_subtype_code": "PT_CD_TV_01",
+          "erp_ekozellik_resimicinderesim": "Evet",
+          "integration_ekozellik_dahilibthid": "Evet",
+          "erp_serisi": "9",
+          "integration_agirlik_stantsizsetagirligi": "21.2 kg",
+          "integration_akillihizmet_smartthingsuygulamadestegi": "Evet",
+          "erp_aksesuar_samsungakillikontroldahil": "Evet",
+          "integration_aksesuar_samsungakillikontroldahil": "Evet",
+          "integration_video_renk": "Algısal Renk Eşleme",
+          "erp_boyutlar_stanttemelgxd": "362.9 x 288.8 mm",
+          "erp_ekran_cozunurluk": "3,840 x 2,160",
+          "erp_ses_dolbyatmos": "Evet",
+          "integration_baglantilar_earc": "Evet (HDMI 3)",
+          "erp_ses_bluetoothsessistemi": "Evet",
+          "erp_akilliozellikler_wifidirect": "Evet",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe65s95batxtk-energylabel.pdf",
+          "erp_star_grade": "4.466",
+          "integration_product_type_code": "PT_CD_TV",
+          "erp_aksesuar_kullanicikilavuzu": "Evet",
+          "integration_ekozellik_connectsharetmhdd": "Evet",
+          "erp_video_uzmankalibrasyon": "Evet",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "1444.3 x 831.7 x 39.9 mm",
+          "erp_oyunozellikleri_hgig": "Evet",
+          "integration_ekozellik_resimicinderesim": "Evet",
+          "erp_video_hlghibritloggamma": "Evet",
+          "erp_ekozellik_teletextttx": "Evet",
+          "erp_tuneryayin_2frekansayarlayici": "Evet",
+          "integration_tuneryayin_dijitalyayin": "DVB-T2CS2 x 2",
+          "erp_urun": "OLED",
+          "erp_video_akillikalibrasyon": "Temel",
+          "erp_akilliozellikler_tvdentasinabilircihazagoruntuaktarma": "Evet",
+          "erp_ses_bluetoothaudio": "Evet",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_akillihizmet_webtarayicisi": "Evet",
+          "integration_tasarim_tasarim": "LaserSlim",
+          "integration_video_resimmotoru": "Nöral Quantum İşlemci 4K",
+          "erp_video_clearmotion": "Clear Motion",
+          "erp_akilliozellikler_uygulamayayini": "Evet",
+          "integration_model_name": "QE65S95BAT",
+          "product_badge_app_enddate": "2023-01-31T20:59:00.000Z",
+          "integration_video_automotionplus": "Evet",
+          "erp_baglantilar_ciyuvasi": "1",
+          "erp_ses_nesnetakipsistemlises": "OTS",
+          "integration_ekozellik_mbrdestegi": "Evet",
+          "erp_ekozellik_connectsharetmhdd": "Evet",
+          "erp_video_izlemeacisi": "Ultra Geniş İzleme Açısı",
+          "integration_ses_qsymphony": "Evet",
+          "ykbkredilisatis": "Evet",
+          "integration_akillihizmet_samsungakillitv": "Smart",
+          "erp_oyunozellikleri_superultragenisacilioyungorunumu": "Evet",
+          "erp_oyunozellikleri_gamemotionplus": "Evet",
+          "erp_gucvetasarrufcozumleri_enerjituketimibekleme": "0.50 W",
+          "erp_tuneryayin_ciortakarayuz": "CI+(1.4)",
+          "erp_baglantilar_usb": "2",
+          "erp_ekozellik_genisletilmispvr": "Evet (yalnızca IL)",
+          "integration_baglantilar_ethernetlan": "Evet",
+          "erp_erisilebilirlik_erisilebilirlikdigerleri": "Enlarge / High Contrast / Multi-output Audio / SeeColors / Color Inversion / Grayscale / Sign Language Zoom / Slow Button Repeat / Graphic Zoom / Picture Off",
+          "erp_ekozellik_epg": "Evet",
+          "integration_akillihizmet_isletimsistemi": "Tizen™",
+          "integration_aksesuar_vesaduvarmontedestegi": "Evet",
+          "erp_video_kontrast": "Kendinden aydınlatmalı pikseller",
+          "integration_video_hdryuksekdinamikaralik": "Quantum HDR OLED",
+          "erp_usptext": "Güçünü Quantum Dot'dan alan OLED ile parlak ve gelişmiş renkler\n8,3 milyon kendinden aydıtlatmalı piksel ile zengin kontrast ve derin siyahlar\n20 adet yapay zeka ağı ile sevdiğiniz içerikleri 4K kalitesiyle oluşturan Nöral Quantum 4K işlemci",
+          "erp_ekozellik_usbhiddestegi": "Evet",
+          "erp_product_subtype_name": "OLED",
+          "erp_erisilebilirlik_erisilebilirliksesliyonlendirme": "TÜRKİYE : İngiliz İngilizcesi, Fransız Fransızcası, Rusça, İspanyol İspanyolcası, Korece   İSRAİL : : İngiliz İngilizcesi, Fransız Fransızcası, Rusça, İspanyol İspanyolcası, Korece, Almanca",
+          "integration_ses_hoparlorturu": "2.2.2 CH",
+          "integration_ekozellik_teletextttx": "Evet",
+          "erp_ekozellik_zamangecisi": "Evet (yalnızca IL)",
+          "integration_tuneryayin_analogfrekansayarlayici": "Evet",
+          "erp_ekran_yenilemehizi": "100Hz",
+          "erp_agirlik_stantlabirliktesetagirligi": "25.5 kg",
+          "erp_ekozellik_connectsharetmusb20": "Evet",
+          "erp_product_type_name": "TV",
+          "erp_color": "Silver",
+          "erp_video_noisereduction": "Evet",
+          "erp_tasarim_onrenk": "ECLIPSE GÜMÜŞ",
+          "integration_ekozellik_osddili": "Yerel Diller",
+          "integration_color_code": "#c0c0c0",
+          "erp_ses_cokodalibaglanti": "Evet",
+          "product_badge_app": "https://samsung-akinon.b-cdn.net/cms/2022/11/02/7cadba51-5774-41b9-b910-cc59f87145fd.png",
+          "erp_ses_qsymphony": "Evet",
+          "erp_category_name_path": "TV/AV|TV'ler|OLED TV",
+          "erp_video_motiontechnology": "Motion Xcelerator Turbo+",
+          "integration_ekozellik_epg": "Evet",
+          "integration_category_code": "04011000",
+          "erp_ekozellik_dahilibthid": "Evet",
+          "erp_oyunozellikleri_minimapzoom": "Evet",
+          "erp_video_automotionplus": "Evet",
+          "integration_video_filmmodu": "Evet",
+          "erp_baglantilar_bluetooth": "Evet (BT5.2)",
+          "erp_baglantilar_rfinkarasalkablouydugirisleri": "1/1(Common Use for Terrestrial)/2",
+          "integration_ekozellik_altbaslikaltyazi": "Evet",
+          "erp_oyunozellikleri_dinamiksiyaheq": "Evet",
+          "erp_ses_aktifsesyukseltici": "Evet",
+          "integration_tasarim_incetip": "Top Slim",
+          "integration_product_type_name": "TV",
+          "integration_agirlik_stantlabirliktesetagirligi": "25.5 kg",
+          "erp_akillihizmet_smartthings": "Evet",
+          "erp_akilliozellikler_dokunveizle": "Evet",
+          "erp_aksesuar_slimfitduvaramontajdestegi": "Evet",
+          "erp_akilliozellikler_sesyansitma": "Evet",
+          "erp_baglantilar_hdmihizlianahtar": "Evet",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-qe65s95batxtk-productfiche.pdf",
+          "erp_video_resimmotoru": "Nöral Quantum İşlemci 4K",
+          "integration_tasarim_stantrengi": "UZAY GÜMÜŞÜ",
+          "erp_aksesuar_guckablosu": "Evet",
+          "integration_baglantilar_ciyuvasi": "1",
+          "drk_name": "Samsung 65\" OLED 4K S95B",
+          "integration_boyutlar_paketboyutugxyxd": "1650.0 x 950.0 x 170.0 mm",
+          "integration_tasarim_stanttipi": "BLADE STANT",
+          "erp_model_name": "QE65S95BAT",
+          "integration_ses_bluetoothsessistemi": "Evet",
+          "erp_ekozellik_ipv6destegi": "Evet",
+          "integration_video_hdr10": "Onaylı (HDR10+ Adaptive ve HDR10+ GAMING)",
+          "erp_tasarim_tasarim": "LaserSlim",
+          "erp_ekozellik_otomatikkanalarama": "Evet",
+          "integration_ses_cokodalibaglanti": "Evet",
+          "integration_baglantilar_bluetooth": "Evet (BT5.2)",
+          "erp_ses_hoparlorturu": "2.2.2 CH",
+          "erp_akilliozellikler_360videooynatici": "Evet",
+          "erp_ses_uyumsaglayanses": "Uyum Sağlayan Ses+",
+          "erp_akilliozellikler_tvsesinimobilcihazaaktarma": "Evet",
+          "erp_akillihizmet_uzakalansesetkilesimi": "Evet",
+          "erp_akilliozellikler_smartthingshub": "Evet",
+          "erp_ekran_antireflectionyansimaonleyici": "Evet",
+          "integration_tasarim_cercevetipi": "4 Çerçevesiz",
+          "integration_grade": "G",
+          "erp_akilliozellikler_sesduvari": "Evet",
+          "erp_gucvetasarrufcozumleri_enerjituketiminormal": "132 W",
+          "erp_gucvetasarrufcozumleri_guckaynagi": "AC 220-240V 50/60Hz",
+          "integration_ekran_ekranboyutu": "65\"",
+          "integration_tuneryayin_veriyayinlama": "HbbTV 2.0.3 (TR)",
+          "integration_baglantilar_rfinkarasalkablouydugirisleri": "1/1(Common Use for Terrestrial)/2",
+          "erp_tuneryayin_analogfrekansayarlayici": "Evet"
+        },
+        "attribute_set": 5,
+        "attributes_kwargs": {
+          "integration_ses_dolbydigitalplus": {
+            "value": "MS12 5.1ch",
+            "data_type": "dropdown",
+            "label": "MS12 5.1ch"
+          },
+          "integration_aksesuar_guckablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_akillihizmet_smartthingsuygulamadestegi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekozellik_connectsharetmhdd": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_ekilavuz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ses_bashoparloru": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ses_qsymphony": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekran_ekranboyutu": {
+            "value": "65\"",
+            "data_type": "dropdown",
+            "label": "65\""
+          },
+          "integration_color": {
+            "value": "Silver",
+            "data_type": "dropdown",
+            "label": "Silver"
+          },
+          "integration_ekozellik_connectsharetmusb20": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_baglantilar_anynethdmicec": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ses_bluetoothsessistemi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekozellik_resimicinderesim": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_akillihizmet_webtarayicisi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_video_hdr10": {
+            "value": "Onaylı (HDR10+ Adaptive ve HDR10+ GAMING)",
+            "data_type": "dropdown",
+            "label": "Onaylı (HDR10+ Adaptive ve HDR10+ GAMING)"
+          },
+          "integration_baglantilar_ethernetlan": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekozellik_epg": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ses_cokodalibaglanti": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_baglantilar_bluetooth": {
+            "value": "Evet (BT5.2)",
+            "data_type": "dropdown",
+            "label": "Evet (BT5.2)"
+          },
+          "integration_akillihizmet_smartthings": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_baglantilar_hdmiakanaldesteginedon": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekozellik_otomatikkanalarama": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekozellik_usbhiddestegi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_video_filmmodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekozellik_ipv6destegi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_vesaduvarmontedestegi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_tuneryayin_analogfrekansayarlayici": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekozellik_altbaslikaltyazi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "3,840 x 2,160",
+            "data_type": "dropdown",
+            "label": "3,840 x 2,160"
+          },
+          "integration_akillihizmet_uzakalansesetkilesimi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekozellik_dahilibthid": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_video_hlghibritloggamma": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_video_kontrastartirici": {
+            "value": "Gerçek Derinlik Artırıcı",
+            "data_type": "dropdown",
+            "label": "Gerçek Derinlik Artırıcı"
+          },
+          "integration_ekozellik_mbrdestegi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_tuneryayin_2frekansayarlayici": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ekozellik_teletextttx": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_tuneryayin_tvsifresi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_samsungakillikontroldahil": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_baglantilar_hdmihizlianahtar": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_kullanicikilavuzu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_baglantilar_earc": {
+            "value": "Evet (HDMI 3)",
+            "data_type": "dropdown",
+            "label": "Evet (HDMI 3)"
+          },
+          "integration_video_automotionplus": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29285,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/420302cf-7e67-4bac-863c-a34e860a8862.jpg",
+            "order": 1,
+            "created_date": "2022-09-21T15:18:48.563889Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29284,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/92cf9967-1b7f-409b-987f-58f4fa69b186.jpg",
+            "order": 2,
+            "created_date": "2022-09-21T15:18:48.492527Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29289,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/942a180b-0ae4-4c9a-b226-22cdc507e95d.jpg",
+            "order": 3,
+            "created_date": "2022-09-21T15:18:48.842653Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29287,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/dff1d6cc-7549-4fc3-a964-fe9cd4c12b61.jpg",
+            "order": 4,
+            "created_date": "2022-09-21T15:18:48.737772Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29271,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14852/20aea286-6b8d-45dc-ac90-5acbf4bbae5e.jpg",
+            "order": 5,
+            "created_date": "2022-09-21T15:18:47.656844Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29292,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/f7996ee4-79ff-4e8f-b9df-4b9cb1a95bba.jpg",
+            "order": 6,
+            "created_date": "2022-09-21T15:18:49.440945Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29295,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/53f72a6c-3a8d-4c76-9fcb-9fc17361feab.jpg",
+            "order": 7,
+            "created_date": "2022-09-21T15:18:49.619381Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29290,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/98f6ecf5-6ce3-4acf-8c2d-e5aa9181db7b.jpg",
+            "order": 8,
+            "created_date": "2022-09-21T15:18:48.896976Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29299,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/9173cc6c-8b04-4152-b0f7-1dfa9263aa74.jpg",
+            "order": 9,
+            "created_date": "2022-09-21T15:18:49.858134Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29286,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/b1a396c7-6c02-418a-bd08-a64dfbc86625.jpg",
+            "order": 10,
+            "created_date": "2022-09-21T15:18:48.641860Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29250,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14852/ceda1bbd-7b29-494f-b0c0-659ff4fa52c5.jpg",
+            "order": 11,
+            "created_date": "2022-09-21T15:18:14.384877Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "47368",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "54999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/65-oled-4k-s95b/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 39,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutu",
+              "options": [
+                {
+                  "product": {
+                    "name": "55\" OLED 4K S95B",
+                    "absolute_url": "/tr/55-oled-4k-s95b/",
+                    "price": "35789",
+                    "attributes": {
+                      "integration_color_code": "#c0c0c0",
+                      "integration_ekran_ekranboyutu": "55\"",
+                      "integration_color": "Silver"
+                    },
+                    "pk": 5486,
+                    "retail_price": "42999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/420302cf-7e67-4bac-863c-a34e860a8862.jpg",
+                        "created_date": "2022-09-21T15:18:47.869054Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29274,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/92cf9967-1b7f-409b-987f-58f4fa69b186.jpg",
+                        "created_date": "2022-09-21T15:18:47.999483Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29277,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/942a180b-0ae4-4c9a-b226-22cdc507e95d.jpg",
+                        "created_date": "2022-09-21T15:18:48.116723Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29279,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/dff1d6cc-7549-4fc3-a964-fe9cd4c12b61.jpg",
+                        "created_date": "2022-09-21T15:18:48.184116Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29280,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14852/20aea286-6b8d-45dc-ac90-5acbf4bbae5e.jpg",
+                        "created_date": "2022-09-21T15:18:48.272528Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29281,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/f7996ee4-79ff-4e8f-b9df-4b9cb1a95bba.jpg",
+                        "created_date": "2022-09-21T15:18:48.062727Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29278,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/53f72a6c-3a8d-4c76-9fcb-9fc17361feab.jpg",
+                        "created_date": "2022-09-21T15:18:47.910605Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29275,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/98f6ecf5-6ce3-4acf-8c2d-e5aa9181db7b.jpg",
+                        "created_date": "2022-09-21T15:18:48.341624Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29282,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/9173cc6c-8b04-4152-b0f7-1dfa9263aa74.jpg",
+                        "created_date": "2022-09-21T15:18:48.423866Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29283,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/b1a396c7-6c02-418a-bd08-a64dfbc86625.jpg",
+                        "created_date": "2022-09-21T15:18:47.953222Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29276,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14852/ceda1bbd-7b29-494f-b0c0-659ff4fa52c5.jpg",
+                        "created_date": "2022-09-21T15:18:47.336971Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29267,
+                        "order": 11
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "55\""
+                },
+                {
+                  "product": {
+                    "name": "65\" OLED 4K S95B",
+                    "absolute_url": "/tr/65-oled-4k-s95b/",
+                    "price": "47368",
+                    "attributes": {
+                      "integration_color_code": "#c0c0c0",
+                      "integration_ekran_ekranboyutu": "65\"",
+                      "integration_color": "Silver"
+                    },
+                    "pk": 5487,
+                    "retail_price": "54999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/420302cf-7e67-4bac-863c-a34e860a8862.jpg",
+                        "created_date": "2022-09-21T15:18:48.563889Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29285,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/92cf9967-1b7f-409b-987f-58f4fa69b186.jpg",
+                        "created_date": "2022-09-21T15:18:48.492527Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29284,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/942a180b-0ae4-4c9a-b226-22cdc507e95d.jpg",
+                        "created_date": "2022-09-21T15:18:48.842653Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29289,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/dff1d6cc-7549-4fc3-a964-fe9cd4c12b61.jpg",
+                        "created_date": "2022-09-21T15:18:48.737772Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29287,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14852/20aea286-6b8d-45dc-ac90-5acbf4bbae5e.jpg",
+                        "created_date": "2022-09-21T15:18:47.656844Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29271,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/f7996ee4-79ff-4e8f-b9df-4b9cb1a95bba.jpg",
+                        "created_date": "2022-09-21T15:18:49.440945Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29292,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/53f72a6c-3a8d-4c76-9fcb-9fc17361feab.jpg",
+                        "created_date": "2022-09-21T15:18:49.619381Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29295,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/98f6ecf5-6ce3-4acf-8c2d-e5aa9181db7b.jpg",
+                        "created_date": "2022-09-21T15:18:48.896976Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29290,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/9173cc6c-8b04-4152-b0f7-1dfa9263aa74.jpg",
+                        "created_date": "2022-09-21T15:18:49.858134Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29299,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14851/b1a396c7-6c02-418a-bd08-a64dfbc86625.jpg",
+                        "created_date": "2022-09-21T15:18:48.641860Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29286,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14852/ceda1bbd-7b29-494f-b0c0-659ff4fa52c5.jpg",
+                        "created_date": "2022-09-21T15:18:14.384877Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29250,
+                        "order": 11
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "65\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5484,
+        "name": "DV90BB9445GHAH, Kurutma Makinesi, 9 kg",
+        "sku": "DV90BB9445GHAH",
+        "base_code": "434937",
+        "attributes": {
+          "integration_categoryenglishnamepath": "Home Appliances|Washers and Dryers|Dryers",
+          "erp_gradecolor": "#00a651",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb9445ghah-energylabel.pdf",
+          "integration_product_type_code": "PT_CD_WASHING_MACHINE",
+          "integration_usptext": "A+++ Enerji Verimliliği\nYapay Zeka ile Kurutma\nQuickDrive™ Teknolojisi",
+          "erp_performans_enerjiverimliliksinifi": "A+++",
+          "erp_product_type_name": "Washing Machine",
+          "erp_devir_utukurulugu": "Evet",
+          "erp_color": "Beyaz",
+          "erp_color_code": "#ffffff",
+          "erp_devir_hassasgiysiler": "Evet",
+          "erp_ozellik_smartthings": "Evet",
+          "integration_ozellik_kurutmaseviyesi": "4 Seviye",
+          "erp_performans_kurutucutipi": "Isı Pompası",
+          "integration_color_code": "#ffffff",
+          "erp_performans_enerjituketimiyillik": "182",
+          "integration_color": "Beyaz",
+          "product_badge_app": "https://samsung-akinon.b-cdn.net/cms/2022/11/09/3133140d-3a0e-426b-a09c-2603eed4b122.png",
+          "integration_category_code_path": "08000000|08010000|08010300",
+          "erp_fizikselozellikler_kazanmalzemesi": "Paslanmaz",
+          "erp_smart_dahiliwifi": "Evet",
+          "erp_category_code": "08010300",
+          "erp_category_name_path": "Ev Aletleri|Giysi Temizliği|Kurutma Makineleri",
+          "erp_ozellik_kirisiklikonleyici": "Evet",
+          "erp_ozellik_quickdrive": "Evet",
+          "erp_ozellik_motor": "DIT",
+          "erp_devir_sogukhava": "Evet",
+          "erp_ean": "8806094594423",
+          "erp_devir_seceneklistesi": "QuickDrive, Kırışık Önleyici, Kurutma Seviyesi, Kurutma Süresi, Nem Alarmı, Akıllı Kontrol, Kazan Işığı, Çocuk Kilidi, Ses Kapalı, Kalibrasyon",
+          "integration_fizikselozellikler_brutagirlik": "54 kg",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb9445ghah-productfiche.pdf",
+          "purchase_limit_per_basket": "1",
+          "erp_devir_aidry": "Evet",
+          "erp_grade": "A+++",
+          "integration_fizikselozellikler_brutboyutgxyxd": "670 x 895 x 695 mm",
+          "integration_ozellik_kazantipi": "Elmas",
+          "erp_product_type_code": "PT_CD_WASHING_MACHINE",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb9445ghah-energylabel.pdf",
+          "erp_devir_dismekan": "Evet",
+          "integration_fizikselozellikler_netagirlik": "52 kg",
+          "erp_devir_havlular": "Evet",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "integration_grade": "A+++",
+          "erp_performans_programsuresidk": "215 min",
+          "erp_devir_gomlekler": "Evet",
+          "erp_ozellik_aidry": "Evet",
+          "integration_category_code": "08010300",
+          "erp_devir_yun": "Evet",
+          "erp_ozellik_karisikgiysizilinemalarmi": "Evet",
+          "erp_devir_sessizkurutma": "Evet",
+          "b2b_product_badge": "ikilialim2000para",
+          "integration_product_type_name": "Washing Machine",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "integration_ean": "8806094594423",
+          "erp_performans_yogusmaverimliligisinifi": "B",
+          "erp_devir_pamuklu": "Evet",
+          "integration_devir_pamuklu": "Evet",
+          "erp_ozellik_yapayzekakontrolu": "Evet",
+          "product_badge_app_enddate": "2023-01-31T20:59:00.000Z",
+          "erp_performans_sogutucudoldurmakg": "0.149",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb9445ghah-productfiche.pdf",
+          "erp_fizikselozellikler_netagirlik": "52 kg",
+          "erp_categoryenglishnamepath": "Home Appliances|Washers and Dryers|Dryers",
+          "integration_devir_hassasgiysiler": "Evet",
+          "erp_tasarim_kapak": "Kırılmaz Cam Kapak",
+          "integration_smart_dahiliwifi": "Evet",
+          "erp_devir_hizlikurutma35dk": "Evet",
+          "marketing-name": "BESPOKE",
+          "erp_fizikselozellikler_brutagirlik": "54 kg",
+          "integration_gradecolor": "#00a651",
+          "erp_ozellik_idealkurutmasistemi": "Evet",
+          "erp_devir_selftubdry": "Evet",
+          "erp_ozellik_kurutmarafi": "Evet",
+          "integration_fizikselozellikler_netboyutgxyxd": "600 x 850 x 600 mm",
+          "erp_devir_superhiz": "Evet",
+          "erp_ozellik_kurutmaseviyesi": "4 Seviye",
+          "integration_category_name_path": "Ev Aletleri|Giysi Temizliği|Kurutma Makineleri",
+          "drk_name": "Samsung DV90BB9445GHAH, Kurutma Makinesi, 9 kg",
+          "erp_performans_sogutucutipi": "R290",
+          "erp_model_name": "DV90BB9445GH",
+          "erp_ozellik_kompresor": "İnverter",
+          "erp_tasarim_panelekrani": "Yapay Zeka Kontrolü",
+          "erp_category_code_path": "08000000|08010000|08010300",
+          "erp_devir_airrefresh": "Evet",
+          "integration_ozellik_akillikontrol": "Evet",
+          "erp_fizikselozellikler_brutboyutgxyxd": "670 x 895 x 695 mm",
+          "erp_usptext": "A+++ Enerji Verimliliği\nYapay Zeka ile Kurutma\nQuickDrive™ Teknolojisi",
+          "erp_ozellik_kazantipi": "Elmas",
+          "product_badge_app_startdate": "2011-12-31T23:00:00.000Z",
+          "erp_ozellik_kurutmasuresisecici": "Evet",
+          "integration_ozellik_cocukkilidi": "Evet",
+          "integration_product_subtype_name": "Dryer",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_devir_kurutmasuresi": "Evet",
+          "erp_devir_sicakhava": "Evet",
+          "ykbkredilisatis": "Evet",
+          "integration_ozellik_quickdrive": "Evet",
+          "erp_devir_sentetikler": "Evet",
+          "garanti_icon": "motor",
+          "erp_tasarim_govderengi": "Beyaz",
+          "integration_appconnectivity_smartthingsuygulamasinidestekler": "Evet",
+          "integration_model_name": "DV90BB9445GH",
+          "integration_ozellik_motor": "DIT",
+          "erp_kurutmakapasitesi_kurutmakapasitesi": "9.0 kg",
+          "integration_product_subtype_code": "PT_CD_WASHING_MACHINE_05",
+          "erp_devir_nevresim": "Evet",
+          "integration_devir_sentetikler": "Evet",
+          "erp_product_subtype_code": "PT_CD_WASHING_MACHINE_05",
+          "integration_devir_seceneklistesi": "QuickDrive, Kırışık Önleyici, Kurutma Seviyesi, Kurutma Süresi, Nem Alarmı, Akıllı Kontrol, Kazan Işığı, Çocuk Kilidi, Ses Kapalı, Kalibrasyon",
+          "erp_ozellik_cocukkilidi": "Evet",
+          "erp_product_subtype_name": "Dryer",
+          "integration_devir_nevresim": "Evet",
+          "erp_ozellik_yonudegistirilebilirkapi": "Evet",
+          "product_badge": "ikilialim",
+          "erp_performans_gurultuseviyesikurutma": "62 dB",
+          "erp_ozellik_ickazanisigi": "Evet",
+          "integration_ozellik_ickazanisigi": "Evet",
+          "erp_fizikselozellikler_netboyutgxyxd": "600 x 850 x 600 mm",
+          "integration_tasarim_govderengi": "Beyaz",
+          "erp_ozellik_akillikontrol": "Evet"
+        },
+        "attribute_set": 166,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Beyaz",
+            "data_type": "dropdown",
+            "label": "Beyaz"
+          },
+          "integration_devir_sentetikler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_nevresim": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_quickdrive": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_appconnectivity_smartthingsuygulamasinidestekler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_cocukkilidi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_hassasgiysiler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_smart_dahiliwifi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_pamuklu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_ickazanisigi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_akillikontrol": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29260,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14820/95cf62c0-e7db-48da-859b-f9a75777279b.jpg",
+            "order": 1,
+            "created_date": "2022-09-21T15:18:46.911736Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29261,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14820/c8e3f3b1-057d-48c6-be68-a5306c5245ac.jpg",
+            "order": 2,
+            "created_date": "2022-09-21T15:18:46.991462Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29262,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14820/16bb5816-8b5e-457a-abfe-82ccd35f905b.jpg",
+            "order": 3,
+            "created_date": "2022-09-21T15:18:47.045656Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29266,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14820/ef13bbcf-da39-4f9f-abab-1491fc85ce47.jpg",
+            "order": 4,
+            "created_date": "2022-09-21T15:18:47.288869Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29263,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14820/d8dbba5a-daf6-4dc0-8fe0-137585942f2e.jpg",
+            "order": 5,
+            "created_date": "2022-09-21T15:18:47.093920Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29269,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/b369d820-3781-4b01-9c1c-26aa9f1b2f74.jpg",
+            "order": 6,
+            "created_date": "2022-09-21T15:18:47.539325Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29270,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14820/1c623673-9db5-4ed8-b758-e04f46dbd02f.jpg",
+            "order": 7,
+            "created_date": "2022-09-21T15:18:47.596096Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29272,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/6c664479-4d06-4cac-a302-c40e4afec950.jpg",
+            "order": 8,
+            "created_date": "2022-09-21T15:18:47.704479Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29264,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14820/68f82e38-2700-46c3-9ed3-a37075516a55.jpg",
+            "order": 9,
+            "created_date": "2022-09-21T15:18:47.156272Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29265,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14820/e7b2326f-2681-4c5b-9e6f-6ad9b38f6833.jpg",
+            "order": 10,
+            "created_date": "2022-09-21T15:18:47.223621Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29268,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14820/898e51ce-6cc8-491e-862d-d9534946d930.jpg",
+            "order": 11,
+            "created_date": "2022-09-21T15:18:47.475153Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "20799",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "23899",
+        "unit_type": "qty",
+        "absolute_url": "/tr/dv90bb9445ghah-kurutma-makinesi-9-kg/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": true,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            
+          ]
+        }
+      },
+      {
+        "pk": 5483,
+        "name": "DV90BB5245AEAH, Kurutma Makinesi, 9 kg",
+        "sku": "DV90BB5245AEAH",
+        "base_code": "434936",
+        "attributes": {
+          "integration_categoryenglishnamepath": "Home Appliances|Washers and Dryers|Dryers",
+          "erp_gradecolor": "#00a651",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb5245aeah-energylabel.pdf",
+          "integration_product_type_code": "PT_CD_WASHING_MACHINE",
+          "integration_usptext": "A+++ Enerji Verimliliği\nYapay Zeka Kontrolü\nDayanıklı Performans",
+          "erp_performans_enerjiverimliliksinifi": "A+++",
+          "erp_product_type_name": "Washing Machine",
+          "erp_devir_utukurulugu": "Evet",
+          "erp_color": "Beyaz",
+          "erp_color_code": "#ffffff",
+          "erp_devir_hassasgiysiler": "Evet",
+          "erp_ozellik_smartthings": "Evet",
+          "integration_ozellik_kurutmaseviyesi": "3 Seviye",
+          "erp_performans_kurutucutipi": "Isı Pompası",
+          "erp_appconnectivity_smartthingsuygulamasinidestekler": "Evet",
+          "integration_color_code": "#ffffff",
+          "erp_performans_enerjituketimiyillik": "192",
+          "integration_color": "Beyaz",
+          "product_badge_app": "https://samsung-akinon.b-cdn.net/cms/2022/11/09/3133140d-3a0e-426b-a09c-2603eed4b122.png",
+          "integration_category_code_path": "08000000|08010000|08010300",
+          "erp_fizikselozellikler_kazanmalzemesi": "Paslanmaz",
+          "erp_smart_dahiliwifi": "Evet",
+          "erp_category_name_path": "Ev Aletleri|Giysi Temizliği|Kurutma Makineleri",
+          "erp_ozellik_kirisiklikonleyici": "Evet",
+          "erp_ozellik_motor": "DIT",
+          "erp_devir_sogukhava": "Evet",
+          "erp_ean": "8806094594416",
+          "erp_devir_seceneklistesi": "Kırışık Önleyici, Kurutma Seviyesi, Kurutma Süresi, Nem Alarmı, Akıllı Kontrol, Kazan Işığı, Çocuk Kilidi, Ses Kapalı",
+          "integration_fizikselozellikler_brutagirlik": "52 kg",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb5245aeah-productfiche.pdf",
+          "purchase_limit_per_basket": "1",
+          "erp_tasarim_kapak": "Oyma Kapı (Siyah)",
+          "erp_grade": "A+++",
+          "integration_fizikselozellikler_brutboyutgxyxd": "670 x 895 x 695 mm",
+          "integration_ozellik_kazantipi": "Elmas",
+          "erp_product_type_code": "PT_CD_WASHING_MACHINE",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb5245aeah-energylabel.pdf",
+          "erp_devir_dismekan": "Evet",
+          "integration_fizikselozellikler_netagirlik": "50 kg",
+          "erp_devir_havlular": "Evet",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "integration_grade": "A+++",
+          "erp_performans_programsuresidk": "182 min",
+          "erp_devir_gomlekler": "Evet",
+          "integration_category_code": "08010300",
+          "erp_devir_yun": "Evet",
+          "erp_ozellik_karisikgiysizilinemalarmi": "Evet",
+          "b2b_product_badge": "ikilialim2000para",
+          "integration_product_type_name": "Washing Machine",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "integration_ean": "8806094594416",
+          "erp_performans_yogusmaverimliligisinifi": "B",
+          "erp_devir_pamuklu": "Evet",
+          "integration_devir_pamuklu": "Evet",
+          "erp_ozellik_yapayzekakontrolu": "Evet",
+          "product_badge_app_enddate": "2023-01-31T20:59:00.000Z",
+          "erp_performans_sogutucudoldurmakg": "0.149",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-dv90bb5245aeah-productfiche.pdf",
+          "erp_fizikselozellikler_netagirlik": "50 kg",
+          "erp_categoryenglishnamepath": "Home Appliances|Washers and Dryers|Dryers",
+          "integration_devir_hassasgiysiler": "Evet",
+          "erp_devir_karisikgiysiler": "Evet",
+          "erp_category_code": "08010300",
+          "integration_smart_dahiliwifi": "Evet",
+          "erp_devir_hizlikurutma35dk": "Evet",
+          "marketing-name": "BESPOKE",
+          "erp_fizikselozellikler_brutagirlik": "52 kg",
+          "integration_gradecolor": "#00a651",
+          "erp_ozellik_idealkurutmasistemi": "Evet",
+          "erp_ozellik_kurutmarafi": "Evet",
+          "integration_fizikselozellikler_netboyutgxyxd": "600 x 850 x 600 mm",
+          "erp_ozellik_kurutmaseviyesi": "3 Seviye",
+          "integration_category_name_path": "Ev Aletleri|Giysi Temizliği|Kurutma Makineleri",
+          "drk_name": "Samsung DV90BB5245AEAH, Kurutma Makinesi, 9 kg",
+          "erp_performans_sogutucutipi": "R290",
+          "erp_model_name": "DV90BB5245AE",
+          "erp_tasarim_panelekrani": "Yapay Zeka Kontrolü",
+          "erp_category_code_path": "08000000|08010000|08010300",
+          "erp_devir_airrefresh": "Evet",
+          "integration_ozellik_akillikontrol": "Evet",
+          "erp_fizikselozellikler_brutboyutgxyxd": "670 x 895 x 695 mm",
+          "erp_usptext": "A+++ Enerji Verimliliği\nYapay Zeka Kontrolü\nDayanıklı Performans",
+          "erp_ozellik_kazantipi": "Elmas",
+          "product_badge_app_startdate": "2011-12-31T23:00:00.000Z",
+          "erp_ozellik_kurutmasuresisecici": "Evet",
+          "integration_ozellik_cocukkilidi": "Evet",
+          "integration_product_subtype_name": "Dryer",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_devir_kurutmasuresi": "Evet",
+          "erp_devir_sicakhava": "Evet",
+          "ykbkredilisatis": "Evet",
+          "erp_devir_sentetikler": "Evet",
+          "garanti_icon": "motor",
+          "erp_tasarim_govderengi": "Beyaz",
+          "integration_appconnectivity_smartthingsuygulamasinidestekler": "Evet",
+          "integration_model_name": "DV90BB5245AE",
+          "integration_ozellik_motor": "DIT",
+          "erp_kurutmakapasitesi_kurutmakapasitesi": "9.0 kg",
+          "integration_product_subtype_code": "PT_CD_WASHING_MACHINE_05",
+          "erp_devir_nevresim": "Evet",
+          "integration_devir_sentetikler": "Evet",
+          "erp_product_subtype_code": "PT_CD_WASHING_MACHINE_05",
+          "integration_devir_seceneklistesi": "Kırışık Önleyici, Kurutma Seviyesi, Kurutma Süresi, Nem Alarmı, Akıllı Kontrol, Kazan Işığı, Çocuk Kilidi, Ses Kapalı",
+          "erp_ozellik_cocukkilidi": "Evet",
+          "erp_product_subtype_name": "Dryer",
+          "integration_devir_nevresim": "Evet",
+          "erp_ozellik_yonudegistirilebilirkapi": "Evet",
+          "product_badge": "ikilialim",
+          "erp_performans_gurultuseviyesikurutma": "64 dB",
+          "erp_ozellik_ickazanisigi": "Evet",
+          "integration_ozellik_ickazanisigi": "Evet",
+          "erp_fizikselozellikler_netboyutgxyxd": "600 x 850 x 600 mm",
+          "integration_tasarim_govderengi": "Beyaz",
+          "erp_ozellik_akillikontrol": "Evet"
+        },
+        "attribute_set": 166,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Beyaz",
+            "data_type": "dropdown",
+            "label": "Beyaz"
+          },
+          "integration_devir_sentetikler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_nevresim": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_appconnectivity_smartthingsuygulamasinidestekler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_cocukkilidi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_hassasgiysiler": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_smart_dahiliwifi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_devir_pamuklu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_ickazanisigi": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_ozellik_akillikontrol": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29248,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/b42eba82-dbfa-40c0-a7fb-406635b1bb38.jpg",
+            "order": 1,
+            "created_date": "2022-09-21T15:18:14.074057Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29249,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/18a41b68-0640-4663-8194-d0e6e5d3ed6c.jpg",
+            "order": 2,
+            "created_date": "2022-09-21T15:18:14.298643Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29253,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/5e1a94bc-70ce-41a8-8c71-ecc22cd74e17.jpg",
+            "order": 3,
+            "created_date": "2022-09-21T15:18:14.646399Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29254,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/75f5bc70-6507-4142-b6a5-766305b82683.jpg",
+            "order": 4,
+            "created_date": "2022-09-21T15:18:46.529201Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29255,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/1f5c1f1b-0305-4b6c-8473-48b301cff9b3.jpg",
+            "order": 5,
+            "created_date": "2022-09-21T15:18:46.595862Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29256,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/4cd55235-a6fc-4e2f-be73-8f3ca8b68476.jpg",
+            "order": 6,
+            "created_date": "2022-09-21T15:18:46.661483Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29257,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/b369d820-3781-4b01-9c1c-26aa9f1b2f74.jpg",
+            "order": 7,
+            "created_date": "2022-09-21T15:18:46.725818Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29258,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/aa8634a0-b74e-4b65-9b6b-5f945ecc70d8.jpg",
+            "order": 8,
+            "created_date": "2022-09-21T15:18:46.795120Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29259,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/6c664479-4d06-4cac-a302-c40e4afec950.jpg",
+            "order": 9,
+            "created_date": "2022-09-21T15:18:46.844848Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29251,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/59c11e83-ca1c-4f73-af1e-b531f84b060b.jpg",
+            "order": 10,
+            "created_date": "2022-09-21T15:18:14.519949Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29252,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/21/14818/088d0a27-5590-4e94-871f-3d747a7fdc15.jpg",
+            "order": 11,
+            "created_date": "2022-09-21T15:18:14.587134Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "19299",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "22399",
+        "unit_type": "qty",
+        "absolute_url": "/tr/dv90bb5245aeah-kurutma-makinesi-9-kg/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": true,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            
+          ]
+        }
+      },
+      {
+        "pk": 5453,
+        "name": "M5 Serisi 32” FHD Akıllı Monitör",
+        "sku": "LS32BM501EUXUF",
+        "base_code": "416963",
+        "attributes": {
+          "erp_akillihizmet_evrenselkilavuz": "Evet (GB, FR, DE, IT, ES)",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bm501euxuf-energylabel.pdf",
+          "erp_smartservice_mobiletoscreenmirroringdlna": "Evet",
+          "integration_product_type_code": "PT_CD_MONITOR",
+          "integration_arabirim_ciftbaglantilidvi": "Hayır",
+          "integration_grade": "F",
+          "erp_guc_tipi": "Dahili Güç",
+          "erp_ekran_statikkontrastorani": "3.000:1(Normal)",
+          "mp_hdmi": "Var",
+          "erp_guc_guctuketimitip": "27.0 W",
+          "integration_ekran_yanitsuresi": "4ms(GTG)",
+          "mp_ekran_teknolojisi": "Full HD",
+          "mp_ekran_boyutu": "32 inç",
+          "erp_ekran_parlakliktipik": "250 cd/㎡",
+          "integration_category_code_path": "07000000|07010000|07010500",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "716.1 x 424.5 x 41.8 mm",
+          "integration_arabirim_kablosuzekran": "Evet",
+          "mp_panel_tipi": "Mekanik",
+          "erp_arabirim_kulaklikcikisi": "Hayır",
+          "erp_akillihizmet_smarttype": "Smart",
+          "integration_arabirim_hdmi": "2 EA",
+          "erp_akillihizmet_tasinabilircihazdanekranagoruntuaktarmadlna": "Evet",
+          "mp_hdcp": "Yok",
+          "erp_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "erp_akillihizmet_dokunveizle": "Evet",
+          "mp_kargo": "yurtici",
+          "erp_smartservice_webservice": "Microsoft 365",
+          "erp_grade": "F",
+          "integration_calismakosullari_sicaklik": "10 ~ 40 ℃",
+          "erp_product_type_code": "PT_CD_MONITOR",
+          "erp_tasarim_egme": "-2.0°（±2.0°）~+22.0°（±2.0°）",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bm501euxuf-energylabel.pdf",
+          "erp_smartservice_connectsharetmusb20": "Evet",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_aksesuar_hdmikablosu": "Evet",
+          "erp_aksesuar_uzaktankumanda": "Evet",
+          "mp_dvi": "Yok",
+          "integration_agirlik_ambalajagirligi": "8.5 kg",
+          "erp_tasarim_stanttipi": "Sade",
+          "erp_arabirim_sesgirisi": "Hayır",
+          "integration_ekran_paneltipi": "VA",
+          "integration_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "mp_vesa_uyumlulugu": "Var",
+          "mp_coz_standart": "Full HD (FHD)",
+          "erp_arabirim_builtincamera": "Hayır",
+          "erp_ses_hoparlor": "Evet",
+          "erp_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "integration_ekran_parlaklikmin": "200 cd/㎡",
+          "erp_boyutlar_stantlabirliktesetboyutugxyxd": "716.1 x 517.0 x 193.5 mm",
+          "integration_ekran_yenilemehizi": "Maks. 60Hz",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_dahili_hoparlor": "Var",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "716.1 x 424.5 x 41.8 mm",
+          "erp_akillihizmet_isletimsistemi": "Tizen™",
+          "erp_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "integration_model_name": "S32BM501EU",
+          "mp_ekran_yenileme_hizi": "60 Hz",
+          "integration_guc_guctuketimiyillik": "49 kWh/yıl",
+          "integration_tasarim_onrenk": "Beyaz",
+          "erp_smartservice_smartthings": "Evet",
+          "erp_ekran_enboyorani": "16:9",
+          "mp_trendyol_kargo": "3",
+          "erp_boyutlar_ambalajboyutugxyxd": "842.0 x 133.0 x 487.0 mm",
+          "erp_tasarim_rearcolor": "Beyaz",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "mp_sync": "FreeSync",
+          "integration_genelozellikler_oyunmodu": "Evet",
+          "erp_aksesuar_miniekrancinsi": "Hayır",
+          "integration_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_calismakosullari_sicaklik": "10 ~ 40 ℃",
+          "mp_tepki_suresi": "4 ms",
+          "mp_uydu_alici": "Yok",
+          "erp_genelozellikler_windowssertifikasi": "Windows 10",
+          "erp_category_code_path": "07000000|07010000|07010500",
+          "erp_akillihizmet_uzaktanerisim": "Evet",
+          "erp_guc_guckaynagi": "AC 100 ~ 240V",
+          "erp_smartservice_tapview": "Evet",
+          "integration_guc_guctuketimidpms": "0.50 W",
+          "erp_akillihizmet_sesyansitma": "Evet",
+          "erp_tasarim_standcolor": "Beyaz",
+          "mp_3d": "Yok",
+          "erp_arabirim_bluetooth": "Evet (BT4.2)",
+          "integration_product_subtype_name": "LED Monitor",
+          "integration_ekran_statikkontrastorani": "3.000:1(Normal)",
+          "integration_guc_guctuketimimaks": "50 W",
+          "integration_guc_guckaynagi": "AC 100 ~ 240V",
+          "integration_guc_guctuketimitip": "27.0 W",
+          "product_desi": "35",
+          "integration_arabirim_dvi": "Hayır",
+          "erp_agirlik_ambalajagirligi": "8.5 kg",
+          "erp_ekran_parlaklikmin": "200 cd/㎡",
+          "erp_smartservice_isletimsistemi": "Tizen™",
+          "erp_product_subtype_code": "PT_CD_MONITOR_01",
+          "integration_ses_hoparlor": "Evet",
+          "erp_product_subtype_name": "LED Monitor",
+          "erp_arabirim_dvi": "Hayır",
+          "integration_ekran_renkdestegi": "Maks. 1B",
+          "inc_monitor": "27 ve üzeri",
+          "erp_eko_enerjiverimliliksinifi": "F",
+          "integration_guc_tipi": "Dahili Güç",
+          "erp_ekran_hdryuksekdinamikaralik": "HDR10",
+          "mp_kullanim_amaci": "Ofis - İş",
+          "erp_arabirim_microhdmi": "Hayır",
+          "erp_genelozellikler_uyumsaglayangoruntu": "Evet",
+          "erp_ekran_yenilemehizi": "Maks. 60Hz",
+          "erp_agirlik_stantlabirliktesetagirligi": "6.6 kg",
+          "erp_gradecolor": "#f37021",
+          "integration_ekran_parlakliktipik": "250 cd/㎡",
+          "erp_smartservice_tvplus": "Evet (GB, FR, DE, IT, ES, CH, AT, NL, SE, NO, DK, FI, PT, IE, BE, LU)",
+          "erp_ekran_renkdestegi": "Maks. 1B",
+          "integration_usptext": "Dahili smart uygulamalar\nKablosuz olarak bilgisayardaki dosyalarınıza erişin\nYalnızca bir monitörle ev içi IoT cihazlarını kolayca kontrol edin",
+          "erp_genelozellikler_oyunmodu": "Evet",
+          "integration_aksesuar_hdmikablosu": "Evet",
+          "integration_arabirim_ekranbaglantinoktasiversiyonu": "Hayır",
+          "erp_arabirim_hdmiversiyonu": "1.4",
+          "erp_product_type_name": "Monitor",
+          "erp_tasarim_duvaramonteedilebilir": "100 x 100",
+          "erp_color": "Beyaz",
+          "erp_arabirim_ekranbaglantinoktasiversiyonu": "Hayır",
+          "erp_genelozellikler_gamebar20": "Evet",
+          "erp_tasarim_onrenk": "Beyaz",
+          "erp_tasarim_arkarenk": "Beyaz",
+          "integration_arabirim_sesgirisi": "Hayır",
+          "integration_color_code": "#ffffff",
+          "mp_kargo_suresi": "3",
+          "erp_guc_guctuketimiyillik": "49 kWh/yıl",
+          "integration_color": "Beyaz",
+          "mp_cozunurluk": "1920 x 1080",
+          "erp_arabirim_usbmerkezi": "2",
+          "erp_category_name_path": "Display|Monitör|Düz",
+          "integration_boyutlar_ambalajboyutugxyxd": "842.0 x 133.0 x 487.0 mm",
+          "erp_genelozellikler_ultrawidegameview": "Evet",
+          "erp_guc_guctuketimidpms": "0.50 W",
+          "erp_ean": "8806094253894",
+          "integration_category_code": "07010500",
+          "erp_arabirim_dahilikamera": "Hayır",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bm501euxuf-productfiche.pdf",
+          "purchase_limit_per_basket": "1",
+          "integration_categoryenglishnamepath": "Display|Monitors|Flat",
+          "erp_ekran_ekranboyutusinif": "32",
+          "mp_curved": "Yok",
+          "erp_agirlik_stantsizsetagirligi": "5.5 kg",
+          "integration_aksesuar_miniekrancinsi": "Hayır",
+          "mp_kontrast": "1000:1",
+          "mp_goruntu_teknolojisi": "IPS",
+          "erp_ekran_paneltipi": "VA",
+          "erp_arabirim_kablosuzekran": "Evet",
+          "erp_arabirim_ekranbaglantinoktasi": "Hayır",
+          "erp_akillihizmet_smartthingsuygulamasinidestekler": "Evet",
+          "erp_genelozellikler_autosourceswitch": "Evet",
+          "mp_n11_pivot": "Hayır",
+          "integration_product_type_name": "Monitor",
+          "integration_agirlik_stantlabirliktesetagirligi": "6.6 kg",
+          "erp_akillihizmet_smartthings": "Evet",
+          "integration_ekran_ekranboyutusinif": "32",
+          "mp_mini_displayport": "Yok",
+          "integration_ekran_enboyorani": "16:9",
+          "mp_diger_markalar": "Samsung",
+          "integration_genelozellikler_titresimsiz": "Evet",
+          "integration_tasarim_duvaramonteedilebilir": "100 x 100",
+          "b2b_purchase_limit_per_basket": "2",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls32bm501euxuf-productfiche.pdf",
+          "erp_categoryenglishnamepath": "Display|Monitors|Flat",
+          "erp_color_code": "#ffffff",
+          "erp_category_code": "07010500",
+          "erp_genelozellikler_adaptivepicture": "Evet",
+          "erp_ekran_duzkavisli": "Düz",
+          "erp_akillihizmet_tvplus": "Evet (GB, FR, DE, IT, ES, CH, AT, NL, SE, NO, DK, FI, PT, IE, BE, LU)",
+          "integration_gradecolor": "#f37021",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_genelozellikler_ultragenisoyungoruntusu": "Evet",
+          "erp_calismakosullari_nem": "10 ~ 80 (donmayan)",
+          "integration_category_name_path": "Display|Monitör|Düz",
+          "drk_name": "Samsung M5 Serisi 32” FHD Akıllı Monitör",
+          "integration_tasarim_stanttipi": "Sade",
+          "mp_display_port": "Yok",
+          "integration_arabirim_kulaklikcikisi": "Hayır",
+          "integration_aksesuar_uzaktankumanda": "Evet",
+          "erp_guc_guctuketimimaks": "50 W",
+          "erp_ekran_yanitsuresi": "4ms(GTG)",
+          "mp_vga": "Yok",
+          "erp_akillihizmet_connectsharetmusb20": "Evet",
+          "erp_usptext": "Dahili smart uygulamalar\nKablosuz olarak bilgisayardaki dosyalarınıza erişin\nYalnızca bir monitörle ev içi IoT cihazlarını kolayca kontrol edin",
+          "integration_ean": "8806094253894",
+          "erp_arabirim_wifi": "Evet (WiFi5)",
+          "erp_smartservice_sesyansitma": "Evet",
+          "integration_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_genelozellikler_windowssertifikasi": "Windows 10",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_arabirim_hdmiversiyonu": "1.4",
+          "erp_arabirim_dsub": "Hayır",
+          "ykbkredilisatis": "Evet",
+          "erp_smartservice_smarttype": "Smart",
+          "erp_smartservice_smartthingsuygulamasinidestekler": "Evet",
+          "integration_arabirim_usbc": "Hayır",
+          "integration_calismakosullari_nem": "10 ~ 80 (donmayan)",
+          "integration_arabirim_ekranbaglantinoktasi": "Hayır",
+          "integration_arabirim_dsub": "Hayır",
+          "integration_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_genelozellikler_titresimsiz": "Evet",
+          "erp_model_name": "S32BM501EU",
+          "integration_boyutlar_stantlabirliktesetboyutugxyxd": "716.1 x 517.0 x 193.5 mm",
+          "mp_hb_kargo": "3",
+          "integration_ekran_hdryuksekdinamikaralik": "HDR10",
+          "integration_ekran_etkinekranboyutuyxdmm": "698.4 (Y) x 392.85 (D)",
+          "integration_ekran_cozunurluk": "1.920 x 1.080",
+          "erp_arabirim_hdmi": "2 EA",
+          "erp_ekran_izlemeacisiyd": "178°(Y)/178°(D)",
+          "erp_arabirim_usbc": "Hayır",
+          "erp_genelozellikler_gozkoruyucumodu": "Evet",
+          "erp_smartservice_evrenselkilavuz": "Evet (GB, FR, DE, IT, ES)",
+          "erp_akillihizmet_goruntuluiletisim": "Google Duo",
+          "integration_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "integration_ekran_izlemeacisiyd": "178°(Y)/178°(D)",
+          "integration_ekran_duzkavisli": "Düz",
+          "integration_agirlik_stantsizsetagirligi": "5.5 kg",
+          "erp_genelozellikler_hdmicec": "Evet",
+          "erp_akillihizmet_webservice": "Microsoft 365",
+          "integration_arabirim_usbmerkezi": "2",
+          "erp_tasarim_stantrengi": "Beyaz",
+          "erp_smartservice_remoteaccess": "Evet",
+          "erp_ekran_etkinekranboyutuyxdmm": "698.4 (Y) x 392.85 (D)",
+          "n11varyantkey": "8806094253894",
+          "erp_smartservice_videocommunication": "Google Duo",
+          "erp_ekran_cozunurluk": "1.920 x 1.080"
+        },
+        "attribute_set": 11,
+        "attributes_kwargs": {
+          "integration_arabirim_ciftbaglantilidvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdmi": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_ekran_hdryuksekdinamikaralik": {
+            "value": "HDR10",
+            "data_type": "dropdown",
+            "label": "HDR10"
+          },
+          "mp_sync": {
+            "value": "FreeSync",
+            "data_type": "dropdown",
+            "label": "FreeSync"
+          },
+          "integration_genelozellikler_oyunmodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_dvi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikis": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_boyutu": {
+            "value": "32 inç",
+            "data_type": "dropdown",
+            "label": "32 inç"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_tepki_suresi": {
+            "value": "4 ms",
+            "data_type": "dropdown",
+            "label": "4 ms"
+          },
+          "mp_ekran_teknolojisi": {
+            "value": "Full HD",
+            "data_type": "dropdown",
+            "label": "Full HD"
+          },
+          "mp_uydu_alici": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_display_port": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "Beyaz",
+            "data_type": "dropdown",
+            "label": "Beyaz"
+          },
+          "mp_cozunurluk": {
+            "value": "1920 x 1080",
+            "data_type": "dropdown",
+            "label": "1920 x 1080"
+          },
+          "mp_vga": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_usbmerkezi": {
+            "value": "2",
+            "data_type": "dropdown",
+            "label": "2"
+          },
+          "integration_arabirim_kablosuzekran": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_hdcp": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_3d": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_usbc": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_vesa_uyumlulugu": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_genelozellikler_gozkoruyucumodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_uzaktankumanda": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_hdmikablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "mp_curved": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_titresimsiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_miniekrancinsi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kontrast": {
+            "value": "1000:1",
+            "data_type": "dropdown",
+            "label": "1000:1"
+          },
+          "mp_goruntu_teknolojisi": {
+            "value": "IPS",
+            "data_type": "dropdown",
+            "label": "IPS"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "1.920 x 1.080",
+            "data_type": "dropdown",
+            "label": "1.920 x 1.080"
+          },
+          "mp_coz_standart": {
+            "value": "Full HD (FHD)",
+            "data_type": "dropdown",
+            "label": "Full HD (FHD)"
+          },
+          "mp_n11_pivot": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_dahili_hoparlor": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "inc_monitor": {
+            "value": "27 ve üzeri",
+            "data_type": "dropdown",
+            "label": "27 ve üzeri"
+          },
+          "integration_ekran_ekranboyutusinif": {
+            "value": "32",
+            "data_type": "dropdown",
+            "label": "32\""
+          },
+          "mp_mini_displayport": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_kullanim_amaci": {
+            "value": "Ofis - İş",
+            "data_type": "dropdown",
+            "label": "Ofis - İş"
+          },
+          "integration_arabirim_dvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_yenileme_hizi": {
+            "value": "60 Hz",
+            "data_type": "dropdown",
+            "label": "60 Hz"
+          },
+          "mp_panel_tipi": {
+            "value": "Mekanik",
+            "data_type": "dropdown",
+            "label": "Mekanik"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29210,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/9567d541-1af3-446b-a1b6-dcf1108b8e7d.jpg",
+            "order": 1,
+            "created_date": "2022-09-07T11:04:44.599047Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29212,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/c81ba7a3-2c04-4c99-ab70-e59b01e2b40b.jpg",
+            "order": 2,
+            "created_date": "2022-09-07T11:04:44.834715Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29213,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/b509c2b5-f2b4-4bc7-a1bd-810350c97654.jpg",
+            "order": 3,
+            "created_date": "2022-09-07T11:04:44.888517Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29217,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/8a8b383a-43fd-4f5a-abd3-8d0a2a0861b2.jpg",
+            "order": 4,
+            "created_date": "2022-09-07T11:04:45.185443Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29221,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/571cb298-b5a8-4bef-bc91-373aac9dcf2c.jpg",
+            "order": 5,
+            "created_date": "2022-09-07T11:04:45.406812Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29224,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/7ac59e34-77aa-4520-838c-bb5a97ac1605.jpg",
+            "order": 6,
+            "created_date": "2022-09-07T11:04:45.581893Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29226,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/2239bc94-b15f-49dc-898e-b0c38733a952.jpg",
+            "order": 7,
+            "created_date": "2022-09-07T11:04:45.705451Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29214,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/e97b9475-4f20-4246-a81e-67733672e49b.jpg",
+            "order": 8,
+            "created_date": "2022-09-07T11:04:44.956505Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29218,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/cbd81c0e-ab27-4afd-94f0-5686ddac4ae4.jpg",
+            "order": 9,
+            "created_date": "2022-09-07T11:04:45.237259Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29211,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/83e6e65a-f56a-4ff9-9edf-4051e1fddfef.jpg",
+            "order": 10,
+            "created_date": "2022-09-07T11:04:44.785180Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "5199",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "7400",
+        "unit_type": "qty",
+        "absolute_url": "/tr/m5-serisi-32-fhd-akilli-monitor-2/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 97,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutusinif",
+              "options": [
+                {
+                  "product": {
+                    "name": "M5 Serisi 32” FHD Akıllı Monitör",
+                    "absolute_url": "/tr/m5-serisi-32-fhd-akilli-monitor-2/",
+                    "price": "5199",
+                    "attributes": {
+                      "integration_color_code": "#ffffff",
+                      "integration_ekran_ekranboyutusinif": "32",
+                      "integration_color": "Beyaz"
+                    },
+                    "pk": 5453,
+                    "retail_price": "7400",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/9567d541-1af3-446b-a1b6-dcf1108b8e7d.jpg",
+                        "created_date": "2022-09-07T11:04:44.599047Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29210,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/c81ba7a3-2c04-4c99-ab70-e59b01e2b40b.jpg",
+                        "created_date": "2022-09-07T11:04:44.834715Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29212,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/b509c2b5-f2b4-4bc7-a1bd-810350c97654.jpg",
+                        "created_date": "2022-09-07T11:04:44.888517Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29213,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/8a8b383a-43fd-4f5a-abd3-8d0a2a0861b2.jpg",
+                        "created_date": "2022-09-07T11:04:45.185443Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29217,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/571cb298-b5a8-4bef-bc91-373aac9dcf2c.jpg",
+                        "created_date": "2022-09-07T11:04:45.406812Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29221,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/7ac59e34-77aa-4520-838c-bb5a97ac1605.jpg",
+                        "created_date": "2022-09-07T11:04:45.581893Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29224,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/2239bc94-b15f-49dc-898e-b0c38733a952.jpg",
+                        "created_date": "2022-09-07T11:04:45.705451Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29226,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/e97b9475-4f20-4246-a81e-67733672e49b.jpg",
+                        "created_date": "2022-09-07T11:04:44.956505Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29214,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/cbd81c0e-ab27-4afd-94f0-5686ddac4ae4.jpg",
+                        "created_date": "2022-09-07T11:04:45.237259Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29218,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/07/14554/83e6e65a-f56a-4ff9-9edf-4051e1fddfef.jpg",
+                        "created_date": "2022-09-07T11:04:44.785180Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29211,
+                        "order": 10
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "32\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5451,
+        "name": "Galaxy Tab S8 Plus Ayaklı Koruyucu Kılıf",
+        "sku": "EF-RX800CBEGWW",
+        "base_code": "415877",
+        "attributes": {
+          "integration_fizikselozellikler_boyutlargxyxd": "190.5 x 290.5 x 12 mm",
+          "mp_hdmi": "Yok",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "mp_kargo": "yurtici",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy Tab S8+",
+          "erp_color": "Siyah",
+          "kampanya_kosullari": "/tr/tablet-aksesuar-kampanyasi-kosullari-temmuz/",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "01000000|01050000|01050100",
+          "integration_uyum_uyumlumodeller": "Galaxy Tab S8+",
+          "mp_cozunurluk": "1280 x 800",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "mp_kurulum": "Hayır",
+          "erp_ean": "8806094210910",
+          "integration_category_code": "01050100",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "mp_curved": "Yok",
+          "erp_fizikselozellikler_boyutlargxyxd": "190.5 x 290.5 x 12 mm",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "mp_dvi": "Yok",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_dahili_hoparlor": "Yok",
+          "mp_n11_3g_4g": "Yok",
+          "mp_ucretsizkurulum": "Yok",
+          "integration_model_name": "EF-RX800",
+          "mp_trendyol_kargo": "3",
+          "erp_color_code": "#000000",
+          "erp_category_code": "01050100",
+          "mp_ekran_boyutu": "10,1 inç",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "326 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "drk_name": "Samsung Galaxy Tab S8 Plus Ayaklı Koruyucu Kılıf Siyah",
+          "mp_display_port": "Yok",
+          "erp_model_name": "EF-RX800",
+          "erp_category_code_path": "01000000|01050000|01050100",
+          "integration_usptext": "En uygun görüş açınızı bulun\nS Pen’inizi şarjı dolu ve hazır tutar\nCihazınızı elinizde tutarken hoş bir his sağlayan koruma",
+          "mp_kilif_uyumlu_model": "Galaxy Tab S8 Ultra",
+          "integration_ean": "8806094210910",
+          "mp_3d": "Yok",
+          "integration_product_subtype_name": "Case",
+          "integration_renk": "Siyah",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "ykbkredilisatis": "Evet",
+          "mp_kapasite_gb": "-",
+          "product_desi": "0.023",
+          "b2b_kampanya_kosullari": "/tr/b2b-tablet-kilif-kampanyasi",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "integration_genelozellikler_ambalajicerigi": "Ayaklı Koruyucu Kılıf, Yüzeyi",
+          "integration_fizikselozellikler_agirlik": "326 g",
+          "erp_genelozellikler_ambalajicerigi": "Ayaklı Koruyucu Kılıf, Yüzeyi",
+          "erp_usptext": "En uygun görüş açınızı bulun\nS Pen’inizi şarjı dolu ve hazır tutar\nCihazınızı elinizde tutarken hoş bir his sağlayan koruma",
+          "erp_renk": "Siyah",
+          "erp_product_subtype_name": "Case",
+          "mp_hdcp": "Yok",
+          "mp_kullanim_amaci": "Ev - Okul"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_display_port": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_hdmi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_cozunurluk": {
+            "value": "1280 x 800",
+            "data_type": "dropdown",
+            "label": "1280 x 800"
+          },
+          "mp_kapasite_gb": {
+            "value": "-",
+            "data_type": "dropdown",
+            "label": "-"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "mp_dahili_hoparlor": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_curved": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_n11_3g_4g": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_kilif_uyumlu_model": {
+            "value": "Galaxy Tab S8 Ultra",
+            "data_type": "dropdown",
+            "label": "Galaxy Tab S8 Ultra"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_ekran_boyutu": {
+            "value": "10,1 inç",
+            "data_type": "dropdown",
+            "label": "10,1 inç"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_hdcp": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kullanim_amaci": {
+            "value": "Ev - Okul",
+            "data_type": "dropdown",
+            "label": "Ev - Okul"
+          },
+          "mp_dvi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_3d": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29182,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/98870006-6889-496c-88ac-d01370b9625c.jpg",
+            "order": 1,
+            "created_date": "2022-09-05T06:59:19.502892Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29184,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/83066dd9-2284-4875-96ef-94802a1663dc.jpg",
+            "order": 2,
+            "created_date": "2022-09-05T06:59:19.671268Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29185,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/6ef39871-cba3-4ea7-800b-ae159e3ab0b4.jpg",
+            "order": 3,
+            "created_date": "2022-09-05T06:59:19.725627Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29186,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/673c1fcf-8d6c-4143-ac32-ca6fea384da2.jpg",
+            "order": 4,
+            "created_date": "2022-09-05T06:59:19.775902Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29188,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/5ea53ec7-8bf8-4cfb-a14e-fbf7d510de89.jpg",
+            "order": 5,
+            "created_date": "2022-09-05T06:59:19.960304Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29189,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/063846f4-50ff-49f9-b0a7-3b9da9a697ef.jpg",
+            "order": 6,
+            "created_date": "2022-09-05T06:59:20.008348Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29183,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/5c9933c4-ff5f-4425-8364-2cf024a2f5ba.jpg",
+            "order": 7,
+            "created_date": "2022-09-05T06:59:19.623932Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29190,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12844/73ffb9c1-0c21-4974-9687-f207c3d5e28a.jpg",
+            "order": 8,
+            "created_date": "2022-09-05T06:59:20.075262Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29191,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/1d4b2ae7-cf9d-4401-a796-7afa1d21a583.jpg",
+            "order": 9,
+            "created_date": "2022-09-05T06:59:20.142953Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "2499",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "2499",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-tab-s8-plus-ayakli-koruyucu-kilif/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy Tab S8 Plus Ayaklı Koruyucu Kılıf",
+                    "absolute_url": "/tr/galaxy-tab-s8-plus-ayakli-koruyucu-kilif/",
+                    "price": "2499",
+                    "attributes": {
+                      "mp_kapasite_gb": "-",
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5451,
+                    "retail_price": "2499",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/98870006-6889-496c-88ac-d01370b9625c.jpg",
+                        "created_date": "2022-09-05T06:59:19.502892Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29182,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/83066dd9-2284-4875-96ef-94802a1663dc.jpg",
+                        "created_date": "2022-09-05T06:59:19.671268Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29184,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/6ef39871-cba3-4ea7-800b-ae159e3ab0b4.jpg",
+                        "created_date": "2022-09-05T06:59:19.725627Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29185,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/673c1fcf-8d6c-4143-ac32-ca6fea384da2.jpg",
+                        "created_date": "2022-09-05T06:59:19.775902Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29186,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/5ea53ec7-8bf8-4cfb-a14e-fbf7d510de89.jpg",
+                        "created_date": "2022-09-05T06:59:19.960304Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29188,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/063846f4-50ff-49f9-b0a7-3b9da9a697ef.jpg",
+                        "created_date": "2022-09-05T06:59:20.008348Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29189,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/5c9933c4-ff5f-4425-8364-2cf024a2f5ba.jpg",
+                        "created_date": "2022-09-05T06:59:19.623932Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29183,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12844/73ffb9c1-0c21-4974-9687-f207c3d5e28a.jpg",
+                        "created_date": "2022-09-05T06:59:20.075262Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29190,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/09/05/12840/1d4b2ae7-cf9d-4401-a796-7afa1d21a583.jpg",
+                        "created_date": "2022-09-05T06:59:20.142953Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29191,
+                        "order": 9
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5880,
+        "name": "Samsung 10.000 mAh Süper Hızlı Kablosuz Powerbank",
+        "sku": "EB-U3300XJEGWW",
+        "base_code": "446137",
+        "attributes": {
+          "erp_guc_girisakimimakshizlisarj": "2,77 A(9 V), 2.1 A(12 V) / PPS : 3,0 A(3,3-5,9 V) veya 2,25 A(3,3-11,0 V)",
+          "integration_usptext": "Hızlı şarj için prize takın\nHızlı şarjda kablo gerekmez\nCihazlarınızın hepsini tek seferde şarj edin",
+          "erp_color_code": "#777777",
+          "erp_star_grade": "5",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050700",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_guc_girisvoltajimaksnormalsarj": "5 V",
+          "erp_uyum_uyumlumodeller": "HIZLI ŞARJ özelliği Galaxy Fold, Note10, Note10+, S10e, S10, S10+, Note9, S9, S9+, Note8, S8, S8+, S7, S7 Edge, Note 5, S6 Edge+ ve Apple iPhone 11 Pro, 11, XS Max, XS, XR, 8, 8+ ile uyumludur. Galaxy S6, S6 Edge ve Qi sertifikalı cihazlar Qi uyumludur. Galaxy Watch serisi, Gear S3, Gear S SportNote10, Note10+ modelleri Akıllı Saat Şarjı ile uyumludur. HIZLI ŞARJ özelliği Galaxy Fold, Note10, Note10+, S10e, S10, S10+, Note9, S9, S9+, Note8, S8, S8+, S7, S7 Edge, Note 5, S6 Edge+ ve Apple iPhone 11 Pro, 11, XS Max, XS, XR, 8, 8+’in yanı sıra gelecekte piyasaya sürülecek uygun cihazlarla uyumludur. Galaxy S6, S6 Edge ve Qi sertifikalı cihazlar Qi uyumludur. Galaxy Watch serisi, Gear S3, Gear Sport modelleri Akıllı Saat Şarjı ile uyumludur. Süper Hızlı Şarj özelliği Galaxy Note10 lite, S10 lite, Note10+, Note10, S10 5G, A91, A90 5G, A80, A70 ile uyumludur.",
+          "erp_color": "Gri",
+          "erp_fizikselozellikler_agirlik": "251 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Battery Packs",
+          "integration_color_code": "#777777",
+          "integration_color": "Gri",
+          "integration_category_code_path": "01000000|01050000|01050700",
+          "erp_category_code_path": "01000000|01050000|01050700",
+          "erp_guc_cikisakimimakshizlisarj": "2,77 A(9 V), 2.1 A(12 V) / PPS : 3,0 A(3,3-5,9 V) veya 2,25 A(3,3-11,0 V)",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Battery Packs",
+          "erp_fizikselozellikler_kablouzunlugu": "0.2 m",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Battery Packs",
+          "erp_usptext": "Hızlı şarj için prize takın\nHızlı şarjda kablo gerekmez\nCihazlarınızın hepsini tek seferde şarj edin",
+          "integration_ean": "8806090285431",
+          "erp_ean": "8806090285431",
+          "integration_category_code": "01050700",
+          "integration_renk": "Gri",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_02",
+          "erp_guc_cikisvoltajimaksnormalsarj": "5 V",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Battery Packs",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_guc_wirelesschargingoutput": "HIZLI ŞARJ (Galaxy/iPhone), Qi, Galaxy Watch",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_02",
+          "erp_genelozellikler_ozellikler": "Kablosuz Şarj çıkışı (Samsung HIZLI ŞARJ, Apple iPhone hızlı kablosuz şarj, Qi, Galaxy Watch), Hızlı Kablolu Şarj Giriş/Çıkışı (SFC/PD/AFC giriş/çıkış maks. 25 W, QC 2.0 çıkışı maks. 18 W)",
+          "erp_model_name": "EB-U3300",
+          "integration_product_subtype_name": "Battery",
+          "erp_fizikselozellikler_boyutlargxyxd": "154 x 72 x 15.3 mm",
+          "erp_guc_girisakimimaksnormalsarj": "3 A",
+          "erp_guc_girisvoltajimakshizlisarj": "9 V, 12 V / PPS : 3,3-5,9 V veya 3,3-11,0 V",
+          "erp_guc_cikisvoltajimakshizlisarj": "9 V, 12 V / PPS : 3,3-5,9 V veya 3,3-11,0 V",
+          "erp_renk": "Gri",
+          "integration_uyum_uyumlumodeller": "HIZLI ŞARJ özelliği Galaxy Fold, Note10, Note10+, S10e, S10, S10+, Note9, S9, S9+, Note8, S8, S8+, S7, S7 Edge, Note 5, S6 Edge+ ve Apple iPhone 11 Pro, 11, XS Max, XS, XR, 8, 8+ ile uyumludur. Galaxy S6, S6 Edge ve Qi sertifikalı cihazlar Qi uyumludur. Galaxy Watch serisi, Gear S3, Gear S SportNote10, Note10+ modelleri Akıllı Saat Şarjı ile uyumludur. HIZLI ŞARJ özelliği Galaxy Fold, Note10, Note10+, S10e, S10, S10+, Note9, S9, S9+, Note8, S8, S8+, S7, S7 Edge, Note 5, S6 Edge+ ve Apple iPhone 11 Pro, 11, XS Max, XS, XR, 8, 8+’in yanı sıra gelecekte piyasaya sürülecek uygun cihazlarla uyumludur. Galaxy S6, S6 Edge ve Qi sertifikalı cihazlar Qi uyumludur. Galaxy Watch serisi, Gear S3, Gear Sport modelleri Akıllı Saat Şarjı ile uyumludur. Süper Hızlı Şarj özelliği Galaxy Note10 lite, S10 lite, Note10+, Note10, S10 5G, A91, A90 5G, A80, A70 ile uyumludur.",
+          "erp_product_subtype_name": "Battery",
+          "integration_product_type_name": "Mobile Accessory",
+          "erp_genelozellikler_ambalajicerigi": "Kablosuz Pil Paketi, USB-C’den USB-C’ye Şarj Kablosu, QSG",
+          "integration_model_name": "EB-U3300",
+          "erp_guc_cikisakimimaksnormalsarj": "3 A",
+          "erp_batarya_kapasite": "10000 mAh"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Gri",
+            "data_type": "dropdown",
+            "label": "Gri"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30291,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2023/01/05/16039/62457047-fdb6-4187-9b45-0e717c6abc0e.jpg",
+            "order": 1,
+            "created_date": "2023-01-05T14:28:51.028530Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30292,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2023/01/05/16072/6e9ee8fc-1129-4904-b5cb-608975fa9013.jpg",
+            "order": 2,
+            "created_date": "2023-01-05T14:28:51.083517Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30289,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2023/01/05/16039/8a932629-f5ef-49f4-9095-88c7d970b114.jpg",
+            "order": 3,
+            "created_date": "2023-01-05T14:28:50.707663Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1499",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "1499",
+        "unit_type": "qty",
+        "absolute_url": "/tr/samsung-10-000-mah-super-hizli-kablosuz-powerbank/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Samsung 10.000 mAh Süper Hızlı Kablosuz Powerbank",
+                    "absolute_url": "/tr/samsung-10-000-mah-super-hizli-kablosuz-powerbank/",
+                    "price": "1499",
+                    "attributes": {
+                      "integration_color_code": "#777777",
+                      "integration_color": "Gri"
+                    },
+                    "pk": 5880,
+                    "retail_price": "1499",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2023/01/05/16039/62457047-fdb6-4187-9b45-0e717c6abc0e.jpg",
+                        "created_date": "2023-01-05T14:28:51.028530Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30291,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2023/01/05/16072/6e9ee8fc-1129-4904-b5cb-608975fa9013.jpg",
+                        "created_date": "2023-01-05T14:28:51.083517Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30292,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2023/01/05/16039/8a932629-f5ef-49f4-9095-88c7d970b114.jpg",
+                        "created_date": "2023-01-05T14:28:50.707663Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30289,
+                        "order": 3
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Gri"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5838,
+        "name": "Galaxy A04e",
+        "sku": "SM-A042FLBKTUR",
+        "base_code": "442964",
+        "attributes": {
+          "integration_baglantilar_bluetoothversiyon": "Bluetooth v5.0",
+          "integration_product_type_code": "PT_CD_MOBILE",
+          "integration_genelozellikler_tip": "Dokunmatik",
+          "integration_kamera_arkakamerafdegericoklu": "F2.2 , F2.4",
+          "integration_baglantilar_lokasyonteknolojisi": "GPS, Glonass, Beidou, Galileo",
+          "integration_hafiza_kullanilabilirhafizagb": "105.4",
+          "erp_sesvevideo_muzikoynatmaformati": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA",
+          "erp_sensorler": "İvme Ölçer, Işık Sensörü, Mesafe Sensörü",
+          "integration_category_code_path": "01000000|01010000|01010400",
+          "erp_baglantilar_bluetoothversiyon": "Bluetooth v5.0",
+          "integration_agsebeke_simboyutu": "Nano SIM",
+          "erp_sesvevideo_videoizlemeformati": "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM",
+          "erp_servislerveuygulamalar_geardestegi": "Galaxy Buds2 Pro, Galaxy Buds Pro, Galaxy Buds Live, Galaxy Buds+, Galaxy Buds2, Galaxy Buds, Galaxy Fit2, Galaxy Fit e, Galaxy Fit, Galaxy Watch5, Galaxy Watch4, Galaxy Watch3, Galaxy Watch, Galaxy Watch Active2, Galaxy Watch Active, Gear Fit2 Pro, Gear Fit2, Gear Sport, Gear S3, Gear S2, Gear IconX (2018)",
+          "erp_hafiza_haricihafizadestegi": "MicroSD (1TB'a kadar)",
+          "erp_agsebeke_simyuvasitipi": "SIM 1 + SIM 2 + MicroSD",
+          "erp_product_type_code": "PT_CD_MOBILE",
+          "erp_baglantilar_pcsenk": "Smart Switch (PC versiyon)",
+          "integration_fizikselozellikler_agirlikgr": "188",
+          "erp_ekran_teknolojianaekran": "PLS LCD",
+          "erp_baglantilar_mhl": "Yok",
+          "erp_color": "Mavi",
+          "product_series": "Galaxy A Serisi",
+          "erp_baglantilar_lokasyonteknolojisi": "GPS, Glonass, Beidou, Galileo",
+          "erp_servislerveuygulamalar_samsungdexdestegi": "Hayır",
+          "integration_ekran_cozunurlukanaekran": "720 x 1600 (HD+)",
+          "erp_kamera_onkameraotomatikodaklama": "Yok",
+          "integration_model_name": "SM-A042F/DS",
+          "erp_batarya_pilkapasitesimahtipik": "5000",
+          "erp_baglantilar_wifi": "802.11 b/g/n 2.4GHz",
+          "integration_sesvevideo_stereodestegi": "Yok",
+          "extra_product_sku": "SC-EKRANKORUMATELT1,SC-SIGORTAPAKETITEL1",
+          "integration_baglantilar_usbversion": "USB 2.0",
+          "integration_hafiza_haricihafizadestegi": "MicroSD (1TB'a kadar)",
+          "integration_baglantilar_mhl": "Yok",
+          "integration_ekran_renkderinligianaekran": "16M",
+          "integration_sensorler": "İvme Ölçer, Işık Sensörü, Mesafe Sensörü",
+          "integration_agsebeke_4gfddlte": "B1(2100), B3(1800), B5(850), B7(2600), B8(900), B20(800), B28(700)",
+          "erp_islemci_cpuhizi": "2.3GHz, 1.8GHz",
+          "erp_kamera_onkameraflas": "Yok",
+          "integration_agsebeke_simyuvasitipi": "SIM 1 + SIM 2 + MicroSD",
+          "erp_kamera_onkamerafdegeri": "F2.2",
+          "erp_category_code_path": "01000000|01010000|01010400",
+          "integration_islemci_cputipi": "Sekiz Çekirdek",
+          "integration_baglantilar_earjack": "3.5mm Stereo",
+          "integration_servislerveuygulamalar_geardestegi": "Galaxy Buds2 Pro, Galaxy Buds Pro, Galaxy Buds Live, Galaxy Buds+, Galaxy Buds2, Galaxy Buds, Galaxy Fit2, Galaxy Fit e, Galaxy Fit, Galaxy Watch5, Galaxy Watch4, Galaxy Watch3, Galaxy Watch, Galaxy Watch Active2, Galaxy Watch Active, Gear Fit2 Pro, Gear Fit2, Gear Sport, Gear S3, Gear S2, Gear IconX (2018)",
+          "integration_product_subtype_name": "Smartphone",
+          "integration_ekran_boyutanaekran": "165.5mm (6.5\")",
+          "integration_color_code": "#a7c6ed",
+          "erp_baglantilar_usbversion": "USB 2.0",
+          "erp_agsebeke_3gumts": "B1(2100), B5(850), B8(900)",
+          "mp_on_kamera_sayisi": "1",
+          "erp_kamera_onkameracozunurluk": "5.0 MP",
+          "integration_hafiza_ramboyutugb": "4",
+          "erp_fizikselozellikler_agirlikgr": "188",
+          "erp_sesvevideo_stereodestegi": "Yok",
+          "erp_fizikselozellikler_boyutlaryxgxdmm": "164.2 x 75.9 x 9.1",
+          "erp_product_subtype_code": "PT_CD_MOBILE_01",
+          "erp_product_subtype_name": "Smartphone",
+          "erp_ekran_boyutanaekran": "165.5mm (6.5\")",
+          "erp_agsebeke_infra": "2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD",
+          "erp_baglantilar_wifidirect": "Evet",
+          "integration_baglantilar_usbarabirim": "USB Type-C",
+          "erp_batarya_cikarilabilir": "Hayır",
+          "erp_servislerveuygulamalar_mobiletv": "Hayır",
+          "integration_fizikselozellikler_boyutlaryxgxdmm": "164.2 x 75.9 x 9.1",
+          "integration_usptext": "Sekiz Çekirdekli İşlemci\nRam Plus ile daha fazla RAM\n5000 Mah Batarya ve Adaptif Güç tasarrufu",
+          "integration_ekran_teknolojianaekran": "PLS LCD",
+          "erp_product_type_name": "Mobile",
+          "integration_agsebeke_4gtddlte": "B38(2600), B40(2300), B41(2500)",
+          "integration_servislerveuygulamalar_mobiletv": "Hayır",
+          "integration_servislerveuygulamalar_samsungdexdestegi": "Hayır",
+          "mp_kargo_suresi": "3",
+          "integration_color": "Mavi",
+          "integration_kamera_arkakameraflas": "Var",
+          "erp_category_name_path": "Mobil|Akıllı Telefonlar|Galaxy A",
+          "erp_kamera_arkakameraotomatikodaklama": "Var",
+          "erp_hafiza_romboyutugb": "128",
+          "integration_kamera_arkakameracozunurlukcoklu": "13.0 MP + 2.0 MP",
+          "integration_category_code": "01010400",
+          "purchase_limit_per_basket": "1",
+          "marketing-name": "G-A04E",
+          "erp_kamera_videokayitcozunurlugu": "FHD (1920 x 1080)@30fps",
+          "integration_agsebeke_2ggsm": "GSM850, GSM900, DCS1800",
+          "integration_sesvevideo_videooynatmacozunurlugu": "FHD (1920 x 1080)@30fps",
+          "integration_categoryenglishnamepath": "Mobile|Smartphones|Galaxy A",
+          "erp_islemci_cputipi": "Sekiz Çekirdek",
+          "erp_agsebeke_simsayisi": "Çift SIM",
+          "integration_kamera_onkameraotomatikodaklama": "Yok",
+          "integration_batarya_pilkapasitesimahtipik": "5000",
+          "integration_kamera_onkameracozunurluk": "5.0 MP",
+          "integration_kamera_arkakameraotomatikodaklama": "Var",
+          "erp_hafiza_kullanilabilirhafizagb": "105.4",
+          "mp_ekran_boyutu": "6.6 İnç",
+          "integration_product_type_name": "Mobile",
+          "erp_ekran_renkderinligianaekran": "16M",
+          "erp_is": "Android",
+          "erp_kamera_arkakamerazoom": "Digital Zoom 10x'e kadar",
+          "integration_baglantilar_wifi": "802.11 b/g/n 2.4GHz",
+          "integration_sesvevideo_videoizlemeformati": "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM",
+          "erp_kamera_arkakameracozunurlukcoklu": "13.0 MP + 2.0 MP",
+          "erp_agsebeke_4gfddlte": "B1(2100), B3(1800), B5(850), B7(2600), B8(900), B20(800), B28(700)",
+          "erp_categoryenglishnamepath": "Mobile|Smartphones|Galaxy A",
+          "erp_color_code": "#a7c6ed",
+          "erp_usptext": "Sekiz Çekirdekli İşlemci\nRam Plus ile daha fazla RAM\n5000 Mah Batarya ve Adaptif Güç tasarrufu",
+          "erp_category_code": "01010400",
+          "integration_batarya_cikarilabilir": "Hayır",
+          "erp_baglantilar_usbarabirim": "USB Type-C",
+          "App_extra_product_sku": "SC-EKRANKORUMATELT1,SC-SIGORTAPAKETITEL1",
+          "integration_kamera_onkamerafdegeri": "F2.2",
+          "integration_agsebeke_simsayisi": "Çift SIM",
+          "integration_category_name_path": "Mobil|Akıllı Telefonlar|Galaxy A",
+          "integration_kamera_arkakameraoptikgoruntusabitleyici": "Yok",
+          "erp_ean": "8806094797855",
+          "tradable_item_product_sku": "tradein_satilamaz_urun_sku_1",
+          "erp_baglantilar_earjack": "3.5mm Stereo",
+          "erp_model_name": "SM-A042F/DS",
+          "integration_agsebeke_infra": "2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD",
+          "drk_name": "Samsung Galaxy A04e 128 GB Mavi",
+          "integration_hafiza_romboyutugb": "128",
+          "integration_ean": "8806094797855",
+          "integration_agsebeke_3gumts": "B1(2100), B5(850), B8(900)",
+          "erp_agsebeke_4gtddlte": "B38(2600), B40(2300), B41(2500)",
+          "erp_kamera_arkakameraoptikgoruntusabitleyici": "Yok",
+          "erp_genelozellikler_tip": "Dokunmatik",
+          "erp_kamera_onkameraoptikgoruntusabitleyici": "Yok",
+          "ykbkredilisatis": "Evet",
+          "integration_kamera_arkakameracozunurluk": "13.0 MP",
+          "integration_is": "Android",
+          "erp_agsebeke_2ggsm": "GSM850, GSM900, DCS1800",
+          "integration_product_subtype_code": "PT_CD_MOBILE_01",
+          "integration_sesvevideo_muzikoynatmaformati": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA",
+          "mp_hb_kargo": "3",
+          "integration_kamera_arkakamerazoom": "Digital Zoom 10x'e kadar",
+          "erp_hafiza_ramboyutugb": "4",
+          "erp_ekran_cozunurlukanaekran": "720 x 1600 (HD+)",
+          "erp_agsebeke_simboyutu": "Nano SIM",
+          "integration_islemci_cpuhizi": "2.3GHz, 1.8GHz",
+          "erp_kamera_arkakameraflas": "Var",
+          "erp_sesvevideo_videooynatmacozunurlugu": "FHD (1920 x 1080)@30fps",
+          "erp_kamera_arkakamerafdegericoklu": "F2.2 , F2.4",
+          "product_kind": "phone",
+          "integration_baglantilar_pcsenk": "Smart Switch (PC versiyon)"
+        },
+        "attribute_set": 6,
+        "attributes_kwargs": {
+          "integration_batarya_cikarilabilir": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_hafiza_haricihafizadestegi": {
+            "value": "MicroSD (1TB'a kadar)",
+            "data_type": "dropdown",
+            "label": "MicroSD (1TB'a kadar)"
+          },
+          "mp_ekran_boyutu": {
+            "value": "6.6 İnç",
+            "data_type": "dropdown",
+            "label": "6.6 İnç"
+          },
+          "integration_servislerveuygulamalar_mobiletv": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_kamera_onkamerafdegeri": {
+            "value": "F2.2",
+            "data_type": "dropdown",
+            "label": "F2.2"
+          },
+          "integration_agsebeke_simsayisi": {
+            "value": "Çift SIM",
+            "data_type": "dropdown",
+            "label": "Çift SIM"
+          },
+          "integration_baglantilar_mhl": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_kamera_arkakameraoptikgoruntusabitleyici": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_servislerveuygulamalar_samsungdexdestegi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_color": {
+            "value": "Mavi",
+            "data_type": "dropdown",
+            "label": "Mavi"
+          },
+          "integration_kamera_arkakameraflas": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_hafiza_romboyutugb": {
+            "value": "128",
+            "data_type": "dropdown",
+            "label": "128 GB"
+          },
+          "integration_agsebeke_simboyutu": {
+            "value": "Nano SIM",
+            "data_type": "dropdown",
+            "label": "Nano SIM"
+          },
+          "integration_kamera_arkakameracozunurlukcoklu": {
+            "value": "13.0 MP + 2.0 MP",
+            "data_type": "dropdown",
+            "label": "13.0 MP + 2.0 MP"
+          },
+          "integration_ekran_boyutanaekran": {
+            "value": "165.5mm (6.5\")",
+            "data_type": "dropdown",
+            "label": "6.5\""
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_kamera_arkakameracozunurluk": {
+            "value": "13.0 MP",
+            "data_type": "dropdown",
+            "label": "13.0 MP"
+          },
+          "integration_hafiza_ramboyutugb": {
+            "value": "4",
+            "data_type": "dropdown",
+            "label": "4 GB"
+          },
+          "integration_batarya_pilkapasitesimahtipik": {
+            "value": "5000",
+            "data_type": "dropdown",
+            "label": "5000"
+          },
+          "integration_kamera_onkameracozunurluk": {
+            "value": "5.0 MP",
+            "data_type": "dropdown",
+            "label": "5.0 MP"
+          },
+          "integration_kamera_arkakameraotomatikodaklama": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_kamera_onkameraotomatikodaklama": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "product_series": {
+            "value": "Galaxy A Serisi",
+            "data_type": "dropdown",
+            "label": "Galaxy A Serisi"
+          },
+          "integration_ekran_cozunurlukanaekran": {
+            "value": "720 x 1600 (HD+)",
+            "data_type": "dropdown",
+            "label": "720 x 1600 (HD+)"
+          },
+          "integration_sesvevideo_stereodestegi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30153,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/d7d76bfc-58c5-4e66-a07e-57adc9858885.jpg",
+            "order": 1,
+            "created_date": "2022-12-15T07:24:23.837303Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30154,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/7c4f7f0a-a8d9-47fa-91ea-f02db7c7b8ce.jpg",
+            "order": 2,
+            "created_date": "2022-12-15T07:24:24.013148Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30155,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/5cda6c7a-71d3-4bed-a44d-7a7c63d90e0f.jpg",
+            "order": 3,
+            "created_date": "2022-12-15T07:24:24.070578Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30156,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/ed80dd1a-dca4-463c-b47e-358338af6033.jpg",
+            "order": 4,
+            "created_date": "2022-12-15T07:24:24.120091Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30157,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/cd199dac-fc5e-4c2d-a6a7-fb1f0c2aeb16.jpg",
+            "order": 5,
+            "created_date": "2022-12-15T07:24:24.166833Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30158,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/8818f8ad-3d57-4fe7-95ac-0e8b1afa65b0.jpg",
+            "order": 6,
+            "created_date": "2022-12-15T07:24:24.222762Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30159,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/4783fc8d-6a84-4f79-8195-fb13a886d46b.jpg",
+            "order": 7,
+            "created_date": "2022-12-15T07:24:24.281689Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30160,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/7dc23e9f-c90e-405a-a8af-594478fc557e.jpg",
+            "order": 8,
+            "created_date": "2022-12-15T07:24:24.323609Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30161,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/b0980648-1ecd-4a98-a5cf-b59cc09d0e79.jpg",
+            "order": 9,
+            "created_date": "2022-12-15T07:24:24.379094Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "4399",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "4399",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-a04e/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 719,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy A04e",
+                    "absolute_url": "/tr/galaxy-a04e/",
+                    "price": "4399",
+                    "attributes": {
+                      "integration_color_code": "#a7c6ed",
+                      "integration_hafiza_romboyutugb": "128",
+                      "integration_color": "Mavi"
+                    },
+                    "pk": 5838,
+                    "retail_price": "4399",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/d7d76bfc-58c5-4e66-a07e-57adc9858885.jpg",
+                        "created_date": "2022-12-15T07:24:23.837303Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30153,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/7c4f7f0a-a8d9-47fa-91ea-f02db7c7b8ce.jpg",
+                        "created_date": "2022-12-15T07:24:24.013148Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30154,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/5cda6c7a-71d3-4bed-a44d-7a7c63d90e0f.jpg",
+                        "created_date": "2022-12-15T07:24:24.070578Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30155,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/ed80dd1a-dca4-463c-b47e-358338af6033.jpg",
+                        "created_date": "2022-12-15T07:24:24.120091Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30156,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/cd199dac-fc5e-4c2d-a6a7-fb1f0c2aeb16.jpg",
+                        "created_date": "2022-12-15T07:24:24.166833Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30157,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/8818f8ad-3d57-4fe7-95ac-0e8b1afa65b0.jpg",
+                        "created_date": "2022-12-15T07:24:24.222762Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30158,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/4783fc8d-6a84-4f79-8195-fb13a886d46b.jpg",
+                        "created_date": "2022-12-15T07:24:24.281689Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30159,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/7dc23e9f-c90e-405a-a8af-594478fc557e.jpg",
+                        "created_date": "2022-12-15T07:24:24.323609Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30160,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/b0980648-1ecd-4a98-a5cf-b59cc09d0e79.jpg",
+                        "created_date": "2022-12-15T07:24:24.379094Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30161,
+                        "order": 9
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Mavi"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy A04e",
+                    "absolute_url": "/tr/galaxy-a04e-1/",
+                    "price": "4399",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_hafiza_romboyutugb": "128",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5840,
+                    "retail_price": "4399",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15914/6fb8d0cf-82ce-4828-8407-2a3ff09eb885.jpg",
+                        "created_date": "2022-12-15T07:24:22.515290Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30135,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15914/eded8434-0aa6-4ce6-93cc-eadc6755f30d.jpg",
+                        "created_date": "2022-12-15T07:24:22.690988Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30136,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15914/620f3bc3-b5b2-43ea-abe8-1ec28a8f51c9.jpg",
+                        "created_date": "2022-12-15T07:24:22.736726Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30137,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15914/bf6d0e2c-58b2-41c4-8c67-8e707b3dca1b.jpg",
+                        "created_date": "2022-12-15T07:24:22.841112Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30139,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15914/9561dfc6-6ab4-4b1a-bc67-f292d3844c33.jpg",
+                        "created_date": "2022-12-15T07:24:22.900650Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30140,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15914/099c9221-97e9-4884-818a-a1e63d71bf04.jpg",
+                        "created_date": "2022-12-15T07:24:22.947249Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30141,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15914/3bbcf9e2-354c-4b7a-9d41-805514c9c798.jpg",
+                        "created_date": "2022-12-15T07:24:22.996604Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30142,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15914/5104f1ec-5c9d-472b-adb1-1d3b9b574aa5.jpg",
+                        "created_date": "2022-12-15T07:24:23.080404Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30143,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15914/6d89a25c-3706-4b5d-b15d-a2459233e64c.jpg",
+                        "created_date": "2022-12-15T07:24:22.798215Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30138,
+                        "order": 9
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy A04e",
+                    "absolute_url": "/tr/galaxy-a04e-2/",
+                    "price": "4399",
+                    "attributes": {
+                      "integration_color_code": "#ba8e72",
+                      "integration_hafiza_romboyutugb": "128",
+                      "integration_color": "Bakır"
+                    },
+                    "pk": 5839,
+                    "retail_price": "4399",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15913/1b11987a-a511-4227-9e5d-1bc35f3dc425.jpg",
+                        "created_date": "2022-12-15T07:24:23.142063Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30144,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15913/eeac78c2-13f2-4e4c-9a50-34221f323d4c.jpg",
+                        "created_date": "2022-12-15T07:24:23.398463Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30145,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15913/1c07d7d8-f311-4dd1-b2d6-799189fe4bfb.jpg",
+                        "created_date": "2022-12-15T07:24:23.447025Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30146,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15913/eebeec71-1f90-4a33-8ad5-61d237f0a970.jpg",
+                        "created_date": "2022-12-15T07:24:23.509896Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30147,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15913/b5eb55f0-c25c-430d-83e0-d6048ab17ec4.jpg",
+                        "created_date": "2022-12-15T07:24:23.575041Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30148,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15913/c491574e-31dd-4077-83e5-63ef2e97051f.jpg",
+                        "created_date": "2022-12-15T07:24:23.675558Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30150,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15913/05468ab5-ca4d-4760-85d2-60d77459a0e9.jpg",
+                        "created_date": "2022-12-15T07:24:23.788799Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30152,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15913/98a9e824-9ea7-44c2-9cad-77033ac22b0e.jpg",
+                        "created_date": "2022-12-15T07:24:23.619927Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30149,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15913/8033d605-b4d6-4416-b11f-46b9d5ea4ac7.jpg",
+                        "created_date": "2022-12-15T07:24:23.734308Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30151,
+                        "order": 9
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Bakır"
+                }
+              ]
+            },
+            {
+              "attribute_key": "integration_hafiza_romboyutugb",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy A04e",
+                    "absolute_url": "/tr/galaxy-a04e/",
+                    "price": "4399",
+                    "attributes": {
+                      "integration_color_code": "#a7c6ed",
+                      "integration_hafiza_romboyutugb": "128",
+                      "integration_color": "Mavi"
+                    },
+                    "pk": 5838,
+                    "retail_price": "4399",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/d7d76bfc-58c5-4e66-a07e-57adc9858885.jpg",
+                        "created_date": "2022-12-15T07:24:23.837303Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30153,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/7c4f7f0a-a8d9-47fa-91ea-f02db7c7b8ce.jpg",
+                        "created_date": "2022-12-15T07:24:24.013148Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30154,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/5cda6c7a-71d3-4bed-a44d-7a7c63d90e0f.jpg",
+                        "created_date": "2022-12-15T07:24:24.070578Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30155,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/ed80dd1a-dca4-463c-b47e-358338af6033.jpg",
+                        "created_date": "2022-12-15T07:24:24.120091Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30156,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/cd199dac-fc5e-4c2d-a6a7-fb1f0c2aeb16.jpg",
+                        "created_date": "2022-12-15T07:24:24.166833Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30157,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/8818f8ad-3d57-4fe7-95ac-0e8b1afa65b0.jpg",
+                        "created_date": "2022-12-15T07:24:24.222762Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30158,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/4783fc8d-6a84-4f79-8195-fb13a886d46b.jpg",
+                        "created_date": "2022-12-15T07:24:24.281689Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30159,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/7dc23e9f-c90e-405a-a8af-594478fc557e.jpg",
+                        "created_date": "2022-12-15T07:24:24.323609Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30160,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/15/15912/b0980648-1ecd-4a98-a5cf-b59cc09d0e79.jpg",
+                        "created_date": "2022-12-15T07:24:24.379094Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30161,
+                        "order": 9
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "128 GB"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5836,
+        "name": "65W Üçlü Güç Adaptörü Trio",
+        "sku": "EP-T6530NBEGWW",
+        "base_code": "420848",
+        "attributes": {
+          "integration_usptext": "Aynı anda 3 cihazı birden şarj edin. \nHız, istikrar ve güç ile şarj edin.\nEvrensel Uyumluluk",
+          "erp_color_code": "#000000",
+          "erp_star_grade": "5",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050800",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_color": "Siyah",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "155 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Adaptors and Cables",
+          "drk_name": "Samsung 65W Üçlü Güç Adaptörü Trio Siyah",
+          "erp_genelozellikler_arabirim": "USB-C x2, USB-A",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "01000000|01050000|01050800",
+          "erp_category_code_path": "01000000|01050000|01050800",
+          "erp_guc_cikisakimimakshizlisarj": "(USB-C1, PDO) 3 A(9 V), 3 A(15 V), 3.25 A(20 V) / (USB-C1, PPS) 3.5 A(5.0-11.0 V), 2.8 A(5.0-16.0 V), 2.25 A(5.0-20.0 V) / (USB-C2, PDO) 2.77 A(9 V) / (USB-C2, PPS) 3.0 A(5.0-5.9 V), 2.25 A(5.0-11.0 V) / (USB-A) 1.67 A(9 V)",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Adaptors and Cables",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Adaptors and Cables",
+          "erp_usptext": "Aynı anda 3 cihazı birden şarj edin. \nHız, istikrar ve güç ile şarj edin.\nEvrensel Uyumluluk",
+          "erp_guc_girisgerilimi": "100-240 V",
+          "integration_ean": "8806092669987",
+          "erp_ean": "8806092669987",
+          "integration_category_code": "01050800",
+          "integration_renk": "Siyah",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "erp_guc_cikisvoltajimaksnormalsarj": "5 V",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Adaptors and Cables",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_45",
+          "erp_genelozellikler_ozellikler": "(USB-C1) Süper Hızlı Şarj 2.0 maks. 45 W, PD 3.0 PDO maks. 65 W, PPS maks. 45 W / (USB-C2) Süper Hızlı Şarj maks. 25 W, PD 3.0 PDO,PPS maks. 25 W / (USB-A) AFC,QC maks. 15 W / (C1+C2) 40 W + 25 W / (C1+A) 50 W + 15 W / (C2+A) 25 W + 15 W / (tümü) 35 W + 25 W + 5 W",
+          "erp_model_name": "EP-T6530",
+          "integration_product_subtype_name": "Power",
+          "erp_fizikselozellikler_boyutlargxyxd": "52 x 30 x 108.3 mm",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_45",
+          "erp_guc_cikisvoltajimakshizlisarj": "(USB-C1, PDO) 9 V, 15 V, 20 V / (USB-C1, PPS) 5.0-20.0 V / (USB-C2, PDO) 9 V / (USB-C2, PPS) 5.0-11.0 V / (USB-A) 9 V",
+          "erp_renk": "Siyah",
+          "erp_product_subtype_name": "Power",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_genelozellikler_ambalajicerigi": "Güç Adaptörü, Hızlı Başlangıç Kılavuzu",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "EP-T6530",
+          "erp_guc_cikisakimimaksnormalsarj": "3 A"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30125,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14921/7131b9c7-9775-46fe-8fe0-7f860cfea1fc.jpg",
+            "order": 1,
+            "created_date": "2022-12-12T12:20:31.426171Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30126,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14921/0b9d2bb4-2089-40ce-a1b9-0f7a52b2c154.jpg",
+            "order": 2,
+            "created_date": "2022-12-12T12:20:31.594612Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30127,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14921/370fb0d1-9b11-4aae-8604-b5dd036ed15a.jpg",
+            "order": 3,
+            "created_date": "2022-12-12T12:20:31.639950Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30128,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14921/65ff6a8a-c8fa-44ad-a3f5-e40474019771.jpg",
+            "order": 4,
+            "created_date": "2022-12-12T12:20:31.695313Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30129,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14921/0f693ef5-702e-431a-8f84-2fd96d7731b6.jpg",
+            "order": 5,
+            "created_date": "2022-12-12T12:20:31.747785Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1499",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "1499",
+        "unit_type": "qty",
+        "absolute_url": "/tr/65w-uclu-guc-adaptoru-trio/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 46,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "65W Üçlü Güç Adaptörü Trio",
+                    "absolute_url": "/tr/65w-uclu-guc-adaptoru-trio/",
+                    "price": "1499",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5836,
+                    "retail_price": "1499",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14921/7131b9c7-9775-46fe-8fe0-7f860cfea1fc.jpg",
+                        "created_date": "2022-12-12T12:20:31.426171Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30125,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14921/0b9d2bb4-2089-40ce-a1b9-0f7a52b2c154.jpg",
+                        "created_date": "2022-12-12T12:20:31.594612Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30126,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14921/370fb0d1-9b11-4aae-8604-b5dd036ed15a.jpg",
+                        "created_date": "2022-12-12T12:20:31.639950Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30127,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14921/65ff6a8a-c8fa-44ad-a3f5-e40474019771.jpg",
+                        "created_date": "2022-12-12T12:20:31.695313Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30128,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14921/0f693ef5-702e-431a-8f84-2fd96d7731b6.jpg",
+                        "created_date": "2022-12-12T12:20:31.747785Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30129,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5832,
+        "name": "Galaxy S22+ Akıllı LED Ekranlı Kılıf",
+        "sku": "EF-NS906PBEGWW",
+        "base_code": "41490",
+        "attributes": {
+          "integration_usptext": "Telefon kılıfınız dünyayı kurtarmanıza nasıl yardımcı olabilir\nParlak kapak ışıkları\nTüm içerikleriniz bir arada",
+          "erp_color_code": "#404145",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050100",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy S22 +",
+          "erp_color": "Siyah",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "88.4 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "drk_name": "Samsung Galaxy S22+ Akıllı LED Ekranlı Kılıf Siyah",
+          "integration_color_code": "#404145",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "01000000|01050000|01050100",
+          "erp_category_code_path": "01000000|01050000|01050100",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_usptext": "Telefon kılıfınız dünyayı kurtarmanıza nasıl yardımcı olabilir\nParlak kapak ışıkları\nTüm içerikleriniz bir arada",
+          "integration_ean": "8806092985018",
+          "erp_ean": "8806092985018",
+          "integration_category_code": "01050100",
+          "integration_renk": "Siyah",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_model_name": "EF-NS906",
+          "integration_product_subtype_name": "Case",
+          "erp_fizikselozellikler_boyutlargxyxd": "82.03 x 161.3 x 14.7 mm",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_renk": "Siyah",
+          "integration_uyum_uyumlumodeller": "Galaxy S22 +",
+          "erp_product_subtype_name": "Case",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "EF-NS906"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30092,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12604/7b092bb0-6f26-4a8b-a859-5c6bf3862dbc.jpg",
+            "order": 1,
+            "created_date": "2022-12-12T08:25:45.378953Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30094,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12604/48ab1b6b-85e2-45b6-b380-49062390dcf2.jpg",
+            "order": 2,
+            "created_date": "2022-12-12T08:25:45.539856Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30097,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12604/cf0acb22-b1c8-4b63-8be2-b56384062bc0.jpg",
+            "order": 3,
+            "created_date": "2022-12-12T08:25:45.687918Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30090,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12604/6cb2909d-843f-498c-9693-de7a5b9e238f.jpg",
+            "order": 4,
+            "created_date": "2022-12-12T08:25:45.117794Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30098,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12604/d4323c89-f244-4510-8e43-e370be082ed1.jpg",
+            "order": 5,
+            "created_date": "2022-12-12T08:25:45.745899Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1499",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "1499",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-s22-akilli-led-ekranli-kilif-6/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy S22+ Akıllı LED Ekranlı Kılıf",
+                    "absolute_url": "/tr/galaxy-s22-akilli-led-ekranli-kilif-6/",
+                    "price": "1499",
+                    "attributes": {
+                      "integration_color_code": "#404145",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5832,
+                    "retail_price": "1499",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12604/7b092bb0-6f26-4a8b-a859-5c6bf3862dbc.jpg",
+                        "created_date": "2022-12-12T08:25:45.378953Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30092,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12604/48ab1b6b-85e2-45b6-b380-49062390dcf2.jpg",
+                        "created_date": "2022-12-12T08:25:45.539856Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30094,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12604/cf0acb22-b1c8-4b63-8be2-b56384062bc0.jpg",
+                        "created_date": "2022-12-12T08:25:45.687918Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30097,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12604/6cb2909d-843f-498c-9693-de7a5b9e238f.jpg",
+                        "created_date": "2022-12-12T08:25:45.117794Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30090,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12604/d4323c89-f244-4510-8e43-e370be082ed1.jpg",
+                        "created_date": "2022-12-12T08:25:45.745899Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30098,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5830,
+        "name": "Galaxy S22+ Akıllı LED Ekranlı Kılıf",
+        "sku": "EF-NS906PJEGWW",
+        "base_code": "414901",
+        "attributes": {
+          "integration_usptext": "Telefon kılıfınız dünyayı kurtarmanıza nasıl yardımcı olabilir\nParlak kapak ışıkları\nTüm içerikleriniz bir arada",
+          "erp_color_code": "#c7c8ca",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050100",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy S22 +",
+          "erp_color": "Gri",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "88.4 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "drk_name": "Samsung Galaxy S22+ Akıllı LED Ekranlı Kılıf Gri",
+          "integration_color_code": "#c7c8ca",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Gri",
+          "integration_category_code_path": "01000000|01050000|01050100",
+          "erp_category_code_path": "01000000|01050000|01050100",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_usptext": "Telefon kılıfınız dünyayı kurtarmanıza nasıl yardımcı olabilir\nParlak kapak ışıkları\nTüm içerikleriniz bir arada",
+          "integration_ean": "8806092985001",
+          "erp_ean": "8806092985001",
+          "integration_category_code": "01050100",
+          "integration_renk": "Gri",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_model_name": "EF-NS906",
+          "integration_product_subtype_name": "Case",
+          "erp_fizikselozellikler_boyutlargxyxd": "82.03 x 161.3 x 14.7 mm",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_renk": "Gri",
+          "integration_uyum_uyumlumodeller": "Galaxy S22 +",
+          "erp_product_subtype_name": "Case",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "EF-NS906"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Gri",
+            "data_type": "dropdown",
+            "label": "Gri"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30101,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12606/624294ae-1108-4264-8207-107c008d1cd8.jpg",
+            "order": 1,
+            "created_date": "2022-12-12T08:25:45.891652Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30102,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12606/168139ab-4bf6-4ea6-8ff8-7850cec4cff6.jpg",
+            "order": 2,
+            "created_date": "2022-12-12T08:25:45.938837Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30091,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12606/900c8126-a6ce-43f4-a87b-543feffdc1c2.jpg",
+            "order": 3,
+            "created_date": "2022-12-12T08:25:45.231704Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30103,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12606/933f8b0f-715a-4986-8167-ec1b0c66e429.jpg",
+            "order": 4,
+            "created_date": "2022-12-12T08:25:45.992656Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30104,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12606/1d891e6e-2d67-4302-9fdb-6827e1bf70a2.jpg",
+            "order": 5,
+            "created_date": "2022-12-12T08:25:46.045985Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1499",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "1499",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-s22-akilli-led-ekranli-kilif-5/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 8,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy S22+ Akıllı LED Ekranlı Kılıf",
+                    "absolute_url": "/tr/galaxy-s22-akilli-led-ekranli-kilif-5/",
+                    "price": "1499",
+                    "attributes": {
+                      "integration_color_code": "#c7c8ca",
+                      "integration_color": "Gri"
+                    },
+                    "pk": 5830,
+                    "retail_price": "1499",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12606/624294ae-1108-4264-8207-107c008d1cd8.jpg",
+                        "created_date": "2022-12-12T08:25:45.891652Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30101,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12606/168139ab-4bf6-4ea6-8ff8-7850cec4cff6.jpg",
+                        "created_date": "2022-12-12T08:25:45.938837Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30102,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12606/900c8126-a6ce-43f4-a87b-543feffdc1c2.jpg",
+                        "created_date": "2022-12-12T08:25:45.231704Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30091,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12606/933f8b0f-715a-4986-8167-ec1b0c66e429.jpg",
+                        "created_date": "2022-12-12T08:25:45.992656Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30103,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12606/1d891e6e-2d67-4302-9fdb-6827e1bf70a2.jpg",
+                        "created_date": "2022-12-12T08:25:46.045985Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30104,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Gri"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5829,
+        "name": "Galaxy S22 Akıllı LED Ekranlı Kılıf",
+        "sku": "EF-NS901PJEGWW",
+        "base_code": "414898",
+        "attributes": {
+          "integration_usptext": "Telefon kılıfınız dünyayı kurtarmanıza nasıl yardımcı olabilir\nParlak kapak ışıkları\nTüm içerikleriniz bir arada",
+          "erp_color_code": "#c7c8ca",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050100",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy S22",
+          "erp_color": "Gri",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "76.7 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "drk_name": "Samsung Galaxy S22 Akıllı LED Ekranlı Kılıf Gri",
+          "integration_color_code": "#c7c8ca",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Gri",
+          "integration_category_code_path": "01000000|01050000|01050100",
+          "erp_category_code_path": "01000000|01050000|01050100",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_usptext": "Telefon kılıfınız dünyayı kurtarmanıza nasıl yardımcı olabilir\nParlak kapak ışıkları\nTüm içerikleriniz bir arada",
+          "integration_ean": "8806092985025",
+          "erp_ean": "8806092985025",
+          "integration_category_code": "01050100",
+          "integration_renk": "Gri",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_model_name": "EF-NS901",
+          "integration_product_subtype_name": "Case",
+          "erp_fizikselozellikler_boyutlargxyxd": "76.2 X 149.43 X 14.7 mm",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_renk": "Gri",
+          "integration_uyum_uyumlumodeller": "Galaxy S22",
+          "erp_product_subtype_name": "Case",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "EF-NS901"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Gri",
+            "data_type": "dropdown",
+            "label": "Gri"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30087,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12584/3be227f1-68cc-4355-a477-2d8093cc3b75.jpg",
+            "order": 1,
+            "created_date": "2022-12-12T08:25:44.949057Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30085,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12584/a0b1fa09-cd9d-495f-8264-5c8a6443cc4b.jpg",
+            "order": 2,
+            "created_date": "2022-12-12T08:25:44.759308Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30088,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12584/132ca711-0fe5-4d8c-8584-3e5601a6f845.jpg",
+            "order": 3,
+            "created_date": "2022-12-12T08:25:45.012491Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30089,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12584/c95806eb-936b-4fb3-8319-3d41512b89d5.jpg",
+            "order": 4,
+            "created_date": "2022-12-12T08:25:45.074439Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30086,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12681/c340fd80-daae-4df4-878d-92b6f682fecb.jpg",
+            "order": 5,
+            "created_date": "2022-12-12T08:25:44.893604Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1499",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "1499",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-s22-akilli-led-ekranli-kilif/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 5,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy S22 Akıllı LED Ekranlı Kılıf",
+                    "absolute_url": "/tr/galaxy-s22-akilli-led-ekranli-kilif-7/",
+                    "price": "1499",
+                    "attributes": {
+                      "integration_color_code": "#404145",
+                      "integration_color": "siyah"
+                    },
+                    "pk": 5833,
+                    "retail_price": "1499",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12583/b50d2a02-9171-48c8-bcb4-5f21daa65436.jpg",
+                        "created_date": "2022-12-12T08:25:44.433428Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30080,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12583/257d54d4-d30c-46c6-9b49-d0bd31269bed.jpg",
+                        "created_date": "2022-12-12T08:25:44.558560Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30081,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12583/0663449c-f322-43a8-9f41-57abdb23696d.jpg",
+                        "created_date": "2022-12-12T08:25:44.610524Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30082,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12583/e1b041d9-e6fe-4c97-96b1-eda897ae7029.jpg",
+                        "created_date": "2022-12-12T08:25:44.666120Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30083,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12583/f208301b-2982-40f8-94f5-83383256d896.jpg",
+                        "created_date": "2022-12-12T08:25:44.711709Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30084,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "siyah"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy S22 Akıllı LED Ekranlı Kılıf",
+                    "absolute_url": "/tr/galaxy-s22-akilli-led-ekranli-kilif/",
+                    "price": "1499",
+                    "attributes": {
+                      "integration_color_code": "#c7c8ca",
+                      "integration_color": "Gri"
+                    },
+                    "pk": 5829,
+                    "retail_price": "1499",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12584/3be227f1-68cc-4355-a477-2d8093cc3b75.jpg",
+                        "created_date": "2022-12-12T08:25:44.949057Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30087,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12584/a0b1fa09-cd9d-495f-8264-5c8a6443cc4b.jpg",
+                        "created_date": "2022-12-12T08:25:44.759308Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30085,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12584/132ca711-0fe5-4d8c-8584-3e5601a6f845.jpg",
+                        "created_date": "2022-12-12T08:25:45.012491Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30088,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12584/c95806eb-936b-4fb3-8319-3d41512b89d5.jpg",
+                        "created_date": "2022-12-12T08:25:45.074439Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30089,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/03/01/12681/c340fd80-daae-4df4-878d-92b6f682fecb.jpg",
+                        "created_date": "2022-12-12T08:25:44.893604Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30086,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Gri"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5828,
+        "name": "Galaxy A73 5G Silikon Kılıf",
+        "sku": "EF-PA736TLEGWW",
+        "base_code": "420872",
+        "attributes": {
+          "integration_fizikselozellikler_boyutlargxyxd": "78.8 x 166.4 x 11.4 mm",
+          "integration_usptext": "Telefonlarımızı korurken galaksimizi kurtaralım\nİnce form, mükemmel koruma\nTamamen kusursuz ve şık",
+          "erp_color_code": "#a7c6ed",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050100",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy A73 5G",
+          "erp_color": "Kutup Mavisi",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "25 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "drk_name": "Samsung Galaxy A73 Silikon Kılıf  Mavi",
+          "integration_color_code": "#a7c6ed",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Kutup Mavisi",
+          "integration_category_code_path": "01000000|01050000|01050100",
+          "erp_category_code_path": "01000000|01050000|01050100",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_usptext": "Telefonlarımızı korurken galaksimizi kurtaralım\nİnce form, mükemmel koruma\nTamamen kusursuz ve şık",
+          "integration_ean": "8806094330717",
+          "erp_ean": "8806094330717",
+          "integration_category_code": "01050100",
+          "integration_renk": "Kutup Mavisi",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_model_name": "EF-PA736",
+          "integration_product_subtype_name": "Case",
+          "integration_tipi": "Silikon Kılıf",
+          "erp_fizikselozellikler_boyutlargxyxd": "78.8 x 166.4 x 11.4 mm",
+          "integration_fizikselozellikler_agirlik": "25 g",
+          "erp_tipi": "Silikon Kılıf",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_renk": "Kutup Mavisi",
+          "integration_uyum_uyumlumodeller": "Galaxy A73 5G",
+          "erp_product_subtype_name": "Case",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "EF-PA736"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Kutup Mavisi",
+            "data_type": "dropdown",
+            "label": "Kutup Mavisi"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30065,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13833/c78fe747-7d46-4604-84ec-5717c1acde30.jpg",
+            "order": 1,
+            "created_date": "2022-12-12T08:25:13.790914Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30067,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13833/60846903-adfe-493f-96ba-8fcb6f981203.jpg",
+            "order": 2,
+            "created_date": "2022-12-12T08:25:14.025864Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30069,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13833/bd9f856a-61b9-4fec-b05d-4459ef66bc47.jpg",
+            "order": 3,
+            "created_date": "2022-12-12T08:25:14.143451Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30068,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13833/3e481f1e-6b57-4098-85ce-12d88da3a52c.jpg",
+            "order": 4,
+            "created_date": "2022-12-12T08:25:14.086935Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30066,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13833/63b5ee8d-b60e-40ff-a042-498c0ec7182b.jpg",
+            "order": 5,
+            "created_date": "2022-12-12T08:25:13.960817Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "719",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "719",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-a73-5g-silikon-kilif/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy A73 5G Silikon Kılıf",
+                    "absolute_url": "/tr/galaxy-a73-5g-silikon-kilif-1/",
+                    "price": "699",
+                    "attributes": {
+                      "integration_color_code": "#ffffff",
+                      "integration_color": "Beyaz"
+                    },
+                    "pk": 5826,
+                    "retail_price": "699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13830/2d939135-cf62-4526-a712-0de2b6a2418b.jpg",
+                        "created_date": "2022-12-12T08:25:14.382072Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30071,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13864/1094abb3-35ae-470c-a9db-02768dd62de4.jpg",
+                        "created_date": "2022-12-12T08:25:14.583115Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30074,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13830/0fcfa9cb-8b1e-4253-a3b0-29cfaa934231.jpg",
+                        "created_date": "2022-12-12T08:25:14.212172Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30070,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13830/a475ab76-1d60-47d8-a4ce-b2ad06a74346.jpg",
+                        "created_date": "2022-12-12T08:25:14.638124Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30075,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13864/e9bdd119-8a44-4596-aa23-a236c29eedac.jpg",
+                        "created_date": "2022-12-12T08:25:14.809817Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30078,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Beyaz"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy A73 5G Silikon Kılıf",
+                    "absolute_url": "/tr/galaxy-a73-5g-silikon-kilif/",
+                    "price": "719",
+                    "attributes": {
+                      "integration_color_code": "#a7c6ed",
+                      "integration_color": "Kutup Mavisi"
+                    },
+                    "pk": 5828,
+                    "retail_price": "719",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13833/c78fe747-7d46-4604-84ec-5717c1acde30.jpg",
+                        "created_date": "2022-12-12T08:25:13.790914Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30065,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13833/60846903-adfe-493f-96ba-8fcb6f981203.jpg",
+                        "created_date": "2022-12-12T08:25:14.025864Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30067,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13833/bd9f856a-61b9-4fec-b05d-4459ef66bc47.jpg",
+                        "created_date": "2022-12-12T08:25:14.143451Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30069,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13833/3e481f1e-6b57-4098-85ce-12d88da3a52c.jpg",
+                        "created_date": "2022-12-12T08:25:14.086935Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30068,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13833/63b5ee8d-b60e-40ff-a042-498c0ec7182b.jpg",
+                        "created_date": "2022-12-12T08:25:13.960817Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30066,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Kutup Mavisi"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5824,
+        "name": "Galaxy A73 5G Kayışlı Silikon Kılıf",
+        "sku": "EF-GA736TWEGWW",
+        "base_code": "420873",
+        "attributes": {
+          "integration_fizikselozellikler_boyutlargxyxd": "79.8 x 167.4 x 14.8 mm",
+          "integration_usptext": "Telefonlarımızı korurken galaksimizi kurtaralım\nKayışla daha güvenli kullanım\nElde taşınabilir bir tarz",
+          "erp_color_code": "#ffffff",
+          "erp_star_grade": "1",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050100",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy A73 5G",
+          "erp_color": "Beyaz",
+          "kampanya_kosullari": "/tr/lucky-box-hediye-kosullari/",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "59 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "drk_name": "Samsung Galaxy A73 Kordonlu Silikon Kılıf   Beyaz",
+          "integration_color_code": "#ffffff",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Beyaz",
+          "integration_category_code_path": "01000000|01050000|01050100",
+          "erp_category_code_path": "01000000|01050000|01050100",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Mobil Aksesuarlar",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_usptext": "Telefonlarımızı korurken galaksimizi kurtaralım\nKayışla daha güvenli kullanım\nElde taşınabilir bir tarz",
+          "integration_ean": "8806094330649",
+          "erp_ean": "8806094330649",
+          "integration_category_code": "01050100",
+          "integration_renk": "Beyaz",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Cases",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_model_name": "EF-GA736",
+          "integration_product_subtype_name": "Case",
+          "integration_tipi": "Kayışlı Silikon Kılıf",
+          "erp_fizikselozellikler_boyutlargxyxd": "79.8 x 167.4 x 14.8 mm",
+          "integration_fizikselozellikler_agirlik": "59 g",
+          "erp_tipi": "Kayışlı Silikon Kılıf",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_renk": "Beyaz",
+          "integration_uyum_uyumlumodeller": "Galaxy A73 5G",
+          "erp_product_subtype_name": "Case",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "EF-GA736"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Beyaz",
+            "data_type": "dropdown",
+            "label": "Beyaz"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30051,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/3904747a-5378-4404-9be8-4a18f24c7a27.jpg",
+            "order": 1,
+            "created_date": "2022-12-12T08:25:12.843752Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30052,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/190b2f6b-5c26-402b-8437-143feca91d8e.jpg",
+            "order": 2,
+            "created_date": "2022-12-12T08:25:12.978017Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30053,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/afb83c09-c9f2-452a-9803-629b361606da.jpg",
+            "order": 3,
+            "created_date": "2022-12-12T08:25:13.047342Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30054,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/ae14d03a-e221-4264-bcf4-9148474990e4.jpg",
+            "order": 4,
+            "created_date": "2022-12-12T08:25:13.105007Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30055,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/64386bb7-e39c-4c6a-bfa5-10ea8db5fdb0.jpg",
+            "order": 5,
+            "created_date": "2022-12-12T08:25:13.158190Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30056,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/ef11af09-bdd4-4a16-8e0d-26b4ec862ed0.jpg",
+            "order": 6,
+            "created_date": "2022-12-12T08:25:13.213769Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30057,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13831/80fdc20e-9d44-4830-a4dd-e1dab5d3dabd.jpg",
+            "order": 7,
+            "created_date": "2022-12-12T08:25:13.281269Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "999",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-a73-5g-kayisli-silikon-kilif/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 3,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy A73 5G Kayışlı Silikon Kılıf",
+                    "absolute_url": "/tr/galaxy-a73-5g-kayisli-silikon-kilif-1/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#304561",
+                      "integration_color": "Lacivert"
+                    },
+                    "pk": 5827,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13831/59518ac6-64b8-4600-bf80-350b964a13e8.jpg",
+                        "created_date": "2022-12-12T08:25:12.404149Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30044,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13831/9b35e3c2-7e52-4949-b604-4947279f7736.jpg",
+                        "created_date": "2022-12-12T08:25:12.532646Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30045,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13831/0c0d30fd-e701-482d-8840-34f558563162.jpg",
+                        "created_date": "2022-12-12T08:25:12.580662Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30046,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13831/05e7ffb1-d207-4e4e-8293-3fd8790eaa4f.jpg",
+                        "created_date": "2022-12-12T08:25:12.630916Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30047,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13831/c1d3d09a-e444-4a05-946b-6c986256c9c6.jpg",
+                        "created_date": "2022-12-12T08:25:12.679232Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30048,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13831/09f8e69a-740f-49fb-b92e-4a99d17dd444.jpg",
+                        "created_date": "2022-12-12T08:25:12.737887Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30049,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13831/80fdc20e-9d44-4830-a4dd-e1dab5d3dabd.jpg",
+                        "created_date": "2022-12-12T08:25:12.793409Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30050,
+                        "order": 7
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Lacivert"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy A73 5G Kayışlı Silikon Kılıf",
+                    "absolute_url": "/tr/galaxy-a73-5g-kayisli-silikon-kilif/",
+                    "price": "999",
+                    "attributes": {
+                      "integration_color_code": "#ffffff",
+                      "integration_color": "Beyaz"
+                    },
+                    "pk": 5824,
+                    "retail_price": "999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/3904747a-5378-4404-9be8-4a18f24c7a27.jpg",
+                        "created_date": "2022-12-12T08:25:12.843752Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30051,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/190b2f6b-5c26-402b-8437-143feca91d8e.jpg",
+                        "created_date": "2022-12-12T08:25:12.978017Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30052,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/afb83c09-c9f2-452a-9803-629b361606da.jpg",
+                        "created_date": "2022-12-12T08:25:13.047342Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30053,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/ae14d03a-e221-4264-bcf4-9148474990e4.jpg",
+                        "created_date": "2022-12-12T08:25:13.105007Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30054,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/64386bb7-e39c-4c6a-bfa5-10ea8db5fdb0.jpg",
+                        "created_date": "2022-12-12T08:25:13.158190Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30055,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13828/ef11af09-bdd4-4a16-8e0d-26b4ec862ed0.jpg",
+                        "created_date": "2022-12-12T08:25:13.213769Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30056,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/18/13831/80fdc20e-9d44-4830-a4dd-e1dab5d3dabd.jpg",
+                        "created_date": "2022-12-12T08:25:13.281269Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30057,
+                        "order": 7
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Beyaz"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5821,
+        "name": "Galaxy Tab S8 Kordonlu Kılıf",
+        "sku": "EF-GX700CWEGWW",
+        "base_code": "420847",
+        "attributes": {
+          "integration_fizikselozellikler_boyutlargxyxd": "169.1 x 257.6 x 20.23 mm",
+          "mp_trendyol_kargo": "3",
+          "erp_color_code": "#ffffff",
+          "integration_product_type_code": "PT_CD_MOBILE_ACC",
+          "erp_category_code": "01050300",
+          "mp_kargo": "yurtici",
+          "erp_product_type_name": "Mobile Accessory",
+          "erp_uyum_uyumlumodeller": "Galaxy Tab S8, Galaxy Tab S7",
+          "erp_color": "Beyaz",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_fizikselozellikler_agirlik": "196.2 g",
+          "integration_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "drk_name": "Samsung Galaxy Tab S8 Kordonlu Kılıf Beyaz",
+          "integration_color_code": "#ffffff",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Beyaz",
+          "integration_category_code_path": "01000000|01050000|01050300",
+          "erp_category_code_path": "01000000|01050000|01050300",
+          "integration_spt_kargosuresi_mnl": "Tahmini kargo süresi 1-3 iş günüdür.",
+          "erp_category_name_path": "Mobil|Mobil Aksesuarlar|Watch Straps",
+          "mp_kurulum": "Hayır",
+          "integration_usptext": "Kayışla daha güvenli kullanım\nDöner Kayış\nZevkinize göre kayışlar",
+          "erp_usptext": "Kayışla daha güvenli kullanım\nDöner Kayış\nZevkinize göre kayışlar",
+          "integration_ean": "8806094288339",
+          "erp_ean": "8806094288339",
+          "integration_category_code": "01050300",
+          "integration_renk": "Beyaz",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "erp_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Mobile|Mobile Accessories|Watch Straps",
+          "erp_product_type_code": "PT_CD_MOBILE_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_model_name": "EF-GX700",
+          "mp_hb_kargo": "3",
+          "integration_product_subtype_name": "Case",
+          "integration_genelozellikler_ambalajicerigi": "Kayışlı Kılıf, Kaplama",
+          "integration_tipi": "Arka Kılıf",
+          "erp_fizikselozellikler_boyutlargxyxd": "169.1 x 257.6 x 20.23 mm",
+          "integration_fizikselozellikler_agirlik": "196.2 g",
+          "erp_tipi": "Arka Kılıf",
+          "erp_product_subtype_code": "PT_CD_MOBILE_ACC_42",
+          "erp_renk": "Beyaz",
+          "integration_uyum_uyumlumodeller": "Galaxy Tab S8, Galaxy Tab S7",
+          "erp_product_subtype_name": "Case",
+          "mp_n11_pivot": "Hayır",
+          "integration_product_type_name": "Mobile Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_genelozellikler_ambalajicerigi": "Kayışlı Kılıf, Kaplama",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "EF-GX700"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Beyaz",
+            "data_type": "dropdown",
+            "label": "Beyaz"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_n11_pivot": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30113,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/461082f1-085a-49ec-923e-ec1b8b36c6b0.jpg",
+            "order": 1,
+            "created_date": "2022-12-12T08:54:25.616741Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30115,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/4a81a589-2abc-442e-8e80-b64d12ba8d9c.jpg",
+            "order": 2,
+            "created_date": "2022-12-12T08:54:25.827627Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30117,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/8bccf5bb-9417-4fbb-92b4-7c00c03ab24e.jpg",
+            "order": 3,
+            "created_date": "2022-12-12T08:54:25.952014Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30114,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/fa52d961-bd1a-4192-95cc-1ef83c388169.jpg",
+            "order": 4,
+            "created_date": "2022-12-12T08:54:25.762818Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30116,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/aab54653-63c8-4308-9b71-df56934de6b0.jpg",
+            "order": 5,
+            "created_date": "2022-12-12T08:54:25.891146Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30118,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/452a2a7b-3792-4d1a-80fb-1120484e962a.jpg",
+            "order": 6,
+            "created_date": "2022-12-12T08:54:26.002220Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1999",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "1999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/galaxy-tab-s8-kordonlu-kilif/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 24,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Galaxy Tab S8 Kordonlu Kılıf",
+                    "absolute_url": "/tr/galaxy-tab-s8-kordonlu-kilif-1/",
+                    "price": "1999",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5822,
+                    "retail_price": "1999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14193/1fe8f2e2-c4b6-4b31-8a5b-754f5b584b58.jpg",
+                        "created_date": "2022-12-12T08:54:25.253082Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30108,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14193/4fc769ca-bf66-46fc-999e-9d8edc46d94c.jpg",
+                        "created_date": "2022-12-12T08:54:25.378765Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30109,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14193/276764cc-b2f2-48aa-9010-4c2f766b4052.jpg",
+                        "created_date": "2022-12-12T08:54:25.429724Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30110,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14193/55ea3afe-56d2-4992-bee1-e30563560dcd.jpg",
+                        "created_date": "2022-12-12T08:54:25.486326Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30111,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14193/25280e7f-38cb-41f2-b174-367dfaa26ed1.jpg",
+                        "created_date": "2022-12-12T08:54:25.543224Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30112,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                },
+                {
+                  "product": {
+                    "name": "Galaxy Tab S8 Kordonlu Kılıf",
+                    "absolute_url": "/tr/galaxy-tab-s8-kordonlu-kilif/",
+                    "price": "1999",
+                    "attributes": {
+                      "integration_color_code": "#ffffff",
+                      "integration_color": "Beyaz"
+                    },
+                    "pk": 5821,
+                    "retail_price": "1999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/461082f1-085a-49ec-923e-ec1b8b36c6b0.jpg",
+                        "created_date": "2022-12-12T08:54:25.616741Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30113,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/4a81a589-2abc-442e-8e80-b64d12ba8d9c.jpg",
+                        "created_date": "2022-12-12T08:54:25.827627Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30115,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/8bccf5bb-9417-4fbb-92b4-7c00c03ab24e.jpg",
+                        "created_date": "2022-12-12T08:54:25.952014Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30117,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/fa52d961-bd1a-4192-95cc-1ef83c388169.jpg",
+                        "created_date": "2022-12-12T08:54:25.762818Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30114,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/aab54653-63c8-4308-9b71-df56934de6b0.jpg",
+                        "created_date": "2022-12-12T08:54:25.891146Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30116,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/12/14192/452a2a7b-3792-4d1a-80fb-1120484e962a.jpg",
+                        "created_date": "2022-12-12T08:54:26.002220Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30118,
+                        "order": 6
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Beyaz"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5819,
+        "name": "990 PRO PCIe 4.0 NVMe M.2 SSD",
+        "sku": "MZ-V9P2T0BW",
+        "base_code": "442941",
+        "attributes": {
+          "integration_product_type_code": "PT_CD_MEMORY_CARD",
+          "erp_categoryenglishnamepath": "Memory Storage|Memory&Storage|NVMe SSD",
+          "erp_category_name_path": "Memory Storage|Hafıza&Depolama|NVMe SSD",
+          "integration_genelozellikler_tip": "M.2 (2280)",
+          "erp_product_type_name": "Memory",
+          "integration_cevre_guvenilirlikmtbfdegeri": "1,5 Milyon Saat Güvenilirlik (MTBF)",
+          "erp_color": "Siyah",
+          "integration_cevre_guctuketimibostayken": "Maksimum 55 mW <br>* Gerçek güç tüketimi sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_genelozellikler_depolamabellegi": "Samsung V-NAND 3-bit MLC",
+          "erp_cevre_guctuketimibostayken": "Maksimum 55 mW <br>* Gerçek güç tüketimi sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "erp_ozelozellikler_cihazuykumodudestegi": "Evet",
+          "integration_color_code": "#000000",
+          "integration_aksesuarlar_kurulumkiti": "Yok",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "09000000|09010000|09010100",
+          "erp_genelozellikler_onbellek": "Samsung 2 GB Düşük Güç Tüketimli DDR4 SDRAM",
+          "erp_genelozellikler_uygulama": "İstemci Bilgisayarları, Oyun Konsolları",
+          "erp_cevre_ortalamaenerjituketimisistemseviyesi": "* Ortalama: 5,5 W <br>* Maksimum: 8,5 W (Hızlandırılmış mod) <br>* Gerçek güç tüketimi sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "erp_yazilim_yonetimyazilimi": "SSD yönetimi için Magician yazılımı",
+          "erp_performans_rastgeleokuma4kbqd1": "Up to 22,000 IOPS * Performance may vary based on system hardware & configuration",
+          "integration_garanti": "5 Yıl Sınırlı Garanti veya 1200 TBW Sınırlı Garanti",
+          "erp_cevre_calismasicakligi": "0 - 70 ℃ Çalışma Sıcaklığı",
+          "erp_cevre_guvenilirlikmtbfdegeri": "1,5 Milyon Saat Güvenilirlik (MTBF)",
+          "erp_ozelozellikler_wwndestegi": "Desteklenmiyor",
+          "erp_ean": "8806094215038",
+          "integration_category_code": "09010100",
+          "erp_performans_rastgeleyazma4kbqd32": "1.550.000 IOPS’ye kadar<br> * Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_ozelozellikler_trimdestegi": "Destekleniyor",
+          "integration_categoryenglishnamepath": "Memory Storage|Memory&Storage|NVMe SSD",
+          "erp_product_type_code": "PT_CD_MEMORY_CARD",
+          "erp_aksesuarlar_kurulumkiti": "Yok",
+          "integration_genelozellikler_kontrolor": "Samsung dahili Denetleyici",
+          "integration_genelozellikler_onbellek": "Samsung 2 GB Düşük Güç Tüketimli DDR4 SDRAM",
+          "erp_ozelozellikler_gccoptoplama": "Auto Garbage Collection Algorithm",
+          "integration_ozelozellikler_gccoptoplama": "Auto Garbage Collection Algorithm",
+          "integration_product_type_name": "Memory",
+          "integration_cevre_izinverilenvoltaj": "3,3 V ± %5 İzin verilebilir voltaj",
+          "erp_performans_rastgeleokuma4kbqd32": "1.200.000 IOPS’ye kadar <br>* Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_model_name": "MZ-V9P2T0",
+          "erp_ozelozellikler_sifrelemedestegi": "AES 256-bit Şifreleme (0 Sınıfı)TCG/Opal IEEE1667 (Şifreli sürücü)",
+          "integration_usptext": "Yeni tasarlanan dahili denetleyici ile desteklenen Samsung NVMe SSD\n7.450/6.900 MB/sn’ye varan sıralı okuma/yazma hızı\nEnerji tasarruflu SSD, güvenilir termal kontrol",
+          "erp_color_code": "#000000",
+          "erp_ozelozellikler_smartdestegi": "Destekleniyor",
+          "erp_category_code": "09010100",
+          "integration_genelozellikler_arabirim": "PCIe Gen 4.0 x4, NVMe 2.0",
+          "erp_genelozellikler_kontrolor": "Samsung dahili Denetleyici",
+          "integration_cevre_calismasicakligi": "0 - 70 ℃ Çalışma Sıcaklığı",
+          "erp_genelozellikler_agirlik": "En fazla 9,0 g Ağırlık",
+          "integration_yazilim_yonetimyazilimi": "SSD yönetimi için Magician yazılımı",
+          "erp_genelozellikler_boyutlargxyxd": "80 x 22 x 2.3 mm",
+          "integration_category_name_path": "Memory Storage|Hafıza&Depolama|NVMe SSD",
+          "drk_name": "Samsung 990 PRO PCIe 4.0 NVMe M.2 SSD 2TB",
+          "erp_genelozellikler_arabirim": "PCIe Gen 4.0 x4, NVMe 2.0",
+          "erp_ozelozellikler_trimdestegi": "Destekleniyor",
+          "erp_model_name": "MZ-V9P2T0",
+          "erp_category_code_path": "09000000|09010000|09010100",
+          "erp_garanti": "5 Yıl Sınırlı Garanti veya 1200 TBW Sınırlı Garanti",
+          "erp_cevre_izinverilenvoltaj": "3,3 V ± %5 İzin verilebilir voltaj",
+          "erp_performans_rastgeleyazma4kbqd1": "80.000 IOPS’ye kadar <br>* Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "erp_usptext": "Yeni tasarlanan dahili denetleyici ile desteklenen Samsung NVMe SSD\n7.450/6.900 MB/sn’ye varan sıralı okuma/yazma hızı\nEnerji tasarruflu SSD, güvenilir termal kontrol",
+          "integration_ean": "8806094215038",
+          "integration_product_subtype_name": "SSD",
+          "erp_genelozellikler_tip": "M.2 (2280)",
+          "integration_genelozellikler_boyutlargxyxd": "80 x 22 x 2.3 mm",
+          "mp_kapasite_gb": "2 TB",
+          "integration_ozelozellikler_smartdestegi": "Destekleniyor",
+          "integration_product_subtype_code": "PT_CD_MEMORY_CARD_12",
+          "erp_genelozellikler_kapasite": "2.000 GB (1 GB=1 Milyar bayt (IDEMA)) <br>* Esas kullanılabilir kapasite daha az olabilir (biçimlendirme, bölümlendirme, işletim sistemi, uygulamalar veya diğer nedenlerle)",
+          "integration_genelozellikler_kapasite": "2.000 GB (1 GB=1 Milyar bayt (IDEMA)) <br>* Esas kullanılabilir kapasite daha az olabilir (biçimlendirme, bölümlendirme, işletim sistemi, uygulamalar veya diğer nedenlerle)",
+          "erp_genelozellikler_depolamabellegi": "Samsung V-NAND 3-bit MLC",
+          "erp_product_subtype_code": "PT_CD_MEMORY_CARD_12",
+          "integration_genelozellikler_uygulama": "İstemci Bilgisayarları, Oyun Konsolları",
+          "erp_product_subtype_name": "SSD",
+          "erp_performans_siraliokuma": "7.450 MB/saniyeye kadar <br>* Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_cevre_ortalamaenerjituketimisistemseviyesi": "* Ortalama: 5,5 W <br>* Maksimum: 8,5 W (Hızlandırılmış mod) <br>* Gerçek güç tüketimi sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_genelozellikler_agirlik": "En fazla 9,0 g Ağırlık",
+          "integration_ozelozellikler_wwndestegi": "Desteklenmiyor",
+          "erp_cevre_darbe": "1.500 G ve 0,5 ms (Yarım sinüs)",
+          "integration_cevre_darbe": "1.500 G ve 0,5 ms (Yarım sinüs)",
+          "integration_ozelozellikler_sifrelemedestegi": "AES 256-bit Şifreleme (0 Sınıfı)TCG/Opal IEEE1667 (Şifreli sürücü)",
+          "erp_performans_siraliyazma": "6.900 MB/saniyeye kadar<br> * Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_ozelozellikler_cihazuykumodudestegi": "Evet"
+        },
+        "attribute_set": 15,
+        "attributes_kwargs": {
+          "mp_kapasite_gb": {
+            "value": "2 TB",
+            "data_type": "dropdown",
+            "label": "2 TB"
+          },
+          "integration_aksesuarlar_kurulumkiti": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30010,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/a68a4773-0530-4ac8-9498-58ae4ccb7fe0.jpg",
+            "order": 1,
+            "created_date": "2022-12-09T14:23:33.395484Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30011,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/0eff46a9-3c9f-4155-a9cf-ec18683df2bf.jpg",
+            "order": 2,
+            "created_date": "2022-12-09T14:23:33.558327Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30012,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/4c96b1ba-3f7e-45d3-957b-9f6df3c0bea2.jpg",
+            "order": 3,
+            "created_date": "2022-12-09T14:23:33.627953Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30013,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/25ecc4c4-a2b2-41f6-8dfd-f92639abe401.jpg",
+            "order": 4,
+            "created_date": "2022-12-09T14:23:33.732215Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30014,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/4cf73868-7809-481a-ad62-888475be4350.jpg",
+            "order": 5,
+            "created_date": "2022-12-09T14:23:33.787236Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30015,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/6a9d7f9f-cd85-441f-b4a7-688e58809c31.jpg",
+            "order": 6,
+            "created_date": "2022-12-09T14:23:33.860375Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "6549",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "6549",
+        "unit_type": "qty",
+        "absolute_url": "/tr/990-pro-pcie-4-0-nvme-m-2-ssd/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 4,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "mp_kapasite_gb",
+              "options": [
+                {
+                  "product": {
+                    "name": "990 PRO PCIe 4.0 NVMe M.2 SSD",
+                    "absolute_url": "/tr/990-pro-pcie-4-0-nvme-m-2-ssd-1/",
+                    "price": "3947",
+                    "attributes": {
+                      "mp_kapasite_gb": "1 TB",
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5818,
+                    "retail_price": "3947",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15810/1cc3f977-0cc1-4b54-ad80-2c1073a30b12.jpg",
+                        "created_date": "2022-12-09T14:23:33.994483Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30016,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15810/53024afa-8971-4788-926d-88db5f2808ad.jpg",
+                        "created_date": "2022-12-09T14:23:34.137309Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30017,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15810/c3074865-d71b-4231-8411-514c99fe0f2e.jpg",
+                        "created_date": "2022-12-09T14:23:34.279562Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30018,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15810/9555ddba-d32f-4c1b-bef1-827570b98a96.jpg",
+                        "created_date": "2022-12-09T14:23:34.334966Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30019,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15810/c2ead89d-d313-40e1-b794-431f7e7f5830.jpg",
+                        "created_date": "2022-12-09T14:23:34.398265Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30020,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "1 TB"
+                },
+                {
+                  "product": {
+                    "name": "990 PRO PCIe 4.0 NVMe M.2 SSD",
+                    "absolute_url": "/tr/990-pro-pcie-4-0-nvme-m-2-ssd/",
+                    "price": "6549",
+                    "attributes": {
+                      "mp_kapasite_gb": "2 TB",
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5819,
+                    "retail_price": "6549",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/a68a4773-0530-4ac8-9498-58ae4ccb7fe0.jpg",
+                        "created_date": "2022-12-09T14:23:33.395484Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30010,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/0eff46a9-3c9f-4155-a9cf-ec18683df2bf.jpg",
+                        "created_date": "2022-12-09T14:23:33.558327Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30011,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/4c96b1ba-3f7e-45d3-957b-9f6df3c0bea2.jpg",
+                        "created_date": "2022-12-09T14:23:33.627953Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30012,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/25ecc4c4-a2b2-41f6-8dfd-f92639abe401.jpg",
+                        "created_date": "2022-12-09T14:23:33.732215Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30013,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/4cf73868-7809-481a-ad62-888475be4350.jpg",
+                        "created_date": "2022-12-09T14:23:33.787236Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30014,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15811/6a9d7f9f-cd85-441f-b4a7-688e58809c31.jpg",
+                        "created_date": "2022-12-09T14:23:33.860375Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30015,
+                        "order": 6
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "2 TB"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5817,
+        "name": "990 PRO, Soğutuculu, PCIe 4.0 M.2",
+        "sku": "MZ-V9P2T0CW",
+        "base_code": "442940",
+        "attributes": {
+          "integration_product_type_code": "PT_CD_MEMORY_CARD",
+          "erp_categoryenglishnamepath": "Memory Storage|Memory&Storage|NVMe SSD",
+          "erp_category_name_path": "Memory Storage|Hafıza&Depolama|NVMe SSD",
+          "integration_genelozellikler_tip": "M.2 (2280)",
+          "erp_product_type_name": "Memory",
+          "integration_cevre_guvenilirlikmtbfdegeri": "1.a1,5 Milyon Saat Güvenilirlik (MTBF)5 Million Hours Reliability (MTBF)",
+          "erp_color": "Siyah",
+          "integration_cevre_guctuketimibostayken": "Maksimum 55 mW <br>* Gerçek güç tüketimi sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_genelozellikler_depolamabellegi": "Samsung V-NAND 3-bit MLC",
+          "erp_cevre_guctuketimibostayken": "Maksimum 55 mW <br>* Gerçek güç tüketimi sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "erp_ozelozellikler_cihazuykumodudestegi": "Evet",
+          "integration_color_code": "#000000",
+          "integration_aksesuarlar_kurulumkiti": "Yok",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "09000000|09010000|09010100",
+          "erp_performans_siraliokuma": "7.450 MB/saniyeye kadar <br>* Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "erp_genelozellikler_uygulama": "İstemci Bilgisayarları, Oyun Konsolları",
+          "erp_cevre_ortalamaenerjituketimisistemseviyesi": "* Ortalama: 5,5 W <br>* Maksimum: 8,5 W (Hızlandırılmış mod) <br>* Gerçek güç tüketimi sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "erp_yazilim_yonetimyazilimi": "SSD yönetimi için Magician yazılımı",
+          "erp_performans_rastgeleokuma4kbqd1": "22.000 IOPS’ye kadar <br>* Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "erp_cevre_calismasicakligi": "0 - 70 ℃ Çalışma Sıcaklığı",
+          "erp_cevre_guvenilirlikmtbfdegeri": "1.a1,5 Milyon Saat Güvenilirlik (MTBF)5 Million Hours Reliability (MTBF)",
+          "erp_ozelozellikler_wwndestegi": "Desteklenmiyor",
+          "erp_ean": "8806094413755",
+          "integration_category_code": "09010100",
+          "erp_performans_rastgeleyazma4kbqd32": "1.550.000 IOPS’ye kadar<br> * Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_ozelozellikler_trimdestegi": "Destekleniyor",
+          "integration_categoryenglishnamepath": "Memory Storage|Memory&Storage|NVMe SSD",
+          "erp_product_type_code": "PT_CD_MEMORY_CARD",
+          "erp_aksesuarlar_kurulumkiti": "Yok",
+          "erp_genelozellikler_onbellek": "Samsung 1 GB Düşük Güç Tüketimli DDR4 SDRAM",
+          "integration_genelozellikler_kontrolor": "Samsung dahili Denetleyici",
+          "integration_genelozellikler_onbellek": "Samsung 1 GB Düşük Güç Tüketimli DDR4 SDRAM",
+          "erp_ozelozellikler_gccoptoplama": "Otomatik Çöp Toplama Algoritması",
+          "integration_ozelozellikler_gccoptoplama": "Otomatik Çöp Toplama Algoritması",
+          "integration_product_type_name": "Memory",
+          "integration_cevre_izinverilenvoltaj": "3,3 V ± %5 İzin verilebilir voltaj",
+          "erp_performans_rastgeleokuma4kbqd32": "1.200.000 IOPS’ye kadar <br>* Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_model_name": "MZ-V9P2T0",
+          "erp_ozelozellikler_sifrelemedestegi": "AES 256-bit Şifreleme (0 Sınıfı)TCG/Opal IEEE1667 (Şifreli sürücü)",
+          "integration_usptext": "Yeni tasarlanan dahili denetleyici ile desteklenen Samsung NVMe SSD\n7.450/6.900 MB/sn’ye varan sıralı okuma/yazma hızı\nEnerji tasarruflu SSD, güvenilir termal kontrol, soğutucu",
+          "erp_color_code": "#000000",
+          "erp_ozelozellikler_smartdestegi": "Destekleniyor",
+          "erp_category_code": "09010100",
+          "integration_genelozellikler_arabirim": "PCIe Gen 4.0 x4, NVMe 2.0",
+          "erp_genelozellikler_kontrolor": "Samsung dahili Denetleyici",
+          "integration_cevre_calismasicakligi": "0 - 70 ℃ Çalışma Sıcaklığı",
+          "erp_genelozellikler_agirlik": "En fazla 28,0 g Ağırlık",
+          "integration_yazilim_yonetimyazilimi": "SSD yönetimi için Magician yazılımı",
+          "erp_genelozellikler_boyutlargxyxd": "80 x 24,3 x 8,2 mm (soğutuculu)",
+          "integration_category_name_path": "Memory Storage|Hafıza&Depolama|NVMe SSD",
+          "drk_name": "Samsung 990 PRO, Soğutuculu, PCIe 4.0 M.2 2TB",
+          "erp_genelozellikler_arabirim": "PCIe Gen 4.0 x4, NVMe 2.0",
+          "erp_ozelozellikler_trimdestegi": "Destekleniyor",
+          "erp_model_name": "MZ-V9P2T0",
+          "erp_category_code_path": "09000000|09010000|09010100",
+          "erp_cevre_izinverilenvoltaj": "3,3 V ± %5 İzin verilebilir voltaj",
+          "erp_performans_rastgeleyazma4kbqd1": "80.000 IOPS’ye kadar <br>* Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "erp_usptext": "Yeni tasarlanan dahili denetleyici ile desteklenen Samsung NVMe SSD\n7.450/6.900 MB/sn’ye varan sıralı okuma/yazma hızı\nEnerji tasarruflu SSD, güvenilir termal kontrol, soğutucu",
+          "integration_ean": "8806094413755",
+          "integration_product_subtype_name": "SSD",
+          "erp_genelozellikler_tip": "M.2 (2280)",
+          "integration_genelozellikler_boyutlargxyxd": "80 x 24,3 x 8,2 mm (soğutuculu)",
+          "mp_kapasite_gb": "2 TB",
+          "integration_ozelozellikler_smartdestegi": "Destekleniyor",
+          "integration_product_subtype_code": "PT_CD_MEMORY_CARD_12",
+          "erp_genelozellikler_kapasite": "2.000 GB (1 GB=1 Milyar bayt (IDEMA)) <br>* Esas kullanılabilir kapasite daha az olabilir (biçimlendirme, bölümlendirme, işletim sistemi, uygulamalar veya diğer nedenlerle)",
+          "integration_genelozellikler_kapasite": "2.000 GB (1 GB=1 Milyar bayt (IDEMA)) <br>* Esas kullanılabilir kapasite daha az olabilir (biçimlendirme, bölümlendirme, işletim sistemi, uygulamalar veya diğer nedenlerle)",
+          "erp_genelozellikler_depolamabellegi": "Samsung V-NAND 3-bit MLC",
+          "erp_product_subtype_code": "PT_CD_MEMORY_CARD_12",
+          "integration_genelozellikler_uygulama": "İstemci Bilgisayarları, Oyun Konsolları",
+          "erp_product_subtype_name": "SSD",
+          "integration_cevre_ortalamaenerjituketimisistemseviyesi": "* Ortalama: 5,5 W <br>* Maksimum: 8,5 W (Hızlandırılmış mod) <br>* Gerçek güç tüketimi sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_genelozellikler_agirlik": "En fazla 28,0 g Ağırlık",
+          "integration_ozelozellikler_wwndestegi": "Desteklenmiyor",
+          "erp_cevre_darbe": "1.500 G ve 0,5 ms (Yarım sinüs)",
+          "integration_cevre_darbe": "1.500 G ve 0,5 ms (Yarım sinüs)",
+          "integration_ozelozellikler_sifrelemedestegi": "AES 256-bit Şifreleme (0 Sınıfı)TCG/Opal IEEE1667 (Şifreli sürücü)",
+          "erp_performans_siraliyazma": "6.900 MB/saniyeye kadar<br> * Performans, sistem donanımı ve yapılandırmaya bağlı olarak değişebilir",
+          "integration_ozelozellikler_cihazuykumodudestegi": "Evet"
+        },
+        "attribute_set": 15,
+        "attributes_kwargs": {
+          "mp_kapasite_gb": {
+            "value": "2 TB",
+            "data_type": "dropdown",
+            "label": "2 TB"
+          },
+          "integration_aksesuarlar_kurulumkiti": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 30026,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/9e4c7f17-df4a-489d-a660-f77aab360ab8.jpg",
+            "order": 1,
+            "created_date": "2022-12-09T14:24:00.990651Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30027,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/7e15dc65-0e4d-46f3-8e9a-46c97970e452.jpg",
+            "order": 2,
+            "created_date": "2022-12-09T14:24:51.813963Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30028,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/d7937b9d-8a57-433a-9506-6eab2fabab84.jpg",
+            "order": 3,
+            "created_date": "2022-12-09T14:24:51.890470Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30029,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/9a547c6d-8978-4115-a609-833f071c4338.jpg",
+            "order": 4,
+            "created_date": "2022-12-09T14:24:51.958854Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30030,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/cf23881e-223c-451a-a54a-daec01424499.jpg",
+            "order": 5,
+            "created_date": "2022-12-09T14:24:52.061701Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 30031,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/e1971953-5fec-4d07-8a91-6b1bed127be3.jpg",
+            "order": 6,
+            "created_date": "2022-12-09T14:24:52.149139Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "5987.46",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "5987.46",
+        "unit_type": "qty",
+        "absolute_url": "/tr/990-pro-sogutuculu-pcie-4-0-m-2/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "mp_kapasite_gb",
+              "options": [
+                {
+                  "product": {
+                    "name": "990 PRO, Soğutuculu, PCIe 4.0 M.2",
+                    "absolute_url": "/tr/990-pro-sogutuculu-pcie-4-0-m-2-1/",
+                    "price": "3771.88",
+                    "attributes": {
+                      "mp_kapasite_gb": "1 TB",
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5816,
+                    "retail_price": "3771.88",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15808/71e56175-8d72-49d8-ba79-e49d24b10659.jpg",
+                        "created_date": "2022-12-09T14:24:52.226915Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30032,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15808/3c4990c8-0f3c-4bea-83d4-6bda3075ae88.jpg",
+                        "created_date": "2022-12-09T14:24:52.400962Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30033,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15808/6a8cf115-f03b-463c-ab4a-d6e8fdd4de4c.jpg",
+                        "created_date": "2022-12-09T14:24:52.498696Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30034,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15808/1cbbd79f-3b13-4db4-9567-ae8ccdc8c6b8.jpg",
+                        "created_date": "2022-12-09T14:24:52.582094Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30035,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15808/4a42b3f0-0e17-4c81-bae0-ee64694cff80.jpg",
+                        "created_date": "2022-12-09T14:24:52.639187Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30036,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15808/4dc1079d-a9d8-40e5-b856-30e962472542.jpg",
+                        "created_date": "2022-12-09T14:24:52.709643Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30037,
+                        "order": 6
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "1 TB"
+                },
+                {
+                  "product": {
+                    "name": "990 PRO, Soğutuculu, PCIe 4.0 M.2",
+                    "absolute_url": "/tr/990-pro-sogutuculu-pcie-4-0-m-2/",
+                    "price": "5987.46",
+                    "attributes": {
+                      "mp_kapasite_gb": "2 TB",
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5817,
+                    "retail_price": "5987.46",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/9e4c7f17-df4a-489d-a660-f77aab360ab8.jpg",
+                        "created_date": "2022-12-09T14:24:00.990651Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30026,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/7e15dc65-0e4d-46f3-8e9a-46c97970e452.jpg",
+                        "created_date": "2022-12-09T14:24:51.813963Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30027,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/d7937b9d-8a57-433a-9506-6eab2fabab84.jpg",
+                        "created_date": "2022-12-09T14:24:51.890470Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30028,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/9a547c6d-8978-4115-a609-833f071c4338.jpg",
+                        "created_date": "2022-12-09T14:24:51.958854Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30029,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/cf23881e-223c-451a-a54a-daec01424499.jpg",
+                        "created_date": "2022-12-09T14:24:52.061701Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30030,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/09/15809/e1971953-5fec-4d07-8a91-6b1bed127be3.jpg",
+                        "created_date": "2022-12-09T14:24:52.149139Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 30031,
+                        "order": 6
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "2 TB"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5781,
+        "name": "27” Viewfinity QHD 75Hz IPS Display Port HDMI HAS PIVOT Çerçevesiz Monitör",
+        "sku": "LS27B610EQUXUF",
+        "base_code": "443080",
+        "attributes": {
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls27b610equxuf-energylabel.pdf",
+          "erp_tasarim_donme": "-45.0˚(±2.0˚) ~ 45.0˚(±2.0˚)",
+          "integration_product_type_code": "PT_CD_MONITOR",
+          "erp_agirlik_stantlabirliktesetagirligi": "5,4 kg",
+          "integration_grade": "F",
+          "erp_guc_tipi": "Harici Adaptör",
+          "erp_ekran_statikkontrastorani": "1.000:1 (Hayırrmal)",
+          "mp_hdmi": "Var",
+          "erp_guc_guctuketimitip": "23.0 W",
+          "integration_ekran_yanitsuresi": "5 ms (GTG)",
+          "mp_ekran_teknolojisi": "4K Ultra HD",
+          "integration_ekran_srgbkapsami": "0,99",
+          "mp_ekran_boyutu": "27 inç",
+          "integration_genelozellikler_freesync": "Evet",
+          "erp_ekran_parlakliktipik": "300 cd/㎡",
+          "integration_category_code_path": "07000000|07010000|07010300",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "616,2 x 367,7 x 45,4 mm",
+          "integration_arabirim_kablosuzekran": "Hayır",
+          "mp_panel_tipi": "Mekanik",
+          "erp_arabirim_kulaklikcikisi": "Evet",
+          "integration_arabirim_hdmi": "2 EA",
+          "mp_hdcp": "Yok",
+          "erp_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "mp_kargo": "yurtici",
+          "erp_grade": "F",
+          "integration_calismakosullari_sicaklik": "10~40 ℃",
+          "erp_product_type_code": "PT_CD_MONITOR",
+          "integration_aksesuar_kurulumcd": "Evet",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls27b610equxuf-energylabel.pdf",
+          "erp_aksesuar_hdmikablosu": "Evet",
+          "erp_aksesuar_uzaktankumanda": "Hayır",
+          "mp_dvi": "Yok",
+          "integration_agirlik_ambalajagirligi": "7,4 kg",
+          "erp_tasarim_stanttipi": "Yükselik Ayarlanabilir, döndürülebilir",
+          "erp_arabirim_sesgirisi": "Hayır",
+          "integration_ekran_paneltipi": "IPS",
+          "integration_aksesuar_guckablosuuzunlugu": "1,5 m",
+          "mp_coz_standart": "QHD",
+          "erp_tasarim_egme": "-4.0˚(±2.0˚) ~ 24.0˚(±2.0˚)",
+          "erp_ses_hoparlor": "Hayır",
+          "erp_aksesuar_guckablosuuzunlugu": "1,5 m",
+          "integration_ekran_parlaklikmin": "250 cd/㎡",
+          "erp_boyutlar_stantlabirliktesetboyutugxyxd": "616,2 x 538,5 x 192,9 mm",
+          "integration_ekran_yenilemehizi": "Maks. 75 Hz",
+          "mp_dahili_hoparlor": "Yok",
+          "erp_color": "Siyah",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "616,2 x 367,7 x 45,4 mm",
+          "erp_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "integration_model_name": "S27B610EQU",
+          "mp_ekran_yenileme_hizi": "75 Hz",
+          "integration_guc_guctuketimiyillik": "34 kWh/year",
+          "erp_arabirim_microhdmiversion": "Hayır",
+          "erp_ekran_enboyorani": "16:9",
+          "mp_trendyol_kargo": "3",
+          "erp_boyutlar_ambalajboyutugxyxd": "685,0 x 215,0 x 435,0 mm",
+          "mp_sync": "FreeSync",
+          "erp_aksesuar_miniekrancinsi": "Hayır",
+          "integration_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_calismakosullari_sicaklik": "10~40 ℃",
+          "mp_tepki_suresi": "5 ms",
+          "erp_aksesuar_kurulumcd": "Evet",
+          "mp_uydu_alici": "Yok",
+          "erp_genelozellikler_windowssertifikasi": "Windows 10",
+          "erp_category_code_path": "07000000|07010000|07010300",
+          "erp_tasarim_stantrengi": "Siyah",
+          "erp_guc_guckaynagi": "AC 100~240 V",
+          "erp_aksesuar_usb30kablosu": "Hayır",
+          "erp_aksesuar_dpkablosu": "Hayır",
+          "integration_guc_guctuketimidpms": "0,30 W",
+          "mp_3d": "Yok",
+          "erp_guc_guctuketimikapalimodu": "0,30 W",
+          "integration_product_subtype_name": "LED Monitor",
+          "integration_ekran_statikkontrastorani": "1.000:1 (Hayırrmal)",
+          "integration_guc_guctuketimimaks": "35 W",
+          "erp_tasarim_pivot": "-4˚(±2.0˚) ~ 92˚(±2.0˚)",
+          "integration_guc_guckaynagi": "AC 100~240 V",
+          "integration_guc_guctuketimitip": "23.0 W",
+          "product_desi": "30",
+          "erp_arabirim_hdcpversionhdmi": "HDCP 1.4",
+          "integration_arabirim_dvi": "Hayır",
+          "erp_ekran_parlaklikmin": "250 cd/㎡",
+          "integration_ekran_renkgamintsc1976": "0,83",
+          "erp_aksesuar_hdmidvikablosu": "Hayır",
+          "erp_product_subtype_code": "PT_CD_MONITOR_01",
+          "integration_ses_hoparlor": "Hayır",
+          "erp_aksesuar_dsubkablosu": "Hayır",
+          "erp_product_subtype_name": "LED Monitor",
+          "integration_genelozellikler_windowssertifikasi": "Windows 10",
+          "integration_ekran_renkdestegi": "Maks. 16,7 Milyon",
+          "inc_monitor": "24-27",
+          "erp_agirlik_ambalajagirligi": "7,4 kg",
+          "integration_guc_tipi": "Harici Adaptör",
+          "mp_kullanim_amaci": "Ofis - İş",
+          "erp_arabirim_microhdmi": "Hayır",
+          "integration_tasarim_hasyuksekligiayarlanabilirayak": "135.0 ＋ 5.0 mm",
+          "erp_arabirim_usbmerkezi": "Hayır",
+          "erp_ekran_yenilemehizi": "Maks. 75 Hz",
+          "integration_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_gradecolor": "#f37021",
+          "integration_ekran_parlakliktipik": "300 cd/㎡",
+          "erp_ekran_renkdestegi": "Maks. 16,7 Milyon",
+          "integration_usptext": "Performansınıza güç katan yenilikçi ekranlar\nAyrıntıları keşfedin\nHer açıdan muhteşem görüş sağlar",
+          "integration_aksesuar_hdmikablosu": "Evet",
+          "integration_arabirim_ekranbaglantinoktasiversiyonu": "1.2",
+          "erp_arabirim_hdmiversiyonu": "1.4",
+          "erp_product_type_name": "Monitor",
+          "erp_tasarim_duvaramonteedilebilir": "100,0 x 100,0",
+          "erp_ekran_dinamikkontrastorani": "Mega",
+          "erp_arabirim_ekranbaglantinoktasiversiyonu": "1.2",
+          "erp_aksesuar_thunderbolt3kablosu": "Hayır",
+          "erp_tasarim_onrenk": "SİYAH",
+          "integration_aksesuar_usb30kablosu": "Hayır",
+          "erp_tasarim_arkarenk": "SİYAH",
+          "integration_arabirim_sesgirisi": "Hayır",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3",
+          "erp_guc_guctuketimiyillik": "34 kWh/year",
+          "integration_color": "Siyah",
+          "mp_cozunurluk": "2560 x 1440",
+          "integration_aksesuar_dpkablosu": "Hayır",
+          "erp_category_name_path": "Display|Monitör|UHD",
+          "erp_aksesuar_seskablosu": "Hayır",
+          "erp_genelozellikler_resimboyutu": "Evet",
+          "erp_ekran_renkgamintsc1976": "0,83",
+          "integration_boyutlar_ambalajboyutugxyxd": "685,0 x 215,0 x 435,0 mm",
+          "erp_guc_guctuketimidpms": "0,30 W",
+          "erp_ean": "8806094660975",
+          "integration_category_code": "07010300",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "2",
+          "integration_categoryenglishnamepath": "Display|Monitors|High Resolution",
+          "erp_ekran_ekranboyutusinif": "27",
+          "mp_curved": "Yok",
+          "integration_genelozellikler_resimboyutu": "Evet",
+          "erp_tasarim_hasyuksekligiayarlanabilirayak": "135.0 ＋ 5.0 mm",
+          "erp_agirlik_stantsizsetagirligi": "3,6 kg",
+          "integration_aksesuar_miniekrancinsi": "Hayır",
+          "mp_kontrast": "1000:1",
+          "mp_goruntu_teknolojisi": "IPS",
+          "erp_ekran_paneltipi": "IPS",
+          "integration_aksesuar_dsubkablosu": "Hayır",
+          "erp_arabirim_kablosuzekran": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasi": "1 EA",
+          "mp_n11_pivot": "Evet",
+          "integration_product_type_name": "Monitor",
+          "integration_agirlik_stantlabirliktesetagirligi": "5,4 kg",
+          "integration_ekran_ekranboyutusinif": "27",
+          "mp_mini_displayport": "Yok",
+          "integration_ekran_enboyorani": "16:9",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls27b610equxuf-productfiche.pdf",
+          "integration_genelozellikler_titresimsiz": "Evet",
+          "erp_arabirim_hdcpversionmicrohdmi": "Hayır",
+          "integration_tasarim_duvaramonteedilebilir": "100,0 x 100,0",
+          "b2b_purchase_limit_per_basket": "2",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls27b610equxuf-productfiche.pdf",
+          "erp_categoryenglishnamepath": "Display|Monitors|High Resolution",
+          "erp_color_code": "#000000",
+          "erp_category_code": "07010300",
+          "erp_ekran_duzkavisli": "Düz",
+          "erp_eko_enerjiverimliliksinifi": "F",
+          "integration_gradecolor": "#f37021",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_calismakosullari_nem": "10~80, donmayan",
+          "integration_category_name_path": "Display|Monitör|UHD",
+          "drk_name": "Samsung 27\" ViewFinity QHD 75Hz IPS Display Port HDMI HAS PIVOT Çerçevesiz Monitör",
+          "integration_tasarim_stanttipi": "Yükselik Ayarlanabilir, döndürülebilir",
+          "mp_display_port": "Yok",
+          "integration_arabirim_ekranbaglantinoktasi": "1 EA",
+          "erp_ekran_izlemeacisiyd": "178° (Y)/178° (D)",
+          "erp_guc_guctuketimimaks": "35 W",
+          "erp_aksesuar_dvikablosu": "Hayır",
+          "mp_vga": "Yok",
+          "erp_aksesuar_usbtipckablosu": "Hayır",
+          "erp_usptext": "Performansınıza güç katan yenilikçi ekranlar\nAyrıntıları keşfedin\nHer açıdan muhteşem görüş sağlar",
+          "integration_ean": "8806094660975",
+          "integration_guc_guctuketimikapalimodu": "0,30 W",
+          "erp_arabirim_usbcsarjgucu": "Hayır",
+          "mp_vesa_uyumlulugu": "Var",
+          "integration_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_ekran_etkinekranboyutuyxdmm": "596,736 mm x 335,664 mm",
+          "integration_arabirim_hdmiversiyonu": "1.4",
+          "integration_genelozellikler_ecosavingplus": "Evet",
+          "erp_arabirim_dsub": "Hayır",
+          "erp_genelozellikler_ecosavingplus": "Evet",
+          "integration_arabirim_usbc": "Hayır",
+          "integration_calismakosullari_nem": "10~80, donmayan",
+          "integration_arabirim_kulaklikcikisi": "Evet",
+          "integration_arabirim_dsub": "Hayır",
+          "integration_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_genelozellikler_titresimsiz": "Evet",
+          "integration_ekran_dinamikkontrastorani": "Mega",
+          "erp_model_name": "S27B610EQU",
+          "integration_boyutlar_stantlabirliktesetboyutugxyxd": "616,2 x 538,5 x 192,9 mm",
+          "integration_ekran_cozunurluk": "2.560 x 1.440",
+          "erp_arabirim_hdmi": "2 EA",
+          "erp_arabirim_usbc": "Hayır",
+          "erp_genelozellikler_gozkoruyucumodu": "Evet",
+          "erp_ekran_srgbkapsami": "0,99",
+          "integration_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "erp_aksesuar_usb20kablosu": "Hayır",
+          "integration_ekran_izlemeacisiyd": "178° (Y)/178° (D)",
+          "integration_ekran_duzkavisli": "Düz",
+          "integration_agirlik_stantsizsetagirligi": "3,6 kg",
+          "integration_arabirim_usbmerkezi": "Hayır",
+          "integration_aksesuar_dvikablosu": "Hayır",
+          "erp_arabirim_dvi": "Hayır",
+          "erp_ekran_etkinekranboyutuyxdmm": "596,736 mm x 335,664 mm",
+          "erp_ekran_yanitsuresi": "5 ms (GTG)",
+          "erp_ekran_cozunurluk": "2.560 x 1.440",
+          "erp_genelozellikler_freesync": "Evet"
+        },
+        "attribute_set": 11,
+        "attributes_kwargs": {
+          "integration_arabirim_ciftbaglantilidvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdmi": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "mp_sync": {
+            "value": "FreeSync",
+            "data_type": "dropdown",
+            "label": "FreeSync"
+          },
+          "integration_aksesuar_dvikablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "mp_dvi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikis": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_boyutu": {
+            "value": "27 inç",
+            "data_type": "dropdown",
+            "label": "27 inç"
+          },
+          "integration_aksesuar_dsubkablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_tepki_suresi": {
+            "value": "5 ms",
+            "data_type": "dropdown",
+            "label": "5 ms"
+          },
+          "mp_ekran_teknolojisi": {
+            "value": "4K Ultra HD",
+            "data_type": "dropdown",
+            "label": "4K Ultra HD"
+          },
+          "integration_aksesuar_usb30kablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_uydu_alici": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_display_port": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_cozunurluk": {
+            "value": "2560 x 1440",
+            "data_type": "dropdown",
+            "label": "2560 x 1440"
+          },
+          "integration_aksesuar_dpkablosu": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_arabirim_usbmerkezi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_arabirim_kablosuzekran": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdcp": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_3d": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_vesa_uyumlulugu": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_genelozellikler_gozkoruyucumodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_hdmikablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_ecosavingplus": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_freesync": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_arabirim_usbc": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_curved": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_aksesuar_kurulumcd": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_resimboyutu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_genelozellikler_titresimsiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_miniekrancinsi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kontrast": {
+            "value": "1000:1",
+            "data_type": "dropdown",
+            "label": "1000:1"
+          },
+          "mp_goruntu_teknolojisi": {
+            "value": "IPS",
+            "data_type": "dropdown",
+            "label": "IPS"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "2.560 x 1.440",
+            "data_type": "dropdown",
+            "label": "2.560 x 1.440"
+          },
+          "mp_vga": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_coz_standart": {
+            "value": "QHD",
+            "data_type": "dropdown",
+            "label": "QHD"
+          },
+          "mp_n11_pivot": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_dahili_hoparlor": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "inc_monitor": {
+            "value": "24-27",
+            "data_type": "dropdown",
+            "label": "24-27"
+          },
+          "integration_ekran_ekranboyutusinif": {
+            "value": "27",
+            "data_type": "dropdown",
+            "label": "27\""
+          },
+          "mp_mini_displayport": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_kullanim_amaci": {
+            "value": "Ofis - İş",
+            "data_type": "dropdown",
+            "label": "Ofis - İş"
+          },
+          "integration_arabirim_dvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_yenileme_hizi": {
+            "value": "75 Hz",
+            "data_type": "dropdown",
+            "label": "75 Hz"
+          },
+          "mp_panel_tipi": {
+            "value": "Mekanik",
+            "data_type": "dropdown",
+            "label": "Mekanik"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29984,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/2bca0cb2-f938-48f0-9df7-86f05dea5b92.jpg",
+            "order": 1,
+            "created_date": "2022-12-01T13:32:41.637902Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29985,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/69e0dacc-fbba-42a7-87d9-9a606326e496.jpg",
+            "order": 2,
+            "created_date": "2022-12-01T13:33:07.441044Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29986,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/011ba25f-2d2d-422c-8501-f8b7d8705229.jpg",
+            "order": 3,
+            "created_date": "2022-12-01T13:33:07.503268Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29987,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/7e0e6449-2246-4e5d-88f9-75e4711ddbaf.jpg",
+            "order": 4,
+            "created_date": "2022-12-01T13:33:07.570792Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29988,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/1822fb47-006b-4eff-b33e-c0aac98a1aec.jpg",
+            "order": 5,
+            "created_date": "2022-12-01T13:33:07.637160Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29989,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/afe0f84d-5f0c-459c-ba89-a8162f403131.jpg",
+            "order": 6,
+            "created_date": "2022-12-01T13:33:07.696906Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29990,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/943280a0-0206-484c-917c-b1910aad725e.jpg",
+            "order": 7,
+            "created_date": "2022-12-01T13:33:07.779427Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29991,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/055c1979-64a5-4cee-9073-d89625804ea8.jpg",
+            "order": 8,
+            "created_date": "2022-12-01T13:33:07.846081Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "6499",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "6475",
+        "unit_type": "qty",
+        "absolute_url": "/tr/27-viewfinity-qhd-75hz-ips-display-port-hdmi-has-pivot-cercevesiz-monitor/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 24,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutusinif",
+              "options": [
+                {
+                  "product": {
+                    "name": "27” Viewfinity QHD 75Hz IPS Display Port HDMI HAS PIVOT Çerçevesiz Monitör",
+                    "absolute_url": "/tr/27-viewfinity-qhd-75hz-ips-display-port-hdmi-has-pivot-cercevesiz-monitor/",
+                    "price": "6499",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_ekran_ekranboyutusinif": "27",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5781,
+                    "retail_price": "6475",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/2bca0cb2-f938-48f0-9df7-86f05dea5b92.jpg",
+                        "created_date": "2022-12-01T13:32:41.637902Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29984,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/69e0dacc-fbba-42a7-87d9-9a606326e496.jpg",
+                        "created_date": "2022-12-01T13:33:07.441044Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29985,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/011ba25f-2d2d-422c-8501-f8b7d8705229.jpg",
+                        "created_date": "2022-12-01T13:33:07.503268Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29986,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/7e0e6449-2246-4e5d-88f9-75e4711ddbaf.jpg",
+                        "created_date": "2022-12-01T13:33:07.570792Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29987,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/1822fb47-006b-4eff-b33e-c0aac98a1aec.jpg",
+                        "created_date": "2022-12-01T13:33:07.637160Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29988,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/afe0f84d-5f0c-459c-ba89-a8162f403131.jpg",
+                        "created_date": "2022-12-01T13:33:07.696906Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29989,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/943280a0-0206-484c-917c-b1910aad725e.jpg",
+                        "created_date": "2022-12-01T13:33:07.779427Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29990,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/12/01/15742/055c1979-64a5-4cee-9073-d89625804ea8.jpg",
+                        "created_date": "2022-12-01T13:33:07.846081Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29991,
+                        "order": 8
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "27\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5749,
+        "name": "M5 Serisi 27” FHD Akıllı Monitör (Beyaz)",
+        "sku": "LS27BM501EUXUF",
+        "base_code": "417769",
+        "attributes": {
+          "erp_akillihizmet_evrenselkilavuz": "Evet (GB, FR, DE, IT, ES)",
+          "erp_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls27bm501euxuf-energylabel.pdf",
+          "integration_product_type_code": "PT_CD_MONITOR",
+          "erp_agirlik_stantlabirliktesetagirligi": "5.0 kg",
+          "integration_grade": "F",
+          "erp_guc_tipi": "Dahili Güç",
+          "erp_ekran_statikkontrastorani": "3.000:1(Normal)",
+          "mp_hdmi": "Var",
+          "erp_guc_guctuketimitip": "26.0 W",
+          "integration_ekran_yanitsuresi": "4ms(GTG)",
+          "mp_ekran_teknolojisi": "Full HD",
+          "mp_ekran_boyutu": "27 inç",
+          "erp_ekran_parlakliktipik": "250 cd/㎡",
+          "integration_category_code_path": "07000000|07010000|07010500",
+          "erp_boyutlar_stantsizsetboyutugxyxd": "615.5 x 367.9 x 41.8 mm",
+          "integration_arabirim_kablosuzekran": "Evet",
+          "mp_panel_tipi": "Mekanik",
+          "erp_arabirim_kulaklikcikisi": "Hayır",
+          "erp_akillihizmet_smarttype": "Smart",
+          "integration_arabirim_hdmi": "2 EA",
+          "erp_akillihizmet_tasinabilircihazdanekranagoruntuaktarmadlna": "Evet",
+          "mp_hdcp": "Yok",
+          "erp_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "erp_akillihizmet_dokunveizle": "Evet",
+          "mp_kargo": "yurtici",
+          "erp_grade": "F",
+          "integration_calismakosullari_sicaklik": "10 ~ 40 ℃",
+          "erp_product_type_code": "PT_CD_MONITOR",
+          "integration_gradeEnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls27bm501euxuf-energylabel.pdf",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_aksesuar_hdmikablosu": "Evet",
+          "erp_aksesuar_uzaktankumanda": "Evet",
+          "mp_dvi": "Yok",
+          "integration_agirlik_ambalajagirligi": "6.2 kg",
+          "erp_tasarim_stanttipi": "SADE",
+          "erp_arabirim_sesgirisi": "Hayır",
+          "integration_ekran_paneltipi": "VA",
+          "integration_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "mp_coz_standart": "Full HD (FHD)",
+          "erp_tasarim_egme": "-2.0°（±2.0°）~+22.0°（±2.0°）",
+          "erp_ses_hoparlor": "Hayır",
+          "erp_aksesuar_guckablosuuzunlugu": "1.5 m",
+          "integration_ekran_parlaklikmin": "200 cd/㎡",
+          "erp_boyutlar_stantlabirliktesetboyutugxyxd": "615.5 x 455.4 x 193.5 mm",
+          "integration_ekran_yenilemehizi": "Maks. 60Hz",
+          "mp_dahili_hoparlor": "Yok",
+          "integration_boyutlar_stantsizsetboyutugxyxd": "615.5 x 367.9 x 41.8 mm",
+          "erp_akillihizmet_isletimsistemi": "Tizen™",
+          "erp_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "integration_model_name": "S27BM501EU",
+          "mp_ekran_yenileme_hizi": "60 Hz",
+          "integration_guc_guctuketimiyillik": "38 kWh/yıl",
+          "erp_akillihizmet_webservice": "Microsoft 365",
+          "mp_trendyol_kargo": "3",
+          "erp_boyutlar_ambalajboyutugxyxd": "738.0 x 126.0 x 428.0 mm",
+          "mp_sync": "FreeSync",
+          "integration_genelozellikler_oyunmodu": "Evet",
+          "erp_aksesuar_miniekrancinsi": "Hayır",
+          "integration_arabirim_ekranbaglantinoktasicikis": "Hayır",
+          "erp_calismakosullari_sicaklik": "10 ~ 40 ℃",
+          "mp_tepki_suresi": "4 ms",
+          "mp_uydu_alici": "Yok",
+          "erp_genelozellikler_windowssertifikasi": "Windows 10",
+          "erp_category_code_path": "07000000|07010000|07010500",
+          "erp_akillihizmet_uzaktanerisim": "Evet",
+          "erp_guc_guckaynagi": "AC 100 ~ 240V",
+          "integration_guc_guctuketimidpms": "0.50 W",
+          "erp_akillihizmet_sesyansitma": "Evet",
+          "mp_3d": "Yok",
+          "integration_ekran_ekranboyutucm": "68",
+          "erp_arabirim_bluetooth": "Evet (BT4.2)",
+          "integration_product_subtype_name": "LED Monitor",
+          "integration_ekran_statikkontrastorani": "3.000:1(Normal)",
+          "integration_guc_guctuketimimaks": "50 W",
+          "integration_guc_guckaynagi": "AC 100 ~ 240V",
+          "integration_guc_guctuketimitip": "26.0 W",
+          "product_desi": "25",
+          "integration_arabirim_dvi": "Hayır",
+          "erp_agirlik_ambalajagirligi": "6.2 kg",
+          "erp_ekran_parlaklikmin": "200 cd/㎡",
+          "erp_product_subtype_code": "PT_CD_MONITOR_01",
+          "integration_ses_hoparlor": "Hayır",
+          "erp_product_subtype_name": "LED Monitor",
+          "erp_arabirim_dvi": "Hayır",
+          "integration_ekran_renkdestegi": "Maksimum 1B",
+          "inc_monitor": "24-27",
+          "erp_eko_enerjiverimliliksinifi": "F",
+          "integration_guc_tipi": "Dahili Güç",
+          "erp_ekran_hdryuksekdinamikaralik": "HDR10",
+          "mp_kullanim_amaci": "Ofis - İş",
+          "erp_arabirim_microhdmi": "Hayır",
+          "erp_genelozellikler_uyumsaglayangoruntu": "Evet",
+          "erp_ekran_yenilemehizi": "Maks. 60Hz",
+          "integration_arabirim_ciftbaglantilidvi": "Hayır",
+          "erp_gradecolor": "#f37021",
+          "integration_ekran_parlakliktipik": "250 cd/㎡",
+          "erp_ekran_renkdestegi": "Maksimum 1B",
+          "integration_usptext": "Dahili smart uygulamalar\nKablosuz olarak bilgisayardaki dosyalarınıza erişin\nYalnızca bir monitörle ev içi IoT cihazlarını kolayca kontrol edin",
+          "erp_genelozellikler_oyunmodu": "Evet",
+          "integration_aksesuar_hdmikablosu": "Evet",
+          "integration_arabirim_ekranbaglantinoktasiversiyonu": "Hayır",
+          "erp_arabirim_hdmiversiyonu": "1.4",
+          "erp_product_type_name": "Monitor",
+          "erp_tasarim_duvaramonteedilebilir": "100 x 100",
+          "erp_color": "BEYAZ",
+          "erp_arabirim_ekranbaglantinoktasiversiyonu": "Hayır",
+          "erp_genelozellikler_gamebar20": "Evet",
+          "erp_tasarim_onrenk": "BEYAZ",
+          "erp_tasarim_arkarenk": "BEYAZ",
+          "integration_arabirim_sesgirisi": "Hayır",
+          "integration_color_code": "#ffffff",
+          "erp_guc_guctuketimiyillik": "38 kWh/yıl",
+          "integration_color": "BEYAZ",
+          "mp_cozunurluk": "1920 x 1080",
+          "erp_arabirim_usbmerkezi": "2",
+          "erp_category_name_path": "Display|Monitör|Düz",
+          "integration_boyutlar_ambalajboyutugxyxd": "738.0 x 126.0 x 428.0 mm",
+          "erp_guc_guctuketimidpms": "0.50 W",
+          "erp_ean": "8806094253870",
+          "integration_category_code": "07010500",
+          "erp_arabirim_dahilikamera": "Hayır",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "integration_categoryenglishnamepath": "Display|Monitors|Flat",
+          "erp_ekran_ekranboyutusinif": "27",
+          "mp_curved": "Yok",
+          "erp_agirlik_stantsizsetagirligi": "3.9 kg",
+          "integration_aksesuar_miniekrancinsi": "Hayır",
+          "mp_kontrast": "1000:1",
+          "mp_goruntu_teknolojisi": "LED",
+          "erp_ekran_paneltipi": "VA",
+          "erp_arabirim_kablosuzekran": "Evet",
+          "erp_arabirim_ekranbaglantinoktasi": "Hayır",
+          "erp_akillihizmet_smartthingsuygulamasinidestekler": "Evet",
+          "erp_genelozellikler_autosourceswitch": "Evet",
+          "mp_n11_pivot": "Evet",
+          "integration_product_type_name": "Monitor",
+          "integration_agirlik_stantlabirliktesetagirligi": "5.0 kg",
+          "erp_akillihizmet_smartthings": "Evet",
+          "integration_ekran_ekranboyutusinif": "27",
+          "mp_mini_displayport": "Yok",
+          "erp_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls27bm501euxuf-productfiche.pdf",
+          "integration_genelozellikler_titresimsiz": "Evet",
+          "integration_tasarim_duvaramonteedilebilir": "100 x 100",
+          "b2b_purchase_limit_per_basket": "2",
+          "integration_gradeFicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls27bm501euxuf-productfiche.pdf",
+          "erp_categoryenglishnamepath": "Display|Monitors|Flat",
+          "erp_color_code": "#ffffff",
+          "erp_category_code": "07010500",
+          "erp_ekran_duzkavisli": "Düz",
+          "erp_akillihizmet_tvplus": "Evet (GB, FR, DE, IT, ES, CH, AT, NL, SE, NO, DK, FI, PT, IE, BE, LU)",
+          "integration_gradecolor": "#f37021",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_genelozellikler_ultragenisoyungoruntusu": "Evet",
+          "erp_calismakosullari_nem": "10 ~ 80 (donmayan)",
+          "integration_category_name_path": "Display|Monitör|Düz",
+          "drk_name": "Samsung M5 Serisi 27” FHD Akıllı Monitör (Beyaz)",
+          "integration_tasarim_stanttipi": "SADE",
+          "mp_display_port": "Yok",
+          "integration_arabirim_kulaklikcikisi": "Hayır",
+          "erp_ekran_izlemeacisiyd": "178°(Y)/178°(D)",
+          "erp_guc_guctuketimimaks": "50 W",
+          "erp_ekran_yanitsuresi": "4ms(GTG)",
+          "mp_vga": "Yok",
+          "erp_akillihizmet_connectsharetmusb20": "Evet",
+          "erp_usptext": "Dahili smart uygulamalar\nKablosuz olarak bilgisayardaki dosyalarınıza erişin\nYalnızca bir monitörle ev içi IoT cihazlarını kolayca kontrol edin",
+          "integration_ean": "8806094253870",
+          "erp_arabirim_wifi": "Evet (WiFi5)",
+          "mp_vesa_uyumlulugu": "Var",
+          "integration_genelozellikler_gozkoruyucumodu": "Evet",
+          "integration_genelozellikler_windowssertifikasi": "Windows 10",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_arabirim_hdmiversiyonu": "1.4",
+          "erp_arabirim_dsub": "Hayır",
+          "integration_arabirim_usbc": "Hayır",
+          "integration_calismakosullari_nem": "10 ~ 80 (donmayan)",
+          "integration_arabirim_ekranbaglantinoktasi": "Hayır",
+          "integration_arabirim_dsub": "Hayır",
+          "integration_product_subtype_code": "PT_CD_MONITOR_01",
+          "erp_genelozellikler_titresimsiz": "Evet",
+          "erp_model_name": "S27BM501EU",
+          "integration_boyutlar_stantlabirliktesetboyutugxyxd": "615.5 x 455.4 x 193.5 mm",
+          "mp_hb_kargo": "3",
+          "integration_ekran_hdryuksekdinamikaralik": "HDR10",
+          "integration_ekran_cozunurluk": "1,920 x 1,080",
+          "erp_arabirim_hdmi": "2 EA",
+          "erp_arabirim_usbc": "Hayır",
+          "erp_genelozellikler_gozkoruyucumodu": "Evet",
+          "erp_akillihizmet_goruntuluiletisim": "Google Duo",
+          "integration_arabirim_miniekranbaglantinoktasi": "Hayır",
+          "integration_ekran_izlemeacisiyd": "178°(Y)/178°(D)",
+          "integration_ekran_duzkavisli": "Düz",
+          "integration_agirlik_stantsizsetagirligi": "3.9 kg",
+          "erp_genelozellikler_hdmicec": "Evet",
+          "integration_arabirim_usbmerkezi": "2",
+          "erp_tasarim_stantrengi": "BEYAZ",
+          "erp_ekran_cozunurluk": "1,920 x 1,080"
+        },
+        "attribute_set": 11,
+        "attributes_kwargs": {
+          "integration_arabirim_ciftbaglantilidvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_hdmi": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_ekran_hdryuksekdinamikaralik": {
+            "value": "HDR10",
+            "data_type": "dropdown",
+            "label": "HDR10"
+          },
+          "mp_sync": {
+            "value": "FreeSync",
+            "data_type": "dropdown",
+            "label": "FreeSync"
+          },
+          "integration_genelozellikler_oyunmodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_dvi": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_ekranbaglantinoktasicikis": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_boyutu": {
+            "value": "27 inç",
+            "data_type": "dropdown",
+            "label": "27 inç"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_tepki_suresi": {
+            "value": "4 ms",
+            "data_type": "dropdown",
+            "label": "4 ms"
+          },
+          "mp_ekran_teknolojisi": {
+            "value": "Full HD",
+            "data_type": "dropdown",
+            "label": "Full HD"
+          },
+          "mp_uydu_alici": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_display_port": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_color": {
+            "value": "BEYAZ",
+            "data_type": "dropdown",
+            "label": "Beyaz"
+          },
+          "mp_cozunurluk": {
+            "value": "1920 x 1080",
+            "data_type": "dropdown",
+            "label": "1920 x 1080"
+          },
+          "mp_vga": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_usbmerkezi": {
+            "value": "2",
+            "data_type": "dropdown",
+            "label": "2"
+          },
+          "integration_arabirim_kablosuzekran": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_hdcp": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_3d": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_arabirim_usbc": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_vesa_uyumlulugu": {
+            "value": "Var",
+            "data_type": "dropdown",
+            "label": "Var"
+          },
+          "integration_genelozellikler_gozkoruyucumodu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_hdmikablosu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_kargo": {
+            "value": "yurtici",
+            "data_type": "dropdown",
+            "label": "yurtici"
+          },
+          "mp_curved": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "integration_genelozellikler_titresimsiz": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_miniekrancinsi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_kontrast": {
+            "value": "1000:1",
+            "data_type": "dropdown",
+            "label": "1000:1"
+          },
+          "mp_goruntu_teknolojisi": {
+            "value": "LED",
+            "data_type": "dropdown",
+            "label": "LED"
+          },
+          "integration_ekran_cozunurluk": {
+            "value": "1,920 x 1,080",
+            "data_type": "dropdown",
+            "label": "1,920 x 1,080"
+          },
+          "mp_coz_standart": {
+            "value": "Full HD (FHD)",
+            "data_type": "dropdown",
+            "label": "Full HD (FHD)"
+          },
+          "mp_n11_pivot": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_dahili_hoparlor": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "inc_monitor": {
+            "value": "24-27",
+            "data_type": "dropdown",
+            "label": "24-27"
+          },
+          "integration_ekran_ekranboyutusinif": {
+            "value": "27",
+            "data_type": "dropdown",
+            "label": "27\""
+          },
+          "mp_mini_displayport": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_kullanim_amaci": {
+            "value": "Ofis - İş",
+            "data_type": "dropdown",
+            "label": "Ofis - İş"
+          },
+          "integration_arabirim_dvi": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ekran_yenileme_hizi": {
+            "value": "60 Hz",
+            "data_type": "dropdown",
+            "label": "60 Hz"
+          },
+          "mp_panel_tipi": {
+            "value": "Mekanik",
+            "data_type": "dropdown",
+            "label": "Mekanik"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29970,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/25/15676/70c80cae-b7f6-412b-8492-df577bae7554.jpg",
+            "order": 0,
+            "created_date": "2022-11-25T10:59:39.155018Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29971,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/25/15676/cf49c03a-65de-465c-96bf-20f56ab53dd5.jpg",
+            "order": 1,
+            "created_date": "2022-11-25T10:59:39.313730Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29972,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/25/15676/ec754c58-afb2-4cce-a262-c951c99dfd08.jpg",
+            "order": 2,
+            "created_date": "2022-11-25T10:59:39.490795Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29973,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/25/15676/b82dc6fe-e1aa-4389-bad0-0fb819d8dd40.jpg",
+            "order": 3,
+            "created_date": "2022-11-25T10:59:39.535709Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29974,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/25/15676/8d05e3cb-253e-43bf-b3d7-ded2f094584c.jpg",
+            "order": 4,
+            "created_date": "2022-11-25T10:59:39.606122Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "4199",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "5550",
+        "unit_type": "qty",
+        "absolute_url": "/tr/m5-serisi-27-fhd-akilli-monitor-beyaz/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 327,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_ekran_ekranboyutusinif",
+              "options": [
+                {
+                  "product": {
+                    "name": "M5 Serisi 27” FHD Akıllı Monitör (Beyaz)",
+                    "absolute_url": "/tr/m5-serisi-27-fhd-akilli-monitor-beyaz/",
+                    "price": "4199",
+                    "attributes": {
+                      "integration_color_code": "#ffffff",
+                      "integration_ekran_ekranboyutusinif": "27",
+                      "integration_color": "BEYAZ"
+                    },
+                    "pk": 5749,
+                    "retail_price": "5550",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/25/15676/70c80cae-b7f6-412b-8492-df577bae7554.jpg",
+                        "created_date": "2022-11-25T10:59:39.155018Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29970,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/25/15676/cf49c03a-65de-465c-96bf-20f56ab53dd5.jpg",
+                        "created_date": "2022-11-25T10:59:39.313730Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29971,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/25/15676/ec754c58-afb2-4cce-a262-c951c99dfd08.jpg",
+                        "created_date": "2022-11-25T10:59:39.490795Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29972,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/25/15676/b82dc6fe-e1aa-4389-bad0-0fb819d8dd40.jpg",
+                        "created_date": "2022-11-25T10:59:39.535709Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29973,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/25/15676/8d05e3cb-253e-43bf-b3d7-ded2f094584c.jpg",
+                        "created_date": "2022-11-25T10:59:39.606122Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29974,
+                        "order": 4
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "27\""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5719,
+        "name": "Modern Kişiselleştirilebilir Çerçeve (21/22 The Frame TV)",
+        "sku": "VG-SCFA75BEBRU",
+        "base_code": "90698",
+        "attributes": {
+          "integration_usptext": "Kişiselleştirilebilir Çerçeve\nKendi renginizi seçin\nKişiselleştirilebilir çerçeve tarzı",
+          "erp_color_code": "#d4b895",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_category_code": "04031000",
+          "erp_product_type_name": "TV Accessory",
+          "erp_uyum_inc": "75\"",
+          "integration_uyum_inc": "75\"",
+          "erp_color": "Tik Rengi",
+          "erp_aksesuar_garanti": "Evet",
+          "integration_agirlik_paket": "1.17 Kg",
+          "drk_name": "Samsung Kişiselleştirilebilir Çerçeve (VG-SCFA) Bej",
+          "integration_color_code": "#d4b895",
+          "integration_category_name_path": "TV/AV|TV-Accessories|Customizable Frame",
+          "erp_boyutlar_urunustaltuxgxy": "1685.5 x 24.6 x 19.5 mm",
+          "erp_category_code_path": "04000000|04030000|04031000",
+          "erp_boyutlar_paketgxyxd": "1772 x 94 x 90 mm",
+          "erp_category_name_path": "TV/AV|TV-Accessories|Customizable Frame",
+          "integration_aksesuar_garanti": "Evet",
+          "erp_categoryenglishnamepath": "Television|TV-Accessories|Customizable Frame",
+          "erp_usptext": "Kişiselleştirilebilir Çerçeve\nKendi renginizi seçin\nKişiselleştirilebilir çerçeve tarzı",
+          "integration_ean": "8806092629967",
+          "erp_boyutlar_urunayrildisaguxgxy": "965.8 x 24.6 x 19.5 mm",
+          "erp_ean": "8806092629967",
+          "integration_category_code": "04031000",
+          "erp_model_name": "VG-SCFA75BEB",
+          "purchase_limit_per_basket": "1",
+          "erp_ozellik_type": "Plastik",
+          "integration_categoryenglishnamepath": "Television|TV-Accessories|Customizable Frame",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_07",
+          "integration_color": "Bej",
+          "integration_product_subtype_name": "Others",
+          "integration_ozellik_renk": "Bej",
+          "erp_agirlik_paket": "1.17 Kg",
+          "integration_category_code_path": "04000000|04030000|04031000",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_07",
+          "erp_product_subtype_name": "Others",
+          "erp_agirlik_set": "0.67 Kg",
+          "integration_product_type_name": "TV Accessory",
+          "erp_uyum_uyumlumodel": "LS03A",
+          "erp_ozellik_renk": "Bej",
+          "integration_model_name": "VG-SCFA75BEB"
+        },
+        "attribute_set": 232,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Bej",
+            "data_type": "dropdown",
+            "label": "Bej"
+          },
+          "integration_aksesuar_garanti": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29939,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14258/d607b9e8-2cea-41b4-ac71-b037d7beef6e.jpg",
+            "order": 0,
+            "created_date": "2022-11-10T15:15:20.406201Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29940,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14258/3ceb8537-c26c-450d-800f-389ac8ec1d60.jpg",
+            "order": 1,
+            "created_date": "2022-11-10T15:15:20.490878Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29941,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14258/80e4b28e-d388-4cf9-b205-aba42b41c396.jpg",
+            "order": 2,
+            "created_date": "2022-11-10T15:15:20.532801Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1499",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "1499",
+        "unit_type": "qty",
+        "absolute_url": "/tr/modern-kisisellestirilebilir-cerceve-21-22-the-frame-tv-3/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 15,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Modern Kişiselleştirilebilir Çerçeve (21/22 The Frame TV)",
+                    "absolute_url": "/tr/modern-kisisellestirilebilir-cerceve-21-22-the-frame-tv-3/",
+                    "price": "1499",
+                    "attributes": {
+                      "integration_color_code": "#d4b895",
+                      "integration_color": "Bej"
+                    },
+                    "pk": 5719,
+                    "retail_price": "1499",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14258/d607b9e8-2cea-41b4-ac71-b037d7beef6e.jpg",
+                        "created_date": "2022-11-10T15:15:20.406201Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29939,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14258/3ceb8537-c26c-450d-800f-389ac8ec1d60.jpg",
+                        "created_date": "2022-11-10T15:15:20.490878Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29940,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14258/80e4b28e-d388-4cf9-b205-aba42b41c396.jpg",
+                        "created_date": "2022-11-10T15:15:20.532801Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29941,
+                        "order": 2
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Bej"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5716,
+        "name": "Modern Kişiselleştirilebilir Çerçeve (21/22 The Frame TV)",
+        "sku": "VG-SCFA85BEBRU",
+        "base_code": "0698",
+        "attributes": {
+          "integration_usptext": "Kişiselleştirilebilir Çerçeve\nKendi renginizi seçin\nKişiselleştirilebilir çerçeve tarzı",
+          "erp_color_code": "#d4b895",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_category_code": "04031000",
+          "erp_aksesuar_hizlikilavuz": "Evet",
+          "erp_product_type_name": "TV Accessory",
+          "erp_uyum_inc": "85\"",
+          "integration_uyum_inc": "85\"",
+          "erp_color": "Tik Rengi",
+          "erp_aksesuar_garanti": "1 year",
+          "integration_agirlik_paket": "1.51 kg",
+          "drk_name": "Samsung Kişiselleştirilebilir Çerçeve (VG-SCFA) Bej",
+          "integration_color_code": "#d4b895",
+          "integration_category_name_path": "TV/AV|TV-Accessories|Customizable Frame",
+          "erp_boyutlar_urunustaltuxgxy": "1907.5 x 24.6 x 19.8 mm",
+          "erp_category_code_path": "04000000|04030000|04031000",
+          "erp_boyutlar_paketgxyxd": "2009 x 94 x 90 mm",
+          "erp_category_name_path": "TV/AV|TV-Accessories|Customizable Frame",
+          "integration_aksesuar_garanti": "1 year",
+          "erp_categoryenglishnamepath": "Television|TV-Accessories|Customizable Frame",
+          "erp_usptext": "Kişiselleştirilebilir Çerçeve\nKendi renginizi seçin\nKişiselleştirilebilir çerçeve tarzı",
+          "integration_ean": "8806092775831",
+          "erp_boyutlar_urunayrildisaguxgxy": "1091.6 x 24.6 x 19.8 mm",
+          "erp_ean": "8806092775831",
+          "integration_category_code": "04031000",
+          "erp_model_name": "VG-SCFA85BEB",
+          "purchase_limit_per_basket": "1",
+          "erp_ozellik_type": "Plastik",
+          "integration_categoryenglishnamepath": "Television|TV-Accessories|Customizable Frame",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_07",
+          "integration_color": "Bej",
+          "integration_product_subtype_name": "Others",
+          "integration_ozellik_renk": "Bej",
+          "erp_agirlik_paket": "1.51 kg",
+          "integration_category_code_path": "04000000|04030000|04031000",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_07",
+          "erp_product_subtype_name": "Others",
+          "erp_agirlik_set": "0.73 kg",
+          "integration_product_type_name": "TV Accessory",
+          "erp_uyum_uyumlumodel": "LS03A",
+          "erp_ozellik_renk": "Bej",
+          "integration_model_name": "VG-SCFA85BEB"
+        },
+        "attribute_set": 232,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Bej",
+            "data_type": "dropdown",
+            "label": "Bej"
+          },
+          "integration_aksesuar_garanti": {
+            "value": "1 year",
+            "data_type": "dropdown",
+            "label": "1 year"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29945,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14259/c668039c-12ac-4dc1-81d3-864b07ae5c7d.jpg",
+            "order": 0,
+            "created_date": "2022-11-10T15:15:20.758977Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29946,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14259/dd95dfc9-1226-429e-afa0-b1a9ca85f97a.jpg",
+            "order": 1,
+            "created_date": "2022-11-10T15:15:20.833233Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29947,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14259/472ce9d0-6f72-4855-8aa4-25640521190d.jpg",
+            "order": 2,
+            "created_date": "2022-11-10T15:15:20.877093Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1599",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "1599",
+        "unit_type": "qty",
+        "absolute_url": "/tr/modern-kisisellestirilebilir-cerceve-21-22-the-frame-tv-4/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 15,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Modern Kişiselleştirilebilir Çerçeve (21/22 The Frame TV)",
+                    "absolute_url": "/tr/modern-kisisellestirilebilir-cerceve-21-22-the-frame-tv-4/",
+                    "price": "1599",
+                    "attributes": {
+                      "integration_color_code": "#d4b895",
+                      "integration_color": "Bej"
+                    },
+                    "pk": 5716,
+                    "retail_price": "1599",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14259/c668039c-12ac-4dc1-81d3-864b07ae5c7d.jpg",
+                        "created_date": "2022-11-10T15:15:20.758977Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29945,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14259/dd95dfc9-1226-429e-afa0-b1a9ca85f97a.jpg",
+                        "created_date": "2022-11-10T15:15:20.833233Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29946,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14259/472ce9d0-6f72-4855-8aa4-25640521190d.jpg",
+                        "created_date": "2022-11-10T15:15:20.877093Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29947,
+                        "order": 2
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Bej"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5714,
+        "name": "Otomatik Döner Duvara Monte Aparatı (55”-65”)",
+        "sku": "VG-ARAB43WMTXC",
+        "base_code": "426005",
+        "attributes": {
+          "integration_usptext": "Dönen ekranın sunduğu imkanları keşfedin\nİçerikleri sevdiğiniz şekilde izleyin\nMobil içeriğiniz artık daha büyük",
+          "erp_color_code": "#000000",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_category_code": "04030300",
+          "integration_agirlik_urun": "6.7 kg",
+          "erp_product_type_name": "TV Accessory",
+          "erp_color": "Siyah",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_agirlik_urun": "6.7 kg",
+          "integration_agirlik_paket": "8.7",
+          "drk_name": "Samsung Otomatik Döner Duvara Monte Aparatı (55”-65”) Siyah",
+          "erp_boyutlar_productwxhxd": "512 x 458 x 24.3 mm",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3.0",
+          "integration_category_name_path": "TV/AV|TV-Accessories|Floor Stand",
+          "integration_category_code_path": "04000000|04030000|04030300",
+          "erp_category_code_path": "04000000|04030000|04030300",
+          "erp_boyutlar_paketgxyxd": "600 x 103 x 509 mm",
+          "erp_category_name_path": "TV/AV|TV-Accessories|Floor Stand",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Television|TV-Accessories|Floor Stands",
+          "erp_usptext": "Dönen ekranın sunduğu imkanları keşfedin\nİçerikleri sevdiğiniz şekilde izleyin\nMobil içeriğiniz artık daha büyük",
+          "integration_ean": "8806094284263",
+          "erp_ean": "8806094284263",
+          "integration_category_code": "04030300",
+          "erp_model_name": "VG-ARAB43WMT",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "erp_aksesuar_hizlikilavuz": "Evet",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Television|TV-Accessories|Floor Stands",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_07",
+          "integration_color": "Siyah",
+          "integration_product_subtype_name": "Others",
+          "erp_agirlik_paket": "8.7",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_07",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_product_subtype_name": "Others",
+          "integration_product_type_name": "TV Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "erp_uyum_uyumlumodel": "65LS03B, 55QN95B, 65QN95B, 55QN700B, 65QN700B, 65QN800B, 65QN900B",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "VG-ARAB43WMT"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29930,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/2ccf6c52-02f6-4fc0-b481-96869b86bfbf.jpg",
+            "order": 0,
+            "created_date": "2022-11-08T16:29:07.164184Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29935,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/b6967e8a-faef-4e75-bbc0-9f901a932314.jpg",
+            "order": 1,
+            "created_date": "2022-11-08T16:29:07.443993Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29934,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/1c8415f0-8fca-49f2-83b9-04ad84cd4dfe.jpg",
+            "order": 2,
+            "created_date": "2022-11-08T16:29:07.401188Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29933,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/ab546eeb-729f-4272-92e4-fbc02b345f98.jpg",
+            "order": 3,
+            "created_date": "2022-11-08T16:29:07.363197Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29932,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/3992890b-b662-44bd-a791-ba38009c55eb.jpg",
+            "order": 4,
+            "created_date": "2022-11-08T16:29:07.311840Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29931,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/b779e6fd-b136-4ac8-ab8f-7eeadae64ae1.jpg",
+            "order": 5,
+            "created_date": "2022-11-08T16:29:07.273121Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "16999",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "16999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/otomatik-doner-duvara-monte-aparati-55-65/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 4,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Otomatik Döner Duvara Monte Aparatı (55”-65”)",
+                    "absolute_url": "/tr/otomatik-doner-duvara-monte-aparati-55-65/",
+                    "price": "16999",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5714,
+                    "retail_price": "16999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/2ccf6c52-02f6-4fc0-b481-96869b86bfbf.jpg",
+                        "created_date": "2022-11-08T16:29:07.164184Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29930,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/b6967e8a-faef-4e75-bbc0-9f901a932314.jpg",
+                        "created_date": "2022-11-08T16:29:07.443993Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29935,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/1c8415f0-8fca-49f2-83b9-04ad84cd4dfe.jpg",
+                        "created_date": "2022-11-08T16:29:07.401188Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29934,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/ab546eeb-729f-4272-92e4-fbc02b345f98.jpg",
+                        "created_date": "2022-11-08T16:29:07.363197Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29933,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/3992890b-b662-44bd-a791-ba38009c55eb.jpg",
+                        "created_date": "2022-11-08T16:29:07.311840Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29932,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14473/b779e6fd-b136-4ac8-ab8f-7eeadae64ae1.jpg",
+                        "created_date": "2022-11-08T16:29:07.273121Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29931,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5709,
+        "name": "The Freestyle Kutu VG-SCLA00G/ZN",
+        "sku": "VG-SCLA00G/ZN",
+        "base_code": "426054",
+        "attributes": {
+          "integration_usptext": "The Freestyle gittiğiniz her yere taşıyın\nKompakt ve şık tasarım\nThe Freestyle’nızı koruyun",
+          "erp_color_code": "#008000",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_category_code": "04060100",
+          "integration_agirlik_urun": "0.53 kg",
+          "erp_product_type_name": "TV Accessory",
+          "erp_color": "Yeşil",
+          "erp_aksesuar_garanti": "1",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_agirlik_urun": "0.53 kg",
+          "integration_agirlik_paket": "0.63",
+          "drk_name": "Samsung The Freestyle Kutu VG-SCLA00G/ZN Yeşil",
+          "erp_boyutlar_productwxhxd": "113.3 x 121.3 x 186.1 mm",
+          "integration_color_code": "#008000",
+          "mp_kargo_suresi": "3.0",
+          "integration_category_name_path": "TV/AV|Projector Accessories|The Freestyle Case",
+          "integration_category_code_path": "04000000|04060000|04060100",
+          "erp_category_code_path": "04000000|04060000|04060100",
+          "erp_boyutlar_paketgxyxd": "126.0 x 126.0 x 197.0 mm",
+          "erp_category_name_path": "TV/AV|Projector Accessories|The Freestyle Case",
+          "erp_ozellik_madde": "PC-ABS",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Television|Projector Accessories|The Freestyle Case",
+          "erp_usptext": "The Freestyle gittiğiniz her yere taşıyın\nKompakt ve şık tasarım\nThe Freestyle’nızı koruyun",
+          "integration_ozellik_tasarim": "Dış Mekan Kutusu",
+          "integration_ean": "8806094213621",
+          "erp_ozellik_tasarim": "Dış Mekan Kutusu",
+          "erp_ean": "8806094213621",
+          "integration_category_code": "04060100",
+          "erp_model_name": "VG-SCLA00G",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "erp_aksesuar_hizlikilavuz": "Evet",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Television|Projector Accessories|The Freestyle Case",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_07",
+          "integration_color": "Yeşil",
+          "integration_product_subtype_name": "Others",
+          "integration_ozellik_renk": "Koyu yeşil",
+          "erp_agirlik_paket": "0.63",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_07",
+          "erp_uyum_uyumlumodel": "The Freestyle",
+          "erp_product_subtype_name": "Others",
+          "integration_ozellik_madde": "PC-ABS",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "integration_product_type_name": "TV Accessory",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_ozellik_renk": "Koyu yeşil",
+          "integration_model_name": "VG-SCLA00G"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Yeşil",
+            "data_type": "dropdown",
+            "label": "Yeşil"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29901,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/4bc281de-35a9-4f82-91c0-8b00cbb0551d.jpg",
+            "order": 0,
+            "created_date": "2022-11-08T16:29:05.648271Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29907,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/a8de3a14-864b-4018-9efe-e347cc3612f4.jpg",
+            "order": 1,
+            "created_date": "2022-11-08T16:29:05.935481Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29906,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/a726957d-9198-4bb0-b09f-f1f2b898a565.jpg",
+            "order": 2,
+            "created_date": "2022-11-08T16:29:05.896658Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29905,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/f19ce9e4-239f-4c8a-a1ea-b145abe044f0.jpg",
+            "order": 3,
+            "created_date": "2022-11-08T16:29:05.863114Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29904,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/3fdf3dc2-1117-4ecd-b3f4-130c0ed62802.jpg",
+            "order": 4,
+            "created_date": "2022-11-08T16:29:05.817616Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29903,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/a7a02f8e-8f57-43a6-bf07-0b3c3c2b44db.jpg",
+            "order": 5,
+            "created_date": "2022-11-08T16:29:05.778265Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29902,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/c6d568b7-d13a-495e-ade3-e3b9b978673a.jpg",
+            "order": 6,
+            "created_date": "2022-11-08T16:29:05.739807Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "579",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "579",
+        "unit_type": "qty",
+        "absolute_url": "/tr/the-freestyle-kutu-vg-scla00g-zn/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 70,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "The Freestyle Kutu VG-SCLA00G/ZN",
+                    "absolute_url": "/tr/the-freestyle-kutu-vg-scla00g-zn/",
+                    "price": "579",
+                    "attributes": {
+                      "integration_color_code": "#008000",
+                      "integration_color": "Yeşil"
+                    },
+                    "pk": 5709,
+                    "retail_price": "579",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/4bc281de-35a9-4f82-91c0-8b00cbb0551d.jpg",
+                        "created_date": "2022-11-08T16:29:05.648271Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29901,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/a8de3a14-864b-4018-9efe-e347cc3612f4.jpg",
+                        "created_date": "2022-11-08T16:29:05.935481Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29907,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/a726957d-9198-4bb0-b09f-f1f2b898a565.jpg",
+                        "created_date": "2022-11-08T16:29:05.896658Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29906,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/f19ce9e4-239f-4c8a-a1ea-b145abe044f0.jpg",
+                        "created_date": "2022-11-08T16:29:05.863114Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29905,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/3fdf3dc2-1117-4ecd-b3f4-130c0ed62802.jpg",
+                        "created_date": "2022-11-08T16:29:05.817616Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29904,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/a7a02f8e-8f57-43a6-bf07-0b3c3c2b44db.jpg",
+                        "created_date": "2022-11-08T16:29:05.778265Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29903,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14463/c6d568b7-d13a-495e-ade3-e3b9b978673a.jpg",
+                        "created_date": "2022-11-08T16:29:05.739807Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29902,
+                        "order": 6
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Yeşil"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5708,
+        "name": "Slim Fit Kamera VG-STCBU2K/XC",
+        "sku": "VG-STCBU2K/XC",
+        "base_code": "426038",
+        "attributes": {
+          "erp_sensor_embeddedispimagesignalprocessor": "No",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_aksesuar_kullanicikilavuzu": "Evet",
+          "erp_uyum_ledtv": "Q60↑",
+          "erp_category_name_path": "TV/AV|TV-Accessories|TV Kamera",
+          "erp_product_type_name": "TV Accessory",
+          "erp_color": "Siyah",
+          "erp_encoding_bicim": "MJPEG",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "04000000|04030000|04031900",
+          "erp_boyutlar_paketgxyxd": "120 x60 x120 mm",
+          "erp_sensor_interfacetobackend": "MIPI",
+          "erp_aksesuar_usbcable": "Evet",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Television|TV-Accessories|Webcam",
+          "erp_ean": "8806094265491",
+          "integration_category_code": "04031900",
+          "erp_objektif_piece": "5",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "erp_uyum_plasmatv": "-",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_03",
+          "integration_categoryenglishnamepath": "Television|TV-Accessories|Webcam",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "integration_aksesuar_usbcable": "Evet",
+          "erp_agirlik_paket": "Daha Sonra Belirlenecek",
+          "erp_objektif_realfovfieldofview": "85 derece (Çapraz).",
+          "erp_arabirim": "USB2.0",
+          "erp_agirlik_set": "55",
+          "integration_product_type_name": "TV Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "erp_objektif_focus": "Sabit",
+          "mp_ucretsizkurulum": "Yok",
+          "integration_model_name": "VG-STCBU2K",
+          "erp_encoding_maximumresolution": "1920 x 1080",
+          "integration_usptext": "Slim fit tasarım\nMıknatısla takılabilir\n30 fps’de 1080p Full HD",
+          "erp_color_code": "#000000",
+          "erp_category_code": "04031900",
+          "erp_encoding_maximumframeperseconds": "30 fps",
+          "mp_garanti_suresi": "2 Yıl",
+          "integration_category_name_path": "TV/AV|TV-Accessories|TV Kamera",
+          "erp_aksesuar_usbcableclip": "Evet",
+          "drk_name": "Samsung Slim Fit Kamera VG-STCBU2K/XC Siyah",
+          "erp_model_name": "VG-STCBU2K",
+          "erp_category_code_path": "04000000|04030000|04031900",
+          "erp_guc_voltage": "5V / 0,3A",
+          "erp_mechanical_tilting": "Destek",
+          "integration_ean": "8806094265491",
+          "integration_product_subtype_name": "TV Camera",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "ykbkredilisatis": "Evet",
+          "erp_ses_micdirectivity": "Çok yönlü",
+          "erp_mechanical_methodofmountingontv": "자석으로 부착",
+          "erp_sensor_cozunurluk": "5000 pixels",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_03",
+          "erp_ses_mikrofonsayisi": "2",
+          "erp_usptext": "Slim fit tasarım\nMıknatısla takılabilir\n30 fps’de 1080p Full HD",
+          "erp_product_subtype_name": "TV Camera",
+          "erp_boyutlar_setwxhxd": "77x 81x23 mm",
+          "integration_aksesuar_kullanicikilavuzu": "Evet",
+          "erp_mechanical_tiltingangle": "+20 ila -20 derece"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "integration_aksesuar_usbcable": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_aksesuar_kullanicikilavuzu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29893,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/cfad3792-2bc1-4cd4-a56e-646c55006a42.jpg",
+            "order": 0,
+            "created_date": "2022-11-08T16:29:05.272284Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29898,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/dd76740c-14ca-49bc-80bc-62fe8241fdbb.jpg",
+            "order": 1,
+            "created_date": "2022-11-08T16:29:05.530775Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29897,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/22cb12b2-ff40-4f6b-b0d3-1bc55d09644e.jpg",
+            "order": 2,
+            "created_date": "2022-11-08T16:29:05.494402Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29896,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/9d2359b2-7bda-435b-858f-693738269f45.jpg",
+            "order": 3,
+            "created_date": "2022-11-08T16:29:05.457932Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29895,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/ab804fd1-d0a9-4571-a5db-f35d4dd625a9.jpg",
+            "order": 4,
+            "created_date": "2022-11-08T16:29:05.413925Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29894,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/9c4c8412-1347-4c94-9fe7-dda9d85e8c66.jpg",
+            "order": 5,
+            "created_date": "2022-11-08T16:29:05.366990Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29899,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/6e0d4bad-4099-4da3-9793-8fc776fb1986.jpg",
+            "order": 6,
+            "created_date": "2022-11-08T16:29:05.572101Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29900,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/ef0772ad-7eb5-4833-b645-f039d9e6cffe.jpg",
+            "order": 6,
+            "created_date": "2022-11-08T16:29:05.610673Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1249",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "1249",
+        "unit_type": "qty",
+        "absolute_url": "/tr/slim-fit-kamera-vg-stcbu2k-xc/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Slim Fit Kamera VG-STCBU2K/XC",
+                    "absolute_url": "/tr/slim-fit-kamera-vg-stcbu2k-xc/",
+                    "price": "1249",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5708,
+                    "retail_price": "1249",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/cfad3792-2bc1-4cd4-a56e-646c55006a42.jpg",
+                        "created_date": "2022-11-08T16:29:05.272284Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29893,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/dd76740c-14ca-49bc-80bc-62fe8241fdbb.jpg",
+                        "created_date": "2022-11-08T16:29:05.530775Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29898,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/22cb12b2-ff40-4f6b-b0d3-1bc55d09644e.jpg",
+                        "created_date": "2022-11-08T16:29:05.494402Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29897,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/9d2359b2-7bda-435b-858f-693738269f45.jpg",
+                        "created_date": "2022-11-08T16:29:05.457932Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29896,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/ab804fd1-d0a9-4571-a5db-f35d4dd625a9.jpg",
+                        "created_date": "2022-11-08T16:29:05.413925Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29895,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/9c4c8412-1347-4c94-9fe7-dda9d85e8c66.jpg",
+                        "created_date": "2022-11-08T16:29:05.366990Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29894,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/6e0d4bad-4099-4da3-9793-8fc776fb1986.jpg",
+                        "created_date": "2022-11-08T16:29:05.572101Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29899,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14462/ef0772ad-7eb5-4833-b645-f039d9e6cffe.jpg",
+                        "created_date": "2022-11-08T16:29:05.610673Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29900,
+                        "order": 6
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5703,
+        "name": "Kişiselleştirilebilir Çerçeve (VG-SCFT32)",
+        "sku": "VG-SCFT32VL/RU",
+        "base_code": "425997",
+        "attributes": {
+          "integration_usptext": "Hızlı ve Kolay Kurulum\nFarklı Renk Seçenekleri\nEvinize uyarlayın",
+          "erp_color_code": "#eed971",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_category_code": "04031000",
+          "erp_uyum_ledtv": "Hayır",
+          "integration_uyum_theframe": "Evet",
+          "integration_agirlik_urun": "0,21 kg",
+          "erp_product_type_name": "TV Accessory",
+          "erp_uyum_inc": "32",
+          "integration_uyum_inc": "32",
+          "erp_color": "Parlak limon sarısı",
+          "erp_aksesuar_garanti": "Evet",
+          "integration_agirlik_paket": "0,5 kg",
+          "drk_name": "Samsung Kişiselleştirilebilir Çerçeve (VG-SCFT32) Parlak limon sarısı",
+          "integration_color_code": "#eed971",
+          "integration_category_name_path": "TV/AV|TV-Accessories|Customizable Frame",
+          "integration_category_code_path": "04000000|04030000|04031000",
+          "erp_category_code_path": "04000000|04030000|04031000",
+          "erp_aksesuar_kullanicikilavuzu": "Evet",
+          "erp_category_name_path": "TV/AV|TV-Accessories|Customizable Frame",
+          "erp_ozellik_madde": "plastik",
+          "integration_aksesuar_garanti": "Evet",
+          "erp_categoryenglishnamepath": "Television|TV-Accessories|Customizable Frame",
+          "integration_boyutlar_paketuxgxy": "816x94x90 mm",
+          "erp_ozellik_renk": "Parlak limon sarısı",
+          "integration_ean": "8806090476440",
+          "erp_uyum_qledtv": "Hayır",
+          "erp_ean": "8806090476440",
+          "integration_category_code": "04031000",
+          "erp_uyum_theframe": "Evet",
+          "erp_model_name": "VG-SCFT32VL/RU",
+          "purchase_limit_per_basket": "1",
+          "integration_uyum_qledtv": "Hayır",
+          "integration_aksesuar_tutucualtkapak": "3",
+          "erp_boyutlar_paketuxgxy": "816x94x90 mm",
+          "integration_categoryenglishnamepath": "Television|TV-Accessories|Customizable Frame",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_07",
+          "erp_boyutlar_urunuxgxy": "ÜST VE ALT : 728 (B) x 22,5 (G) x 16,1 (Y)",
+          "integration_model_name": "VG-SCFT32VL/RU",
+          "integration_color": "Parlak limon sarısı",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_07",
+          "integration_product_subtype_name": "Others",
+          "integration_ozellik_renk": "Parlak limon sarısı",
+          "erp_agirlik_paket": "0,5 kg",
+          "integration_boyutlar_urunuxgxy": "ÜST VE ALT : 728 (B) x 22,5 (G) x 16,1 (Y)",
+          "erp_usptext": "Hızlı ve Kolay Kurulum\nFarklı Renk Seçenekleri\nEvinize uyarlayın",
+          "erp_product_subtype_name": "Others",
+          "integration_ozellik_madde": "plastik",
+          "erp_aksesuar_tutucualtkapak": "3",
+          "erp_agirlik_urun": "0,21 kg",
+          "integration_product_type_name": "TV Accessory",
+          "integration_aksesuar_tutucukose": "4",
+          "integration_uyum_ledtv": "Hayır",
+          "erp_aksesuar_tutucukose": "4",
+          "integration_aksesuar_kullanicikilavuzu": "Evet"
+        },
+        "attribute_set": 232,
+        "attributes_kwargs": {
+          "integration_aksesuar_kullanicikilavuzu": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_uyum_ledtv": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          },
+          "integration_color": {
+            "value": "Parlak limon sarısı",
+            "data_type": "dropdown",
+            "label": "Parlak limon sarısı"
+          },
+          "integration_aksesuar_garanti": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29948,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/16/14460/cef59f6a-b53e-4c37-a6e0-c5194945462d.jpg",
+            "order": 0,
+            "created_date": "2022-11-16T11:05:52.335900Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29883,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14460/e082ac39-8dcf-4e1d-9d6c-20d8f2f75b5e.jpg",
+            "order": 1,
+            "created_date": "2022-11-08T16:28:09.223945Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29886,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14460/4da7e520-ff24-4403-9e47-3bb8f8f2241d.jpg",
+            "order": 2,
+            "created_date": "2022-11-08T16:28:09.404212Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29885,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14460/76630c3a-9ba8-4549-9dbf-bcd55261220c.jpg",
+            "order": 3,
+            "created_date": "2022-11-08T16:28:09.357987Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29884,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14460/601f0d6b-8c33-4b17-853d-4ae3c2d2bd9c.jpg",
+            "order": 4,
+            "created_date": "2022-11-08T16:28:09.305330Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "899",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "899",
+        "unit_type": "qty",
+        "absolute_url": "/tr/kisisellestirilebilir-cerceve-vg-scft32/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 10,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Kişiselleştirilebilir Çerçeve (VG-SCFT32)",
+                    "absolute_url": "/tr/product/5717/",
+                    "price": "899",
+                    "attributes": {
+                      "integration_color_code": "#d4b895",
+                      "integration_color": "Bej"
+                    },
+                    "pk": 5717,
+                    "retail_price": "899",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14257/8359b8de-17d6-43b9-8839-362992667095.jpg",
+                        "created_date": "2022-11-10T15:15:20.573700Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29942,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14257/bc32fd8a-0e79-424f-bfb2-f291023b2087.jpg",
+                        "created_date": "2022-11-10T15:15:20.673235Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29943,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/08/29/14257/b553b1fe-f204-40fa-be59-9b36f8c208ae.jpg",
+                        "created_date": "2022-11-10T15:15:20.709253Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29944,
+                        "order": 2
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Bej"
+                },
+                {
+                  "product": {
+                    "name": "Kişiselleştirilebilir Çerçeve (VG-SCFT32)",
+                    "absolute_url": "/tr/product/5713/",
+                    "price": "899",
+                    "attributes": {
+                      "integration_color_code": "#c0c0c0",
+                      "integration_color": "Platin"
+                    },
+                    "pk": 5713,
+                    "retail_price": "899",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14468/6fa99c10-7b66-406c-a484-7d4a169a652c.jpg",
+                        "created_date": "2022-11-08T16:29:06.911149Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29925,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14468/1d7f7c9a-a626-4996-b26f-25b4bad37602.jpg",
+                        "created_date": "2022-11-08T16:29:07.123468Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29929,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14468/7c13a7c7-e156-43e7-8f43-f01534c4cbc4.jpg",
+                        "created_date": "2022-11-08T16:29:07.035665Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29927,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14468/0a514fa7-ace2-4714-b6e6-c063b015c7ea.jpg",
+                        "created_date": "2022-11-08T16:29:07.081234Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29928,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14468/a824b5ba-2715-45f8-b429-d94f1195df32.jpg",
+                        "created_date": "2022-11-08T16:29:07.002435Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29926,
+                        "order": 2
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Platin"
+                },
+                {
+                  "product": {
+                    "name": "Kişiselleştirilebilir Çerçeve (VG-SCFT32)",
+                    "absolute_url": "/tr/kisisellestirilebilir-cerceve-vg-scft32/",
+                    "price": "899",
+                    "attributes": {
+                      "integration_color_code": "#eed971",
+                      "integration_color": "Parlak limon sarısı"
+                    },
+                    "pk": 5703,
+                    "retail_price": "899",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/16/14460/cef59f6a-b53e-4c37-a6e0-c5194945462d.jpg",
+                        "created_date": "2022-11-16T11:05:52.335900Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29948,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14460/e082ac39-8dcf-4e1d-9d6c-20d8f2f75b5e.jpg",
+                        "created_date": "2022-11-08T16:28:09.223945Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29883,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14460/4da7e520-ff24-4403-9e47-3bb8f8f2241d.jpg",
+                        "created_date": "2022-11-08T16:28:09.404212Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29886,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14460/76630c3a-9ba8-4549-9dbf-bcd55261220c.jpg",
+                        "created_date": "2022-11-08T16:28:09.357987Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29885,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14460/601f0d6b-8c33-4b17-853d-4ae3c2d2bd9c.jpg",
+                        "created_date": "2022-11-08T16:28:09.305330Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29884,
+                        "order": 4
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Parlak limon sarısı"
+                },
+                {
+                  "product": {
+                    "name": "Kişiselleştirilebilir Çerçeve (VG-SCFT32)",
+                    "absolute_url": "/tr/product/5712/",
+                    "price": "899",
+                    "attributes": {
+                      "integration_color_code": "#ffffff",
+                      "integration_color": "Beyaz"
+                    },
+                    "pk": 5712,
+                    "retail_price": "899",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14467/5f59abf4-346d-499c-b1ca-0f51e775b6ad.jpg",
+                        "created_date": "2022-11-08T16:29:06.650530Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29920,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14467/73549288-9e0b-4080-9dca-22db218dbfbb.jpg",
+                        "created_date": "2022-11-08T16:29:06.766248Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29921,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14467/425dad1b-069d-4f6f-9bd7-8f1c5d8cf196.jpg",
+                        "created_date": "2022-11-08T16:29:06.875904Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29924,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14467/fed9edeb-9a55-4bcd-8748-91ef1409b27e.jpg",
+                        "created_date": "2022-11-08T16:29:06.836531Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29923,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14467/aa479968-9ebb-449e-b5e0-cab1c1eff4f4.jpg",
+                        "created_date": "2022-11-08T16:29:06.803573Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29922,
+                        "order": 4
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Beyaz"
+                },
+                {
+                  "product": {
+                    "name": "Kişiselleştirilebilir Çerçeve (VG-SCFT32)",
+                    "absolute_url": "/tr/product/5707/",
+                    "price": "899",
+                    "attributes": {
+                      "integration_color_code": "#cfb4a8",
+                      "integration_color": "Doğal pembe"
+                    },
+                    "pk": 5707,
+                    "retail_price": "899",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14461/08470f01-d759-47d2-8b8f-eea794827570.jpg",
+                        "created_date": "2022-11-08T16:29:04.959606Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29887,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14461/da39beda-88de-4b90-83e1-6e981c3f3ca7.jpg",
+                        "created_date": "2022-11-08T16:29:05.094754Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29889,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14461/c6d7621c-29c5-4fe2-a1b3-975f0b30eaed.jpg",
+                        "created_date": "2022-11-08T16:29:05.140830Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29890,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14461/6b5d8839-15c8-4bdb-b7ea-d025c41825e5.jpg",
+                        "created_date": "2022-11-08T16:29:05.228454Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29892,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14461/bd6c61e1-49a6-430d-a627-96355718149a.jpg",
+                        "created_date": "2022-11-08T16:29:05.195494Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29891,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14461/43362e06-e903-4da8-a5b2-8410d568f0ab.jpg",
+                        "created_date": "2022-11-08T16:29:05.054422Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29888,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Doğal pembe"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5702,
+        "name": "Tam Hareketli İnce Duvara Monte Aparatı",
+        "sku": "WMN-B16FB/ZN",
+        "base_code": "6002",
+        "attributes": {
+          "integration_usptext": "İncedir ve kolay ayarlanabilir\nTV ve duvar arasında minimum boşluk\nTelevizyonunuzu rahatça ayarlayın, eğin ve döndürün",
+          "erp_color_code": "#000000",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_category_code": "04030400",
+          "erp_uyum_ledtv": "2021~2022 58~75\" QLED/UHD TV",
+          "erp_aksesuar_hizlikilavuz": "Evet",
+          "erp_product_type_name": "TV Accessory",
+          "erp_color": "Siyah",
+          "mp_garanti_suresi": "2 Yıl",
+          "integration_category_name_path": "TV/AV|TV-Accessories|Wall Mount",
+          "drk_name": "Samsung Tam Hareketli İnce Duvara Monte Aparatı Siyah",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "04000000|04030000|04030400",
+          "erp_category_code_path": "04000000|04030000|04030400",
+          "erp_boyutlar_paketgxyxd": "560 x 536 x 51 mm",
+          "erp_category_name_path": "TV/AV|TV-Accessories|Wall Mount",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Television|TV-Accessories|Wall Mount",
+          "erp_usptext": "İncedir ve kolay ayarlanabilir\nTV ve duvar arasında minimum boşluk\nTelevizyonunuzu rahatça ayarlayın, eğin ve döndürün",
+          "integration_ean": "8806094264210",
+          "erp_ean": "8806094264210",
+          "integration_category_code": "04030400",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Television|TV-Accessories|Wall Mount",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_01",
+          "erp_model_name": "WMN-B16FB",
+          "integration_product_subtype_name": "Wall Mount",
+          "erp_agirlik_paket": "6.4 kg",
+          "erp_vesastandard_boyut": "400x400 (400x300)",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_01",
+          "erp_product_subtype_name": "Wall Mount",
+          "erp_agirlik_set": "5 kg",
+          "integration_product_type_name": "TV Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "WMN-B16FB",
+          "erp_boyutlar_setwxhxd": "476 x 442 x 19.5 mm"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29877,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/039648e1-9d25-41b4-b3ed-d08744f633e1.jpg",
+            "order": 0,
+            "created_date": "2022-11-08T16:28:08.891546Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29882,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/9ab5677e-e7df-48bf-a458-03ac2d88f672.jpg",
+            "order": 1,
+            "created_date": "2022-11-08T16:28:09.174790Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29881,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/2927e104-29ad-4909-8b8d-0b2a5c338509.jpg",
+            "order": 2,
+            "created_date": "2022-11-08T16:28:09.128684Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29878,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/d58ce96d-9aa1-4522-bfdf-0a9d27f72601.jpg",
+            "order": 3,
+            "created_date": "2022-11-08T16:28:08.996565Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29880,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/37b8ffa4-14a6-4f8c-80ab-a7712e6ee46c.jpg",
+            "order": 4,
+            "created_date": "2022-11-08T16:28:09.080501Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29879,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/62c0e485-b22f-4de6-a236-3e8385f9f4ef.jpg",
+            "order": 5,
+            "created_date": "2022-11-08T16:28:09.039559Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1699",
+        "in_stock": false,
+        "currency_type": "try",
+        "retail_price": "1699",
+        "unit_type": "qty",
+        "absolute_url": "/tr/tam-hareketli-ince-duvara-monte-aparati-2/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 0,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Tam Hareketli İnce Duvara Monte Aparatı",
+                    "absolute_url": "/tr/tam-hareketli-ince-duvara-monte-aparati-2/",
+                    "price": "1699",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5702,
+                    "retail_price": "1699",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/039648e1-9d25-41b4-b3ed-d08744f633e1.jpg",
+                        "created_date": "2022-11-08T16:28:08.891546Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29877,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/9ab5677e-e7df-48bf-a458-03ac2d88f672.jpg",
+                        "created_date": "2022-11-08T16:28:09.174790Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29882,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/2927e104-29ad-4909-8b8d-0b2a5c338509.jpg",
+                        "created_date": "2022-11-08T16:28:09.128684Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29881,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/d58ce96d-9aa1-4522-bfdf-0a9d27f72601.jpg",
+                        "created_date": "2022-11-08T16:28:08.996565Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29878,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/37b8ffa4-14a6-4f8c-80ab-a7712e6ee46c.jpg",
+                        "created_date": "2022-11-08T16:28:09.080501Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29880,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14459/62c0e485-b22f-4de6-a236-3e8385f9f4ef.jpg",
+                        "created_date": "2022-11-08T16:28:09.039559Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29879,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": false,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5701,
+        "name": "Tam Hareketli İnce Duvara Monte Aparatı",
+        "sku": "WMN-B05FB/ZN",
+        "base_code": "26002",
+        "attributes": {
+          "integration_usptext": "İncedir ve kolay ayarlanabilir\nTV ve duvar arasında minimum boşluk\nTelevizyonunuzu rahatça ayarlayın, eğin ve döndürün",
+          "erp_color_code": "#000000",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_category_code": "04030400",
+          "erp_uyum_ledtv": "2021~2022 43~55\" QLED/UHD TV (except for 55QN95B)",
+          "erp_aksesuar_hizlikilavuz": "Evet",
+          "erp_product_type_name": "TV Accessory",
+          "erp_color": "Siyah",
+          "mp_garanti_suresi": "2 Yıl",
+          "integration_category_name_path": "TV/AV|TV-Accessories|Wall Mount",
+          "drk_name": "Samsung Tam Hareketli İnce Duvara Monte Aparatı Siyah",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "04000000|04030000|04030400",
+          "erp_category_code_path": "04000000|04030000|04030400",
+          "erp_boyutlar_paketgxyxd": "360 x 336 x 51 mm",
+          "erp_category_name_path": "TV/AV|TV-Accessories|Wall Mount",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Television|TV-Accessories|Wall Mount",
+          "erp_usptext": "İncedir ve kolay ayarlanabilir\nTV ve duvar arasında minimum boşluk\nTelevizyonunuzu rahatça ayarlayın, eğin ve döndürün",
+          "integration_ean": "8806094264203",
+          "erp_ean": "8806094264203",
+          "integration_category_code": "04030400",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Television|TV-Accessories|Wall Mount",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_01",
+          "erp_model_name": "WMN-B05FB",
+          "integration_product_subtype_name": "Wall Mount",
+          "erp_agirlik_paket": "3.9 kg",
+          "erp_vesastandard_boyut": "200x200 (300x200)",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_01",
+          "erp_product_subtype_name": "Wall Mount",
+          "erp_agirlik_set": "2.9 kg",
+          "integration_product_type_name": "TV Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "WMN-B05FB",
+          "erp_boyutlar_setwxhxd": "350 x 234 x 19.5 mm"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29872,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/db99898b-9bcf-4967-9964-fcd7c5299fb8.jpg",
+            "order": 0,
+            "created_date": "2022-11-08T16:28:08.646703Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29873,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/4d01da1f-7652-4b9c-a1aa-ab9e77477273.jpg",
+            "order": 0,
+            "created_date": "2022-11-08T16:28:08.705918Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29871,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/03e83bf3-899b-4556-9a41-331511e233c7.jpg",
+            "order": 0,
+            "created_date": "2022-11-08T16:28:08.523753Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29875,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/f006394f-c929-46bf-87ca-ace5863b3a43.jpg",
+            "order": 3,
+            "created_date": "2022-11-08T16:28:08.795614Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29876,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/120faf5b-c450-450a-a181-ca0d9db27410.jpg",
+            "order": 4,
+            "created_date": "2022-11-08T16:28:08.844483Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29874,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/380e9e0b-a646-45ac-97ef-014e470c87c4.jpg",
+            "order": 5,
+            "created_date": "2022-11-08T16:28:08.753379Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "1499",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "1499",
+        "unit_type": "qty",
+        "absolute_url": "/tr/tam-hareketli-ince-duvara-monte-aparati-1/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 2,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Tam Hareketli İnce Duvara Monte Aparatı",
+                    "absolute_url": "/tr/tam-hareketli-ince-duvara-monte-aparati-1/",
+                    "price": "1499",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5701,
+                    "retail_price": "1499",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/03e83bf3-899b-4556-9a41-331511e233c7.jpg",
+                        "created_date": "2022-11-08T16:28:08.523753Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29871,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/db99898b-9bcf-4967-9964-fcd7c5299fb8.jpg",
+                        "created_date": "2022-11-08T16:28:08.646703Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29872,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/4d01da1f-7652-4b9c-a1aa-ab9e77477273.jpg",
+                        "created_date": "2022-11-08T16:28:08.705918Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29873,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/f006394f-c929-46bf-87ca-ace5863b3a43.jpg",
+                        "created_date": "2022-11-08T16:28:08.795614Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29875,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/120faf5b-c450-450a-a181-ca0d9db27410.jpg",
+                        "created_date": "2022-11-08T16:28:08.844483Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29876,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14458/380e9e0b-a646-45ac-97ef-014e470c87c4.jpg",
+                        "created_date": "2022-11-08T16:28:08.753379Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29874,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5700,
+        "name": "Otomatik dönebilen stüdyo stant ( 55’’ QN700B, QN95B)",
+        "sku": "VG-ARAB43STDXC",
+        "base_code": "426004",
+        "attributes": {
+          "integration_usptext": "Dönen ekranın sunduğu imkanları keşfedin\nİçerikleri sevdiğiniz şekilde izleyin\nMobil içeriğiniz artık daha büyük",
+          "erp_color_code": "#000000",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_category_code": "04030300",
+          "integration_agirlik_urun": "12.4 kg",
+          "erp_product_type_name": "TV Accessory",
+          "erp_color": "Siyah",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_agirlik_urun": "12.4 kg",
+          "integration_agirlik_paket": "15.1 kg",
+          "drk_name": "Samsung Otomatik Döner Ayak Siyah",
+          "erp_boyutlar_productwxhxd": "957 x 1057 x 771 mm",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3.0",
+          "integration_category_name_path": "TV/AV|TV-Accessories|Floor Stand",
+          "integration_category_code_path": "04000000|04030000|04030300",
+          "erp_category_code_path": "04000000|04030000|04030300",
+          "erp_boyutlar_paketgxyxd": "794 x 177 x 530 mm",
+          "erp_category_name_path": "TV/AV|TV-Accessories|Floor Stand",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Television|TV-Accessories|Floor Stands",
+          "erp_usptext": "Dönen ekranın sunduğu imkanları keşfedin\nİçerikleri sevdiğiniz şekilde izleyin\nMobil içeriğiniz artık daha büyük",
+          "integration_ean": "8806094284256",
+          "erp_ean": "8806094284256",
+          "integration_category_code": "04030300",
+          "erp_model_name": "VG-ARAB43STD",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "erp_aksesuar_hizlikilavuz": "Evet",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Television|TV-Accessories|Floor Stands",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_07",
+          "integration_color": "Siyah",
+          "integration_product_subtype_name": "Others",
+          "erp_agirlik_paket": "15.1 kg",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_07",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "erp_product_subtype_name": "Others",
+          "integration_product_type_name": "TV Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "erp_uyum_uyumlumodel": "55QN95, 55QN700B",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "VG-ARAB43STD"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29859,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/e040128d-ad60-4cb9-bdb8-4002c31d0595.jpg",
+            "order": 0,
+            "created_date": "2022-11-08T16:28:07.860295Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29870,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/b124f920-7169-4538-9cdd-4b74d03afafc.jpg",
+            "order": 1,
+            "created_date": "2022-11-08T16:28:08.475873Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29860,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/ba336044-5b6b-4334-8c9f-7a3e2f57beba.jpg",
+            "order": 2,
+            "created_date": "2022-11-08T16:28:07.964922Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29869,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/48b0d849-9795-4a17-b1b6-0e4203497976.jpg",
+            "order": 3,
+            "created_date": "2022-11-08T16:28:08.413874Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29868,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/f6cdfd57-ded6-4bf4-b506-119a1205de76.jpg",
+            "order": 4,
+            "created_date": "2022-11-08T16:28:08.377940Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29867,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/b1d2b930-e334-4ac8-a3b0-98d3956a41af.jpg",
+            "order": 4,
+            "created_date": "2022-11-08T16:28:08.325796Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29866,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/8260a803-68e1-4d79-abb9-e97fe6ae910d.jpg",
+            "order": 6,
+            "created_date": "2022-11-08T16:28:08.265552Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29865,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/9c5c012b-149b-46ce-bc9e-569ce9f90581.jpg",
+            "order": 7,
+            "created_date": "2022-11-08T16:28:08.204141Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29864,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/cbaabb12-00dc-40de-9578-5749a79891bd.jpg",
+            "order": 8,
+            "created_date": "2022-11-08T16:28:08.145911Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29863,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/b0355d39-bb20-40f9-965e-4d72db9df2c9.jpg",
+            "order": 9,
+            "created_date": "2022-11-08T16:28:08.087168Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29862,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/39af24aa-247b-446f-9839-fb6fbcb62ac5.jpg",
+            "order": 10,
+            "created_date": "2022-11-08T16:28:08.048744Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29861,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/6e92b0a7-de96-4c3e-b599-e321ff20ee93.jpg",
+            "order": 10,
+            "created_date": "2022-11-08T16:28:08.000254Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "19999",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "19999",
+        "unit_type": "qty",
+        "absolute_url": "/tr/otomatik-donebilen-studyo-stant-55-qn700b-qn95b/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 5,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Otomatik dönebilen stüdyo stant ( 55’’ QN700B, QN95B)",
+                    "absolute_url": "/tr/otomatik-donebilen-studyo-stant-55-qn700b-qn95b/",
+                    "price": "19999",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5700,
+                    "retail_price": "19999",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/e040128d-ad60-4cb9-bdb8-4002c31d0595.jpg",
+                        "created_date": "2022-11-08T16:28:07.860295Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29859,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/b124f920-7169-4538-9cdd-4b74d03afafc.jpg",
+                        "created_date": "2022-11-08T16:28:08.475873Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29870,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/ba336044-5b6b-4334-8c9f-7a3e2f57beba.jpg",
+                        "created_date": "2022-11-08T16:28:07.964922Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29860,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/48b0d849-9795-4a17-b1b6-0e4203497976.jpg",
+                        "created_date": "2022-11-08T16:28:08.413874Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29869,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/b1d2b930-e334-4ac8-a3b0-98d3956a41af.jpg",
+                        "created_date": "2022-11-08T16:28:08.325796Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29867,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/f6cdfd57-ded6-4bf4-b506-119a1205de76.jpg",
+                        "created_date": "2022-11-08T16:28:08.377940Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29868,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/8260a803-68e1-4d79-abb9-e97fe6ae910d.jpg",
+                        "created_date": "2022-11-08T16:28:08.265552Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29866,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/9c5c012b-149b-46ce-bc9e-569ce9f90581.jpg",
+                        "created_date": "2022-11-08T16:28:08.204141Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29865,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/cbaabb12-00dc-40de-9578-5749a79891bd.jpg",
+                        "created_date": "2022-11-08T16:28:08.145911Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29864,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/b0355d39-bb20-40f9-965e-4d72db9df2c9.jpg",
+                        "created_date": "2022-11-08T16:28:08.087168Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29863,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/39af24aa-247b-446f-9839-fb6fbcb62ac5.jpg",
+                        "created_date": "2022-11-08T16:28:08.048744Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29862,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14457/6e92b0a7-de96-4c3e-b599-e321ff20ee93.jpg",
+                        "created_date": "2022-11-08T16:28:08.000254Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29861,
+                        "order": 10
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5699,
+        "name": "The Freestyle Kılıf VG-SCLB00NR/ZN",
+        "sku": "VG-SCLB00NR/ZN",
+        "base_code": "426056",
+        "attributes": {
+          "integration_usptext": "Tarzınıza en uygun The Freestyle rengini seçin\nDilediğiniz rengi seçin\nHızlı ve kolay özelleştirme",
+          "erp_color_code": "#658e81",
+          "erp_star_grade": "1",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_category_code": "04060200",
+          "integration_agirlik_urun": "0.065 kg",
+          "erp_product_type_name": "TV Accessory",
+          "erp_color": "Orman Yeşili",
+          "erp_aksesuar_garanti": "1",
+          "mp_garanti_suresi": "2 Yıl",
+          "erp_agirlik_urun": "0.065 kg",
+          "integration_category_name_path": "TV/AV|Projector Accessories|The Freestyle Skin",
+          "drk_name": "Samsung The Freestyle Kılıf VG-SCLB00NR/ZN Orman Yeşili",
+          "erp_boyutlar_productwxhxd": "95.2 x 95.2 x 135.5 mm",
+          "integration_color_code": "#658e81",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Orman Yeşili",
+          "integration_category_code_path": "04000000|04060000|04060200",
+          "erp_category_code_path": "04000000|04060000|04060200",
+          "erp_boyutlar_paketgxyxd": "104 x 104 x 147 mm",
+          "erp_category_name_path": "TV/AV|Projector Accessories|The Freestyle Skin",
+          "erp_ozellik_madde": "Kauçuk",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Television|Projector Accessories|The Freestyle Skin",
+          "erp_usptext": "Tarzınıza en uygun The Freestyle rengini seçin\nDilediğiniz rengi seçin\nHızlı ve kolay özelleştirme",
+          "integration_ean": "8806094334340",
+          "erp_ean": "8806094334340",
+          "integration_category_code": "04060200",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "erp_aksesuar_hizlikilavuz": "Evet",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Television|Projector Accessories|The Freestyle Skin",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_07",
+          "erp_model_name": "VG-SCLB00NR",
+          "integration_product_subtype_name": "Others",
+          "integration_ozellik_renk": "Yeşil",
+          "erp_agirlik_paket": "0.16",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_07",
+          "erp_uyum_uyumlumodel": "The Freestyle",
+          "erp_product_subtype_name": "Others",
+          "integration_ozellik_madde": "Kauçuk",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "integration_product_type_name": "TV Accessory",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "erp_ozellik_renk": "Yeşil",
+          "integration_model_name": "VG-SCLB00NR"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Orman Yeşili",
+            "data_type": "dropdown",
+            "label": "Orman Yeşili"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29855,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/52620574-e7f8-4073-bb01-aa4e4084ffa9.jpg",
+            "order": 0,
+            "created_date": "2022-11-08T16:28:07.693479Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29846,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/05237c12-5afb-4555-b64b-e7fc6b047fd7.jpg",
+            "order": 1,
+            "created_date": "2022-11-08T16:28:07.220347Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29847,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/afd07e55-58ba-4086-a379-98351b7c6c74.jpg",
+            "order": 2,
+            "created_date": "2022-11-08T16:28:07.326236Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29850,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/75666744-646e-4604-a223-7744e1ff9456.jpg",
+            "order": 3,
+            "created_date": "2022-11-08T16:28:07.464717Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29849,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/9e87be1a-8fad-45a2-84b5-a352feffdaa3.jpg",
+            "order": 4,
+            "created_date": "2022-11-08T16:28:07.412006Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29848,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/5296d0b5-6600-48f6-a1e2-5a57d7a52f44.jpg",
+            "order": 5,
+            "created_date": "2022-11-08T16:28:07.364413Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29854,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/71e70846-6496-4030-90e4-18a1de99bac7.jpg",
+            "order": 6,
+            "created_date": "2022-11-08T16:28:07.653420Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29857,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/ae8d7062-5c06-4b3f-9e02-27928e1b724d.jpg",
+            "order": 7,
+            "created_date": "2022-11-08T16:28:07.783805Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29856,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/d9148f20-52af-45cb-8faa-65d67acf9d85.jpg",
+            "order": 8,
+            "created_date": "2022-11-08T16:28:07.745911Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29852,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/7fd1f26e-0e6e-4d97-b7bd-594c019ffe53.jpg",
+            "order": 9,
+            "created_date": "2022-11-08T16:28:07.563025Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29853,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/d7d77b40-6066-4b2d-9d3e-e9b9dae63e67.jpg",
+            "order": 10,
+            "created_date": "2022-11-08T16:28:07.614567Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29851,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/fce8f1bc-1fbc-4a97-8e36-3ebbb5b67143.jpg",
+            "order": 10,
+            "created_date": "2022-11-08T16:28:07.512210Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29858,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/8ed06f93-60a4-43f8-a09e-09f3134937a9.jpg",
+            "order": 12,
+            "created_date": "2022-11-08T16:28:07.825006Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "449",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "449",
+        "unit_type": "qty",
+        "absolute_url": "/tr/the-freestyle-kilif-vg-sclb00nr-zn/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 44,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "The Freestyle Kılıf VG-SCLB00YR/ZN",
+                    "absolute_url": "/tr/product/5711/",
+                    "price": "449",
+                    "attributes": {
+                      "integration_color_code": "#a79e8b",
+                      "integration_color": "Çakal Beji"
+                    },
+                    "pk": 5711,
+                    "retail_price": "449",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14466/d8aea4dc-3de6-4ae5-afb2-42abf71fe024.jpg",
+                        "created_date": "2022-11-08T16:29:06.303102Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29914,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14466/49c3547b-fbe6-4c3c-8a62-ddfd35423708.jpg",
+                        "created_date": "2022-11-08T16:29:06.424891Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29915,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14466/9a346c14-4d1e-4c00-8908-de567b588fac.jpg",
+                        "created_date": "2022-11-08T16:29:06.481178Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29916,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14466/89e03ab0-2031-4feb-8432-aef9dad902fb.jpg",
+                        "created_date": "2022-11-08T16:29:06.526213Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29917,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14466/fd7e0698-1537-4765-9dec-0a5ce7c7fb6d.jpg",
+                        "created_date": "2022-11-08T16:29:06.573132Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29918,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14466/312baf58-c249-401e-bf85-16439dd341be.jpg",
+                        "created_date": "2022-11-08T16:29:06.616584Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29919,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Çakal Beji"
+                },
+                {
+                  "product": {
+                    "name": "The Freestyle Kılıf VG-SCLB00PR/ZN",
+                    "absolute_url": "/tr/the-freestyle-kilif-vg-sclb00pr-zn/",
+                    "price": "449",
+                    "attributes": {
+                      "integration_color_code": "#f6dddb",
+                      "integration_color": "Çiçek Pembesi"
+                    },
+                    "pk": 5710,
+                    "retail_price": "449",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14464/4342ea56-a572-4efa-a85d-59929181ec86.jpg",
+                        "created_date": "2022-11-08T16:29:05.983204Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29908,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14464/73227867-8a4e-44dc-a105-7fc541bb33f3.jpg",
+                        "created_date": "2022-11-08T16:29:06.095620Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29909,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14464/6c5f5416-f142-4989-a156-2e3733209c41.jpg",
+                        "created_date": "2022-11-08T16:29:06.261075Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29913,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14464/0e51758f-9f48-4468-9a41-db0f96edff4a.jpg",
+                        "created_date": "2022-11-08T16:29:06.131178Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29910,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14464/e2f1fc26-d839-4476-9526-f4624391295e.jpg",
+                        "created_date": "2022-11-08T16:29:06.219079Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29912,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14464/72d468f6-8937-4ee6-85c7-3dcd609388eb.jpg",
+                        "created_date": "2022-11-08T16:29:06.177221Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29911,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Çiçek Pembesi"
+                },
+                {
+                  "product": {
+                    "name": "The Freestyle Kılıf VG-SCLB00NR/ZN",
+                    "absolute_url": "/tr/the-freestyle-kilif-vg-sclb00nr-zn/",
+                    "price": "449",
+                    "attributes": {
+                      "integration_color_code": "#658e81",
+                      "integration_color": "Orman Yeşili"
+                    },
+                    "pk": 5699,
+                    "retail_price": "449",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/52620574-e7f8-4073-bb01-aa4e4084ffa9.jpg",
+                        "created_date": "2022-11-08T16:28:07.693479Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29855,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/05237c12-5afb-4555-b64b-e7fc6b047fd7.jpg",
+                        "created_date": "2022-11-08T16:28:07.220347Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29846,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/afd07e55-58ba-4086-a379-98351b7c6c74.jpg",
+                        "created_date": "2022-11-08T16:28:07.326236Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29847,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/75666744-646e-4604-a223-7744e1ff9456.jpg",
+                        "created_date": "2022-11-08T16:28:07.464717Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29850,
+                        "order": 3
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/9e87be1a-8fad-45a2-84b5-a352feffdaa3.jpg",
+                        "created_date": "2022-11-08T16:28:07.412006Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29849,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/5296d0b5-6600-48f6-a1e2-5a57d7a52f44.jpg",
+                        "created_date": "2022-11-08T16:28:07.364413Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29848,
+                        "order": 5
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/71e70846-6496-4030-90e4-18a1de99bac7.jpg",
+                        "created_date": "2022-11-08T16:28:07.653420Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29854,
+                        "order": 6
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/ae8d7062-5c06-4b3f-9e02-27928e1b724d.jpg",
+                        "created_date": "2022-11-08T16:28:07.783805Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29857,
+                        "order": 7
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/d9148f20-52af-45cb-8faa-65d67acf9d85.jpg",
+                        "created_date": "2022-11-08T16:28:07.745911Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29856,
+                        "order": 8
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/7fd1f26e-0e6e-4d97-b7bd-594c019ffe53.jpg",
+                        "created_date": "2022-11-08T16:28:07.563025Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29852,
+                        "order": 9
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/fce8f1bc-1fbc-4a97-8e36-3ebbb5b67143.jpg",
+                        "created_date": "2022-11-08T16:28:07.512210Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29851,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/d7d77b40-6066-4b2d-9d3e-e9b9dae63e67.jpg",
+                        "created_date": "2022-11-08T16:28:07.614567Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29853,
+                        "order": 10
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14456/8ed06f93-60a4-43f8-a09e-09f3134937a9.jpg",
+                        "created_date": "2022-11-08T16:28:07.825006Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29858,
+                        "order": 12
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Orman Yeşili"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "pk": 5698,
+        "name": "Tam Hareketli İnce Duvara Monte Aparatı",
+        "sku": "WMN-B30FB/ZN",
+        "base_code": "426002",
+        "attributes": {
+          "integration_usptext": "İncedir ve kolay ayarlanabilir\nTV ve duvar arasında minimum boşluk\nTelevizyonunuzu rahatça ayarlayın, eğin ve döndürün",
+          "erp_color_code": "#000000",
+          "integration_product_type_code": "PT_CD_TV_ACC",
+          "erp_category_code": "04030400",
+          "erp_uyum_ledtv": "2021~2022 82~85\" QLED/UHD TV",
+          "erp_aksesuar_hizlikilavuz": "Evet",
+          "erp_product_type_name": "TV Accessory",
+          "erp_color": "Siyah",
+          "mp_garanti_suresi": "2 Yıl",
+          "integration_category_name_path": "TV/AV|TV-Accessories|Wall Mount",
+          "drk_name": "Samsung Tam Hareketli İnce Duvara Monte Aparatı Siyah",
+          "integration_color_code": "#000000",
+          "mp_kargo_suresi": "3.0",
+          "integration_color": "Siyah",
+          "integration_category_code_path": "04000000|04030000|04030400",
+          "erp_category_code_path": "04000000|04030000|04030400",
+          "erp_boyutlar_paketgxyxd": "760 x 536 x 51 mm",
+          "erp_category_name_path": "TV/AV|TV-Accessories|Wall Mount",
+          "mp_kurulum": "Hayır",
+          "erp_categoryenglishnamepath": "Television|TV-Accessories|Wall Mount",
+          "erp_usptext": "İncedir ve kolay ayarlanabilir\nTV ve duvar arasında minimum boşluk\nTelevizyonunuzu rahatça ayarlayın, eğin ve döndürün",
+          "integration_ean": "8806094264227",
+          "erp_ean": "8806094264227",
+          "integration_category_code": "04030400",
+          "mp_diger_markalar": "Samsung",
+          "purchase_limit_per_basket": "1",
+          "ykbkredilisatis": "Evet",
+          "integration_categoryenglishnamepath": "Television|TV-Accessories|Wall Mount",
+          "erp_product_type_code": "PT_CD_TV_ACC",
+          "product_desi": "0.023",
+          "integration_product_subtype_code": "PT_CD_TV_ACC_01",
+          "erp_model_name": "WMN-B30FB",
+          "integration_product_subtype_name": "Wall Mount",
+          "erp_agirlik_paket": "8.7 kg",
+          "erp_vesastandard_boyut": "600x400 mm",
+          "erp_product_subtype_code": "PT_CD_TV_ACC_01",
+          "erp_product_subtype_name": "Wall Mount",
+          "erp_agirlik_set": "7 kg",
+          "integration_product_type_name": "TV Accessory",
+          "urun_iade_kosullari": "“Mesafeli Sözleşmeler Yönetmeliği” gereğince ürününüzü teslim aldıktan sonra 14 gün içinde iade edebilirsiniz. Eğer ürününüz Horoz Lojistik ile gönderildiyse; sipariş/ürün iptali için, haftanın her günü saat 08:00-20:00 arası 444 77 11 no’lu Müşteri Destek Hattımızdan bize ulaşarak iade işlemi için kayıt oluşturabilirsiniz. Eğer ürününüz Horoz Lojistik’ten farklı bir firma ile gönderildiyse; ürününüzü Yurt İçi Kargo’ya teslim edip 424683801 iade gönderi kodu ile Samsung’a göndermek istediğinizi belirtmeniz yeterlidir. Detaylı bilgi için İadeler ve İptaller sayfamızı ziyaret edebilirsiniz.",
+          "mp_ucretsizkurulum": "Yok",
+          "odeme_secenekleri_havale": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/b6c0d089-9731-49a9-94d0-849655e534a5.jpg",
+          "odeme_secenekleri_kredili_satis": "https://samsung-akinon.b-cdn.net/cms/2022/11/11/86fa6d01-edc9-4459-a5e5-7b6114905da8.jpg",
+          "integration_model_name": "WMN-B30FB",
+          "erp_boyutlar_setwxhxd": "660 x 445 x 19.5 mm"
+        },
+        "attribute_set": 17,
+        "attributes_kwargs": {
+          "mp_ucretsizkurulum": {
+            "value": "Yok",
+            "data_type": "dropdown",
+            "label": "Yok"
+          },
+          "ykbkredilisatis": {
+            "value": "Evet",
+            "data_type": "dropdown",
+            "label": "Evet"
+          },
+          "integration_color": {
+            "value": "Siyah",
+            "data_type": "dropdown",
+            "label": "Siyah"
+          },
+          "mp_garanti_suresi": {
+            "value": "2 Yıl",
+            "data_type": "dropdown",
+            "label": "2 Yıl"
+          },
+          "mp_kurulum": {
+            "value": "Hayır",
+            "data_type": "dropdown",
+            "label": "Hayır"
+          }
+        },
+        "extra_attributes": {
+          
+        },
+        "productimage_set": [
+          {
+            "pk": 29840,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/b795b341-621b-460b-a77a-692831a9deaf.jpg",
+            "order": 0,
+            "created_date": "2022-11-08T16:28:06.884873Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29842,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/16ef90c7-d24b-4ce4-83bd-0cc9e338b0a3.jpg",
+            "order": 1,
+            "created_date": "2022-11-08T16:28:07.044676Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29841,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/1b9e4b93-fe40-42c6-916c-7b0470f8d8f2.jpg",
+            "order": 2,
+            "created_date": "2022-11-08T16:28:06.995411Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29843,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/e0f7d4a5-9a49-48c5-ac7c-95a668a1aaf7.jpg",
+            "order": 2,
+            "created_date": "2022-11-08T16:28:07.084984Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29845,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/944f726b-c1ea-4992-860e-69aea48491cf.jpg",
+            "order": 4,
+            "created_date": "2022-11-08T16:28:07.178286Z",
+            "specialimage_set": [
+              
+            ]
+          },
+          {
+            "pk": 29844,
+            "status": "active",
+            "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/1971fcaa-3d4c-489e-b643-32cae41eb85b.jpg",
+            "order": 5,
+            "created_date": "2022-11-08T16:28:07.134725Z",
+            "specialimage_set": [
+              
+            ]
+          }
+        ],
+        "price": "2299",
+        "in_stock": true,
+        "currency_type": "try",
+        "retail_price": "2299",
+        "unit_type": "qty",
+        "absolute_url": "/tr/tam-hareketli-ince-duvara-monte-aparati/",
+        "productvideo_set": [
+          
+        ],
+        "product_type": "0",
+        "price_type": "default",
+        "form_schema": null,
+        "is_ready_to_basket": false,
+        "stock": 3,
+        "data_source": null,
+        "basket_offers": [
+          
+        ],
+        "extra_data": {
+          "variants": [
+            {
+              "attribute_key": "integration_color",
+              "options": [
+                {
+                  "product": {
+                    "name": "Tam Hareketli İnce Duvara Monte Aparatı",
+                    "absolute_url": "/tr/tam-hareketli-ince-duvara-monte-aparati/",
+                    "price": "2299",
+                    "attributes": {
+                      "integration_color_code": "#000000",
+                      "integration_color": "Siyah"
+                    },
+                    "pk": 5698,
+                    "retail_price": "2299",
+                    "productimage_set": [
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/b795b341-621b-460b-a77a-692831a9deaf.jpg",
+                        "created_date": "2022-11-08T16:28:06.884873Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29840,
+                        "order": 0
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/16ef90c7-d24b-4ce4-83bd-0cc9e338b0a3.jpg",
+                        "created_date": "2022-11-08T16:28:07.044676Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29842,
+                        "order": 1
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/1b9e4b93-fe40-42c6-916c-7b0470f8d8f2.jpg",
+                        "created_date": "2022-11-08T16:28:06.995411Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29841,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/e0f7d4a5-9a49-48c5-ac7c-95a668a1aaf7.jpg",
+                        "created_date": "2022-11-08T16:28:07.084984Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29843,
+                        "order": 2
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/944f726b-c1ea-4992-860e-69aea48491cf.jpg",
+                        "created_date": "2022-11-08T16:28:07.178286Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29845,
+                        "order": 4
+                      },
+                      {
+                        "status": "active",
+                        "image": "https://samsung-akinon.b-cdn.net/products/2022/11/08/14455/1971fcaa-3d4c-489e-b643-32cae41eb85b.jpg",
+                        "created_date": "2022-11-08T16:28:07.134725Z",
+                        "specialimage_set": [
+                          
+                        ],
+                        "pk": 29844,
+                        "order": 5
+                      }
+                    ]
+                  },
+                  "in_stock": true,
+                  "is_selectable": true,
+                  "label": "Siyah"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
         "pk": 3501,
         "name": "Ingenio Cam Kapak 22 cm",
         "sku": "2100127839",

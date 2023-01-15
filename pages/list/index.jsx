@@ -8,7 +8,7 @@ import { paginate } from '../../components/pagination/helpers/paginate'
 export default function List({ data }) {
 
   const [currentPage, setCurrentPage] = useState(1);
-  const pageSize = 10;
+  const pageSize = 20;
 
   const onPageChange = (page) => {
     setCurrentPage(page);
