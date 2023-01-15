@@ -24,14 +24,15 @@ const CartPage = () => {
           <h1 className='m-10'>Sepetinizde ürün yok !</h1>
         ) : (
           <>
-
             <ul role="list" className="-my-6 divide-y divide-gray-200 ">
               {cart.map((product) => (
                 <li data-pk={product.pk} key={product.pk} className="flex py-6">
                   <div className="h-24 w-24 flex-shrink-0 overflow-hidden rounded-md border border-gray-200">
-                    <img
+                    <Image
                       src={product.productimage_set[0].image}
                       alt={product.imageAlt}
+                      width={200}
+                      height={200}
                       className="h-full w-full object-cover object-center"
                     />
                   </div>
@@ -74,19 +75,16 @@ const CartPage = () => {
             </div>
 
             <div className='mt-30'>
-            <button
-               
-             
-               className="mt-10 mb-10  flex w-80 m-auto items-center justify-center rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
-             >
-               Sepeti onayla
-             </button>
+              <button
+                className="mt-10 mb-10  flex w-80 m-auto items-center justify-center rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+              >
+                Sepeti onayla
+              </button>
             </div>
           </>
         )}
       </div>
     </div>
-
   );
 };
 

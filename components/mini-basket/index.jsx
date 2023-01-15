@@ -8,7 +8,8 @@ import {
 } from '../../store/cart-slice';
 
 
-export default function MiniBasket() {
+export default function MiniBasket({ action }) {
+
   const cart = useSelector((state) => state.cart);
   const dispatch = useDispatch();
 
@@ -123,7 +124,7 @@ export default function MiniBasket() {
                       <p className="mt-0.5 text-sm text-gray-500">Ödeme sırasında hesaplanan nakliye ve vergiler</p>
                       <div className="mt-6">
                         <a
-                          href="#"
+                          href="/basket"
                           className="flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-indigo-700"
                         >
                           Siparişi Tamamla
