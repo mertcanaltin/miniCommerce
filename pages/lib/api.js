@@ -28,3 +28,28 @@ export async function getProductData(pk) {
     ...product
   }
 }
+
+export async function getCategoryIDs() {
+  const res = await fetch(`https://shop.samsung.com/tr/list/?format=json`);
+  const { facets } = await res.json();
+
+  return facets.map(category => {
+    return category.data.choices.map(data => {
+      return {
+        params: {
+          id: data.value.toString()
+        }
+      }
+    })
+  }).flat()
+}
+
+export async function getCategoryData(id) {
+  const res = await fetch(`https://shop.samsung.com/tr/list/?format=json&category_ids=${id}`);
+  const data = await res.json();
+
+  return {
+    id,
+    ...data
+  }
+}

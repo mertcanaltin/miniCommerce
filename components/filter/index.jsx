@@ -195,7 +195,7 @@ export default function Filter({ facets }) {
                         return (
                           category.data.choices.map((data) => (
                             <li key={data.name}>
-                              <a href={data.url}>
+                              <a href={`${data.value}`}>
                                 {data.label}
                               </a>
                             </li>
