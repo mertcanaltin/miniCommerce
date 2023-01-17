@@ -1,8 +1,11 @@
 import React from 'react'
 import Image from 'next/image';
 import Link from 'next/link';
+
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../../store/cart-slice';
+
+import {project} from '../../pages/lib/helpers';
 
 export default function ProductItem({ product }) {
   const dispatch = useDispatch();
@@ -16,18 +19,15 @@ export default function ProductItem({ product }) {
               <Image
                 className="h-full w-full object-cover object-center lg:h-full lg:w-full"
                 src={product.productimage_set[0].image}
-                alt="tefal"
+                alt={project.brandName}
                 width={500}
                 height={500}
               />
             </div>
             <div className="mt-4 flex justify-between">
               <div>
-                <h3 className="text-sm text-gray-700">
-                  <a href={product.pk}>
-                    <span aria-hidden="true" className="absolute inset-0" />
-                    {product.name}
-                  </a>
+                <h3 className="text-sm text-gray-700">                    
+                    <span>{product.name}</span>
                 </h3>
               </div>
               <p className="text-sm font-medium text-gray-900">{product.price}</p>

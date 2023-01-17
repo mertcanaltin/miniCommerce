@@ -12,6 +12,10 @@ export default function List({ products,facets }) {
   const pageSize = 20;
 
   const onPageChange = (page) => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
     setCurrentPage(page);
   };
 
@@ -19,7 +23,7 @@ export default function List({ products,facets }) {
 
   return (
     <>
-      <div className="bg-white flex">
+      <div className="bg-white flex container mx-auto">
         <Filter facets={facets} />
         <div className="mx-auto max-w-2xl py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
           <h2 className="text-2xl font-bold tracking-tight text-gray-900">List</h2>
@@ -28,15 +32,14 @@ export default function List({ products,facets }) {
               <ProductItem key={product.pk} data-pk={product.pk} product={product} />
             ))}
           </div>
+          <Pagination
+                items={products.length}
+                currentPage={currentPage}
+                pageSize={pageSize}
+                onPageChange={onPageChange}
+              />
         </div>
       </div>
-
-      <Pagination
-        items={products.length}
-        currentPage={currentPage}
-        pageSize={pageSize}
-        onPageChange={onPageChange}
-      />
     </>
   )
 }

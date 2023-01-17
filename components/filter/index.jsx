@@ -17,7 +17,6 @@ function classNames(...classes) {
 
 export default function Filter({ facets }) {
 
-  console.log('filtreler', facets)
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false)
 
   return (
@@ -185,7 +184,7 @@ export default function Filter({ facets }) {
               Products
             </h2>
 
-            <div className="grid grid-cols-1 gap-x-8 gap-y-10 lg:grid-cols-4">
+            <div className="filters-wrapper">
               {/* Filters */}
               <form className="hidden lg:block">
                 <h3 className="sr-only">Categories</h3>

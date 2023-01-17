@@ -50,10 +50,11 @@ export default function Product({ productData }) {
         {/* Image gallery */}
         <div className="mx-auto mt-6 max-w-2xl sm:px-6 lg:grid lg:max-w-7xl lg:grid-cols-3 lg:gap-x-8 lg:px-8">
           <div className="aspect-w-3 aspect-h-4 hidden overflow-hidden rounded-lg lg:block">
-            {productData.productimage_set && productData.productimage_set.map((product) => (
+            {productData.productimage_set && productData.productimage_set.map((product,index) => (
               <Image
+                key={index}
                 src={product.image}
-                width={2000}
+                width={1000}
                 height={2}
                 alt={product.pk}
                 className="h-full w-full object-cover object-center"

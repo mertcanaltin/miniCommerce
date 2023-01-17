@@ -5,6 +5,7 @@ import {
   decrementQuantity,
   removeFromCart,
 } from '../../store/cart-slice';
+import { project } from '../lib/helpers';
 
 const CartPage = () => {
   const cart = useSelector((state) => state.cart);
@@ -25,12 +26,13 @@ const CartPage = () => {
         ) : (
           <>
             <ul role="list" className="-my-6 divide-y divide-gray-200 ">
-              {cart.map((product) => (
+              {cart.map((product) => {
+                return(
                 <li data-pk={product.pk} key={product.pk} className="flex py-6">
                   <div className="h-24 w-24 flex-shrink-0 overflow-hidden rounded-md border border-gray-200">
                     <Image
                       src={product.productimage_set[0].image}
-                      alt={product.imageAlt}
+                      alt={project.brandName}
                       width={200}
                       height={200}
                       className="h-full w-full object-cover object-center"
@@ -68,7 +70,7 @@ const CartPage = () => {
                     </div>
                   </div>
                 </li>
-              ))}
+                )})}
             </ul>
             <div className='mt-[4rem] text-right'>
               <h2>Toplam:  {getTotalPrice().toFixed(2)} TL</h2>

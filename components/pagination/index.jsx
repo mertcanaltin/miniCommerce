@@ -17,7 +17,6 @@ const Pagination = ({ items, pageSize, currentPage, onPageChange }) => {
                 {page}
               </a>
             </li>
-
           ))}
         </ul>
       </nav>

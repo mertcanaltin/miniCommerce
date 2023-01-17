@@ -1,17 +1,19 @@
-import { Fragment, useState } from 'react'
-import { Popover, Transition } from '@headlessui/react'
-import { useSelector } from 'react-redux';
+import { useState } from 'react'
+import { Popover } from '@headlessui/react'
+import { useDispatch, useSelector } from 'react-redux';
 import MiniBasket from '../mini-basket';
+import { isBasketModalOpen } from '../../store/basketmodal-slice';
 
 
 export default function Navbar() {
-  const [open, setOpen] = useState(true)
 
   const cart = useSelector((state) => state.cart);
+  const dispatch = useDispatch();
 
   const getItemsCount = () => {
     return cart.reduce((accumulator, item) => accumulator + item.quantity, 0);
   };
+
   return (
     <>
       <Popover className="relative bg-white">
@@ -21,7 +23,7 @@ export default function Navbar() {
                 <span>miniCommerce</span>
             </div>
             <button className="ml-8 inline-flex items-center justify-center whitespace-nowrap rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-indigo-700"
-                onClick={() => setOpen(true)}
+                onClick={() => dispatch(isBasketModalOpen(true))}
               >
                 Sepet <span>({getItemsCount()})</span>
               </button>
@@ -29,7 +31,7 @@ export default function Navbar() {
         </div>
       </Popover>
 
-      <MiniBasket action={open} />
+      <MiniBasket />
     </>
   )
 }

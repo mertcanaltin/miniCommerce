@@ -1,17 +1,18 @@
 import { Fragment, useState } from 'react'
 import { Dialog, Transition } from '@headlessui/react'
-import { useSelector, useDispatch } from 'react-redux';
-import {
-  incrementQuantity,
-  decrementQuantity,
-  removeFromCart,
-} from '../../store/cart-slice';
+import { useDispatch, useSelector } from 'react-redux';
+import Link from 'next/link';
 
+import { isBasketModalOpen } from '../../store/basketmodal-slice';
 
-export default function MiniBasket({ action }) {
+import MiniBasketItem from './mini-basket-item';
+
+export default function MiniBasket() {
+
+  const dispatch = useDispatch();
 
   const cart = useSelector((state) => state.cart);
-  const dispatch = useDispatch();
+  const basketModal = useSelector((state) => state.basketModal);
 
   const getTotalPrice = () => {
     return cart.reduce(
@@ -19,12 +20,10 @@ export default function MiniBasket({ action }) {
       0
     );
   };
-
-  const [open, setOpen] = useState(true)
-
+  
   return (
-    <Transition.Root show={open} as={Fragment}>
-      <Dialog as="div" className="relative z-10" onClose={setOpen}>
+    <Transition.Root show={basketModal} as={Fragment}>
+      <Dialog as="div" className="relative z-10" onClose={() => dispatch(isBasketModalOpen(false))}>
         <Transition.Child
           as={Fragment}
           enter="ease-in-out duration-500"
@@ -58,7 +57,7 @@ export default function MiniBasket({ action }) {
                           <button
                             type="button"
                             className="-m-2 p-2 text-gray-400 hover:text-gray-500"
-                            onClick={() => setOpen(false)}
+                            onClick={() => dispatch(isBasketModalOpen(false))}
                           >
                             <span className="sr-only">Kapat</span>
                             X
@@ -69,48 +68,7 @@ export default function MiniBasket({ action }) {
                       <div className="mt-8">
                         <div className="flow-root">
                           <ul role="list" className="-my-6 divide-y divide-gray-200">
-                            {cart.map((product) => (
-                              <li data-pk={product.pk} key={product.pk} className="flex py-6">
-                                <div className="h-24 w-24 flex-shrink-0 overflow-hidden rounded-md border border-gray-200">
-                                  <img
-                                    src={product.productimage_set[0].image}
-                                    alt={product.imageAlt}
-                                    className="h-full w-full object-cover object-center"
-                                  />
-                                </div>
-
-                                <div className="ml-4 flex flex-1 flex-col">
-                                  <div>
-                                    <div className="flex justify-between text-base font-medium text-gray-900">
-                                      <h3>
-                                        <a href={product.href}>{product.name}</a>
-                                      </h3>
-                                      <p className="ml-4">{product.price}</p>
-                                    </div>
-                                    <p className="mt-1 text-sm text-gray-500">{product.color}</p>
-                                  </div>
-                                  <div className="flex flex-1 items-end justify-between text-sm">
-                                    <p className="text-gray-500">Qty {product.quantity}</p>
-                                    <button onClick={() => dispatch(incrementQuantity(product.pk))}>
-                                      +
-                                    </button>
-                                    <button onClick={() => dispatch(decrementQuantity(product.pk))}>
-                                      -
-                                    </button>
-                                    
-                                    <div className="flex">
-                                      <button
-                                        type="button"
-                                        className="font-medium text-indigo-600 hover:text-indigo-500"
-                                        onClick={() => dispatch(removeFromCart(product.pk))}
-                                      >
-                                        Sil
-                                      </button>
-                                    </div>
-                                  </div>
-                                </div>
-                              </li>
-                            ))}
+                            {cart.map((product,index) => <MiniBasketItem key={index} product={product}/>)}
                           </ul>
                         </div>
                       </div>
@@ -123,12 +81,12 @@ export default function MiniBasket({ action }) {
                       </div>
                       <p className="mt-0.5 text-sm text-gray-500">Ödeme sırasında hesaplanan nakliye ve vergiler</p>
                       <div className="mt-6">
-                        <a
+                        <Link
                           href="/basket"
                           className="flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-indigo-700"
                         >
                           Siparişi Tamamla
-                        </a>
+                        </Link>
                       </div>
                       <div className="mt-6 flex justify-center text-center text-sm text-gray-500">
                         <span className='mr-2'>veya</span>
@@ -137,7 +95,7 @@ export default function MiniBasket({ action }) {
                           <button
                             type="button"
                             className="font-medium text-indigo-600 hover:text-indigo-500"
-                            onClick={() => setOpen(false)}
+                            onClick={() => dispatch(isBasketModalOpen(false))}
                           >
                             Alışverişe devam et
                             <span aria-hidden="true"> &rarr;</span>
