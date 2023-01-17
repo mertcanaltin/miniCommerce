@@ -53,9 +53,10 @@ export async function getStaticPaths() {
   }
   
   export const getStaticProps = async ({ params }) => {
-  
+    const id = params?.id || 1
+
     let products, facets;
-    await getCategoryData(params.id).then(response => {
+    await getCategoryData(id).then(response => {
       
       products = response.products
       facets = response.facets
