@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
-import { getProductData, getAllProductPks } from '../lib/api'
+import { getProductData, getAllProductPks } from '../../lib/api'
 import Image from 'next/image'
 
 export default function Product({ productData }) {

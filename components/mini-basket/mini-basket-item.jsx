@@ -6,7 +6,7 @@ import {
   decrementQuantity,
   removeFromCart,
 } from '../../store/cart-slice';
-import {project} from '../../pages/lib/helpers';
+import { project } from '../../lib/helpers';
 
 
 const MiniBasketItem = ({product}) => {

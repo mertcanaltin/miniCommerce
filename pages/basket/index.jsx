@@ -5,7 +5,7 @@ import {
   decrementQuantity,
   removeFromCart,
 } from '../../store/cart-slice';
-import { project } from '../lib/helpers';
+import { project } from '../../lib/helpers';
 
 const CartPage = () => {
   const cart = useSelector((state) => state.cart);

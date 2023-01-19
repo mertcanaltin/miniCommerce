@@ -1,7 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 
-import {project} from "./lib/helpers"
+import { project } from "../lib/helpers"
 
 export default function Home() {
   return (
