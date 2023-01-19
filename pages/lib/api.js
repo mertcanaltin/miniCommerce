@@ -1,20 +1,27 @@
-
 async function fetchProducts() {
-  const res = await fetch(`https://shop.samsung.com/tr/list/?format=json`);
-  const { products } = await res.json();
+  const res = await fetch(`https://shop.samsung.com/tr/list/?format=json`)
+  const data = await res.json()
 
-  return products;
+  return data
 }
 
 async function getAllProductPks() {
-  const products = await fetchProducts();
+  const res = await fetch(`https://shop.samsung.com/tr/list/?format=json`);
+  const { products } = await res.json();
 
-  return products.map(product => product.pk);
+  return products.map(product => {
+    return {
+      params: {
+        pk: product.pk.toString()
+      }
+    }
+  })
 }
 
 async function getProductData(pk) {
-  const products = await fetchProducts();
-  const product = products.find(product => product.pk == pk);
+  const res = await fetch(`https://shop.samsung.com/tr/list/?format=json`);
+  const { products } = await res.json();
+  const product = products.find(product => product.pk == pk)
 
   return {
     pk,
@@ -26,7 +33,15 @@ async function getCategoryIDs() {
   const res = await fetch(`https://shop.samsung.com/tr/list/?format=json`);
   const { facets } = await res.json();
 
-  return facets.flatMap(category => category.data.choices.map(data => data.value));
+  return facets.map(category => {
+    return category.data.choices.map(data => {
+      return {
+        params: {
+          id: data.value.toString()
+        }
+      }
+    })
+  }).flat()
 }
 
 async function getCategoryData(id) {
@@ -49,4 +64,4 @@ async function getFilterData(params) {
   }
 }
 
-export { getFilterData, getCategoryData, getCategoryIDs, getProductData, fetchProducts, getAllProductPks }
+export {getFilterData, getCategoryData, getCategoryIDs, getProductData, fetchProducts,getAllProductPks }
