@@ -1,6 +1,8 @@
 import { Fragment, useState } from 'react'
 import { Dialog, Disclosure, Menu, Transition } from '@headlessui/react'
-import Link from 'next/link'
+import Link from 'next/link';
+import { useRouter } from 'next/router';
+import { getFilterData } from '../../pages/lib/api';
 
 const sortOptions = [
   { name: 'Most Popular', href: '#', current: true },
@@ -16,6 +18,8 @@ function classNames(...classes) {
 }
 
 export default function Filter({ facets }) {
+  const router = useRouter();
+  
 
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false)
 
@@ -82,9 +86,9 @@ export default function Filter({ facets }) {
                                 <span className="font-medium text-gray-900">{section.name}</span>
                                 <span className="ml-6 flex items-center">
                                   {open ? (
-                                    <MinusIcon className="h-5 w-5" aria-hidden="true" />
+                                    <div className="h-5 w-5" aria-hidden="true" />
                                   ) : (
-                                    <PlusIcon className="h-5 w-5" aria-hidden="true" />
+                                    <div className="h-5 w-5" aria-hidden="true" />
                                   )}
                                 </span>
                               </Disclosure.Button>
@@ -195,9 +199,9 @@ export default function Filter({ facets }) {
                         return (
                           category.data.choices.map((data) => (
                             <li key={data.name}>
-                              <a href={`${data.value}`}>
+                              <Link href={`${data.value}`}>
                                 {data.label}
-                              </a>
+                              </Link>
                             </li>
                           ))
                         )
@@ -230,12 +234,18 @@ export default function Filter({ facets }) {
                                   name={`${section.id}[]`}
                                   defaultValue={option.value}
                                   type="checkbox"
-                                  defaultChecked={option.checked}
+                                  defaultChecked={option.is_selected}
+                                  onChange={() => {
+                                    const paramsSearch = new URLSearchParams(option.value);
+                                    console.log(`${section.data.search_key}=${paramsSearch}`)
+                                    getFilterData(`${section.data.search_key}=${paramsSearch}`)
+                                  }}
                                   className="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500"
                                 />
                                 <label
                                   htmlFor={`filter-${section.id}-${optionIdx}`}
                                   className="ml-3 text-sm text-gray-600"
+                                  
                                 >
                                   {option.label}
                                 </label>
