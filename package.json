@@ -17,6 +17,7 @@
     "eslint": "8.30.0",
     "eslint-config-next": "13.1.1",
     "gray-matter": "^4.0.3",
+    "isomorphic-fetch": "^3.0.0",
     "lodash.throttle": "^4.1.1",
     "next": "13.1.1",
     "persist": "^0.2.7",
