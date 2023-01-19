@@ -2,7 +2,7 @@ import { Fragment, useState } from 'react'
 import { Dialog, Disclosure, Menu, Transition } from '@headlessui/react'
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { getFilterData } from '../../pages/lib/api';
+import { getFilterData } from '../../lib/api';
 
 const sortOptions = [
   { name: 'Most Popular', href: '#', current: true },

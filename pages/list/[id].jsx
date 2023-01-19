@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { getCategoryIDs,getCategoryData } from '../lib/api';
+import { getCategoryIDs,getCategoryData } from '../../lib/api';
 import ProductItem from '../../components/product';
 import Pagination from '../../components/pagination';
 import Filter from '../../components/filter';

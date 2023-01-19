@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../../store/cart-slice';
 
-import {project} from '../../pages/lib/helpers';
+import {project} from '../../lib/helpers';
 
 export default function ProductItem({ product }) {
   const dispatch = useDispatch();

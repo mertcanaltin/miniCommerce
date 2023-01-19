@@ -1,4 +1,4 @@
-import { getCategoryIDs,getCategoryData } from '../../pages/lib/api';
+import { getCategoryIDs,getCategoryData } from '../../lib/api';
 import { paginate } from '../../components/pagination/helpers/paginate'
 import "isomorphic-fetch"
 
